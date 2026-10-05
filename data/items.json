@@ -1,5 +1,122 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-05T13:15:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Testcontainers for .NET module for Chroma.",
+    "id": "ChromaDotNet/ChromaDB.Testcontainers",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Testcontainers",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:12:06Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Testcontainers"
+  },
+  {
+    "description": "Production-grade AI customer support agent on n8n: agentic RAG (Gemini + Qdrant) with a self-healing knowledge base, cha",
+    "id": "ShafqaatMalik/n8n-cx-agent",
+    "language": "HTML",
+    "name": "ShafqaatMalik/n8n-cx-agent",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:11:25Z",
+    "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
+  },
+  {
+    "description": "Architected a C++ vector database implementing HNSW, KD-Tree, and Brute-Force search algorithms across distance metrics ",
+    "id": "Shashank17singh/Your-Own-AI",
+    "language": "C",
+    "name": "Shashank17singh/Your-Own-AI",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:09:48Z",
+    "url": "https://github.com/Shashank17singh/Your-Own-AI"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31378,
+    "updated_at": "2026-10-05T13:09:28Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The Kubernetes operator for K8ssandra",
+    "id": "k8ssandra/k8ssandra-operator",
+    "language": "Go",
+    "name": "k8ssandra/k8ssandra-operator",
+    "stars": 243,
+    "updated_at": "2026-10-05T13:02:54Z",
+    "url": "https://github.com/k8ssandra/k8ssandra-operator"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2124,
+    "updated_at": "2026-10-05T13:01:51Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Aspire integrations for Chroma and Chroma Cloud, built on ChromaDB.Client.",
+    "id": "ChromaDotNet/ChromaDB.Aspire",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Aspire",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:03:49Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Aspire"
+  },
+  {
+    "description": "Check and repair AI agent long-term memory stores \u2014 find orphaned vectors, degenerate embeddings and index divergence be",
+    "id": "npoitevin-max/memdoctor",
+    "language": "Python",
+    "name": "npoitevin-max/memdoctor",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:01:00Z",
+    "url": "https://github.com/npoitevin-max/memdoctor"
+  },
+  {
+    "description": "Microsoft.Extensions.VectorData provider for Chroma and Chroma Cloud, built on ChromaDB.Client.",
+    "id": "ChromaDotNet/ChromaDB.VectorData",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.VectorData",
+    "stars": 0,
+    "updated_at": "2026-10-05T13:02:57Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-05T13:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T13:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12990,
+    "updated_at": "2026-10-05T12:59:19Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
     "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
     "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
     "language": "Python",
@@ -25,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T12:56:43Z",
     "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12990,
-    "updated_at": "2026-10-05T12:59:19Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-05T12:52:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
@@ -81,40 +180,13 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Aspire integrations for Chroma and Chroma Cloud, built on ChromaDB.Client.",
-    "id": "ChromaDotNet/ChromaDB.Aspire",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Aspire",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:48:49Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Aspire"
-  },
-  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-05T12:46:32Z",
+    "updated_at": "2026-10-05T13:04:30Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-05T12:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T13:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "22 lessons building generative AI apps with the Google Gemini API \u2014 quizzes, graded exercises, and every API claim verif",
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T12:44:59Z",
     "url": "https://github.com/Himanshu-paghadar/ai-engineering-with-gemini"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31377,
-    "updated_at": "2026-10-05T12:44:22Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
@@ -158,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-05T12:56:57Z",
+    "updated_at": "2026-10-05T13:13:51Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-05T12:29:42Z",
+    "updated_at": "2026-10-05T13:04:10Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -270,30 +333,12 @@
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
-    "description": "Testcontainers for .NET module for Chroma.",
-    "id": "ChromaDotNet/ChromaDB.Testcontainers",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Testcontainers",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:05:09Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Testcontainers"
-  },
-  {
-    "description": "Microsoft.Extensions.VectorData provider for Chroma and Chroma Cloud, built on ChromaDB.Client.",
-    "id": "ChromaDotNet/ChromaDB.VectorData",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.VectorData",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:05:04Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8318,
-    "updated_at": "2026-10-05T12:43:09Z",
+    "updated_at": "2026-10-05T13:08:48Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7117,
-    "updated_at": "2026-10-05T12:11:14Z",
+    "updated_at": "2026-10-05T13:13:27Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16863,
-    "updated_at": "2026-10-05T12:59:36Z",
+    "updated_at": "2026-10-05T13:08:54Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -338,7 +383,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-05T12:59:17Z",
+    "updated_at": "2026-10-05T13:08:00Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T11:12:45Z",
     "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
-    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "language": "Python",
-    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:10:55Z",
-    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
-    "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
-    "id": "pwolfey09-sketch/embedflow",
-    "language": "Python",
-    "name": "pwolfey09-sketch/embedflow",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:08:32Z",
-    "url": "https://github.com/pwolfey09-sketch/embedflow"
-  },
-  {
-    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
-    "id": "Constraintworthy6058/ai-github-repository-assistant",
-    "language": "TypeScript",
-    "name": "Constraintworthy6058/ai-github-repository-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:07:22Z",
-    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 1,
-    "updated_at": "2026-10-05T11:06:10Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:05:24Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
   }
 ]
