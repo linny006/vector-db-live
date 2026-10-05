@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 01:15 UTC
+> ⏰ Last updated: 2026-10-05 01:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,55 +43,55 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Tobiaszn8972/turboquant-gpu](https://github.com/Tobiaszn8972/turboquant-gpu) | 3 | Python | 2026-10-05 | Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels. |
-| 3 | [viviannenitrogenous100/mentedb](https://github.com/viviannenitrogenous100/mentedb) | 0 | — | 2026-10-05 | Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval |
-| 4 | [raymondmdzz123/agent-memory](https://github.com/raymondmdzz123/agent-memory) | 1 | TypeScript | 2026-10-05 | Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc |
-| 5 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 894 | Go | 2026-10-05 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 6 | [Synchronic-leafbud824/skill-vault](https://github.com/Synchronic-leafbud824/skill-vault) | 2 | — | 2026-10-05 | Organize, secure, and find Claude Code skills in one vault for easy reuse |
-| 7 | [Genusophiophagussqueezeplay359/ragpipe](https://github.com/Genusophiophagussqueezeplay359/ragpipe) | 0 | Python | 2026-10-05 | Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon |
-| 8 | [roberthalfway204/Document-Intelligent-Assistant](https://github.com/roberthalfway204/Document-Intelligent-Assistant) | 3 | Python | 2026-10-05 | Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation |
-| 9 | [OmniBioAI/omnibioai-dev-hub](https://github.com/OmniBioAI/omnibioai-dev-hub) | 1 | Python | 2026-10-05 | Multi-repo AI intelligence hub for OmniBioAI — hybrid retrieval system combining vector search, knowledge graph traversa |
-| 10 | [Daubingweirdie414/multimodal-rag](https://github.com/Daubingweirdie414/multimodal-rag) | 4 | Python | 2026-10-05 | Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati |
-| 11 | [Arthrocentesisgenusphylloxera328/rag-forge](https://github.com/Arthrocentesisgenusphylloxera328/rag-forge) | 1 | Python | 2026-10-05 | Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f |
-| 12 | [younismahmoud1234/gitsage](https://github.com/younismahmoud1234/gitsage) | 1 | Java | 2026-10-05 | Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas |
-| 13 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 370 | Python | 2026-10-05 | Program that lets you ask questions about your documents and audio or video files. |
-| 14 | [leo2007960216/deeprecall](https://github.com/leo2007960216/deeprecall) | 4 | Python | 2026-10-05 | 🔍 Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor |
-| 15 | [kirill2911/awesome-vector-search](https://github.com/kirill2911/awesome-vector-search) | 1 | — | 2026-10-05 | 🔍 Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and |
-| 16 | [buitoan112233/EleutherIA](https://github.com/buitoan112233/EleutherIA) | 2 | Shell | 2026-10-05 | 🧠 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr |
-| 17 | [Dangamuwagedilshan/x0](https://github.com/Dangamuwagedilshan/x0) | 1 | — | 2026-10-05 |  |
-| 18 | [Alexreye/advance-nlp-generative-ai](https://github.com/Alexreye/advance-nlp-generative-ai) | 1 | — | 2026-10-05 | 🤖 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding  |
-| 19 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 20 | [eliasepro/groq-pdf-chat](https://github.com/eliasepro/groq-pdf-chat) | 0 | Python | 2026-10-05 | 📄 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti |
-| 21 | [humanhady/DocMine](https://github.com/humanhady/DocMine) | 2 | Python | 2026-10-05 | 📄 Transform documents into queryable knowledge with exact recall and entity extraction for research insights. |
-| 22 | [shoaibraza123/promptbook-mcp](https://github.com/shoaibraza123/promptbook-mcp) | 2 | HTML | 2026-10-05 | 🤖 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d |
-| 23 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-10-05 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
-| 24 | [rein98/PsyChat](https://github.com/rein98/PsyChat) | 3 | Python | 2026-10-05 | 🧠 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor |
-| 25 | [ribagolx10/crossvector](https://github.com/ribagolx10/crossvector) | 1 | Python | 2026-10-05 | 🔗 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b |
-| 26 | [Separative-involucre520/SearchPaperByEmbedding](https://github.com/Separative-involucre520/SearchPaperByEmbedding) | 1 | Python | 2026-10-05 | 🔍 Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results. |
-| 27 | [codelined-ag/Extracto](https://github.com/codelined-ag/Extracto) | 5 | TypeScript | 2026-10-05 | Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere. |
-| 28 | [britorbs/consciousdb](https://github.com/britorbs/consciousdb) | 0 | Python | 2026-10-05 | 🗄️ Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p |
-| 29 | [sanitprime/Advanced_Graph_RAG](https://github.com/sanitprime/Advanced_Graph_RAG) | 2 | Python | 2026-10-05 |  |
-| 30 | [fub05/MCP---Agent-Starter-Kit](https://github.com/fub05/MCP---Agent-Starter-Kit) | 6 | Python | 2026-10-05 | 🚀 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio |
-| 31 | [SKeditz42/Vec](https://github.com/SKeditz42/Vec) | 2 | C | 2026-10-05 | 🌀 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag |
-| 32 | [zoepranataksm/Mind_Vault_AI](https://github.com/zoepranataksm/Mind_Vault_AI) | 1 | JavaScript | 2026-10-05 | 📚 Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig |
-| 33 | [SAHIXXX12/AI-Search-Engine](https://github.com/SAHIXXX12/AI-Search-Engine) | 0 | TypeScript | 2026-10-05 | 🔍 Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop |
-| 34 | [techdomegh/ai-news-scraper](https://github.com/techdomegh/ai-news-scraper) | 12 | Python | 2026-10-05 | AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and |
-| 35 | [Maurellone/TySVA](https://github.com/Maurellone/TySVA) | 1 | Python | 2026-10-05 | Learn TypeScript chatting effortlessly with AI |
-| 36 | [clizardyy/unbody](https://github.com/clizardyy/unbody) | 5 | TypeScript | 2026-10-05 | The modular, open-source backend for building AI-native software — powered by knowledge, not static data. |
-| 37 | [JakubDras/vechealth](https://github.com/JakubDras/vechealth) | 4 | Python | 2026-10-05 | Observability and diagnostic framework for embedding spaces and vector stores |
-| 38 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 121 | MDX | 2026-10-05 | The documentation for SurrealDB, built with Vike, React, and Mantine |
-| 39 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 40 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-05 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 41 | [schmitech/orbit](https://github.com/schmitech/orbit) | 352 | Python | 2026-10-05 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 42 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 7 | HTML | 2026-10-05 |  |
-| 43 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 4 | Python | 2026-10-05 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
-| 44 | [ry-ops/qdrant-fabric](https://github.com/ry-ops/qdrant-fabric) | 2 | Python | 2026-10-05 | Model Context Protocol server for Qdrant - Part of Infrastructure as a Fabric ecosystem. Provides 30+ tools for vector d |
-| 45 | [Ayshine/Video-Distiller](https://github.com/Ayshine/Video-Distiller) | 4 | Python | 2026-10-05 | Distill videos into a vector DB: VLM reads the screen, ASR hears the speaker, LLMs fuse both into notes with hybrid (vec |
-| 46 | [MakabeD/Obsidian_RAG](https://github.com/MakabeD/Obsidian_RAG) | 1 | C# | 2026-10-04 | RAG |
-| 47 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-10-04 | Zilliz — independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector  |
-| 48 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-10-04 | Weaviate — independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na |
-| 49 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-10-04 | Vespa — independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en |
-| 50 | [api-evangelist/vectorize-io](https://github.com/api-evangelist/vectorize-io) | 0 | — | 2026-10-04 | Vectorize — independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au |
+| 2 | [devharis99/vectra](https://github.com/devharis99/vectra) | 1 | Python | 2026-10-05 | Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite |
+| 3 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2639 | Rust | 2026-10-05 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 4 | [Raynerhalfandhalf451/writeback](https://github.com/Raynerhalfandhalf451/writeback) | 0 | JavaScript | 2026-10-05 | Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-10-05 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
+| 7 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-10-05 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
+| 8 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-10-05 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
+| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 10 | [Tobiaszn8972/turboquant-gpu](https://github.com/Tobiaszn8972/turboquant-gpu) | 3 | Python | 2026-10-05 | Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels. |
+| 11 | [viviannenitrogenous100/mentedb](https://github.com/viviannenitrogenous100/mentedb) | 0 | — | 2026-10-05 | Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval |
+| 12 | [raymondmdzz123/agent-memory](https://github.com/raymondmdzz123/agent-memory) | 1 | TypeScript | 2026-10-05 | Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc |
+| 13 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 894 | Go | 2026-10-05 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 14 | [Synchronic-leafbud824/skill-vault](https://github.com/Synchronic-leafbud824/skill-vault) | 2 | — | 2026-10-05 | Organize, secure, and find Claude Code skills in one vault for easy reuse |
+| 15 | [Genusophiophagussqueezeplay359/ragpipe](https://github.com/Genusophiophagussqueezeplay359/ragpipe) | 0 | Python | 2026-10-05 | Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon |
+| 16 | [roberthalfway204/Document-Intelligent-Assistant](https://github.com/roberthalfway204/Document-Intelligent-Assistant) | 3 | Python | 2026-10-05 | Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation |
+| 17 | [OmniBioAI/omnibioai-dev-hub](https://github.com/OmniBioAI/omnibioai-dev-hub) | 1 | Python | 2026-10-05 | Multi-repo AI intelligence hub for OmniBioAI — hybrid retrieval system combining vector search, knowledge graph traversa |
+| 18 | [Daubingweirdie414/multimodal-rag](https://github.com/Daubingweirdie414/multimodal-rag) | 4 | Python | 2026-10-05 | Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati |
+| 19 | [Arthrocentesisgenusphylloxera328/rag-forge](https://github.com/Arthrocentesisgenusphylloxera328/rag-forge) | 1 | Python | 2026-10-05 | Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f |
+| 20 | [younismahmoud1234/gitsage](https://github.com/younismahmoud1234/gitsage) | 1 | Java | 2026-10-05 | Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas |
+| 21 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 370 | Python | 2026-10-05 | Program that lets you ask questions about your documents and audio or video files. |
+| 22 | [leo2007960216/deeprecall](https://github.com/leo2007960216/deeprecall) | 4 | Python | 2026-10-05 | 🔍 Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor |
+| 23 | [kirill2911/awesome-vector-search](https://github.com/kirill2911/awesome-vector-search) | 1 | — | 2026-10-05 | 🔍 Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and |
+| 24 | [buitoan112233/EleutherIA](https://github.com/buitoan112233/EleutherIA) | 2 | Shell | 2026-10-05 | 🧠 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr |
+| 25 | [Dangamuwagedilshan/x0](https://github.com/Dangamuwagedilshan/x0) | 1 | — | 2026-10-05 |  |
+| 26 | [Alexreye/advance-nlp-generative-ai](https://github.com/Alexreye/advance-nlp-generative-ai) | 1 | — | 2026-10-05 | 🤖 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding  |
+| 27 | [eliasepro/groq-pdf-chat](https://github.com/eliasepro/groq-pdf-chat) | 0 | Python | 2026-10-05 | 📄 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti |
+| 28 | [humanhady/DocMine](https://github.com/humanhady/DocMine) | 2 | Python | 2026-10-05 | 📄 Transform documents into queryable knowledge with exact recall and entity extraction for research insights. |
+| 29 | [shoaibraza123/promptbook-mcp](https://github.com/shoaibraza123/promptbook-mcp) | 2 | HTML | 2026-10-05 | 🤖 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d |
+| 30 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-10-05 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
+| 31 | [rein98/PsyChat](https://github.com/rein98/PsyChat) | 3 | Python | 2026-10-05 | 🧠 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor |
+| 32 | [ribagolx10/crossvector](https://github.com/ribagolx10/crossvector) | 1 | Python | 2026-10-05 | 🔗 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b |
+| 33 | [Separative-involucre520/SearchPaperByEmbedding](https://github.com/Separative-involucre520/SearchPaperByEmbedding) | 1 | Python | 2026-10-05 | 🔍 Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results. |
+| 34 | [codelined-ag/Extracto](https://github.com/codelined-ag/Extracto) | 5 | TypeScript | 2026-10-05 | Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere. |
+| 35 | [britorbs/consciousdb](https://github.com/britorbs/consciousdb) | 0 | Python | 2026-10-05 | 🗄️ Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p |
+| 36 | [sanitprime/Advanced_Graph_RAG](https://github.com/sanitprime/Advanced_Graph_RAG) | 2 | Python | 2026-10-05 |  |
+| 37 | [fub05/MCP---Agent-Starter-Kit](https://github.com/fub05/MCP---Agent-Starter-Kit) | 6 | Python | 2026-10-05 | 🚀 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio |
+| 38 | [SKeditz42/Vec](https://github.com/SKeditz42/Vec) | 2 | C | 2026-10-05 | 🌀 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag |
+| 39 | [zoepranataksm/Mind_Vault_AI](https://github.com/zoepranataksm/Mind_Vault_AI) | 1 | JavaScript | 2026-10-05 | 📚 Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig |
+| 40 | [SAHIXXX12/AI-Search-Engine](https://github.com/SAHIXXX12/AI-Search-Engine) | 0 | TypeScript | 2026-10-05 | 🔍 Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop |
+| 41 | [techdomegh/ai-news-scraper](https://github.com/techdomegh/ai-news-scraper) | 12 | Python | 2026-10-05 | AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and |
+| 42 | [Maurellone/TySVA](https://github.com/Maurellone/TySVA) | 1 | Python | 2026-10-05 | Learn TypeScript chatting effortlessly with AI |
+| 43 | [clizardyy/unbody](https://github.com/clizardyy/unbody) | 5 | TypeScript | 2026-10-05 | The modular, open-source backend for building AI-native software — powered by knowledge, not static data. |
+| 44 | [JakubDras/vechealth](https://github.com/JakubDras/vechealth) | 4 | Python | 2026-10-05 | Observability and diagnostic framework for embedding spaces and vector stores |
+| 45 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 121 | MDX | 2026-10-05 | The documentation for SurrealDB, built with Vike, React, and Mantine |
+| 46 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-05 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 47 | [schmitech/orbit](https://github.com/schmitech/orbit) | 352 | Python | 2026-10-05 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 48 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 7 | HTML | 2026-10-05 |  |
+| 49 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 4 | Python | 2026-10-05 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
+| 50 | [ry-ops/qdrant-fabric](https://github.com/ry-ops/qdrant-fabric) | 2 | Python | 2026-10-05 | Model Context Protocol server for Qdrant - Part of Infrastructure as a Fabric ecosystem. Provides 30+ tools for vector d |
 <!-- TRACKER_TABLE_END -->
 
 ---
