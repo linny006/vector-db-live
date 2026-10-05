@@ -1,12 +1,21 @@
 [
   {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-05T02:44:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
+    "id": "tapiruslab/TapirusDB",
+    "language": "Rust",
+    "name": "tapiruslab/TapirusDB",
     "stars": 0,
-    "updated_at": "2026-10-05T02:25:31Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
+    "updated_at": "2026-10-05T02:43:51Z",
+    "url": "https://github.com/tapiruslab/TapirusDB"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -14,8 +23,35 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 268,
-    "updated_at": "2026-10-05T02:28:00Z",
+    "updated_at": "2026-10-05T02:40:14Z",
     "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-05T02:39:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 20,
+    "updated_at": "2026-10-05T02:34:37Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Pai Chat - A personal chat app",
+    "id": "sadanandpai/paichat",
+    "language": "TypeScript",
+    "name": "sadanandpai/paichat",
+    "stars": 2,
+    "updated_at": "2026-10-05T02:32:13Z",
+    "url": "https://github.com/sadanandpai/paichat"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-05T02:15:23Z",
+    "updated_at": "2026-10-05T02:30:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -32,17 +68,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-05T02:15:22Z",
+    "updated_at": "2026-10-05T02:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-05T01:59:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-05T02:25:31Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -58,7 +94,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3660,
+    "stars": 3661,
     "updated_at": "2026-10-05T01:57:14Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-05T02:12:17Z",
+    "updated_at": "2026-10-05T02:43:21Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-05T00:45:29Z",
     "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-10-05T00:45:12Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-10-05T00:42:50Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 12,
-    "updated_at": "2026-10-05T00:39:46Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-10-05T00:38:45Z",
-    "url": "https://github.com/Maurellone/TySVA"
   }
 ]
