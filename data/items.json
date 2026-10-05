@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T12:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46316,
+    "updated_at": "2026-10-05T12:23:38Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59488,
+    "updated_at": "2026-10-05T12:19:57Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "BalancedMultiDimensionMemory \u2014 a LangGraph AgentMiddleware for LLM long-term memory: Ebbinghaus decay, RAG staging,   \u258e ",
+    "id": "lijia-ming/memory-middleware",
+    "language": "Python",
+    "name": "lijia-ming/memory-middleware",
+    "stars": 1,
+    "updated_at": "2026-10-05T12:17:59Z",
+    "url": "https://github.com/lijia-ming/memory-middleware"
+  },
+  {
+    "description": "Zero-hallucination textbook RAG assessment platform and exam paper studio for secondary education (Grade 9\u201312). Features",
+    "id": "mubashir-sohail-dev/ExamCraft",
+    "language": "Dart",
+    "name": "mubashir-sohail-dev/ExamCraft",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:17:21Z",
+    "url": "https://github.com/mubashir-sohail-dev/ExamCraft"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-05T12:16:07Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
+    "id": "wickra-lib/wickra-genome",
+    "language": "Rust",
+    "name": "wickra-lib/wickra-genome",
+    "stars": 1,
+    "updated_at": "2026-10-05T12:15:47Z",
+    "url": "https://github.com/wickra-lib/wickra-genome"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-05T12:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -14,7 +86,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-05T12:12:03Z",
+    "updated_at": "2026-10-05T12:29:42Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -81,39 +153,12 @@
     "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
   },
   {
-    "description": "Zero-hallucination textbook RAG assessment platform and exam paper studio for secondary education (Grade 9\u201312). Features",
-    "id": "mubashir-sohail-dev/ExamCraft",
-    "language": "Dart",
-    "name": "mubashir-sohail-dev/ExamCraft",
-    "stars": 0,
-    "updated_at": "2026-10-05T12:03:13Z",
-    "url": "https://github.com/mubashir-sohail-dev/ExamCraft"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-05T12:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T12:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8318,
-    "updated_at": "2026-10-05T12:11:13Z",
+    "updated_at": "2026-10-05T12:24:06Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -126,20 +171,11 @@
     "url": "https://github.com/zerotropism/local-rag"
   },
   {
-    "description": "BalancedMultiDimensionMemory \u2014 a LangGraph AgentMiddleware for LLM long-term memory: Ebbinghaus decay, RAG staging,   \u258e ",
-    "id": "lijia-ming/memory-middleware",
-    "language": "Python",
-    "name": "lijia-ming/memory-middleware",
-    "stars": 1,
-    "updated_at": "2026-10-05T11:55:40Z",
-    "url": "https://github.com/lijia-ming/memory-middleware"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2653,
+    "stars": 2654,
     "updated_at": "2026-10-05T11:53:24Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -185,7 +221,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16863,
-    "updated_at": "2026-10-05T11:59:05Z",
+    "updated_at": "2026-10-05T12:25:04Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -194,7 +230,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-05T12:08:57Z",
+    "updated_at": "2026-10-05T12:29:08Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -225,21 +261,12 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59488,
-    "updated_at": "2026-10-05T11:44:04Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-05T12:06:55Z",
+    "updated_at": "2026-10-05T12:21:51Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-05T10:55:11Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:54:32Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:53:49Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-10-05T10:53:38Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
