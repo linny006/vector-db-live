@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 11:30 UTC
+> ⏰ Last updated: 2026-10-05 11:32 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [infino-ai/infino](https://github.com/infino-ai/infino) | 86 | Rust | 2026-10-05 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
-| 3 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 59488 | Rust | 2026-10-05 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| 4 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6243 | Rust | 2026-10-05 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 5 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 4 | Go | 2026-10-05 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
-| 6 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-05 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 7 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-10-05 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
-| 8 | [ChromaDotNet/ChromaDB.SemanticKernel.Sample](https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample) | 0 | C# | 2026-10-05 | Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData. |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [infino-ai/infino](https://github.com/infino-ai/infino) | 86 | Rust | 2026-10-05 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
+| 4 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 59488 | Rust | 2026-10-05 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
+| 5 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6243 | Rust | 2026-10-05 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 6 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 4 | Go | 2026-10-05 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
+| 7 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-05 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 8 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-10-05 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
+| 9 | [ChromaDotNet/ChromaDB.SemanticKernel.Sample](https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample) | 0 | C# | 2026-10-05 | Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData. |
 | 10 | [davidfernxndez/github-repository-rag](https://github.com/davidfernxndez/github-repository-rag) | 0 | Jupyter Notebook | 2026-10-05 | Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito |
 | 11 | [Susanta2025-lab/estudio-polymind-llm-orchestration](https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration) | 0 | Python | 2026-10-05 | Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and |
 | 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
