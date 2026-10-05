@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-05T18:45:20Z",
+    "updated_at": "2026-10-05T19:00:30Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production WhatsApp RAG Bot for Dubai Real Estate - Voice (Groq Whisper) + Text (Whapi) + RAG (Qdrant) + Enterprise Obse",
+    "id": "Toqeer-Ahmad-ops/dubai-real-estate-whatsapp-bot",
+    "language": "\u2014",
+    "name": "Toqeer-Ahmad-ops/dubai-real-estate-whatsapp-bot",
+    "stars": 1,
+    "updated_at": "2026-10-05T18:58:04Z",
+    "url": "https://github.com/Toqeer-Ahmad-ops/dubai-real-estate-whatsapp-bot"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-05T18:55:08Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-05T18:52:58Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-05T18:52:33Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "Java",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-10-05T18:49:28Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-05T18:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -18,6 +72,15 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31395,
+    "updated_at": "2026-10-05T18:43:13Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -25,15 +88,6 @@
     "stars": 1180,
     "updated_at": "2026-10-05T18:42:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-05T18:41:27Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
@@ -45,21 +99,12 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": "Production WhatsApp RAG Bot for Dubai Real Estate - Voice (Groq Whisper) + Text (Whapi) + RAG (Qdrant) + Enterprise Obse",
-    "id": "Toqeer-Ahmad-ops/dubai-real-estate-whatsapp-bot",
-    "language": "\u2014",
-    "name": "Toqeer-Ahmad-ops/dubai-real-estate-whatsapp-bot",
-    "stars": 1,
-    "updated_at": "2026-10-05T18:38:36Z",
-    "url": "https://github.com/Toqeer-Ahmad-ops/dubai-real-estate-whatsapp-bot"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9353,
-    "updated_at": "2026-10-05T18:43:51Z",
+    "updated_at": "2026-10-05T19:00:22Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -86,17 +131,8 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-05T18:32:12Z",
+    "updated_at": "2026-10-05T18:54:55Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-05T18:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T18:01:13Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31394,
-    "updated_at": "2026-10-05T18:43:13Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Enterprise RAG Platform API \u2014 Production-grade document intelligence backend in Python/FastAPI with JWT auth, async Post",
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 122,
-    "updated_at": "2026-10-05T16:51:53Z",
+    "updated_at": "2026-10-05T18:46:31Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -374,7 +401,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6471,
-    "updated_at": "2026-10-05T18:33:54Z",
+    "updated_at": "2026-10-05T18:56:39Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T16:17:05Z",
     "url": "https://github.com/pwolfey09-sketch/embedflow"
-  },
-  {
-    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
-    "id": "Constraintworthy6058/ai-github-repository-assistant",
-    "language": "TypeScript",
-    "name": "Constraintworthy6058/ai-github-repository-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:15:40Z",
-    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData.",
-    "id": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:15:18Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
-  },
-  {
-    "description": "Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData.",
-    "id": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:15:12Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
   }
 ]
