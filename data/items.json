@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-05T11:15:21Z",
+    "updated_at": "2026-10-05T11:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 86,
+    "updated_at": "2026-10-05T11:30:11Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59488,
+    "updated_at": "2026-10-05T11:29:08Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-05T11:27:43Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 4,
+    "updated_at": "2026-10-05T11:27:49Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-05T11:22:28Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-10-05T11:18:48Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData.",
+    "id": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
+    "stars": 0,
+    "updated_at": "2026-10-05T11:17:13Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-05T11:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
@@ -117,15 +189,6 @@
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   },
   {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 4,
-    "updated_at": "2026-10-05T11:03:21Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T11:00:46Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-05T11:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -205,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T10:55:11Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData.",
-    "id": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:55:02Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
   },
   {
     "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31373,
-    "updated_at": "2026-10-05T10:46:57Z",
+    "updated_at": "2026-10-05T11:20:44Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -320,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8315,
-    "updated_at": "2026-10-05T10:46:52Z",
+    "updated_at": "2026-10-05T11:27:02Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -346,7 +391,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 38662,
+    "stars": 38664,
     "updated_at": "2026-10-05T10:43:14Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-05T10:39:45Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti",
-    "id": "rvarun03/ARIOS",
-    "language": "Python",
-    "name": "rvarun03/ARIOS",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:39:24Z",
-    "url": "https://github.com/rvarun03/ARIOS"
-  },
-  {
-    "description": "A curated list of vector database solutions, libraries, and resources for AI applications - https://vectordb.ever.works",
-    "id": "ever-works/awesome-vector-databases",
-    "language": "\u2014",
-    "name": "ever-works/awesome-vector-databases",
-    "stars": 29,
-    "updated_at": "2026-10-05T10:38:23Z",
-    "url": "https://github.com/ever-works/awesome-vector-databases"
-  },
-  {
-    "description": "A self-hostable vector database with Pinecone's API, built on FAISS",
-    "id": "teddyoweh/needledb",
-    "language": "TypeScript",
-    "name": "teddyoweh/needledb",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:38:00Z",
-    "url": "https://github.com/teddyoweh/needledb"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:37:27Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1180,
-    "updated_at": "2026-10-05T10:37:06Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
