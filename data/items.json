@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-05T21:15:36Z",
+    "updated_at": "2026-10-05T21:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 95,
+    "updated_at": "2026-10-05T21:26:23Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-10-05T21:26:01Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Incremental RAG data pipeline: Airflow-orchestrated ingestion, chunking and embeddings into PostgreSQL pgvector (HNSW), ",
+    "id": "JayanthM16/rag-pgvector-pipeline",
+    "language": "Python",
+    "name": "JayanthM16/rag-pgvector-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-05T21:24:33Z",
+    "url": "https://github.com/JayanthM16/rag-pgvector-pipeline"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31398,
+    "updated_at": "2026-10-05T21:24:25Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 894,
+    "updated_at": "2026-10-05T21:27:39Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-05T21:15:55Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -18,12 +72,21 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8319,
+    "updated_at": "2026-10-05T21:12:28Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "In-memory knowledge store for AI agents",
     "id": "FraiseHQ/fraise",
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 7,
-    "updated_at": "2026-10-05T21:13:07Z",
+    "updated_at": "2026-10-05T21:18:14Z",
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T21:10:29Z",
     "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 894,
-    "updated_at": "2026-10-05T21:11:04Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -72,15 +126,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-05T21:00:59Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9354,
-    "updated_at": "2026-10-05T20:40:45Z",
+    "updated_at": "2026-10-05T21:28:59Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-10-05T20:37:57Z",
     "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31399,
-    "updated_at": "2026-10-05T20:58:03Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A FastAPI-based REST API service that provides OCR (Optical Character Recognition) for images, RAG (Retrieval-Augmented ",
@@ -311,7 +347,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1180,
-    "updated_at": "2026-10-05T20:56:33Z",
+    "updated_at": "2026-10-05T21:18:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T19:50:21Z",
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-10-05T19:47:27Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 7,
-    "updated_at": "2026-10-05T19:40:53Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34938,
-    "updated_at": "2026-10-05T19:39:27Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "An intelligent research assistant that searches, analyzes, and writes academic papers using a Retrieval-Augmented Genera",
-    "id": "ameeta18/AI-Research-Assistant",
-    "language": "Python",
-    "name": "ameeta18/AI-Research-Assistant",
-    "stars": 1,
-    "updated_at": "2026-10-05T19:38:11Z",
-    "url": "https://github.com/ameeta18/AI-Research-Assistant"
   }
 ]
