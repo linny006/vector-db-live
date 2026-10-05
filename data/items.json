@@ -1,5 +1,50 @@
 [
   {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3661,
+    "updated_at": "2026-10-05T03:27:28Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-10-05T03:20:21Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Pai Chat - A personal chat app",
+    "id": "sadanandpai/paichat",
+    "language": "TypeScript",
+    "name": "sadanandpai/paichat",
+    "stars": 2,
+    "updated_at": "2026-10-05T03:20:21Z",
+    "url": "https://github.com/sadanandpai/paichat"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-05T03:17:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-05T03:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T03:05:23Z",
     "url": "https://github.com/torinriley/VecStream"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-05T03:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6471,
-    "updated_at": "2026-10-05T03:00:00Z",
+    "updated_at": "2026-10-05T03:20:43Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 268,
-    "updated_at": "2026-10-05T02:54:28Z",
+    "updated_at": "2026-10-05T03:24:02Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -108,24 +144,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-05T02:39:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Pai Chat - A personal chat app",
-    "id": "sadanandpai/paichat",
-    "language": "TypeScript",
-    "name": "sadanandpai/paichat",
-    "stars": 2,
-    "updated_at": "2026-10-05T02:32:13Z",
-    "url": "https://github.com/sadanandpai/paichat"
-  },
-  {
     "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
     "id": "kylebrodeur/modal-embedding-server",
     "language": "Python",
@@ -142,15 +160,6 @@
     "stars": 1180,
     "updated_at": "2026-10-05T01:58:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3661,
-    "updated_at": "2026-10-05T01:57:14Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
@@ -275,7 +284,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-05T02:58:51Z",
+    "updated_at": "2026-10-05T03:28:28Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T00:52:56Z",
     "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-10-05T00:49:06Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   }
 ]
