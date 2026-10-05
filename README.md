@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-04 23:49 UTC
+> ⏰ Last updated: 2026-10-05 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MakabeD/Obsidian_RAG](https://github.com/MakabeD/Obsidian_RAG) | 1 | C# | 2026-10-04 | RAG |
-| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [MakabeD/Obsidian_RAG](https://github.com/MakabeD/Obsidian_RAG) | 1 | C# | 2026-10-04 | RAG |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 4 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-10-04 | Zilliz — independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector  |
 | 5 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-10-04 | Weaviate — independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na |
 | 6 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-10-04 | Vespa — independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en |
@@ -87,7 +87,7 @@ expired items removed — so you can rely on what you see being current.
 | 43 | [shoaibraza123/promptbook-mcp](https://github.com/shoaibraza123/promptbook-mcp) | 2 | HTML | 2026-10-04 | 🤖 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d |
 | 44 | [rein98/PsyChat](https://github.com/rein98/PsyChat) | 3 | Python | 2026-10-04 | 🧠 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor |
 | 45 | [ribagolx10/crossvector](https://github.com/ribagolx10/crossvector) | 1 | Python | 2026-10-04 | 🔗 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b |
-| 46 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2638 | Rust | 2026-10-04 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 46 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2638 | Rust | 2026-10-05 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
 | 47 | [Separative-involucre520/SearchPaperByEmbedding](https://github.com/Separative-involucre520/SearchPaperByEmbedding) | 1 | Python | 2026-10-04 | 🔍 Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results. |
 | 48 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 370 | Python | 2026-10-04 | Program that lets you ask questions about your documents and audio or video files. |
 | 49 | [britorbs/consciousdb](https://github.com/britorbs/consciousdb) | 0 | Python | 2026-10-04 | 🗄️ Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p |
