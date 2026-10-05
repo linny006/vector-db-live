@@ -1,11 +1,65 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T00:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 352,
+    "updated_at": "2026-10-05T00:11:31Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-05T00:10:14Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-05T00:08:39Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Model Context Protocol server for Qdrant - Part of Infrastructure as a Fabric ecosystem. Provides 30+ tools for vector d",
+    "id": "ry-ops/qdrant-fabric",
+    "language": "Python",
+    "name": "ry-ops/qdrant-fabric",
+    "stars": 2,
+    "updated_at": "2026-10-05T00:05:00Z",
+    "url": "https://github.com/ry-ops/qdrant-fabric"
+  },
+  {
+    "description": "Distill videos into a vector DB: VLM reads the screen, ASR hears the speaker, LLMs fuse both into notes with hybrid (vec",
+    "id": "Ayshine/Video-Distiller",
+    "language": "Python",
+    "name": "Ayshine/Video-Distiller",
+    "stars": 4,
+    "updated_at": "2026-10-05T00:02:57Z",
+    "url": "https://github.com/Ayshine/Video-Distiller"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-04T23:49:56Z",
+    "updated_at": "2026-10-05T00:00:23Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T23:48:02Z",
     "url": "https://github.com/MakabeD/Obsidian_RAG"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T00:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
@@ -151,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T23:27:45Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Model Context Protocol server for Qdrant - Part of Infrastructure as a Fabric ecosystem. Provides 30+ tools for vector d",
-    "id": "ry-ops/qdrant-fabric",
-    "language": "Python",
-    "name": "ry-ops/qdrant-fabric",
-    "stars": 2,
-    "updated_at": "2026-10-04T23:27:44Z",
-    "url": "https://github.com/ry-ops/qdrant-fabric"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -410,43 +446,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2638,
-    "updated_at": "2026-10-05T00:00:01Z",
+    "updated_at": "2026-10-05T00:11:31Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-10-04T22:58:55Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents and audio or video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 370,
-    "updated_at": "2026-10-04T22:58:07Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-10-04T22:57:11Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 894,
-    "updated_at": "2026-10-04T23:59:36Z",
-    "url": "https://github.com/orneryd/NornicDB"
   }
 ]
