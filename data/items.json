@@ -1,12 +1,30 @@
 [
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1180,
-    "updated_at": "2026-10-06T09:42:57Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T10:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1986,
+    "updated_at": "2026-10-06T09:59:15Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
+    "id": "sm-joe/localrag",
+    "language": "Python",
+    "name": "sm-joe/localrag",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:52:22Z",
+    "url": "https://github.com/sm-joe/localrag"
   },
   {
     "description": "A custom C++ vector database implementing HNSW, KD-Tree, and Brute-Force search. It serves as the backend for a fully lo",
@@ -14,8 +32,44 @@
     "language": "C",
     "name": "Shashank17singh/Your-Own-AI",
     "stars": 0,
-    "updated_at": "2026-10-06T09:40:32Z",
+    "updated_at": "2026-10-06T09:50:48Z",
     "url": "https://github.com/Shashank17singh/Your-Own-AI"
+  },
+  {
+    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 11,
+    "updated_at": "2026-10-06T09:48:37Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2676,
+    "updated_at": "2026-10-06T09:48:12Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T09:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1180,
+    "updated_at": "2026-10-06T09:42:57Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -27,31 +81,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T09:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6473,
-    "updated_at": "2026-10-06T09:45:04Z",
+    "updated_at": "2026-10-06T10:00:08Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T09:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The AI search platform",
@@ -108,15 +144,6 @@
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
-    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
-    "id": "sm-joe/localrag",
-    "language": "Python",
-    "name": "sm-joe/localrag",
-    "stars": 0,
-    "updated_at": "2026-10-06T09:21:18Z",
-    "url": "https://github.com/sm-joe/localrag"
-  },
-  {
     "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
     "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
     "language": "HTML",
@@ -133,24 +160,6 @@
     "stars": 21,
     "updated_at": "2026-10-06T09:11:21Z",
     "url": "https://github.com/DHT-AI-Studio/RAPTOR"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2675,
-    "updated_at": "2026-10-06T09:19:21Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 11,
-    "updated_at": "2026-10-06T09:03:05Z",
-    "url": "https://github.com/gonicolas12/My_AI"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -194,7 +203,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16865,
-    "updated_at": "2026-10-06T09:45:18Z",
+    "updated_at": "2026-10-06T09:56:01Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-06T09:43:33Z",
+    "updated_at": "2026-10-06T09:57:58Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31438,
-    "updated_at": "2026-10-06T09:33:00Z",
+    "updated_at": "2026-10-06T09:45:44Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T07:59:09Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:58:44Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
