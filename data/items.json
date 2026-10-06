@@ -1,12 +1,102 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2672,
+    "updated_at": "2026-10-06T05:29:10Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-06T05:26:30Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "An Amazon S3 service implementation based on Netty.",
+    "id": "Robothy/local-s3",
+    "language": "Java",
+    "name": "Robothy/local-s3",
+    "stars": 75,
+    "updated_at": "2026-10-06T05:26:03Z",
+    "url": "https://github.com/Robothy/local-s3"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-10-06T05:24:59Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-06T05:25:20Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
     "description": "A custom C++ vector database implementing HNSW, KD-Tree, and Brute-Force search. It serves as the backend for a fully lo",
     "id": "Shashank17singh/Your-Own-AI",
     "language": "C",
     "name": "Shashank17singh/Your-Own-AI",
     "stars": 0,
-    "updated_at": "2026-10-06T05:13:09Z",
+    "updated_at": "2026-10-06T05:20:03Z",
     "url": "https://github.com/Shashank17singh/Your-Own-AI"
+  },
+  {
+    "description": "",
+    "id": "Harsha2620/gitcontext",
+    "language": "Python",
+    "name": "Harsha2620/gitcontext",
+    "stars": 0,
+    "updated_at": "2026-10-06T05:19:12Z",
+    "url": "https://github.com/Harsha2620/gitcontext"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 2,
+    "updated_at": "2026-10-06T05:17:13Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1480,
+    "updated_at": "2026-10-06T05:16:25Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T05:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T05:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-ready AI Personal Assistant with Long-Term Memory using FastAPI, OpenAI, PostgreSQL, Qdrant and Docker.",
@@ -32,17 +122,17 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6473,
-    "updated_at": "2026-10-06T05:14:00Z",
+    "updated_at": "2026-10-06T05:29:13Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-10-06T05:10:00Z",
-    "url": "https://github.com/mmnto-ai/totem"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34942,
+    "updated_at": "2026-10-06T05:08:34Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData.",
@@ -63,24 +153,6 @@
     "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T05:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T05:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -95,7 +167,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-06T05:01:02Z",
+    "updated_at": "2026-10-06T05:26:21Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 264,
     "updated_at": "2026-10-06T04:50:01Z",
     "url": "https://github.com/vectordbz/vectordbz"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2671,
-    "updated_at": "2026-10-06T05:14:00Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Microsoft.Extensions.VectorData provider for Chroma and Chroma Cloud, built on ChromaDB.Client.",
@@ -253,12 +316,12 @@
   },
   {
     "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
+    "id": "Scaibu/llm-observability-platform",
     "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
+    "name": "Scaibu/llm-observability-platform",
     "stars": 6,
     "updated_at": "2026-10-06T03:52:23Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+    "url": "https://github.com/Scaibu/llm-observability-platform"
   },
   {
     "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T03:19:29Z",
     "url": "https://github.com/Pradyothsp/GoVec"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-10-06T03:12:53Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:12:51Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-10-06T03:12:40Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-10-06T03:11:58Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-10-06T03:11:17Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-10-06T03:10:44Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:10:01Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
   }
 ]
