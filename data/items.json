@@ -1,11 +1,38 @@
 [
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31473,
+    "updated_at": "2026-10-06T17:28:15Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Turbovec MCP Server: A local Retrieval-Augmented Generation (RAG) tool that allows AI to seamlessly read, chunk, remembe",
+    "id": "henny-bee/Turbovec-MCP-Tiar",
+    "language": "Python",
+    "name": "henny-bee/Turbovec-MCP-Tiar",
+    "stars": 5,
+    "updated_at": "2026-10-06T17:25:13Z",
+    "url": "https://github.com/henny-bee/Turbovec-MCP-Tiar"
+  },
+  {
+    "description": "[NeurIPS'24] Approximate Nearest Neighbor search using reduced-rank regression, with extremely fast queries, tiny memory",
+    "id": "ejaasaari/lorann",
+    "language": "C++",
+    "name": "ejaasaari/lorann",
+    "stars": 52,
+    "updated_at": "2026-10-06T17:23:15Z",
+    "url": "https://github.com/ejaasaari/lorann"
+  },
+  {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
     "id": "BBC-Esq/VectorDB-Plugin",
     "language": "Python",
     "name": "BBC-Esq/VectorDB-Plugin",
     "stars": 371,
-    "updated_at": "2026-10-06T17:14:43Z",
+    "updated_at": "2026-10-06T17:20:31Z",
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
@@ -14,8 +41,26 @@
     "language": "Go",
     "name": "d3uceY/vectile",
     "stars": 4,
-    "updated_at": "2026-10-06T17:13:46Z",
+    "updated_at": "2026-10-06T17:19:40Z",
     "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T17:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T17:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -43,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-10-06T17:07:41Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31472,
-    "updated_at": "2026-10-06T17:14:04Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34949,
-    "updated_at": "2026-10-06T17:15:21Z",
+    "updated_at": "2026-10-06T17:28:47Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -126,30 +162,12 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T17:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T17:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6475,
-    "updated_at": "2026-10-06T17:08:54Z",
+    "updated_at": "2026-10-06T17:25:43Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-10-06T16:56:32Z",
     "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "[NeurIPS'24] Approximate Nearest Neighbor search using reduced-rank regression, with extremely fast queries, tiny memory",
-    "id": "ejaasaari/lorann",
-    "language": "C++",
-    "name": "ejaasaari/lorann",
-    "stars": 52,
-    "updated_at": "2026-10-06T16:59:25Z",
-    "url": "https://github.com/ejaasaari/lorann"
   },
   {
     "description": "Pion \u2014 the memory engine for AI inference",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T15:51:24Z",
     "url": "https://github.com/kylebrodeur/modal-embedding-server"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1182,
-    "updated_at": "2026-10-06T17:03:55Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
