@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-06T21:15:22Z",
+    "updated_at": "2026-10-06T21:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6476,
+    "updated_at": "2026-10-06T21:29:22Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Security-first, memory-frugal vector database in Rust with a retro terminal cockpit.",
+    "id": "achref-soua/quiver",
+    "language": "Rust",
+    "name": "achref-soua/quiver",
+    "stars": 3,
+    "updated_at": "2026-10-06T21:24:15Z",
+    "url": "https://github.com/achref-soua/quiver"
+  },
+  {
+    "description": "A vector-native embedded graph database. One graph. One vector space. One file.",
+    "id": "r-firth/vecgra",
+    "language": "Rust",
+    "name": "r-firth/vecgra",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:27:26Z",
+    "url": "https://github.com/r-firth/vecgra"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31487,
+    "updated_at": "2026-10-06T21:30:00Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 896,
+    "updated_at": "2026-10-06T21:19:48Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T21:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2712,
+    "updated_at": "2026-10-06T21:12:22Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
@@ -18,21 +81,12 @@
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2711,
-    "updated_at": "2026-10-06T21:12:22Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
     "id": "omerfeyzioglu/glider",
     "language": "Rust",
     "name": "omerfeyzioglu/glider",
     "stars": 2,
-    "updated_at": "2026-10-06T21:09:28Z",
+    "updated_at": "2026-10-06T21:25:19Z",
     "url": "https://github.com/omerfeyzioglu/glider"
   },
   {
@@ -72,15 +126,6 @@
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T21:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Legal AI platform with RAG over client documents, ground-truth evals for legal answer quality, structured document analy",
     "id": "yagosamu/juri_ai",
     "language": "Python",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T20:57:10Z",
     "url": "https://github.com/yagosamu/juri_ai"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31486,
-    "updated_at": "2026-10-06T20:46:41Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
@@ -122,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1184,
-    "updated_at": "2026-10-06T20:38:46Z",
+    "updated_at": "2026-10-06T21:27:26Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 896,
-    "updated_at": "2026-10-06T20:48:14Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -256,8 +283,8 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16867,
-    "updated_at": "2026-10-06T19:53:42Z",
+    "stars": 16868,
+    "updated_at": "2026-10-06T21:28:13Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9363,
-    "updated_at": "2026-10-06T21:00:19Z",
+    "updated_at": "2026-10-06T21:17:59Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -369,15 +396,6 @@
     "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6476,
-    "updated_at": "2026-10-06T21:11:48Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
     "id": "rustic-ai/uni-db",
     "language": "Rust",
@@ -409,7 +427,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 38773,
+    "stars": 38776,
     "updated_at": "2026-10-06T18:06:27Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T17:59:42Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2122,
-    "updated_at": "2026-10-06T17:43:59Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xGraph/10xGraph",
-    "language": "Python",
-    "name": "10xGraph/10xGraph",
-    "stars": 21,
-    "updated_at": "2026-10-06T18:42:47Z",
-    "url": "https://github.com/10xGraph/10xGraph"
   }
 ]
