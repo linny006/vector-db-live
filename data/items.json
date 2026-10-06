@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
+    "description": "A custom C++ vector database implementing HNSW, KD-Tree, and Brute-Force search. It serves as the backend for a fully lo",
+    "id": "Shashank17singh/Your-Own-AI",
+    "language": "C",
+    "name": "Shashank17singh/Your-Own-AI",
+    "stars": 0,
+    "updated_at": "2026-10-06T05:13:09Z",
+    "url": "https://github.com/Shashank17singh/Your-Own-AI"
+  },
+  {
+    "description": "Production-ready AI Personal Assistant with Long-Term Memory using FastAPI, OpenAI, PostgreSQL, Qdrant and Docker.",
+    "id": "arnavshah038-jpg/AI-Personal-OS",
+    "language": "Python",
+    "name": "arnavshah038-jpg/AI-Personal-OS",
+    "stars": 0,
+    "updated_at": "2026-10-06T05:10:08Z",
+    "url": "https://github.com/arnavshah038-jpg/AI-Personal-OS"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-06T04:59:15Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-06T05:09:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6473,
+    "updated_at": "2026-10-06T05:14:00Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -14,35 +41,35 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-06T04:56:46Z",
+    "updated_at": "2026-10-06T05:10:00Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-06T04:50:18Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "A modern desktop application for exploring, managing, and analyzing vector databases",
-    "id": "vectordbz/vectordbz",
-    "language": "TypeScript",
-    "name": "vectordbz/vectordbz",
-    "stars": 263,
-    "updated_at": "2026-10-06T04:50:01Z",
-    "url": "https://github.com/vectordbz/vectordbz"
-  },
-  {
-    "description": "Microsoft.Extensions.VectorData provider for Chroma and Chroma Cloud, built on ChromaDB.Client.",
-    "id": "ChromaDotNet/ChromaDB.VectorData",
+    "description": "Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData.",
+    "id": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
     "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.VectorData",
+    "name": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
     "stars": 0,
-    "updated_at": "2026-10-06T04:49:37Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
+    "updated_at": "2026-10-06T05:00:53Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
+  },
+  {
+    "description": "Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData.",
+    "id": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
+    "stars": 0,
+    "updated_at": "2026-10-06T05:00:51Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T05:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -54,13 +81,49 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T04:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-06T04:59:15Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-06T05:01:02Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A modern desktop application for exploring, managing, and analyzing vector databases",
+    "id": "vectordbz/vectordbz",
+    "language": "TypeScript",
+    "name": "vectordbz/vectordbz",
+    "stars": 264,
+    "updated_at": "2026-10-06T04:50:01Z",
+    "url": "https://github.com/vectordbz/vectordbz"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2671,
+    "updated_at": "2026-10-06T05:14:00Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Microsoft.Extensions.VectorData provider for Chroma and Chroma Cloud, built on ChromaDB.Client.",
+    "id": "ChromaDotNet/ChromaDB.VectorData",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.VectorData",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:49:37Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
   },
   {
     "description": "Lightweight approximate nearest neighbor (ANN) vector search engine and embedding indexing pipeline.",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T04:43:12Z",
     "url": "https://github.com/henry-hai/SentryQuery-AI"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-06T04:42:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -124,33 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T04:30:52Z",
     "url": "https://github.com/LeydLayd/RAG"
-  },
-  {
-    "description": "Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData.",
-    "id": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:24:40Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
-  },
-  {
-    "description": "Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData.",
-    "id": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:24:36Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
-  },
-  {
-    "description": "A custom C++ vector database implementing HNSW, KD-Tree, and Brute-Force search. It serves as the backend for a fully lo",
-    "id": "Shashank17singh/Your-Own-AI",
-    "language": "C",
-    "name": "Shashank17singh/Your-Own-AI",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:15:53Z",
-    "url": "https://github.com/Shashank17singh/Your-Own-AI"
   },
   {
     "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T03:32:32Z",
     "url": "https://github.com/YunanJeong/rag-git-docs"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6472,
-    "updated_at": "2026-10-06T05:00:01Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T03:10:01Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-10-06T03:09:48Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:09:41Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
