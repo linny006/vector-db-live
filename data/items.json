@@ -1,11 +1,146 @@
 [
   {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-06T10:59:46Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 34,
+    "updated_at": "2026-10-06T11:00:23Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 2,
+    "updated_at": "2026-10-06T10:58:36Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "A voice-driven, autonomous AI developer assistant designed to manage complex engineering workflows, track project states",
+    "id": "VarunRathore137/ZENO-Agent",
+    "language": "Python",
+    "name": "VarunRathore137/ZENO-Agent",
+    "stars": 1,
+    "updated_at": "2026-10-06T10:57:49Z",
+    "url": "https://github.com/VarunRathore137/ZENO-Agent"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6244,
+    "updated_at": "2026-10-06T10:57:43Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-10-06T10:57:24Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-10-06T10:55:54Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31441,
+    "updated_at": "2026-10-06T10:59:59Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
+    "id": "eminsk/nanovector",
+    "language": "Python",
+    "name": "eminsk/nanovector",
+    "stars": 6,
+    "updated_at": "2026-10-06T10:54:46Z",
+    "url": "https://github.com/eminsk/nanovector"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-10-06T10:54:20Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
+    "id": "kldhsh123/Afterglow",
+    "language": "Python",
+    "name": "kldhsh123/Afterglow",
+    "stars": 311,
+    "updated_at": "2026-10-06T10:51:26Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-10-06T10:49:47Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 4,
+    "updated_at": "2026-10-06T10:48:33Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7119,
+    "updated_at": "2026-10-06T10:55:36Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T10:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-06T10:45:21Z",
+    "updated_at": "2026-10-06T11:00:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +151,6 @@
     "stars": 13205,
     "updated_at": "2026-10-06T10:44:32Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "A voice-driven, autonomous AI developer assistant designed to manage complex engineering workflows, track project states",
-    "id": "VarunRathore137/ZENO-Agent",
-    "language": "Python",
-    "name": "VarunRathore137/ZENO-Agent",
-    "stars": 1,
-    "updated_at": "2026-10-06T10:43:19Z",
-    "url": "https://github.com/VarunRathore137/ZENO-Agent"
   },
   {
     "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
@@ -81,15 +207,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 34,
-    "updated_at": "2026-10-06T10:45:22Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
     "description": "Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector s",
     "id": "intersystems-community/FHIR-AI-Hackathon-Kit",
     "language": "Jupyter Notebook",
@@ -126,21 +243,12 @@
     "url": "https://github.com/VividhDesign/strata"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T10:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2038,
-    "updated_at": "2026-10-06T10:40:13Z",
+    "updated_at": "2026-10-06T10:51:08Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -216,15 +324,6 @@
     "url": "https://github.com/luigigargioni/KnowledgeManagerLLM"
   },
   {
-    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, zero depe",
-    "id": "eminsk/nanovector",
-    "language": "Python",
-    "name": "eminsk/nanovector",
-    "stars": 6,
-    "updated_at": "2026-10-06T10:06:07Z",
-    "url": "https://github.com/eminsk/nanovector"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -256,7 +355,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1180,
+    "stars": 1181,
     "updated_at": "2026-10-06T09:42:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -268,15 +367,6 @@
     "stars": 6473,
     "updated_at": "2026-10-06T10:20:16Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7119,
-    "updated_at": "2026-10-06T10:10:47Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
@@ -346,7 +436,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59500,
+    "stars": 59501,
     "updated_at": "2026-10-06T09:05:38Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -356,97 +446,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16865,
-    "updated_at": "2026-10-06T10:38:19Z",
+    "updated_at": "2026-10-06T10:59:34Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6244,
-    "updated_at": "2026-10-06T10:43:42Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31438,
-    "updated_at": "2026-10-06T10:38:15Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Intelligent PDF Question-Answering assistant powered by RAG, LangChain, ChromaDB, HuggingFace embeddings, Groq LLM, and ",
-    "id": "pinalgevariya15/rag-pdf-qa",
-    "language": "Python",
-    "name": "pinalgevariya15/rag-pdf-qa",
-    "stars": 1,
-    "updated_at": "2026-10-06T08:45:56Z",
-    "url": "https://github.com/pinalgevariya15/rag-pdf-qa"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4443,
-    "updated_at": "2026-10-06T09:24:23Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-06T08:36:27Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1355,
-    "updated_at": "2026-10-06T08:31:12Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11609,
-    "updated_at": "2026-10-06T08:30:38Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
-    "id": "tapiruslab/TapirusDB",
-    "language": "Rust",
-    "name": "tapiruslab/TapirusDB",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:27:58Z",
-    "url": "https://github.com/tapiruslab/TapirusDB"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9454,
-    "updated_at": "2026-10-06T08:26:52Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Find which CPUs crash your PostgreSQL / pgvector Docker image with \"Illegal instruction\" (SIGILL): emulated x86 (AVX, AV",
-    "id": "intikhab49/pgvector-cpu-check",
-    "language": "Python",
-    "name": "intikhab49/pgvector-cpu-check",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:26:21Z",
-    "url": "https://github.com/intikhab49/pgvector-cpu-check"
   }
 ]
