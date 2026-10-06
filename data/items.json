@@ -1,11 +1,56 @@
 [
   {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "HTML",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-10-06T16:43:20Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-06T16:43:15Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-06T16:40:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 22,
+    "updated_at": "2026-10-06T16:32:28Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T16:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-06T16:30:21Z",
+    "updated_at": "2026-10-06T16:45:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "weaviate/typescript-client",
     "stars": 101,
-    "updated_at": "2026-10-06T16:29:07Z",
+    "updated_at": "2026-10-06T16:42:52Z",
     "url": "https://github.com/weaviate/typescript-client"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7119,
-    "updated_at": "2026-10-06T16:28:08Z",
+    "updated_at": "2026-10-06T16:33:52Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -59,17 +104,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31469,
-    "updated_at": "2026-10-06T16:18:14Z",
+    "updated_at": "2026-10-06T16:44:30Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T16:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An AI assistant that answers employees' questions from their company's own documents, with citations, and escalates to a",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T16:11:56Z",
     "url": "https://github.com/awoladhossain/OpsPilot"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-06T16:10:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2038,
-    "updated_at": "2026-10-06T15:56:26Z",
+    "updated_at": "2026-10-06T16:33:11Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1182,
-    "updated_at": "2026-10-06T16:28:26Z",
+    "updated_at": "2026-10-06T16:43:27Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -295,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T15:41:02Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 22,
-    "updated_at": "2026-10-06T15:56:51Z",
-    "url": "https://github.com/opencrawling/opencrawling"
   },
   {
     "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
@@ -356,7 +374,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9361,
-    "updated_at": "2026-10-06T16:01:45Z",
+    "updated_at": "2026-10-06T16:43:38Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T15:18:26Z",
     "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-06T16:28:18Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6114,
-    "updated_at": "2026-10-06T15:52:13Z",
-    "url": "https://github.com/HelixDB/helix-db"
   }
 ]
