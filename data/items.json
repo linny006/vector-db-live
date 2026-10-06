@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-06T06:30:21Z",
+    "updated_at": "2026-10-06T06:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1637,
+    "updated_at": "2026-10-06T06:44:11Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Find which CPUs crash your PostgreSQL / pgvector Docker image with \"Illegal instruction\" (SIGILL): emulated x86 (AVX, AV",
+    "id": "intikhab49/pgvector-cpu-check",
+    "language": "Shell",
+    "name": "intikhab49/pgvector-cpu-check",
+    "stars": 0,
+    "updated_at": "2026-10-06T06:44:10Z",
+    "url": "https://github.com/intikhab49/pgvector-cpu-check"
+  },
+  {
+    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
+    "id": "tayyabimam1/awesome-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "tayyabimam1/awesome-ai-agent-stack",
+    "stars": 0,
+    "updated_at": "2026-10-06T06:43:07Z",
+    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 86,
+    "updated_at": "2026-10-06T06:35:27Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-10-06T06:34:42Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Production-ready Haystack/LangChain pipelines for Hybrid & Parent-Child Retrieval, Diversity Filtering, MMR, Metadata Fi",
+    "id": "avnlp/vectordb",
+    "language": "Python",
+    "name": "avnlp/vectordb",
+    "stars": 7,
+    "updated_at": "2026-10-06T06:33:31Z",
+    "url": "https://github.com/avnlp/vectordb"
+  },
+  {
+    "description": "An Amazon S3 service implementation based on Netty.",
+    "id": "Robothy/local-s3",
+    "language": "Java",
+    "name": "Robothy/local-s3",
+    "stars": 75,
+    "updated_at": "2026-10-06T06:30:58Z",
+    "url": "https://github.com/Robothy/local-s3"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T06:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
@@ -23,17 +95,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7119,
-    "updated_at": "2026-10-06T06:29:45Z",
+    "updated_at": "2026-10-06T06:44:31Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
-    "id": "tayyabimam1/awesome-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "tayyabimam1/awesome-ai-agent-stack",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:26:31Z",
-    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -81,6 +144,15 @@
     "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
   },
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2674,
+    "updated_at": "2026-10-06T06:20:08Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
     "id": "Divine-vision-visiondivine21/less-tokens",
     "language": "\u2014",
@@ -108,20 +180,11 @@
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2673,
-    "updated_at": "2026-10-06T06:20:08Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31424,
+    "stars": 31425,
     "updated_at": "2026-10-06T06:17:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -142,15 +205,6 @@
     "stars": 5,
     "updated_at": "2026-10-06T06:15:45Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T06:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T05:50:44Z",
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-06T05:54:54Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-10-06T05:48:00Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1637,
-    "updated_at": "2026-10-06T05:44:39Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 7,
-    "updated_at": "2026-10-06T05:42:48Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-10-06T05:40:53Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
-    "id": "DanieldfMedina/GenAI-Course-Repo",
-    "language": "C++",
-    "name": "DanieldfMedina/GenAI-Course-Repo",
-    "stars": 0,
-    "updated_at": "2026-10-06T05:40:31Z",
-    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   }
 ]
