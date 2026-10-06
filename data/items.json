@@ -1,5 +1,41 @@
 [
   {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:59:57Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Legal AI platform with RAG over client documents, ground-truth evals for legal answer quality, structured document analy",
+    "id": "yagosamu/juri_ai",
+    "language": "Python",
+    "name": "yagosamu/juri_ai",
+    "stars": 0,
+    "updated_at": "2026-10-06T20:57:10Z",
+    "url": "https://github.com/yagosamu/juri_ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T20:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T21:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
     "id": "eminsk/nanovector",
     "language": "Python",
@@ -45,6 +81,15 @@
     "url": "https://github.com/edheltzel/Recall"
   },
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2710,
+    "updated_at": "2026-10-06T20:31:52Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
     "id": "datris/datris-platform-oss",
     "language": "Scala",
@@ -52,24 +97,6 @@
     "stars": 12,
     "updated_at": "2026-10-06T20:31:08Z",
     "url": "https://github.com/datris/datris-platform-oss"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T20:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T20:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -122,7 +149,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 896,
-    "updated_at": "2026-10-06T20:42:36Z",
+    "updated_at": "2026-10-06T20:48:14Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -198,6 +225,15 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16867,
+    "updated_at": "2026-10-06T19:53:42Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "Demo project. Semantic audio search for journalists",
     "id": "hordiales/audio-semantic-search-for-journalists",
     "language": "Python",
@@ -212,17 +248,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31483,
-    "updated_at": "2026-10-06T19:49:54Z",
+    "updated_at": "2026-10-06T20:46:41Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Legal AI platform with RAG over client documents, ground-truth evals for legal answer quality, structured document analy",
-    "id": "yagosamu/juri_ai",
-    "language": "Python",
-    "name": "yagosamu/juri_ai",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:44:27Z",
-    "url": "https://github.com/yagosamu/juri_ai"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -232,15 +259,6 @@
     "stars": 9,
     "updated_at": "2026-10-06T19:42:22Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2710,
-    "updated_at": "2026-10-06T20:31:52Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -257,7 +275,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2038,
-    "updated_at": "2026-10-06T20:36:18Z",
+    "updated_at": "2026-10-06T20:52:47Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -283,7 +301,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66759,
+    "stars": 66760,
     "updated_at": "2026-10-06T19:08:30Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9363,
-    "updated_at": "2026-10-06T20:23:56Z",
+    "updated_at": "2026-10-06T21:00:19Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11611,
-    "updated_at": "2026-10-06T20:11:43Z",
+    "updated_at": "2026-10-06T20:57:26Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6476,
-    "updated_at": "2026-10-06T20:37:03Z",
+    "updated_at": "2026-10-06T20:58:35Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -382,7 +400,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 38772,
+    "stars": 38773,
     "updated_at": "2026-10-06T18:06:27Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T17:30:52Z",
     "url": "https://github.com/Shaz-gill/deskwise-app"
-  },
-  {
-    "description": "Turbovec MCP Server: A local Retrieval-Augmented Generation (RAG) tool that allows AI to seamlessly read, chunk, remembe",
-    "id": "henny-bee/Turbovec-MCP-Tiar",
-    "language": "Python",
-    "name": "henny-bee/Turbovec-MCP-Tiar",
-    "stars": 5,
-    "updated_at": "2026-10-06T17:25:13Z",
-    "url": "https://github.com/henny-bee/Turbovec-MCP-Tiar"
-  },
-  {
-    "description": "[NeurIPS'24] Approximate Nearest Neighbor search using reduced-rank regression, with extremely fast queries, tiny memory",
-    "id": "ejaasaari/lorann",
-    "language": "C++",
-    "name": "ejaasaari/lorann",
-    "stars": 52,
-    "updated_at": "2026-10-06T17:23:15Z",
-    "url": "https://github.com/ejaasaari/lorann"
   }
 ]
