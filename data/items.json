@@ -1,5 +1,140 @@
 [
   {
+    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
+    "id": "BiggerCap/agentops-hub",
+    "language": "TypeScript",
+    "name": "BiggerCap/agentops-hub",
+    "stars": 2,
+    "updated_at": "2026-10-06T00:58:14Z",
+    "url": "https://github.com/BiggerCap/agentops-hub"
+  },
+  {
+    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
+    "id": "hankamarvanova/unified-db",
+    "language": "Swift",
+    "name": "hankamarvanova/unified-db",
+    "stars": 2,
+    "updated_at": "2026-10-06T00:58:10Z",
+    "url": "https://github.com/hankamarvanova/unified-db"
+  },
+  {
+    "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
+    "id": "kldhsh123/Afterglow",
+    "language": "Python",
+    "name": "kldhsh123/Afterglow",
+    "stars": 311,
+    "updated_at": "2026-10-06T00:57:45Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-10-06T00:57:24Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates.",
+    "id": "gay00ung/vecnook",
+    "language": "Rust",
+    "name": "gay00ung/vecnook",
+    "stars": 2,
+    "updated_at": "2026-10-06T00:55:49Z",
+    "url": "https://github.com/gay00ung/vecnook"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-10-06T00:55:06Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-10-06T00:53:56Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-10-06T00:53:28Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 2,
+    "updated_at": "2026-10-06T00:53:21Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-06T00:52:29Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
+    "id": "Tribrix23/CleaveDB",
+    "language": "Python",
+    "name": "Tribrix23/CleaveDB",
+    "stars": 0,
+    "updated_at": "2026-10-06T00:51:06Z",
+    "url": "https://github.com/Tribrix23/CleaveDB"
+  },
+  {
+    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
+    "id": "rao-studios/Sewn",
+    "language": "Swift",
+    "name": "rao-studios/Sewn",
+    "stars": 0,
+    "updated_at": "2026-10-06T00:50:49Z",
+    "url": "https://github.com/rao-studios/Sewn"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-10-06T00:49:48Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-06T00:47:12Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T00:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +153,6 @@
     "url": "https://github.com/roberto729a/OllamaRAG"
   },
   {
-    "description": "Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates.",
-    "id": "gay00ung/vecnook",
-    "language": "Rust",
-    "name": "gay00ung/vecnook",
-    "stars": 2,
-    "updated_at": "2026-10-06T00:44:18Z",
-    "url": "https://github.com/gay00ung/vecnook"
-  },
-  {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
     "id": "Shajo777/SupaAI-Framework-Template",
     "language": "\u2014",
@@ -34,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T00:42:41Z",
     "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
-    "stars": 0,
-    "updated_at": "2026-10-06T00:42:36Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
     "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
@@ -94,27 +211,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31410,
-    "updated_at": "2026-10-06T00:30:44Z",
+    "stars": 31412,
+    "updated_at": "2026-10-06T00:54:09Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T00:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-10-06T00:43:02Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -169,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T00:11:30Z",
     "url": "https://github.com/alouiadel/rag-poc-l3"
-  },
-  {
-    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
-    "id": "rao-studios/Sewn",
-    "language": "Swift",
-    "name": "rao-studios/Sewn",
-    "stars": 0,
-    "updated_at": "2026-10-05T23:48:17Z",
-    "url": "https://github.com/rao-studios/Sewn"
   },
   {
     "description": "Distributed vector search node and client for Sewn and MaryOS.",
@@ -239,7 +329,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9356,
-    "updated_at": "2026-10-06T00:36:58Z",
+    "updated_at": "2026-10-06T00:55:28Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -302,7 +392,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11603,
-    "updated_at": "2026-10-05T22:19:11Z",
+    "updated_at": "2026-10-06T00:57:46Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T22:12:56Z",
     "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-10-05T22:11:55Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-10-05T22:11:28Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 2,
-    "updated_at": "2026-10-05T22:11:20Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-10-05T22:08:18Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-10-05T22:05:25Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-10-05T22:04:10Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-10-05T22:04:10Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-10-05T22:03:52Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-10-05T22:03:09Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 34,
-    "updated_at": "2026-10-05T22:02:57Z",
-    "url": "https://github.com/monaccode/astromesh"
   }
 ]
