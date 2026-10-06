@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-06T14:30:22Z",
+    "updated_at": "2026-10-06T14:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 34,
+    "updated_at": "2026-10-06T14:44:20Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2124,
+    "updated_at": "2026-10-06T14:43:03Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-06T14:40:26Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-06T14:38:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "HTML",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:37:44Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2038,
+    "updated_at": "2026-10-06T14:40:10Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
+    "id": "redis-developer/redis-ai-resources",
+    "language": "Jupyter Notebook",
+    "name": "redis-developer/redis-ai-resources",
+    "stars": 493,
+    "updated_at": "2026-10-06T14:33:59Z",
+    "url": "https://github.com/redis-developer/redis-ai-resources"
+  },
+  {
+    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
+    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "language": "HTML",
+    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:33:19Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7119,
+    "updated_at": "2026-10-06T14:31:39Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T14:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
@@ -23,17 +113,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-06T14:28:07Z",
+    "updated_at": "2026-10-06T14:45:04Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "HTML",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-10-06T14:28:05Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
   },
   {
     "description": "RAG-based personal knowledge assistant: ask questions over your own notes via Claude, with incremental ingestion, a loca",
@@ -63,13 +144,13 @@
     "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T14:24:13Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16867,
+    "updated_at": "2026-10-06T14:33:22Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -95,7 +176,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6114,
-    "updated_at": "2026-10-06T14:25:09Z",
+    "updated_at": "2026-10-06T14:45:12Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -113,17 +194,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1182,
-    "updated_at": "2026-10-06T14:21:30Z",
+    "updated_at": "2026-10-06T14:30:52Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7119,
-    "updated_at": "2026-10-06T14:29:19Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -144,6 +216,15 @@
     "url": "https://github.com/madhav692/data-engineering-for-ai"
   },
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2681,
+    "updated_at": "2026-10-06T14:17:28Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
     "id": "RohannShetty/DocHarvest",
     "language": "Python",
@@ -151,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-10-06T14:17:26Z",
     "url": "https://github.com/RohannShetty/DocHarvest"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-06T14:30:12Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
@@ -176,7 +248,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6473,
-    "updated_at": "2026-10-06T14:28:43Z",
+    "updated_at": "2026-10-06T14:36:10Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 22,
     "updated_at": "2026-10-06T14:09:47Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-06T14:09:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "RAG \u77e5\u8bc6\u5e93\u95ee\u7b54 + \u5de5\u5177\u8c03\u7528 Agent\uff1a\u6df7\u5408\u68c0\u7d22(BM25+\u5411\u91cf+RRF) + Cross-Encoder \u91cd\u6392 + \u7ae0\u8282\u7ea7\u5f15\u7528 + \u4e3b\u52a8\u62d2\u7b54\uff1b169 \u4e2a\u79bb\u7ebf\u5355\u6d4b\u3002Hit@1 0.657 / MRR 0.806\uff0c\u5fe0\u5b9e\u5ea6\u4e0e\u5f15\u7528\u6b63\u786e\u6027 5",
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31454,
-    "updated_at": "2026-10-06T14:19:48Z",
+    "updated_at": "2026-10-06T14:44:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -270,15 +333,6 @@
     "url": "https://github.com/henry-hai/SentryQuery-AI"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16866,
-    "updated_at": "2026-10-06T14:24:34Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -293,7 +347,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8324,
-    "updated_at": "2026-10-06T13:58:10Z",
+    "updated_at": "2026-10-06T14:43:29Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -329,7 +383,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-06T14:00:19Z",
+    "updated_at": "2026-10-06T14:32:23Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T13:22:31Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:20:35Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-10-06T13:20:10Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:19:48Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "IntelliQA is a production-oriented Retrieval Augmented Generation (RAG) backend for grounded question answering over pri",
-    "id": "abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence",
-    "language": "HTML",
-    "name": "abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence",
-    "stars": 2,
-    "updated_at": "2026-10-06T13:18:27Z",
-    "url": "https://github.com/abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:17:22Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
-    "id": "sm-joe/localrag",
-    "language": "Python",
-    "name": "sm-joe/localrag",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:16:55Z",
-    "url": "https://github.com/sm-joe/localrag"
   }
 ]
