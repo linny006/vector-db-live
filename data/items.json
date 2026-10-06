@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-06T16:15:23Z",
+    "updated_at": "2026-10-06T16:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Official Weaviate TypeScript Client",
+    "id": "weaviate/typescript-client",
+    "language": "TypeScript",
+    "name": "weaviate/typescript-client",
+    "stars": 101,
+    "updated_at": "2026-10-06T16:29:07Z",
+    "url": "https://github.com/weaviate/typescript-client"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7119,
+    "updated_at": "2026-10-06T16:28:08Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-10-06T16:27:33Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "AI-powered support ticket system: inbound emails become tickets, auto-classified and resolved via a RAG pipeline grounde",
+    "id": "Shaz-gill/deskwise-app",
+    "language": "TypeScript",
+    "name": "Shaz-gill/deskwise-app",
+    "stars": 0,
+    "updated_at": "2026-10-06T16:24:46Z",
+    "url": "https://github.com/Shaz-gill/deskwise-app"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-10-06T16:23:17Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31469,
+    "updated_at": "2026-10-06T16:18:14Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T16:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An AI assistant that answers employees' questions from their company's own documents, with citations, and escalates to a",
@@ -27,30 +90,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31465,
-    "updated_at": "2026-10-06T16:07:39Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI-powered support ticket system: inbound emails become tickets, auto-classified and resolved via a RAG pipeline grounde",
-    "id": "Shaz-gill/deskwise-app",
-    "language": "TypeScript",
-    "name": "Shaz-gill/deskwise-app",
-    "stars": 0,
-    "updated_at": "2026-10-06T16:06:53Z",
-    "url": "https://github.com/Shaz-gill/deskwise-app"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-06T16:06:40Z",
+    "updated_at": "2026-10-06T16:23:27Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T16:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "pgVector in AI and ML",
     "id": "vikrantkalyan23/pgvector-in-ai-ml",
     "language": "\u2014",
@@ -122,7 +158,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 17,
-    "updated_at": "2026-10-06T15:59:58Z",
+    "updated_at": "2026-10-06T16:24:18Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -189,15 +225,6 @@
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   },
   {
-    "description": "Official Weaviate TypeScript Client",
-    "id": "weaviate/typescript-client",
-    "language": "TypeScript",
-    "name": "weaviate/typescript-client",
-    "stars": 101,
-    "updated_at": "2026-10-06T15:53:31Z",
-    "url": "https://github.com/weaviate/typescript-client"
-  },
-  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -230,7 +257,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1182,
-    "updated_at": "2026-10-06T16:10:12Z",
+    "updated_at": "2026-10-06T16:28:26Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11610,
-    "updated_at": "2026-10-06T15:34:49Z",
+    "updated_at": "2026-10-06T16:28:55Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34948,
-    "updated_at": "2026-10-06T15:26:22Z",
+    "updated_at": "2026-10-06T16:30:19Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -410,7 +437,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-06T15:14:57Z",
+    "updated_at": "2026-10-06T16:28:18Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6114,
     "updated_at": "2026-10-06T15:52:13Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "JavaScript",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 62,
-    "updated_at": "2026-10-06T15:04:49Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59504,
-    "updated_at": "2026-10-06T16:14:45Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-06T14:58:43Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   }
 ]
