@@ -1,11 +1,74 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7119,
+    "updated_at": "2026-10-06T09:29:07Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
+    "id": "tayyabimam1/awesome-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "tayyabimam1/awesome-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-10-06T09:27:55Z",
+    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
+  },
+  {
+    "description": "Production-grade Natural Language to T-SQL assistant for complex relational databases (AdventureWorks). Combines Qdrant ",
+    "id": "mubashir-sohail-dev/omniquery-ai",
+    "language": "Python",
+    "name": "mubashir-sohail-dev/omniquery-ai",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:26:57Z",
+    "url": "https://github.com/mubashir-sohail-dev/omniquery-ai"
+  },
+  {
+    "description": "Zero-hallucination textbook RAG assessment platform and exam paper studio for secondary education (Grade 9\u201312). Features",
+    "id": "mubashir-sohail-dev/ExamCraft",
+    "language": "Dart",
+    "name": "mubashir-sohail-dev/ExamCraft",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:26:38Z",
+    "url": "https://github.com/mubashir-sohail-dev/ExamCraft"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 2,
+    "updated_at": "2026-10-06T09:24:20Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
+    "id": "sm-joe/localrag",
+    "language": "Python",
+    "name": "sm-joe/localrag",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:21:18Z",
+    "url": "https://github.com/sm-joe/localrag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T09:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-06T09:15:27Z",
+    "updated_at": "2026-10-06T09:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2675,
-    "updated_at": "2026-10-06T09:08:14Z",
+    "updated_at": "2026-10-06T09:19:21Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/gonicolas12/My_AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T09:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -70,33 +124,6 @@
     "stars": 2038,
     "updated_at": "2026-10-06T08:59:10Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Production-grade Natural Language to T-SQL assistant for complex relational databases (AdventureWorks). Combines Qdrant ",
-    "id": "mubashir-sohail-dev/omniquery-ai",
-    "language": "Python",
-    "name": "mubashir-sohail-dev/omniquery-ai",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:58:04Z",
-    "url": "https://github.com/mubashir-sohail-dev/omniquery-ai"
-  },
-  {
-    "description": "Zero-hallucination textbook RAG assessment platform and exam paper studio for secondary education (Grade 9\u201312). Features",
-    "id": "mubashir-sohail-dev/ExamCraft",
-    "language": "Dart",
-    "name": "mubashir-sohail-dev/ExamCraft",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:56:56Z",
-    "url": "https://github.com/mubashir-sohail-dev/ExamCraft"
-  },
-  {
-    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
-    "id": "sm-joe/localrag",
-    "language": "Python",
-    "name": "sm-joe/localrag",
-    "stars": 0,
-    "updated_at": "2026-10-06T08:56:14Z",
-    "url": "https://github.com/sm-joe/localrag"
   },
   {
     "description": "Hallucination guardrail for AI output about indexed documents. POST a claim, get PASS or FAIL with the exact source pass",
@@ -113,7 +140,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13205,
-    "updated_at": "2026-10-06T09:15:03Z",
+    "updated_at": "2026-10-06T09:16:21Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16865,
-    "updated_at": "2026-10-06T09:04:27Z",
+    "updated_at": "2026-10-06T09:20:56Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-06T09:15:29Z",
+    "updated_at": "2026-10-06T09:29:10Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -148,8 +175,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31437,
-    "updated_at": "2026-10-06T08:48:57Z",
+    "stars": 31438,
+    "updated_at": "2026-10-06T09:19:41Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4443,
-    "updated_at": "2026-10-06T09:13:01Z",
+    "updated_at": "2026-10-06T09:24:23Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -193,7 +220,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11608,
+    "stars": 11609,
     "updated_at": "2026-10-06T08:30:38Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -230,7 +257,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-06T08:51:55Z",
+    "updated_at": "2026-10-06T09:18:03Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T08:22:06Z",
     "url": "https://github.com/ShafqaatMalik/agentic_rag_system"
-  },
-  {
-    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
-    "id": "tayyabimam1/awesome-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "tayyabimam1/awesome-ai-agent-stack",
-    "stars": 1,
-    "updated_at": "2026-10-06T08:17:50Z",
-    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -423,15 +441,6 @@
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7119,
-    "updated_at": "2026-10-06T09:05:49Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-06T07:55:45Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-10-06T07:55:24Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
   }
 ]
