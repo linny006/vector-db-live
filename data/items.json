@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-06T13:45:21Z",
+    "updated_at": "2026-10-06T14:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6244,
+    "updated_at": "2026-10-06T13:59:40Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-06T13:57:07Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7119,
+    "updated_at": "2026-10-06T13:53:34Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-06T13:53:21Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Top Search Analytics Integration (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-Search-Analytics-Integration",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Search-Analytics-Integration",
+    "stars": 1,
+    "updated_at": "2026-10-06T13:58:27Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Search-Analytics-Integration"
+  },
+  {
+    "description": "Hallucination guardrail for AI output about indexed documents. POST a claim, get PASS or FAIL with the exact source pass",
+    "id": "henry-hai/SentryQuery-AI",
+    "language": "Python",
+    "name": "henry-hai/SentryQuery-AI",
+    "stars": 0,
+    "updated_at": "2026-10-06T13:46:49Z",
+    "url": "https://github.com/henry-hai/SentryQuery-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T13:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -14,16 +77,25 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16866,
-    "updated_at": "2026-10-06T13:43:17Z",
+    "updated_at": "2026-10-06T13:58:31Z",
     "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34947,
+    "updated_at": "2026-10-06T13:59:41Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8323,
-    "updated_at": "2026-10-06T13:40:27Z",
+    "stars": 8324,
+    "updated_at": "2026-10-06T13:58:10Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -36,21 +108,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7119,
-    "updated_at": "2026-10-06T13:42:24Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31451,
-    "updated_at": "2026-10-06T13:36:57Z",
+    "stars": 31452,
+    "updated_at": "2026-10-06T13:57:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T13:33:18Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T13:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -95,7 +149,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-06T13:32:59Z",
+    "updated_at": "2026-10-06T14:00:19Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -198,15 +252,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "Top Search Analytics Integration (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-Search-Analytics-Integration",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Search-Analytics-Integration",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:19:14Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Search-Analytics-Integration"
-  },
-  {
     "description": "IntelliQA is a production-oriented Retrieval Augmented Generation (RAG) backend for grounded question answering over pri",
     "id": "abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence",
     "language": "HTML",
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2680,
-    "updated_at": "2026-10-06T13:15:09Z",
+    "updated_at": "2026-10-06T13:53:24Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -355,7 +400,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66750,
+    "stars": 66749,
     "updated_at": "2026-10-06T13:05:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -396,15 +441,6 @@
     "url": "https://github.com/K3Tamaa/Vector-Forge"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6244,
-    "updated_at": "2026-10-06T13:35:13Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
     "id": "sshisto/mnemo-mcp",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-06T13:00:45Z",
     "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-10-06T13:00:40Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-10-06T13:00:02Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-06T13:00:35Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-06T12:57:26Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   }
 ]
