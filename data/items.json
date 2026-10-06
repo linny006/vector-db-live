@@ -5,8 +5,197 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-06T07:45:22Z",
+    "updated_at": "2026-10-06T08:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 254,
+    "updated_at": "2026-10-06T07:59:16Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
+    "id": "Uncomfortable-filagree112/OpenViking",
+    "language": "\u2014",
+    "name": "Uncomfortable-filagree112/OpenViking",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:59:09Z",
+    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
+  },
+  {
+    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
+    "id": "cornellebivalved856/example-multimodal-rag",
+    "language": "Python",
+    "name": "cornellebivalved856/example-multimodal-rag",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:58:44Z",
+    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
+  },
+  {
+    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
+    "id": "gxc02529-jpg/KnowLoop",
+    "language": "Python",
+    "name": "gxc02529-jpg/KnowLoop",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:58:43Z",
+    "url": "https://github.com/gxc02529-jpg/KnowLoop"
+  },
+  {
+    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
+    "id": "Boney-massiveness357/ragscope",
+    "language": "Python",
+    "name": "Boney-massiveness357/ragscope",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:58:31Z",
+    "url": "https://github.com/Boney-massiveness357/ragscope"
+  },
+  {
+    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
+    "id": "conceited-watergillyflower311/meilisearch-desktop",
+    "language": "TypeScript",
+    "name": "conceited-watergillyflower311/meilisearch-desktop",
+    "stars": 1,
+    "updated_at": "2026-10-06T07:58:23Z",
+    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
+  },
+  {
+    "description": "Find which CPUs crash your PostgreSQL / pgvector Docker image with \"Illegal instruction\" (SIGILL): emulated x86 (AVX, AV",
+    "id": "intikhab49/pgvector-cpu-check",
+    "language": "Python",
+    "name": "intikhab49/pgvector-cpu-check",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:58:15Z",
+    "url": "https://github.com/intikhab49/pgvector-cpu-check"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7119,
+    "updated_at": "2026-10-06T07:59:32Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-06T07:55:45Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 3,
+    "updated_at": "2026-10-06T07:55:24Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:54:44Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
+    "id": "sshisto/mnemo-mcp",
+    "language": "Python",
+    "name": "sshisto/mnemo-mcp",
+    "stars": 2,
+    "updated_at": "2026-10-06T07:53:34Z",
+    "url": "https://github.com/sshisto/mnemo-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 3,
+    "updated_at": "2026-10-06T07:53:25Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-10-06T07:53:01Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
+    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "language": "HTML",
+    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:52:45Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:50:38Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:48:42Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1986,
+    "updated_at": "2026-10-06T07:48:20Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 2,
+    "updated_at": "2026-10-06T07:47:37Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-10-06T07:46:21Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T07:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -14,7 +203,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4443,
-    "updated_at": "2026-10-06T07:45:13Z",
+    "updated_at": "2026-10-06T07:56:31Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -23,7 +212,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-06T07:45:05Z",
+    "updated_at": "2026-10-06T07:48:33Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -95,17 +284,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9358,
-    "updated_at": "2026-10-06T07:35:05Z",
+    "updated_at": "2026-10-06T07:58:48Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "HTML",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:32:23Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -144,15 +324,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T07:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -160,15 +331,6 @@
     "stars": 1180,
     "updated_at": "2026-10-06T07:27:10Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Find which CPUs crash your PostgreSQL / pgvector Docker image with \"Illegal instruction\" (SIGILL): emulated x86 (AVX, AV",
-    "id": "intikhab49/pgvector-cpu-check",
-    "language": "Python",
-    "name": "intikhab49/pgvector-cpu-check",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:26:55Z",
-    "url": "https://github.com/intikhab49/pgvector-cpu-check"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -193,18 +355,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2675,
+    "stars": 2673,
     "updated_at": "2026-10-06T07:14:44Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7119,
-    "updated_at": "2026-10-06T07:43:02Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -248,7 +401,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8321,
-    "updated_at": "2026-10-06T07:41:16Z",
+    "updated_at": "2026-10-06T07:51:30Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -266,7 +419,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2038,
-    "updated_at": "2026-10-06T07:42:39Z",
+    "updated_at": "2026-10-06T07:57:00Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -293,160 +446,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 86,
-    "updated_at": "2026-10-06T06:53:03Z",
+    "updated_at": "2026-10-06T07:50:47Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Production-ready Haystack/LangChain pipelines for Hybrid & Parent-Child Retrieval, Diversity Filtering, MMR, Metadata Fi",
-    "id": "avnlp/vectordb",
-    "language": "Python",
-    "name": "avnlp/vectordb",
-    "stars": 7,
-    "updated_at": "2026-10-06T06:33:31Z",
-    "url": "https://github.com/avnlp/vectordb"
-  },
-  {
-    "description": "An Amazon S3 service implementation based on Netty.",
-    "id": "Robothy/local-s3",
-    "language": "Java",
-    "name": "Robothy/local-s3",
-    "stars": 75,
-    "updated_at": "2026-10-06T06:30:58Z",
-    "url": "https://github.com/Robothy/local-s3"
-  },
-  {
-    "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
-    "id": "pwolfey09-sketch/embedflow",
-    "language": "Python",
-    "name": "pwolfey09-sketch/embedflow",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:24:14Z",
-    "url": "https://github.com/pwolfey09-sketch/embedflow"
-  },
-  {
-    "description": "",
-    "id": "Harsha2620/gitcontext",
-    "language": "Python",
-    "name": "Harsha2620/gitcontext",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:23:48Z",
-    "url": "https://github.com/Harsha2620/gitcontext"
-  },
-  {
-    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
-    "id": "Constraintworthy6058/ai-github-repository-assistant",
-    "language": "TypeScript",
-    "name": "Constraintworthy6058/ai-github-repository-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:22:58Z",
-    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 1,
-    "updated_at": "2026-10-06T06:21:53Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:21:03Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:20:02Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:19:41Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 2,
-    "updated_at": "2026-10-06T06:19:31Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31427,
-    "updated_at": "2026-10-06T07:41:23Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:16:34Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-10-06T06:13:46Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:12:33Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-10-06T06:12:31Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-10-06T06:12:19Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-10-06T06:11:38Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
   }
 ]
