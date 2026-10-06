@@ -1,11 +1,65 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1180,
+    "updated_at": "2026-10-06T09:42:57Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A custom C++ vector database implementing HNSW, KD-Tree, and Brute-Force search. It serves as the backend for a fully lo",
+    "id": "Shashank17singh/Your-Own-AI",
+    "language": "C",
+    "name": "Shashank17singh/Your-Own-AI",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:40:32Z",
+    "url": "https://github.com/Shashank17singh/Your-Own-AI"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-06T09:40:26Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T09:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6473,
+    "updated_at": "2026-10-06T09:45:04Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T09:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7119,
-    "updated_at": "2026-10-06T09:29:07Z",
+    "updated_at": "2026-10-06T09:32:28Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -36,6 +90,15 @@
     "url": "https://github.com/mubashir-sohail-dev/ExamCraft"
   },
   {
+    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
+    "id": "Niccher/Chege-Photos-Platform",
+    "language": "PHP",
+    "name": "Niccher/Chege-Photos-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-06T09:25:00Z",
+    "url": "https://github.com/Niccher/Chege-Photos-Platform"
+  },
+  {
     "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
     "id": "felixzhu97/explore-ai",
     "language": "Java",
@@ -54,24 +117,6 @@
     "url": "https://github.com/sm-joe/localrag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T09:15:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T09:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
     "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
     "language": "HTML",
@@ -88,15 +133,6 @@
     "stars": 21,
     "updated_at": "2026-10-06T09:11:21Z",
     "url": "https://github.com/DHT-AI-Studio/RAPTOR"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-06T09:10:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "qdrant/skills",
     "stars": 254,
-    "updated_at": "2026-10-06T08:52:39Z",
+    "updated_at": "2026-10-06T09:37:17Z",
     "url": "https://github.com/qdrant/skills"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16865,
-    "updated_at": "2026-10-06T09:20:56Z",
+    "updated_at": "2026-10-06T09:45:18Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-06T09:29:10Z",
+    "updated_at": "2026-10-06T09:43:33Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31438,
-    "updated_at": "2026-10-06T09:19:41Z",
+    "updated_at": "2026-10-06T09:33:00Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T07:58:44Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
-    "id": "gxc02529-jpg/KnowLoop",
-    "language": "Python",
-    "name": "gxc02529-jpg/KnowLoop",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:58:43Z",
-    "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-10-06T07:58:31Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-10-06T07:58:23Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-06T07:55:45Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   }
 ]
