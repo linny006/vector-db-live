@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T17:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6475,
+    "updated_at": "2026-10-06T16:59:45Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-10-06T16:56:32Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "AI-powered support ticket system: inbound emails become tickets, auto-classified and resolved via a RAG pipeline grounde",
+    "id": "Shaz-gill/deskwise-app",
+    "language": "TypeScript",
+    "name": "Shaz-gill/deskwise-app",
+    "stars": 0,
+    "updated_at": "2026-10-06T16:55:10Z",
+    "url": "https://github.com/Shaz-gill/deskwise-app"
+  },
+  {
+    "description": "[NeurIPS'24] Approximate Nearest Neighbor search using reduced-rank regression, with extremely fast queries, tiny memory",
+    "id": "ejaasaari/lorann",
+    "language": "C++",
+    "name": "ejaasaari/lorann",
+    "stars": 52,
+    "updated_at": "2026-10-06T16:59:25Z",
+    "url": "https://github.com/ejaasaari/lorann"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-06T16:53:22Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "Build an amazing prototype for answering user queries on Indian Constitution and SC judgements",
+    "id": "vikassrivastava18/Law-law-land",
+    "language": "\u2014",
+    "name": "vikassrivastava18/Law-law-land",
+    "stars": 0,
+    "updated_at": "2026-10-06T16:51:08Z",
+    "url": "https://github.com/vikassrivastava18/Law-law-land"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 17,
+    "updated_at": "2026-10-06T16:50:25Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31470,
+    "updated_at": "2026-10-06T16:58:35Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
+    "id": "structured-world/coordinode-python",
+    "language": "Python",
+    "name": "structured-world/coordinode-python",
+    "stars": 0,
+    "updated_at": "2026-10-06T16:49:50Z",
+    "url": "https://github.com/structured-world/coordinode-python"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T16:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
     "id": "sh1v-max/AI-Backend",
     "language": "HTML",
@@ -36,30 +135,12 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T16:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T16:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Official Weaviate TypeScript Client",
     "id": "weaviate/typescript-client",
     "language": "TypeScript",
     "name": "weaviate/typescript-client",
     "stars": 101,
-    "updated_at": "2026-10-06T16:42:52Z",
+    "updated_at": "2026-10-06T16:56:20Z",
     "url": "https://github.com/weaviate/typescript-client"
   },
   {
@@ -81,15 +162,6 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
-    "description": "AI-powered support ticket system: inbound emails become tickets, auto-classified and resolved via a RAG pipeline grounde",
-    "id": "Shaz-gill/deskwise-app",
-    "language": "TypeScript",
-    "name": "Shaz-gill/deskwise-app",
-    "stars": 0,
-    "updated_at": "2026-10-06T16:24:46Z",
-    "url": "https://github.com/Shaz-gill/deskwise-app"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -97,15 +169,6 @@
     "stars": 17,
     "updated_at": "2026-10-06T16:23:17Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31469,
-    "updated_at": "2026-10-06T16:44:30Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "An AI assistant that answers employees' questions from their company's own documents, with citations, and escalates to a",
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T16:00:07Z",
     "url": "https://github.com/vikrantkalyan23/pgvector-in-ai-ml"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 17,
-    "updated_at": "2026-10-06T16:24:18Z",
-    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
@@ -374,7 +428,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9361,
-    "updated_at": "2026-10-06T16:43:38Z",
+    "updated_at": "2026-10-06T16:54:31Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-06T15:27:24Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34948,
-    "updated_at": "2026-10-06T16:30:19Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 895,
-    "updated_at": "2026-10-06T15:24:24Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46327,
-    "updated_at": "2026-10-06T15:23:38Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-06T15:23:31Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Build an amazing prototype for answering user queries on Indian Constitution and SC judgements",
-    "id": "vikassrivastava18/Law-law-land",
-    "language": "\u2014",
-    "name": "vikassrivastava18/Law-law-land",
-    "stars": 0,
-    "updated_at": "2026-10-06T15:22:31Z",
-    "url": "https://github.com/vikassrivastava18/Law-law-land"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
-    "id": "davidfernxndez/github-repository-rag",
-    "language": "Jupyter Notebook",
-    "name": "davidfernxndez/github-repository-rag",
-    "stars": 0,
-    "updated_at": "2026-10-06T15:18:26Z",
-    "url": "https://github.com/davidfernxndez/github-repository-rag"
   }
 ]
