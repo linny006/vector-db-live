@@ -1,5 +1,77 @@
 [
   {
+    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
+    "id": "structured-world/coordinode-python",
+    "language": "Python",
+    "name": "structured-world/coordinode-python",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:41:16Z",
+    "url": "https://github.com/structured-world/coordinode-python"
+  },
+  {
+    "description": "Legal AI platform with RAG over client documents, ground-truth evals for legal answer quality, structured document analy",
+    "id": "yagosamu/juri_ai",
+    "language": "Python",
+    "name": "yagosamu/juri_ai",
+    "stars": 0,
+    "updated_at": "2026-10-06T19:38:39Z",
+    "url": "https://github.com/yagosamu/juri_ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-06T19:36:48Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-06T19:35:47Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 352,
+    "updated_at": "2026-10-06T19:30:59Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T19:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T19:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31481,
+    "updated_at": "2026-10-06T19:36:14Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
     "id": "datris/datris-platform-oss",
     "language": "Scala",
@@ -14,7 +86,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-06T19:29:13Z",
+    "updated_at": "2026-10-06T19:41:22Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -27,20 +99,11 @@
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31480,
-    "updated_at": "2026-10-06T19:30:03Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2706,
+    "stars": 2708,
     "updated_at": "2026-10-06T19:23:52Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -50,35 +113,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2038,
-    "updated_at": "2026-10-06T19:16:53Z",
+    "updated_at": "2026-10-06T19:34:56Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
-    "id": "structured-world/coordinode-python",
-    "language": "Python",
-    "name": "structured-world/coordinode-python",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:23:45Z",
-    "url": "https://github.com/structured-world/coordinode-python"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T19:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T19:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LlamaIndex is the document processing platform for AI",
@@ -108,30 +144,12 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-06T19:07:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Legal AI platform with RAG over client documents, ground-truth evals for legal answer quality, structured document analy",
-    "id": "yagosamu/juri_ai",
-    "language": "Python",
-    "name": "yagosamu/juri_ai",
-    "stars": 0,
-    "updated_at": "2026-10-06T19:04:57Z",
-    "url": "https://github.com/yagosamu/juri_ai"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9363,
-    "updated_at": "2026-10-06T19:04:56Z",
+    "updated_at": "2026-10-06T19:36:51Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -148,7 +166,7 @@
     "id": "d3uceY/vectile",
     "language": "Go",
     "name": "d3uceY/vectile",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-10-06T18:53:21Z",
     "url": "https://github.com/d3uceY/vectile"
   },
@@ -238,7 +256,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 38765,
+    "stars": 38766,
     "updated_at": "2026-10-06T18:06:27Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34948,
-    "updated_at": "2026-10-06T19:09:34Z",
+    "updated_at": "2026-10-06T19:31:53Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T17:30:52Z",
     "url": "https://github.com/Shaz-gill/deskwise-app"
-  },
-  {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Mojo",
-    "name": "pavelhorak/pion",
-    "stars": 1,
-    "updated_at": "2026-10-06T19:11:38Z",
-    "url": "https://github.com/pavelhorak/pion"
   },
   {
     "description": "Turbovec MCP Server: A local Retrieval-Augmented Generation (RAG) tool that allows AI to seamlessly read, chunk, remembe",
@@ -439,14 +448,5 @@
     "stars": 13,
     "updated_at": "2026-10-06T16:43:15Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7118,
-    "updated_at": "2026-10-06T19:18:24Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
