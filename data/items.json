@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T12:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-06T12:30:12Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 122,
+    "updated_at": "2026-10-06T12:28:24Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
+    "id": "sm-joe/localrag",
+    "language": "Python",
+    "name": "sm-joe/localrag",
+    "stars": 0,
+    "updated_at": "2026-10-06T12:25:07Z",
+    "url": "https://github.com/sm-joe/localrag"
+  },
+  {
+    "description": "LocalRAG  is a local Retrieval-Augmented Generation (RAG) workbench. It is a fast and modular pipeline built for usage o",
+    "id": "JohannesWittmann9/LocalRAG",
+    "language": "Jupyter Notebook",
+    "name": "JohannesWittmann9/LocalRAG",
+    "stars": 1,
+    "updated_at": "2026-10-06T12:22:31Z",
+    "url": "https://github.com/JohannesWittmann9/LocalRAG"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6244,
+    "updated_at": "2026-10-06T12:25:30Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Complete RAG solution for beniger with vector database",
+    "id": "RakeshRoy1995/Rag-vector-db-beginer",
+    "language": "Python",
+    "name": "RakeshRoy1995/Rag-vector-db-beginer",
+    "stars": 0,
+    "updated_at": "2026-10-06T12:19:12Z",
+    "url": "https://github.com/RakeshRoy1995/Rag-vector-db-beginer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T12:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -14,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1182,
-    "updated_at": "2026-10-06T12:15:09Z",
+    "updated_at": "2026-10-06T12:24:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16865,
-    "updated_at": "2026-10-06T12:12:03Z",
+    "updated_at": "2026-10-06T12:28:04Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7119,
-    "updated_at": "2026-10-06T12:11:53Z",
+    "updated_at": "2026-10-06T12:29:35Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -43,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T12:09:56Z",
     "url": "https://github.com/Niccher/Chege-Photos-Platform"
-  },
-  {
-    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
-    "id": "sm-joe/localrag",
-    "language": "Python",
-    "name": "sm-joe/localrag",
-    "stars": 0,
-    "updated_at": "2026-10-06T12:07:15Z",
-    "url": "https://github.com/sm-joe/localrag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T12:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T12:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The Kubernetes operator for K8ssandra",
@@ -88,15 +133,6 @@
     "stars": 582,
     "updated_at": "2026-10-06T11:57:24Z",
     "url": "https://github.com/hhblaze/DBreeze"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6244,
-    "updated_at": "2026-10-06T12:08:45Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31446,
-    "updated_at": "2026-10-06T11:59:39Z",
+    "updated_at": "2026-10-06T12:28:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34945,
-    "updated_at": "2026-10-06T11:45:23Z",
+    "updated_at": "2026-10-06T12:27:33Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -157,7 +193,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2677,
+    "stars": 2678,
     "updated_at": "2026-10-06T11:42:38Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -203,7 +239,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-06T11:29:45Z",
+    "updated_at": "2026-10-06T12:24:45Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-06T11:04:25Z",
     "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-10-06T11:04:23Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "High-performance, SIMD-accelerated vector search engine and MCP server for .NET 10. Optimized for LLM embeddings and sem",
-    "id": "ian-cowley/Glacier.Vector",
-    "language": "C#",
-    "name": "ian-cowley/Glacier.Vector",
-    "stars": 6,
-    "updated_at": "2026-10-06T11:03:57Z",
-    "url": "https://github.com/ian-cowley/Glacier.Vector"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-10-06T11:03:56Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2124,
-    "updated_at": "2026-10-06T11:09:33Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   }
 ]
