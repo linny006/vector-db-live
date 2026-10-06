@@ -1,5 +1,68 @@
 [
   {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-06T02:11:18Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-06T02:09:35Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
+    "id": "tapiruslab/TapirusDB",
+    "language": "Rust",
+    "name": "tapiruslab/TapirusDB",
+    "stars": 0,
+    "updated_at": "2026-10-06T02:09:28Z",
+    "url": "https://github.com/tapiruslab/TapirusDB"
+  },
+  {
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 268,
+    "updated_at": "2026-10-06T02:04:06Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-06T02:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-06T02:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11606,
+    "updated_at": "2026-10-06T01:59:35Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
     "id": "kylebrodeur/modal-embedding-server",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Go",
     "name": "KeiaiLab/qdrant-operator",
     "stars": 0,
-    "updated_at": "2026-10-06T01:57:44Z",
+    "updated_at": "2026-10-06T02:08:47Z",
     "url": "https://github.com/KeiaiLab/qdrant-operator"
   },
   {
@@ -27,21 +90,12 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 268,
-    "updated_at": "2026-10-06T01:53:09Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1180,
-    "updated_at": "2026-10-06T01:57:44Z",
+    "updated_at": "2026-10-06T02:09:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -70,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-06T01:51:21Z",
     "url": "https://github.com/gay00ung/vecnook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-06T01:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-06T01:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
@@ -369,15 +405,6 @@
     "url": "https://github.com/hankamarvanova/unified-db"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11605,
-    "updated_at": "2026-10-06T01:59:35Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
     "id": "kldhsh123/Afterglow",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T00:53:28Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 2,
-    "updated_at": "2026-10-06T00:53:21Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-06T00:52:29Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
-    "id": "rao-studios/Sewn",
-    "language": "Swift",
-    "name": "rao-studios/Sewn",
-    "stars": 0,
-    "updated_at": "2026-10-06T00:50:49Z",
-    "url": "https://github.com/rao-studios/Sewn"
   }
 ]
