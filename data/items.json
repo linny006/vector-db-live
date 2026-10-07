@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-07T05:30:18Z",
+    "updated_at": "2026-10-07T05:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Sistema RAG basado en Python para interactuar con documentaci\u00f3n privada empresarial de forma segura, evitando alucinacio",
+    "id": "LeydLayd/RAG",
+    "language": "TypeScript",
+    "name": "LeydLayd/RAG",
+    "stars": 0,
+    "updated_at": "2026-10-07T05:43:39Z",
+    "url": "https://github.com/LeydLayd/RAG"
+  },
+  {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-07T05:42:03Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-07T05:39:55Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-07T05:35:18Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-07T05:31:39Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\ud83e\uddee Multi-agent AI math tutor built with LangGraph \u2014 CRAG retrieval, episodic & semantic long-term memory, Tavily MCP web ",
+    "id": "dikshant182004/MathTutor",
+    "language": "Python",
+    "name": "dikshant182004/MathTutor",
+    "stars": 3,
+    "updated_at": "2026-10-07T05:40:28Z",
+    "url": "https://github.com/dikshant182004/MathTutor"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T05:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -25,24 +88,6 @@
     "stars": 9,
     "updated_at": "2026-10-07T05:29:27Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "\ud83e\uddee Multi-agent AI math tutor built with LangGraph \u2014 CRAG retrieval, episodic & semantic long-term memory, Tavily MCP web ",
-    "id": "dikshant182004/MathTutor",
-    "language": "Python",
-    "name": "dikshant182004/MathTutor",
-    "stars": 3,
-    "updated_at": "2026-10-07T05:30:15Z",
-    "url": "https://github.com/dikshant182004/MathTutor"
-  },
-  {
-    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
-    "id": "YunanJeong/rag-git-docs",
-    "language": "Python",
-    "name": "YunanJeong/rag-git-docs",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:28:02Z",
-    "url": "https://github.com/YunanJeong/rag-git-docs"
   },
   {
     "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
@@ -76,7 +121,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2740,
+    "stars": 2742,
     "updated_at": "2026-10-07T05:20:55Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T05:15:54Z",
     "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T05:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
@@ -153,15 +189,6 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-07T05:09:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T05:08:46Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-07T05:07:49Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T04:59:37Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Sistema RAG basado en Python para interactuar con documentaci\u00f3n privada empresarial de forma segura, evitando alucinacio",
-    "id": "LeydLayd/RAG",
-    "language": "TypeScript",
-    "name": "LeydLayd/RAG",
-    "stars": 0,
-    "updated_at": "2026-10-07T04:59:34Z",
-    "url": "https://github.com/LeydLayd/RAG"
   },
   {
     "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
@@ -333,15 +342,6 @@
     "url": "https://github.com/persona-net/rag-pipeline-dashboard"
   },
   {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-07T04:48:43Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
     "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
     "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
     "language": "Python",
@@ -401,7 +401,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1187,
-    "updated_at": "2026-10-07T04:43:07Z",
+    "updated_at": "2026-10-07T05:32:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
