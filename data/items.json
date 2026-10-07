@@ -1,5 +1,95 @@
 [
   {
+    "description": "Document Q&A platform using embeddings, semantic search, RAG and source-backed answers.",
+    "id": "Cosmichomeless/Atlas-AI",
+    "language": "Python",
+    "name": "Cosmichomeless/Atlas-AI",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:56:31Z",
+    "url": "https://github.com/Cosmichomeless/Atlas-AI"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-07T06:54:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-07T06:54:32Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 269,
+    "updated_at": "2026-10-07T06:59:23Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6476,
+    "updated_at": "2026-10-07T06:57:44Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Build an amazing prototype for answering user queries on Indian Constitution and SC judgements",
+    "id": "vikassrivastava18/Law-law-land",
+    "language": "CSS",
+    "name": "vikassrivastava18/Law-law-land",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:52:54Z",
+    "url": "https://github.com/vikassrivastava18/Law-law-land"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 13,
+    "updated_at": "2026-10-07T06:52:26Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-10-07T06:57:16Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1638,
+    "updated_at": "2026-10-07T06:48:47Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T06:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,17 +104,8 @@
     "language": "Python",
     "name": "juandsep/document-rag-assistant",
     "stars": 1,
-    "updated_at": "2026-10-07T06:45:10Z",
+    "updated_at": "2026-10-07T06:58:12Z",
     "url": "https://github.com/juandsep/document-rag-assistant"
-  },
-  {
-    "description": "Document Q&A platform using embeddings, semantic search, RAG and source-backed answers.",
-    "id": "Cosmichomeless/Atlas-AI",
-    "language": "Python",
-    "name": "Cosmichomeless/Atlas-AI",
-    "stars": 0,
-    "updated_at": "2026-10-07T06:44:29Z",
-    "url": "https://github.com/Cosmichomeless/Atlas-AI"
   },
   {
     "description": "An AI chat assistant that remembers you across sessions. Built with Next.js, Gemini 2.0 Flash, and Qdrant vector search.",
@@ -40,7 +121,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2750,
+    "stars": 2753,
     "updated_at": "2026-10-07T06:40:22Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -99,15 +180,6 @@
     "url": "https://github.com/venom312004/AI-video-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T06:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -126,33 +198,6 @@
     "url": "https://github.com/litegraphdb/litegraph"
   },
   {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 13,
-    "updated_at": "2026-10-07T06:22:15Z",
-    "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 269,
-    "updated_at": "2026-10-07T06:40:18Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-07T06:14:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
     "id": "YunanJeong/rag-git-docs",
     "language": "Python",
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9368,
-    "updated_at": "2026-10-07T06:42:17Z",
+    "updated_at": "2026-10-07T06:55:59Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -202,7 +247,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66772,
+    "stars": 66774,
     "updated_at": "2026-10-07T05:59:23Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-07T05:57:47Z",
+    "updated_at": "2026-10-07T06:54:14Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 9,
     "updated_at": "2026-10-07T05:29:27Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1638,
-    "updated_at": "2026-10-07T05:46:48Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
@@ -369,15 +405,6 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6476,
-    "updated_at": "2026-10-07T06:42:25Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T05:02:41Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-10-07T04:59:37Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-10-07T04:59:10Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-10-07T04:58:57Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
   }
 ]
