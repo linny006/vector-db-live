@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-07 01:45 UTC
+> ⏰ Last updated: 2026-10-07 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,18 +43,18 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-07 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1185 | Java | 2026-10-07 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 3 | [saheb26/rag-redteam](https://github.com/saheb26/rag-redteam) | 0 | Python | 2026-10-07 | Open-source RAG prompt injection scanner. Red-team retrieval-augmented generation pipelines for OWASP LLM Top 10 indirec |
-| 4 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2039 | Go | 2026-10-07 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 5 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31498 | Python | 2026-10-07 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
-| 6 | [MrRezaeiUofT/AMG-RAG](https://github.com/MrRezaeiUofT/AMG-RAG) | 42 | Python | 2026-10-07 | AMG-RAG (Agentic Medical Graph-RAG) is a comprehensive framework that automates the construction and continuous updating |
-| 7 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1638 | Python | 2026-10-07 | The backend agents build with - Multimodal database, orchestration, and serving in one file |
-| 8 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46328 | Go | 2026-10-07 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-07 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 10 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2721 | Rust | 2026-10-07 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 11 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-07 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-07 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 13 | [Shaz-gill/deskwise-app](https://github.com/Shaz-gill/deskwise-app) | 0 | TypeScript | 2026-10-07 | AI-powered support ticket system with a grounded RAG pipeline (LangChain + Pinecone), auto-classification, and AI reply  |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-07 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31499 | Python | 2026-10-07 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
+| 4 | [Shaz-gill/deskwise-app](https://github.com/Shaz-gill/deskwise-app) | 0 | TypeScript | 2026-10-07 | AI-powered support ticket system with a grounded RAG pipeline (LangChain + Pinecone), auto-classification, and AI reply  |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-07 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1185 | Java | 2026-10-07 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 7 | [saheb26/rag-redteam](https://github.com/saheb26/rag-redteam) | 0 | Python | 2026-10-07 | Open-source RAG prompt injection scanner. Red-team retrieval-augmented generation pipelines for OWASP LLM Top 10 indirec |
+| 8 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2039 | Go | 2026-10-07 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 9 | [MrRezaeiUofT/AMG-RAG](https://github.com/MrRezaeiUofT/AMG-RAG) | 42 | Python | 2026-10-07 | AMG-RAG (Agentic Medical Graph-RAG) is a comprehensive framework that automates the construction and continuous updating |
+| 10 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1638 | Python | 2026-10-07 | The backend agents build with - Multimodal database, orchestration, and serving in one file |
+| 11 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46328 | Go | 2026-10-07 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 12 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2721 | Rust | 2026-10-07 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 13 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-07 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
 | 14 | [ishandutta2007/Awesome-Search-Analytics-Integration](https://github.com/ishandutta2007/Awesome-Search-Analytics-Integration) | 1 | — | 2026-10-07 | Top Search Analytics Integration (Opensource)  Star if you like it!  |
 | 15 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 20 | Rust | 2026-10-07 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
 | 16 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 66765 | JavaScript | 2026-10-07 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
