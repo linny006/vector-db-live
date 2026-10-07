@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti",
+    "id": "rvarun03/ARIOS",
+    "language": "Python",
+    "name": "rvarun03/ARIOS",
+    "stars": 0,
+    "updated_at": "2026-10-07T02:13:13Z",
+    "url": "https://github.com/rvarun03/ARIOS"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-07T02:05:53Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31499,
+    "updated_at": "2026-10-07T02:08:22Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 20,
+    "updated_at": "2026-10-07T02:03:00Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T02:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +63,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31499,
-    "updated_at": "2026-10-07T01:56:28Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI-powered support ticket system with a grounded RAG pipeline (LangChain + Pinecone), auto-classification, and AI reply ",
     "id": "Shaz-gill/deskwise-app",
     "language": "TypeScript",
@@ -36,21 +72,12 @@
     "url": "https://github.com/Shaz-gill/deskwise-app"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T01:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1185,
-    "updated_at": "2026-10-07T01:47:25Z",
+    "updated_at": "2026-10-07T02:14:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1638,
-    "updated_at": "2026-10-07T01:33:32Z",
+    "updated_at": "2026-10-07T02:04:57Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -103,7 +130,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2721,
+    "stars": 2722,
     "updated_at": "2026-10-07T01:29:55Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T01:13:15Z",
     "url": "https://github.com/ishandutta2007/Awesome-Search-Analytics-Integration"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 20,
-    "updated_at": "2026-10-07T01:03:24Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -157,7 +175,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8325,
+    "stars": 8324,
     "updated_at": "2026-10-07T00:37:17Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -176,7 +194,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 896,
-    "updated_at": "2026-10-07T01:56:38Z",
+    "updated_at": "2026-10-07T02:12:07Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-07T00:02:03Z",
     "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-07T00:01:55Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-10-07T00:01:52Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
   }
 ]
