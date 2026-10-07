@@ -1,11 +1,137 @@
 [
   {
+    "description": "Hexagonal RAG over your own codebase, with a deterministic, eval-first core.",
+    "id": "jordimarsal/codebaserag",
+    "language": "Python",
+    "name": "jordimarsal/codebaserag",
+    "stars": 0,
+    "updated_at": "2026-10-07T14:28:56Z",
+    "url": "https://github.com/jordimarsal/codebaserag"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-07T14:28:44Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-07T14:28:43Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 896,
+    "updated_at": "2026-10-07T14:28:25Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 12,
+    "updated_at": "2026-10-07T14:27:07Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-10-07T14:26:02Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-10-07T14:26:01Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 269,
+    "updated_at": "2026-10-07T14:26:00Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-07T14:25:29Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 96,
+    "updated_at": "2026-10-07T14:21:01Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31532,
+    "updated_at": "2026-10-07T14:28:51Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Local-first memory for AI agents as an MCP server: semantic + keyword recall, typed memories, graph relations, audit log",
+    "id": "rgolabs/myMem",
+    "language": "TypeScript",
+    "name": "rgolabs/myMem",
+    "stars": 0,
+    "updated_at": "2026-10-07T14:16:02Z",
+    "url": "https://github.com/rgolabs/myMem"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-07T14:15:51Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T14:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-07T14:15:22Z",
+    "updated_at": "2026-10-07T14:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,13 +153,13 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 896,
-    "updated_at": "2026-10-07T14:15:25Z",
-    "url": "https://github.com/orneryd/NornicDB"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34963,
+    "updated_at": "2026-10-07T14:22:39Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -45,40 +171,13 @@
     "url": "https://github.com/monaccode/astromesh"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31532,
-    "updated_at": "2026-10-07T14:12:29Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 269,
-    "updated_at": "2026-10-07T14:14:53Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-07T14:11:53Z",
+    "updated_at": "2026-10-07T14:28:07Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 96,
-    "updated_at": "2026-10-07T14:11:19Z",
-    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "Aspire integrations for Chroma and Chroma Cloud, built on ChromaDB.Client.",
@@ -103,7 +202,7 @@
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
-    "stars": 86,
+    "stars": 90,
     "updated_at": "2026-10-07T14:08:41Z",
     "url": "https://github.com/infino-ai/infino"
   },
@@ -140,26 +239,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1187,
-    "updated_at": "2026-10-07T14:12:40Z",
+    "updated_at": "2026-10-07T14:29:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-07T14:00:41Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T14:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -167,7 +248,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13208,
-    "updated_at": "2026-10-07T13:59:33Z",
+    "updated_at": "2026-10-07T14:18:41Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -184,7 +265,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2960,
+    "stars": 2964,
     "updated_at": "2026-10-07T13:52:22Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -212,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16872,
-    "updated_at": "2026-10-07T13:35:26Z",
+    "updated_at": "2026-10-07T14:28:58Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -241,15 +322,6 @@
     "stars": 2040,
     "updated_at": "2026-10-07T13:33:47Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-07T13:29:01Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -369,15 +441,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34962,
-    "updated_at": "2026-10-07T14:13:55Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
     "id": "Synchronic-leafbud824/skill-vault",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-07T13:09:16Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:09:09Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8332,
-    "updated_at": "2026-10-07T13:08:39Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 3,
-    "updated_at": "2026-10-07T13:08:18Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Self-hosted MCP server giving AI coding agents a shared, persistent memory over your code and docs (Qdrant, Ollama, tree",
-    "id": "BBerthod/mcp-vector-memory",
-    "language": "TypeScript",
-    "name": "BBerthod/mcp-vector-memory",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:08:01Z",
-    "url": "https://github.com/BBerthod/mcp-vector-memory"
-  },
-  {
-    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
-    "id": "DevAnimecx/free-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "DevAnimecx/free-ai-agent-stack",
-    "stars": 1,
-    "updated_at": "2026-10-07T13:07:42Z",
-    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6244,
-    "updated_at": "2026-10-07T14:09:12Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-10-07T13:05:36Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
