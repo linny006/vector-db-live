@@ -1,5 +1,86 @@
 [
   {
+    "description": "Document Q&A platform using embeddings, semantic search, RAG and source-backed answers.",
+    "id": "Cosmichomeless/Atlas-AI",
+    "language": "Python",
+    "name": "Cosmichomeless/Atlas-AI",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:29:27Z",
+    "url": "https://github.com/Cosmichomeless/Atlas-AI"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1187,
+    "updated_at": "2026-10-07T06:28:31Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 130,
+    "updated_at": "2026-10-07T06:27:24Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "AI-powered meeting/video assistant \u2014 transcribes audio/video (English + Hinglish), generates summaries, extracts action ",
+    "id": "venom312004/AI-video-assistant",
+    "language": "Python",
+    "name": "venom312004/AI-video-assistant",
+    "stars": 2,
+    "updated_at": "2026-10-07T06:27:19Z",
+    "url": "https://github.com/venom312004/AI-video-assistant"
+  },
+  {
+    "description": "RAG assistant for business Q&A over a document corpus, with cited sources. Pinecone retrieval, Ollama Cloud generation, ",
+    "id": "juandsep/document-rag-assistant",
+    "language": "Python",
+    "name": "juandsep/document-rag-assistant",
+    "stars": 1,
+    "updated_at": "2026-10-07T06:29:47Z",
+    "url": "https://github.com/juandsep/document-rag-assistant"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 13,
+    "updated_at": "2026-10-07T06:22:15Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 269,
+    "updated_at": "2026-10-07T06:20:31Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2748,
+    "updated_at": "2026-10-07T06:17:43Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T06:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,15 +90,6 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Document Q&A platform using embeddings, semantic search, RAG and source-backed answers.",
-    "id": "Cosmichomeless/Atlas-AI",
-    "language": "Python",
-    "name": "Cosmichomeless/Atlas-AI",
-    "stars": 0,
-    "updated_at": "2026-10-07T06:14:51Z",
-    "url": "https://github.com/Cosmichomeless/Atlas-AI"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -25,24 +97,6 @@
     "stars": 5,
     "updated_at": "2026-10-07T06:14:46Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "RAG assistant for business Q&A over a document corpus, with cited sources. Pinecone retrieval, Ollama Cloud generation, ",
-    "id": "juandsep/document-rag-assistant",
-    "language": "Python",
-    "name": "juandsep/document-rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-10-07T06:13:17Z",
-    "url": "https://github.com/juandsep/document-rag-assistant"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 13,
-    "updated_at": "2026-10-07T06:14:38Z",
-    "url": "https://github.com/devopam/MCPg"
   },
   {
     "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
@@ -58,8 +112,8 @@
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
-    "stars": 9367,
-    "updated_at": "2026-10-07T06:08:07Z",
+    "stars": 9368,
+    "updated_at": "2026-10-07T06:24:17Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -77,17 +131,8 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-10-07T06:01:56Z",
+    "updated_at": "2026-10-07T06:29:01Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T06:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\uddee Multi-agent AI math tutor built with LangGraph \u2014 CRAG retrieval, episodic & semantic long-term memory, Tavily MCP web ",
@@ -216,15 +261,6 @@
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2747,
-    "updated_at": "2026-10-07T05:20:55Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6476,
-    "updated_at": "2026-10-07T06:13:25Z",
+    "updated_at": "2026-10-07T06:19:03Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-07T04:53:48Z",
     "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-10-07T04:53:47Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-10-07T04:53:19Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-07T04:51:05Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-07T04:49:11Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
   }
 ]
