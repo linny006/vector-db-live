@@ -1,11 +1,56 @@
 [
   {
+    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
+    "id": "IdoY12/awesome-free-ai-apis",
+    "language": "JavaScript",
+    "name": "IdoY12/awesome-free-ai-apis",
+    "stars": 1,
+    "updated_at": "2026-10-07T11:09:18Z",
+    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-07T11:08:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
+    "id": "taladb/taladb",
+    "language": "Rust",
+    "name": "taladb/taladb",
+    "stars": 4,
+    "updated_at": "2026-10-07T11:03:44Z",
+    "url": "https://github.com/taladb/taladb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31518,
+    "updated_at": "2026-10-07T11:14:30Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T11:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-07T11:00:22Z",
+    "updated_at": "2026-10-07T11:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-07T10:56:26Z",
+    "updated_at": "2026-10-07T11:10:43Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7118,
-    "updated_at": "2026-10-07T11:00:24Z",
+    "updated_at": "2026-10-07T11:00:33Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-07T10:48:51Z",
+    "updated_at": "2026-10-07T11:12:07Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -81,21 +126,12 @@
     "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T10:46:03Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
     "id": "weaviate/docs",
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-10-07T10:55:07Z",
+    "updated_at": "2026-10-07T11:07:30Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -108,13 +144,13 @@
     "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-07T10:38:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11613,
+    "updated_at": "2026-10-07T10:39:05Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -135,21 +171,12 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31517,
-    "updated_at": "2026-10-07T10:57:04Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-07T10:57:59Z",
+    "updated_at": "2026-10-07T11:04:42Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -157,7 +184,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2855,
+    "stars": 2867,
     "updated_at": "2026-10-07T10:28:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -185,7 +212,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8330,
-    "updated_at": "2026-10-07T10:30:59Z",
+    "updated_at": "2026-10-07T11:00:26Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -212,7 +239,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-07T10:58:53Z",
+    "updated_at": "2026-10-07T11:02:26Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34960,
-    "updated_at": "2026-10-07T10:22:43Z",
+    "updated_at": "2026-10-07T11:01:37Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T09:47:26Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-07T09:45:34Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-10-07T09:44:09Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-07T09:42:24Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
   }
 ]
