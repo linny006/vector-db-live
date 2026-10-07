@@ -1,5 +1,50 @@
 [
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9369,
+    "updated_at": "2026-10-07T12:29:17Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-07T12:23:39Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4444,
+    "updated_at": "2026-10-07T12:29:20Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 371,
+    "updated_at": "2026-10-07T12:15:31Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T12:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -22,18 +67,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2908,
+    "stars": 2914,
     "updated_at": "2026-10-07T12:12:29Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 35,
-    "updated_at": "2026-10-07T12:11:23Z",
-    "url": "https://github.com/maximilien/weave-cli"
   },
   {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
@@ -50,7 +86,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.VectorData",
     "stars": 2,
-    "updated_at": "2026-10-07T12:07:28Z",
+    "updated_at": "2026-10-07T12:16:51Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1187,
-    "updated_at": "2026-10-07T12:10:59Z",
+    "updated_at": "2026-10-07T12:29:03Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -81,6 +117,15 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8331,
+    "updated_at": "2026-10-07T12:04:07Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
     "id": "GCTRL-TECH/platform",
     "language": "TypeScript",
@@ -99,15 +144,6 @@
     "url": "https://github.com/meilisearch/meilisearch-dotnet"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T12:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31522,
-    "updated_at": "2026-10-07T12:12:49Z",
+    "updated_at": "2026-10-07T12:29:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34961,
-    "updated_at": "2026-10-07T11:47:58Z",
+    "updated_at": "2026-10-07T12:23:00Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-10-07T11:03:44Z",
     "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4444,
-    "updated_at": "2026-10-07T12:08:21Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "The AI search platform",
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-07T12:11:59Z",
+    "updated_at": "2026-10-07T12:28:33Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T10:15:55Z",
     "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8330,
-    "updated_at": "2026-10-07T12:04:07Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T10:03:42Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-10-07T10:02:51Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-10-07T10:02:41Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   }
 ]
