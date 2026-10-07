@@ -1,5 +1,140 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T23:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-07T23:29:55Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-10-07T23:29:27Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-10-07T23:27:51Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-10-07T23:27:05Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-07T23:26:27Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-10-07T23:24:26Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Local-first memory for AI agents as an MCP server: semantic + keyword recall, typed memories, graph relations, audit log",
+    "id": "rgolabs/myMem",
+    "language": "TypeScript",
+    "name": "rgolabs/myMem",
+    "stars": 0,
+    "updated_at": "2026-10-07T23:24:22Z",
+    "url": "https://github.com/rgolabs/myMem"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 2,
+    "updated_at": "2026-10-07T23:22:43Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-10-07T23:22:13Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9371,
+    "updated_at": "2026-10-07T23:28:43Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-10-07T23:21:05Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-10-07T23:17:13Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 122,
+    "updated_at": "2026-10-07T23:15:36Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T23:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
     "id": "britorbs/consciousdb",
     "language": "Python",
@@ -25,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-10-07T23:14:36Z",
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "Local-first memory for AI agents as an MCP server: semantic + keyword recall, typed memories, graph relations, audit log",
-    "id": "rgolabs/myMem",
-    "language": "TypeScript",
-    "name": "rgolabs/myMem",
-    "stars": 0,
-    "updated_at": "2026-10-07T23:13:54Z",
-    "url": "https://github.com/rgolabs/myMem"
   },
   {
     "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
@@ -72,6 +198,15 @@
     "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
   },
   {
+    "description": "A retrieval-augmented generation CLI that answers questions about your own notes and cites the passage each answer came ",
+    "id": "Iddrisusalima/ask-my-docs",
+    "language": "Python",
+    "name": "Iddrisusalima/ask-my-docs",
+    "stars": 1,
+    "updated_at": "2026-10-07T23:10:16Z",
+    "url": "https://github.com/Iddrisusalima/ask-my-docs"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -88,15 +223,6 @@
     "stars": 12,
     "updated_at": "2026-10-07T23:07:29Z",
     "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 122,
-    "updated_at": "2026-10-07T23:07:35Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
     "description": "Learn TypeScript chatting effortlessly with AI",
@@ -126,15 +252,6 @@
     "url": "https://github.com/NGT-labs/NGT"
   },
   {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Mojo",
-    "name": "pavelhorak/pion",
-    "stars": 1,
-    "updated_at": "2026-10-07T23:06:11Z",
-    "url": "https://github.com/pavelhorak/pion"
-  },
-  {
     "description": "Core backend and node plugins for AI Crew Suite",
     "id": "ai-crew-suite/platform",
     "language": "TypeScript",
@@ -149,26 +266,8 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 20,
-    "updated_at": "2026-10-07T23:01:28Z",
+    "updated_at": "2026-10-07T23:30:28Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T23:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T23:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG assistant for business Q&A over a document corpus, with cited sources. Pinecone retrieval, Ollama Cloud generation, ",
@@ -230,7 +329,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 3107,
-    "updated_at": "2026-10-07T22:42:18Z",
+    "updated_at": "2026-10-07T23:27:11Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -266,7 +365,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6481,
-    "updated_at": "2026-10-07T23:00:23Z",
+    "updated_at": "2026-10-07T23:21:24Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -286,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T22:29:35Z",
     "url": "https://github.com/jayamvishnudeep/RAG"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-07T22:29:28Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -320,7 +410,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1187,
-    "updated_at": "2026-10-07T23:14:36Z",
+    "updated_at": "2026-10-07T23:29:26Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T22:03:50Z",
     "url": "https://github.com/Pradyothsp/GoVec"
-  },
-  {
-    "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-10-07T21:56:59Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-07T21:52:33Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13210,
-    "updated_at": "2026-10-07T21:48:54Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9371,
-    "updated_at": "2026-10-07T23:14:19Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 7,
-    "updated_at": "2026-10-07T21:36:26Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-10-07T21:33:02Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-10-07T21:32:50Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-07T21:32:27Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-10-07T21:29:59Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "A python library for efficient KNN search within metric spaces using multiple distance functions.",
-    "id": "pablocael/pynear",
-    "language": "C++",
-    "name": "pablocael/pynear",
-    "stars": 41,
-    "updated_at": "2026-10-07T21:22:43Z",
-    "url": "https://github.com/pablocael/pynear"
   }
 ]
