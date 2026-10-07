@@ -1,30 +1,12 @@
 [
   {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-07T16:45:49Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T16:45:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T16:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 896,
+    "updated_at": "2026-10-07T17:15:08Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
@@ -32,8 +14,107 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-10-07T16:46:41Z",
+    "updated_at": "2026-10-07T17:15:02Z",
     "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12994,
+    "updated_at": "2026-10-07T17:09:08Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-07T17:09:12Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3006,
+    "updated_at": "2026-10-07T17:03:50Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9369,
+    "updated_at": "2026-10-07T17:14:19Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Aspire integrations for Chroma and Chroma Cloud, built on ChromaDB.Client.",
+    "id": "ChromaDotNet/ChromaDB.Aspire",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Aspire",
+    "stars": 2,
+    "updated_at": "2026-10-07T16:51:42Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Aspire"
+  },
+  {
+    "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
+    "id": "Tribrix23/CleaveDB",
+    "language": "Python",
+    "name": "Tribrix23/CleaveDB",
+    "stars": 0,
+    "updated_at": "2026-10-07T16:50:14Z",
+    "url": "https://github.com/Tribrix23/CleaveDB"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6115,
+    "updated_at": "2026-10-07T16:49:52Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-07T16:49:34Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T16:46:48Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-07T17:08:09Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T17:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
@@ -52,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-10-07T16:41:05Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6115,
-    "updated_at": "2026-10-07T16:46:08Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Architecture, deployment, and CI/CD of an evidence-grounded RAG reference service. Docker, Helm/Kubernetes, multi-job CI",
@@ -85,8 +157,8 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6479,
-    "updated_at": "2026-10-07T16:35:28Z",
+    "stars": 6480,
+    "updated_at": "2026-10-07T17:13:01Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -117,21 +189,12 @@
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-07T16:31:30Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1187,
-    "updated_at": "2026-10-07T16:31:02Z",
+    "updated_at": "2026-10-07T17:12:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -171,15 +234,6 @@
     "url": "https://github.com/api-evangelist/myscale"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9368,
-    "updated_at": "2026-10-07T16:40:17Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
     "id": "GCTRL-TECH/platform",
     "language": "TypeScript",
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-07T16:30:31Z",
+    "updated_at": "2026-10-07T17:06:04Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Java",
     "name": "mayankgz/ai-knowledge-assistant",
     "stars": 0,
-    "updated_at": "2026-10-07T16:09:34Z",
+    "updated_at": "2026-10-07T16:48:50Z",
     "url": "https://github.com/mayankgz/ai-knowledge-assistant"
   },
   {
@@ -277,15 +331,6 @@
     "stars": 1993,
     "updated_at": "2026-10-07T16:04:15Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2998,
-    "updated_at": "2026-10-07T16:32:03Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
@@ -328,7 +373,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59507,
+    "stars": 59508,
     "updated_at": "2026-10-07T15:44:16Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -369,15 +414,6 @@
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 896,
-    "updated_at": "2026-10-07T15:42:36Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 131,
     "updated_at": "2026-10-07T15:21:37Z",
     "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
-    "description": "Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData.",
-    "id": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
-    "stars": 2,
-    "updated_at": "2026-10-07T15:19:22Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
-  },
-  {
-    "description": "Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData.",
-    "id": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
-    "stars": 2,
-    "updated_at": "2026-10-07T15:19:16Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-07T15:18:58Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
-    "id": "wickra-lib/wickra-genome",
-    "language": "Rust",
-    "name": "wickra-lib/wickra-genome",
-    "stars": 1,
-    "updated_at": "2026-10-07T15:18:51Z",
-    "url": "https://github.com/wickra-lib/wickra-genome"
   }
 ]
