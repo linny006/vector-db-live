@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-07T11:45:20Z",
+    "updated_at": "2026-10-07T12:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2040,
+    "updated_at": "2026-10-07T11:58:00Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31522,
+    "updated_at": "2026-10-07T11:55:04Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13207,
+    "updated_at": "2026-10-07T11:54:08Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-07T11:53:18Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T11:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -23,7 +68,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1187,
-    "updated_at": "2026-10-07T11:40:19Z",
+    "updated_at": "2026-10-07T11:59:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -72,15 +117,6 @@
     "url": "https://github.com/Cosmichomeless/Atlas-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T11:30:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -90,40 +126,13 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31519,
-    "updated_at": "2026-10-07T11:25:57Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-07T11:24:34Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9455,
-    "updated_at": "2026-10-07T11:23:57Z",
+    "updated_at": "2026-10-07T11:46:30Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13207,
-    "updated_at": "2026-10-07T11:23:34Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-07T11:36:48Z",
+    "updated_at": "2026-10-07T11:49:05Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -157,7 +166,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2897,
+    "stars": 2898,
     "updated_at": "2026-10-07T11:20:19Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34961,
-    "updated_at": "2026-10-07T11:44:26Z",
+    "updated_at": "2026-10-07T11:47:58Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-07T11:40:48Z",
+    "updated_at": "2026-10-07T11:59:21Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7118,
-    "updated_at": "2026-10-07T11:00:33Z",
+    "updated_at": "2026-10-07T11:56:19Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -293,7 +302,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8330,
-    "updated_at": "2026-10-07T11:30:25Z",
+    "updated_at": "2026-10-07T11:56:54Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -320,7 +329,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-07T11:45:14Z",
+    "updated_at": "2026-10-07T11:51:04Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -436,17 +445,8 @@
     "id": "litegraphdb/litegraph",
     "language": "C#",
     "name": "litegraphdb/litegraph",
-    "stars": 130,
+    "stars": 131,
     "updated_at": "2026-10-07T09:58:05Z",
     "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-10-07T09:57:11Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
   }
 ]
