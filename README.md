@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-07 09:15 UTC
+> ⏰ Last updated: 2026-10-07 09:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [infino-ai/infino](https://github.com/infino-ai/infino) | 86 | Rust | 2026-10-07 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
-| 2 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 269 | Rust | 2026-10-07 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 3 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 4 | Python | 2026-10-07 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-07 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [yangqiongai/yangqiong-ai](https://github.com/yangqiongai/yangqiong-ai) | 0 | Java | 2026-10-07 | 泱穹智能体平台（YangQiong Agent Platform）— 生产级开源 Agent 开发与管理平台 |
-| 6 | [Yacine-ai-tech/IntelAI](https://github.com/Yacine-ai-tech/IntelAI) | 0 | Python | 2026-10-07 | Sovereign enterprise RAG & analytics platform — role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25  |
-| 7 | [Abdelrahman-Amen/PixelRAG-Insights](https://github.com/Abdelrahman-Amen/PixelRAG-Insights) | 0 | Python | 2026-10-07 |   Pixel RAG is a multimodal RAG system that retrieves and understands information from documents, tables, charts, and im |
-| 8 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 7 | Go | 2026-10-07 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-07 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 10 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-07 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-07 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-07 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [infino-ai/infino](https://github.com/infino-ai/infino) | 86 | Rust | 2026-10-07 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
+| 4 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 269 | Rust | 2026-10-07 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 5 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 4 | Python | 2026-10-07 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-07 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [yangqiongai/yangqiong-ai](https://github.com/yangqiongai/yangqiong-ai) | 0 | Java | 2026-10-07 | 泱穹智能体平台（YangQiong Agent Platform）— 生产级开源 Agent 开发与管理平台 |
+| 8 | [Yacine-ai-tech/IntelAI](https://github.com/Yacine-ai-tech/IntelAI) | 0 | Python | 2026-10-07 | Sovereign enterprise RAG & analytics platform — role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25  |
+| 9 | [Abdelrahman-Amen/PixelRAG-Insights](https://github.com/Abdelrahman-Amen/PixelRAG-Insights) | 0 | Python | 2026-10-07 |   Pixel RAG is a multimodal RAG system that retrieves and understands information from documents, tables, charts, and im |
+| 10 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 7 | Go | 2026-10-07 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
 | 11 | [OmkarPalika/pgvector-filtered-recall](https://github.com/OmkarPalika/pgvector-filtered-recall) | 0 | Python | 2026-10-07 | Measured benchmark of pgvector HNSW recall collapse under WHERE filters — selectivity cliff, iterative_scan cost, and th |
 | 12 | [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) | 170 | Rust | 2026-10-07 | Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite |
 | 13 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9368 | Rust | 2026-10-07 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
