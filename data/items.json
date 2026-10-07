@@ -1,5 +1,77 @@
 [
   {
+    "description": "Core backend and node plugins for AI Crew Suite",
+    "id": "ai-crew-suite/platform",
+    "language": "TypeScript",
+    "name": "ai-crew-suite/platform",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:13:34Z",
+    "url": "https://github.com/ai-crew-suite/platform"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3335,
+    "updated_at": "2026-10-07T22:12:51Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:10:15Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-07T22:08:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Reproducible benchmarks of GoVec against Chroma and Qdrant: latency, recall, memory and cold start, on pinned Docker ima",
+    "id": "Pradyothsp/govec-bench",
+    "language": "Python",
+    "name": "Pradyothsp/govec-bench",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:07:44Z",
+    "url": "https://github.com/Pradyothsp/govec-bench"
+  },
+  {
+    "description": "Compact vector search engine in Go: HNSW, int8 quantization, hybrid search and crash-safe persistence, over REST and gRP",
+    "id": "Pradyothsp/GoVec",
+    "language": "Go",
+    "name": "Pradyothsp/GoVec",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:03:50Z",
+    "url": "https://github.com/Pradyothsp/GoVec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T22:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T22:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
     "id": "ricmed/zettel_app",
     "language": "Python",
@@ -36,40 +108,13 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T21:46:42Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T21:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9371,
-    "updated_at": "2026-10-07T21:56:24Z",
+    "updated_at": "2026-10-07T22:13:15Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-07T21:38:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
@@ -126,15 +171,6 @@
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
-    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-10-07T21:28:34Z",
-    "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
     "description": "A python library for efficient KNN search within metric spaces using multiple distance functions.",
     "id": "pablocael/pynear",
     "language": "C++",
@@ -148,7 +184,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31555,
+    "stars": 31557,
     "updated_at": "2026-10-07T21:21:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -203,7 +239,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1187,
-    "updated_at": "2026-10-07T21:55:47Z",
+    "updated_at": "2026-10-07T22:13:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T20:31:17Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 858,
-    "updated_at": "2026-10-07T20:27:47Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 4,
-    "updated_at": "2026-10-07T20:27:07Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-07T20:25:45Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-10-07T20:24:38Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
   }
 ]
