@@ -1,5 +1,77 @@
 [
   {
+    "description": "Production-ready AI Personal Assistant with Long-Term Memory using FastAPI, OpenAI, PostgreSQL, Qdrant and Docker.",
+    "id": "arnavshah038-jpg/AI-Personal-OS",
+    "language": "Python",
+    "name": "arnavshah038-jpg/AI-Personal-OS",
+    "stars": 0,
+    "updated_at": "2026-10-07T04:26:47Z",
+    "url": "https://github.com/arnavshah038-jpg/AI-Personal-OS"
+  },
+  {
+    "description": "Sistema RAG basado en Python para interactuar con documentaci\u00f3n privada empresarial de forma segura, evitando alucinacio",
+    "id": "LeydLayd/RAG",
+    "language": "TypeScript",
+    "name": "LeydLayd/RAG",
+    "stars": 0,
+    "updated_at": "2026-10-07T04:22:25Z",
+    "url": "https://github.com/LeydLayd/RAG"
+  },
+  {
+    "description": "Earnings call RAG pipeline: Hugging Face \u2192 chunk \u2192 pgvector + Chroma \u2192 FastAPI Q&A \u2192 92% retrieval hit rate",
+    "id": "Abhignachowdarykvl/sec-rag-knowledge-base",
+    "language": "Python",
+    "name": "Abhignachowdarykvl/sec-rag-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-10-07T04:21:54Z",
+    "url": "https://github.com/Abhignachowdarykvl/sec-rag-knowledge-base"
+  },
+  {
+    "description": "pgVector in AI and ML",
+    "id": "vikrantkalyan23/pgvector-in-ai-ml",
+    "language": "\u2014",
+    "name": "vikrantkalyan23/pgvector-in-ai-ml",
+    "stars": 0,
+    "updated_at": "2026-10-07T04:21:17Z",
+    "url": "https://github.com/vikrantkalyan23/pgvector-in-ai-ml"
+  },
+  {
+    "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
+    "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
+    "language": "Python",
+    "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
+    "stars": 2,
+    "updated_at": "2026-10-07T04:20:16Z",
+    "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-07T04:16:29Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T04:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T04:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9367,
-    "updated_at": "2026-10-07T04:12:56Z",
+    "updated_at": "2026-10-07T04:23:50Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1638,
-    "updated_at": "2026-10-07T04:07:29Z",
+    "updated_at": "2026-10-07T04:20:19Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -43,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T04:03:06Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T04:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T04:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -77,17 +131,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6476,
-    "updated_at": "2026-10-07T03:53:22Z",
+    "updated_at": "2026-10-07T04:27:36Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
-    "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
-    "language": "Python",
-    "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
-    "stars": 2,
-    "updated_at": "2026-10-07T03:47:25Z",
-    "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -95,7 +140,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8326,
-    "updated_at": "2026-10-07T03:47:19Z",
+    "updated_at": "2026-10-07T04:23:19Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2734,
-    "updated_at": "2026-10-07T04:06:33Z",
+    "updated_at": "2026-10-07T04:28:24Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -247,7 +292,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31503,
+    "stars": 31504,
     "updated_at": "2026-10-07T03:16:40Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -313,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T03:08:02Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Earnings call RAG pipeline: Hugging Face \u2192 chunk \u2192 pgvector + Chroma \u2192 FastAPI Q&A \u2192 92% retrieval hit rate",
-    "id": "Abhignachowdarykvl/sec-rag-knowledge-base",
-    "language": "Python",
-    "name": "Abhignachowdarykvl/sec-rag-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-10-07T03:08:01Z",
-    "url": "https://github.com/Abhignachowdarykvl/sec-rag-knowledge-base"
   },
   {
     "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T03:00:01Z",
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11612,
-    "updated_at": "2026-10-07T03:49:51Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Mojo",
-    "name": "pavelhorak/pion",
-    "stars": 1,
-    "updated_at": "2026-10-07T03:53:44Z",
-    "url": "https://github.com/pavelhorak/pion"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-07T02:58:08Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "Open-source RAG prompt injection scanner. Red-team retrieval-augmented generation pipelines for OWASP LLM Top 10 indirec",
-    "id": "saheb26/rag-redteam",
-    "language": "Python",
-    "name": "saheb26/rag-redteam",
-    "stars": 0,
-    "updated_at": "2026-10-07T02:58:07Z",
-    "url": "https://github.com/saheb26/rag-redteam"
   }
 ]
