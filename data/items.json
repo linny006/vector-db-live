@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-07T13:30:21Z",
+    "updated_at": "2026-10-07T13:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 269,
+    "updated_at": "2026-10-07T13:42:43Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-07T13:39:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2956,
+    "updated_at": "2026-10-07T13:36:50Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16871,
+    "updated_at": "2026-10-07T13:35:26Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Official Python SDK for the Pinecone vector database",
+    "id": "pinecone-io/python-sdk",
+    "language": "Python",
+    "name": "pinecone-io/python-sdk",
+    "stars": 453,
+    "updated_at": "2026-10-07T13:37:16Z",
+    "url": "https://github.com/pinecone-io/python-sdk"
+  },
+  {
+    "description": "Self-RAG microservice (FastAPI + LangGraph) with hybrid vector+graph retrieval, self-correction, human-in-the-loop revie",
+    "id": "kanderson-ai-dev/agentic-rag-system",
+    "language": "Python",
+    "name": "kanderson-ai-dev/agentic-rag-system",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:34:19Z",
+    "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2040,
+    "updated_at": "2026-10-07T13:33:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T13:30:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -23,7 +95,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7118,
-    "updated_at": "2026-10-07T13:27:54Z",
+    "updated_at": "2026-10-07T13:35:12Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -63,40 +135,13 @@
     "url": "https://github.com/davidfernxndez/github-repository-rag"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-07T13:22:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
     "id": "desikai-lab/Marrow",
     "language": "Python",
     "name": "desikai-lab/Marrow",
     "stars": 7,
-    "updated_at": "2026-10-07T13:20:03Z",
+    "updated_at": "2026-10-07T13:34:37Z",
     "url": "https://github.com/desikai-lab/Marrow"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2938,
-    "updated_at": "2026-10-07T13:19:03Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16871,
-    "updated_at": "2026-10-07T13:18:44Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T13:18:18Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T13:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31529,
-    "updated_at": "2026-10-07T13:19:47Z",
+    "updated_at": "2026-10-07T13:42:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34962,
-    "updated_at": "2026-10-07T13:29:12Z",
+    "updated_at": "2026-10-07T13:45:21Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -239,8 +275,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1187,
-    "updated_at": "2026-10-07T13:27:41Z",
+    "updated_at": "2026-10-07T13:45:21Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8332,
+    "updated_at": "2026-10-07T13:08:39Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
@@ -275,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-07T13:27:07Z",
+    "updated_at": "2026-10-07T13:45:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -401,52 +446,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-07T13:27:25Z",
+    "updated_at": "2026-10-07T13:42:47Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-10-07T12:50:32Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-07T12:48:52Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-10-07T12:48:19Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 11,
-    "updated_at": "2026-10-07T12:48:11Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-10-07T12:47:11Z",
-    "url": "https://github.com/ribagolx10/crossvector"
   }
 ]
