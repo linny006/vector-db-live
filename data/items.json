@@ -1,11 +1,56 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-07T00:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-07T00:35:14Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 896,
+    "updated_at": "2026-10-07T00:44:21Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Minimal PoC: DeepFace embeddings stored and searched in Weaviate, served by FastAPI, all in docker compose.",
+    "id": "fuad00/docker-deepface-weaviate-example",
+    "language": "Python",
+    "name": "fuad00/docker-deepface-weaviate-example",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:32:54Z",
+    "url": "https://github.com/fuad00/docker-deepface-weaviate-example"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T00:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31494,
-    "updated_at": "2026-10-07T00:27:03Z",
+    "stars": 31495,
+    "updated_at": "2026-10-07T00:45:12Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1185,
-    "updated_at": "2026-10-07T00:28:51Z",
+    "updated_at": "2026-10-07T00:44:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -142,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T00:16:41Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-07T00:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T00:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -329,7 +356,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8325,
-    "updated_at": "2026-10-07T00:01:06Z",
+    "updated_at": "2026-10-07T00:37:17Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9365,
-    "updated_at": "2026-10-07T00:00:43Z",
+    "updated_at": "2026-10-07T00:31:11Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-06T23:46:28Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Find out which CPU crashes your Postgres image before your users do. Runs it on 7 CPUs (2008 Intel to Raspberry Pi and G",
-    "id": "intikhab49/pgvector-cpu-check",
-    "language": "Python",
-    "name": "intikhab49/pgvector-cpu-check",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:45:05Z",
-    "url": "https://github.com/intikhab49/pgvector-cpu-check"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:40:42Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-06T23:40:35Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
   }
 ]
