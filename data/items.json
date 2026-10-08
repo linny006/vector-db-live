@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-08T06:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 1,
+    "updated_at": "2026-10-08T06:42:00Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-10-08T06:40:39Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Build an amazing prototype for answering user queries on Indian Constitution and SC judgements",
+    "id": "vikassrivastava18/Law-law-land",
+    "language": "HTML",
+    "name": "vikassrivastava18/Law-law-land",
+    "stars": 0,
+    "updated_at": "2026-10-08T06:37:55Z",
+    "url": "https://github.com/vikassrivastava18/Law-law-land"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-10-08T06:37:27Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Fluid is a Python agent framework for building LLM-powered agents that can discover, manage, and execute tools at runtim",
+    "id": "bravecoconut/fluid",
+    "language": "Python",
+    "name": "bravecoconut/fluid",
+    "stars": 0,
+    "updated_at": "2026-10-08T06:36:47Z",
+    "url": "https://github.com/bravecoconut/fluid"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-10-08T06:33:38Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-10-08T06:31:50Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-10-08T06:31:35Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T06:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
+    "id": "Tobiaszn8972/turboquant-gpu",
+    "language": "Python",
+    "name": "Tobiaszn8972/turboquant-gpu",
+    "stars": 3,
+    "updated_at": "2026-10-08T06:30:21Z",
+    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
+  },
+  {
     "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
     "id": "viviannenitrogenous100/mentedb",
     "language": "\u2014",
@@ -23,7 +122,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7120,
-    "updated_at": "2026-10-08T06:29:32Z",
+    "updated_at": "2026-10-08T06:36:51Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -126,15 +225,6 @@
     "url": "https://github.com/Dangamuwagedilshan/x0"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T06:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -142,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T06:15:27Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-08T06:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
@@ -320,7 +401,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9374,
-    "updated_at": "2026-10-08T06:15:14Z",
+    "updated_at": "2026-10-08T06:39:51Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 31,
     "updated_at": "2026-10-08T05:46:02Z",
     "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16874,
-    "updated_at": "2026-10-08T05:43:56Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "A single-file, embedded, inspectable vector database. Rust, Python and a CLI.",
-    "id": "recerndata/recern-vector",
-    "language": "Rust",
-    "name": "recerndata/recern-vector",
-    "stars": 0,
-    "updated_at": "2026-10-08T05:29:40Z",
-    "url": "https://github.com/recerndata/recern-vector"
-  },
-  {
-    "description": "",
-    "id": "Harsha2620/gitcontext",
-    "language": "Python",
-    "name": "Harsha2620/gitcontext",
-    "stars": 0,
-    "updated_at": "2026-10-08T05:24:48Z",
-    "url": "https://github.com/Harsha2620/gitcontext"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1994,
-    "updated_at": "2026-10-08T05:24:33Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-08T05:21:57Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6482,
-    "updated_at": "2026-10-08T06:20:12Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 38945,
-    "updated_at": "2026-10-08T05:18:34Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2040,
-    "updated_at": "2026-10-08T06:24:14Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-08T05:11:58Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
