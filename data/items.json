@@ -1,12 +1,129 @@
 [
   {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 5,
+    "updated_at": "2026-10-08T19:13:46Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "An open-source toolkit for building document-grounded AI assistants, with hosted deployment tools in development.",
+    "id": "virajmhatre415/ragforge-ai",
+    "language": "\u2014",
+    "name": "virajmhatre415/ragforge-ai",
+    "stars": 0,
+    "updated_at": "2026-10-08T19:12:03Z",
+    "url": "https://github.com/virajmhatre415/ragforge-ai"
+  },
+  {
+    "description": "Self-hosted platform to specialize and serve private LLMs \u2014 Knowledge (RAG) + Fine-tuning (LoRA/QLoRA), including image-",
+    "id": "yielab/adapta",
+    "language": "Python",
+    "name": "yielab/adapta",
+    "stars": 2,
+    "updated_at": "2026-10-08T19:11:20Z",
+    "url": "https://github.com/yielab/adapta"
+  },
+  {
+    "description": "A curated collection of Docker Compose configurations for popular services like PostgreSQL, Kafka, Elasticsearch, Redis,",
+    "id": "karailker/awesome-docker-compose",
+    "language": "Shell",
+    "name": "karailker/awesome-docker-compose",
+    "stars": 9,
+    "updated_at": "2026-10-08T19:10:49Z",
+    "url": "https://github.com/karailker/awesome-docker-compose"
+  },
+  {
+    "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
+    "id": "SwineCoder101/hvec",
+    "language": "Rust",
+    "name": "SwineCoder101/hvec",
+    "stars": 0,
+    "updated_at": "2026-10-08T19:10:31Z",
+    "url": "https://github.com/SwineCoder101/hvec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-08T19:08:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
+    "id": "api-evangelist/zilliz",
+    "language": "\u2014",
+    "name": "api-evangelist/zilliz",
+    "stars": 0,
+    "updated_at": "2026-10-08T19:06:20Z",
+    "url": "https://github.com/api-evangelist/zilliz"
+  },
+  {
+    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
+    "id": "kunal-rathore-111/Neptune",
+    "language": "TypeScript",
+    "name": "kunal-rathore-111/Neptune",
+    "stars": 1,
+    "updated_at": "2026-10-08T19:05:15Z",
+    "url": "https://github.com/kunal-rathore-111/Neptune"
+  },
+  {
+    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
+    "id": "datris/datris-platform-oss",
+    "language": "Scala",
+    "name": "datris/datris-platform-oss",
+    "stars": 12,
+    "updated_at": "2026-10-08T19:05:09Z",
+    "url": "https://github.com/datris/datris-platform-oss"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1189,
+    "updated_at": "2026-10-08T19:11:16Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T19:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9378,
+    "updated_at": "2026-10-08T19:15:19Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-08T19:00:24Z",
+    "updated_at": "2026-10-08T19:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3380,
+    "updated_at": "2026-10-08T18:59:59Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
@@ -16,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T18:54:23Z",
     "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
-    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
-    "id": "kunal-rathore-111/Neptune",
-    "language": "TypeScript",
-    "name": "kunal-rathore-111/Neptune",
-    "stars": 1,
-    "updated_at": "2026-10-08T18:53:45Z",
-    "url": "https://github.com/kunal-rathore-111/Neptune"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -54,24 +162,6 @@
     "url": "https://github.com/Jayneel467/Genai_series"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T18:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-08T18:44:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "OpenEverest provider for Milvus",
     "id": "openeverest/provider-milvus",
     "language": "Go",
@@ -81,13 +171,13 @@
     "url": "https://github.com/openeverest/provider-milvus"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
     "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3379,
-    "updated_at": "2026-10-08T18:59:59Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "name": "RediSearch/RediSearch",
+    "stars": 6245,
+    "updated_at": "2026-10-08T18:42:03Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -95,17 +185,8 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 7,
-    "updated_at": "2026-10-08T18:42:04Z",
+    "updated_at": "2026-10-08T19:14:23Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
-    "id": "SwineCoder101/hvec",
-    "language": "Rust",
-    "name": "SwineCoder101/hvec",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:38:07Z",
-    "url": "https://github.com/SwineCoder101/hvec"
   },
   {
     "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
@@ -122,7 +203,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6487,
-    "updated_at": "2026-10-08T18:36:38Z",
+    "updated_at": "2026-10-08T19:03:51Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -153,24 +234,6 @@
     "url": "https://github.com/kanu-priy/ClauseAI"
   },
   {
-    "description": "An open-source toolkit for building document-grounded AI assistants, with hosted deployment tools in development.",
-    "id": "virajmhatre415/ragforge-ai",
-    "language": "\u2014",
-    "name": "virajmhatre415/ragforge-ai",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:31:40Z",
-    "url": "https://github.com/virajmhatre415/ragforge-ai"
-  },
-  {
-    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
-    "id": "datris/datris-platform-oss",
-    "language": "Scala",
-    "name": "datris/datris-platform-oss",
-    "stars": 12,
-    "updated_at": "2026-10-08T18:55:57Z",
-    "url": "https://github.com/datris/datris-platform-oss"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -196,15 +259,6 @@
     "stars": 13218,
     "updated_at": "2026-10-08T18:13:10Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 5,
-    "updated_at": "2026-10-08T18:11:42Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "The AI search platform",
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T17:54:30Z",
     "url": "https://github.com/pwolfey09-sketch/embedflow"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9377,
-    "updated_at": "2026-10-08T18:57:09Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "",
@@ -378,15 +423,6 @@
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1189,
-    "updated_at": "2026-10-08T18:05:29Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
     "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
     "language": "Python",
@@ -409,44 +445,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31736,
+    "stars": 31738,
     "updated_at": "2026-10-08T17:37:16Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2045,
-    "updated_at": "2026-10-08T17:55:31Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Spring Data Reindexer",
-    "id": "evgeniycheban/spring-data-reindexer",
-    "language": "Java",
-    "name": "evgeniycheban/spring-data-reindexer",
-    "stars": 24,
-    "updated_at": "2026-10-08T17:35:34Z",
-    "url": "https://github.com/evgeniycheban/spring-data-reindexer"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-10-08T17:35:25Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-10-08T17:35:23Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
   }
 ]
