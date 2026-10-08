@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-08T05:00:21Z",
+    "updated_at": "2026-10-08T05:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-08T05:11:58Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-08T05:10:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A single-file, embedded, inspectable vector database. Rust, Python and a CLI.",
@@ -14,8 +32,53 @@
     "language": "Rust",
     "name": "recerndata/recern-vector",
     "stars": 0,
-    "updated_at": "2026-10-08T05:00:17Z",
+    "updated_at": "2026-10-08T05:08:08Z",
     "url": "https://github.com/recerndata/recern-vector"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7119,
+    "updated_at": "2026-10-08T05:06:48Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 118,
+    "updated_at": "2026-10-08T05:04:53Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 20,
+    "updated_at": "2026-10-08T05:03:56Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
+    "id": "hypercrux/hypercrux",
+    "language": "Go",
+    "name": "hypercrux/hypercrux",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:00:38Z",
+    "url": "https://github.com/hypercrux/hypercrux"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T05:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -36,15 +99,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 20,
-    "updated_at": "2026-10-08T04:51:13Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
     "id": "devharis99/vectra",
     "language": "Python",
@@ -54,15 +108,6 @@
     "url": "https://github.com/devharis99/vectra"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T04:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
     "id": "Raynerhalfandhalf451/writeback",
     "language": "JavaScript",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T04:45:05Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-08T04:44:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
@@ -320,7 +356,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9374,
-    "updated_at": "2026-10-08T04:47:01Z",
+    "updated_at": "2026-10-08T05:03:01Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -358,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T04:15:34Z",
     "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-08T04:13:45Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T04:07:52Z",
     "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:05:15Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "Sistema RAG basado en Python para interactuar con documentaci\u00f3n privada empresarial de forma segura, evitando alucinacio",
-    "id": "LeydLayd/RAG",
-    "language": "TypeScript",
-    "name": "LeydLayd/RAG",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:02:59Z",
-    "url": "https://github.com/LeydLayd/RAG"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 13,
-    "updated_at": "2026-10-08T04:02:17Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
   }
 ]
