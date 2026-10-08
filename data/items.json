@@ -1,11 +1,128 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1189,
+    "updated_at": "2026-10-08T14:29:31Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11619,
+    "updated_at": "2026-10-08T14:28:11Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-10-08T14:27:40Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59519,
+    "updated_at": "2026-10-08T14:25:36Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2125,
+    "updated_at": "2026-10-08T14:27:56Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 7,
+    "updated_at": "2026-10-08T14:20:33Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-10-08T14:18:34Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "A python library for efficient KNN search within metric spaces using multiple distance functions.",
+    "id": "pablocael/pynear",
+    "language": "C++",
+    "name": "pablocael/pynear",
+    "stars": 43,
+    "updated_at": "2026-10-08T14:18:10Z",
+    "url": "https://github.com/pablocael/pynear"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-10-08T14:18:05Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Autonomous Multi-Agent AI RAG Security Sentry & Guardrail Engine in Rust with Axum REST API and Tailwind CSS SOC Sent",
+    "id": "RifkyA911/NovaSentry",
+    "language": "HTML",
+    "name": "RifkyA911/NovaSentry",
+    "stars": 0,
+    "updated_at": "2026-10-08T14:16:53Z",
+    "url": "https://github.com/RifkyA911/NovaSentry"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1996,
+    "updated_at": "2026-10-08T14:16:10Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
+    "id": "GoogleCloudPlatform/spanner-bb-samples",
+    "language": "Python",
+    "name": "GoogleCloudPlatform/spanner-bb-samples",
+    "stars": 6,
+    "updated_at": "2026-10-08T14:15:41Z",
+    "url": "https://github.com/GoogleCloudPlatform/spanner-bb-samples"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T14:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-08T14:15:23Z",
+    "updated_at": "2026-10-08T14:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +149,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2043,
-    "updated_at": "2026-10-08T14:13:07Z",
+    "updated_at": "2026-10-08T14:26:15Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -68,7 +185,7 @@
     "language": "Rust",
     "name": "Cognilogical/NeuroStrata",
     "stars": 5,
-    "updated_at": "2026-10-08T14:08:54Z",
+    "updated_at": "2026-10-08T14:24:12Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
@@ -90,24 +207,6 @@
     "url": "https://github.com/pathwaycom/serviette"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T14:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Autonomous Multi-Agent AI RAG Security Sentry & Guardrail Engine in Rust with Axum REST API and Tailwind CSS SOC Sent",
-    "id": "RifkyA911/NovaSentry",
-    "language": "HTML",
-    "name": "RifkyA911/NovaSentry",
-    "stars": 0,
-    "updated_at": "2026-10-08T13:53:23Z",
-    "url": "https://github.com/RifkyA911/NovaSentry"
-  },
-  {
     "description": "An Enterprise-Grade Advanced RAG Engine powered by FastAPI, LangChain, Qdrant, and React. Engineered with Hybrid Search ",
     "id": "MeetRamani28/Nexus-RAG",
     "language": "TypeScript",
@@ -121,7 +220,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3310,
+    "stars": 3329,
     "updated_at": "2026-10-08T13:51:07Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -142,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T13:46:50Z",
     "url": "https://github.com/scientistayat-engineer/lexicon-docqa"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1189,
-    "updated_at": "2026-10-08T14:13:37Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Enterprise RAG Platform API \u2014 Production-grade document intelligence backend in Python/FastAPI with JWT auth, async Post",
@@ -178,15 +268,6 @@
     "stars": 9377,
     "updated_at": "2026-10-08T13:35:26Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11618,
-    "updated_at": "2026-10-08T13:33:05Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -266,7 +347,7 @@
     "language": "Python",
     "name": "Cosmichomeless/Atlas-AI",
     "stars": 0,
-    "updated_at": "2026-10-08T13:56:27Z",
+    "updated_at": "2026-10-08T14:27:27Z",
     "url": "https://github.com/Cosmichomeless/Atlas-AI"
   },
   {
@@ -356,7 +437,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-08T14:04:14Z",
+    "updated_at": "2026-10-08T14:29:52Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-08T13:01:34Z",
     "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "autonomous web developer orchestration with python. now has hierarchical RAG using vector databases",
-    "id": "samettemizer/nesti",
-    "language": "Python",
-    "name": "samettemizer/nesti",
-    "stars": 0,
-    "updated_at": "2026-10-08T12:57:24Z",
-    "url": "https://github.com/samettemizer/nesti"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 353,
-    "updated_at": "2026-10-08T12:52:08Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-08T13:38:38Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
-    "id": "hypercrux/hypercrux",
-    "language": "Go",
-    "name": "hypercrux/hypercrux",
-    "stars": 0,
-    "updated_at": "2026-10-08T12:38:28Z",
-    "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 112,
-    "updated_at": "2026-10-08T12:33:12Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 897,
-    "updated_at": "2026-10-08T14:05:19Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13217,
-    "updated_at": "2026-10-08T12:23:07Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-08T13:27:10Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 15,
-    "updated_at": "2026-10-08T12:10:44Z",
-    "url": "https://github.com/ppossanzini/Jigen"
   }
 ]
