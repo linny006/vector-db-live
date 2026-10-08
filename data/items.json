@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-08T10:00:22Z",
+    "updated_at": "2026-10-08T10:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2040,
+    "updated_at": "2026-10-08T10:14:30Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI-powered document Q&A with RAG. Upload PDF, TXT or Markdown, search semantically with ChromaDB and MiniLM embeddings, ",
+    "id": "scientistayat-engineer/lexicon-docqa",
+    "language": "Python",
+    "name": "scientistayat-engineer/lexicon-docqa",
+    "stars": 1,
+    "updated_at": "2026-10-08T10:13:15Z",
+    "url": "https://github.com/scientistayat-engineer/lexicon-docqa"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3166,
+    "updated_at": "2026-10-08T10:13:11Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "An advanced RAG system utililzing text datasets chunked dynamically. Engineered a dual-stage retrieval pipeline using al",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-10-08T10:11:55Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "Document Q&A platform using embeddings, semantic search, RAG and source-backed answers.",
+    "id": "Cosmichomeless/Atlas-AI",
+    "language": "Python",
+    "name": "Cosmichomeless/Atlas-AI",
+    "stars": 0,
+    "updated_at": "2026-10-08T10:11:41Z",
+    "url": "https://github.com/Cosmichomeless/Atlas-AI"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-08T10:10:56Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-08T10:09:46Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4444,
+    "updated_at": "2026-10-08T10:10:20Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-08T10:09:04Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6116,
+    "updated_at": "2026-10-08T10:07:48Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59512,
+    "updated_at": "2026-10-08T10:07:12Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-08T10:01:38Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T10:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -50,17 +167,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-08T09:54:12Z",
+    "updated_at": "2026-10-08T10:06:03Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "AI-powered document Q&A with RAG. Upload PDF, TXT or Markdown, search semantically with ChromaDB and MiniLM embeddings, ",
-    "id": "scientistayat-engineer/lexicon-docqa",
-    "language": "Python",
-    "name": "scientistayat-engineer/lexicon-docqa",
-    "stars": 1,
-    "updated_at": "2026-10-08T09:53:23Z",
-    "url": "https://github.com/scientistayat-engineer/lexicon-docqa"
   },
   {
     "description": "Jigen DB is vector database written from scratch in c#",
@@ -108,15 +216,6 @@
     "url": "https://github.com/threefigure-achromia682/ai-memory"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3158,
-    "updated_at": "2026-10-08T09:47:20Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
     "id": "alegameplays14-del/leica-infinity-2026",
     "language": "\u2014",
@@ -142,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T09:45:57Z",
     "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T09:45:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
@@ -194,7 +284,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7121,
-    "updated_at": "2026-10-08T09:52:00Z",
+    "updated_at": "2026-10-08T10:13:27Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -207,15 +297,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-08T09:42:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
     "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
     "language": "Jupyter Notebook",
@@ -223,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T09:42:13Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Document Q&A platform using embeddings, semantic search, RAG and source-backed answers.",
-    "id": "Cosmichomeless/Atlas-AI",
-    "language": "Python",
-    "name": "Cosmichomeless/Atlas-AI",
-    "stars": 0,
-    "updated_at": "2026-10-08T09:41:46Z",
-    "url": "https://github.com/Cosmichomeless/Atlas-AI"
   },
   {
     "description": "A research intelligence system that transforms Scopus bibliographic data into structured, searchable, and AI-ready insig",
@@ -376,77 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-08T09:32:40Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-10-08T09:32:28Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-10-08T09:28:45Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-10-08T09:27:56Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3679,
-    "updated_at": "2026-10-08T09:27:50Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-10-08T09:26:42Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "Agentic Optimizer and Toolkit for experimentation using the Oracle AI Database",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 101,
-    "updated_at": "2026-10-08T09:25:13Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-10-08T09:22:26Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
-    "id": "BiggerCap/agentops-hub",
-    "language": "TypeScript",
-    "name": "BiggerCap/agentops-hub",
-    "stars": 2,
-    "updated_at": "2026-10-08T09:21:28Z",
-    "url": "https://github.com/BiggerCap/agentops-hub"
   }
 ]
