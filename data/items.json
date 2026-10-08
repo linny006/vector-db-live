@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6485,
+    "updated_at": "2026-10-08T18:29:29Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
+    "id": "SwineCoder101/hvec",
+    "language": "Rust",
+    "name": "SwineCoder101/hvec",
+    "stars": 0,
+    "updated_at": "2026-10-08T18:23:56Z",
+    "url": "https://github.com/SwineCoder101/hvec"
+  },
+  {
+    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
+    "id": "kunal-rathore-111/Neptune",
+    "language": "TypeScript",
+    "name": "kunal-rathore-111/Neptune",
+    "stars": 1,
+    "updated_at": "2026-10-08T18:23:20Z",
+    "url": "https://github.com/kunal-rathore-111/Neptune"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-08T18:21:00Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1638,
+    "updated_at": "2026-10-08T18:18:13Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "An open-source toolkit for building document-grounded AI assistants, with hosted deployment tools in development.",
+    "id": "virajmhatre415/ragforge-ai",
+    "language": "\u2014",
+    "name": "virajmhatre415/ragforge-ai",
+    "stars": 0,
+    "updated_at": "2026-10-08T18:16:30Z",
+    "url": "https://github.com/virajmhatre415/ragforge-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T18:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 3379,
-    "updated_at": "2026-10-08T18:13:56Z",
+    "updated_at": "2026-10-08T18:29:32Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Rust CLI for benchmarking homomorphic vector compression against real RAG pipelines: compare codecs, embedding models an",
-    "id": "SwineCoder101/hvec",
-    "language": "Rust",
-    "name": "SwineCoder101/hvec",
-    "stars": 0,
-    "updated_at": "2026-10-08T18:09:40Z",
-    "url": "https://github.com/SwineCoder101/hvec"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -63,15 +117,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-08T18:05:48Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
@@ -79,24 +124,6 @@
     "stars": 26,
     "updated_at": "2026-10-08T18:07:30Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
-    "id": "kunal-rathore-111/Neptune",
-    "language": "TypeScript",
-    "name": "kunal-rathore-111/Neptune",
-    "stars": 1,
-    "updated_at": "2026-10-08T18:02:47Z",
-    "url": "https://github.com/kunal-rathore-111/Neptune"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T18:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -117,6 +144,15 @@
     "url": "https://github.com/Shotza247/Milvus_4RAG_Template"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34980,
+    "updated_at": "2026-10-08T17:57:36Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
     "id": "pwolfey09-sketch/embedflow",
     "language": "Python",
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9377,
-    "updated_at": "2026-10-08T18:13:42Z",
+    "updated_at": "2026-10-08T18:27:33Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T17:45:30Z",
     "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6485,
-    "updated_at": "2026-10-08T18:08:14Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-08T17:25:20Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-10-08T17:25:06Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 112,
-    "updated_at": "2026-10-08T17:24:20Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1999,
-    "updated_at": "2026-10-08T17:19:53Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
   }
 ]
