@@ -1,11 +1,65 @@
 [
   {
+    "description": "A vector store in pure, safe Rust: flat and Vamana graph search, int8 and binary codes with exact rescoring, filters, in",
+    "id": "mesa-hills-research/caprock",
+    "language": "Rust",
+    "name": "mesa-hills-research/caprock",
+    "stars": 0,
+    "updated_at": "2026-10-08T21:28:44Z",
+    "url": "https://github.com/mesa-hills-research/caprock"
+  },
+  {
+    "description": "A curated collection of Docker Compose configurations for popular services like PostgreSQL, Kafka, Elasticsearch, Redis,",
+    "id": "karailker/awesome-docker-compose",
+    "language": "Shell",
+    "name": "karailker/awesome-docker-compose",
+    "stars": 9,
+    "updated_at": "2026-10-08T21:28:35Z",
+    "url": "https://github.com/karailker/awesome-docker-compose"
+  },
+  {
+    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
+    "id": "datris/datris-platform-oss",
+    "language": "Scala",
+    "name": "datris/datris-platform-oss",
+    "stars": 12,
+    "updated_at": "2026-10-08T21:25:25Z",
+    "url": "https://github.com/datris/datris-platform-oss"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9379,
+    "updated_at": "2026-10-08T21:29:27Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 371,
+    "updated_at": "2026-10-08T21:18:23Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T21:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-08T21:15:22Z",
+    "updated_at": "2026-10-08T21:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,17 +68,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7121,
-    "updated_at": "2026-10-08T21:14:56Z",
+    "updated_at": "2026-10-08T21:17:43Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A curated collection of Docker Compose configurations for popular services like PostgreSQL, Kafka, Elasticsearch, Redis,",
-    "id": "karailker/awesome-docker-compose",
-    "language": "Shell",
-    "name": "karailker/awesome-docker-compose",
-    "stars": 9,
-    "updated_at": "2026-10-08T21:14:15Z",
-    "url": "https://github.com/karailker/awesome-docker-compose"
   },
   {
     "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6490,
-    "updated_at": "2026-10-08T21:15:15Z",
+    "updated_at": "2026-10-08T21:20:43Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -54,21 +99,12 @@
     "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
   },
   {
-    "description": "Program that lets you ask questions about your documents and audio or video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 371,
-    "updated_at": "2026-10-08T21:10:19Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
     "id": "lancedb/docs",
     "language": "Python",
     "name": "lancedb/docs",
     "stars": 11,
-    "updated_at": "2026-10-08T21:08:46Z",
+    "updated_at": "2026-10-08T21:22:02Z",
     "url": "https://github.com/lancedb/docs"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-10-08T21:02:24Z",
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T21:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Official Terraform provider for Pinecone ",
@@ -400,7 +427,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 52442,
+    "stars": 52443,
     "updated_at": "2026-10-08T20:45:50Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T20:45:29Z",
     "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 897,
-    "updated_at": "2026-10-08T21:04:13Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-10-08T20:44:36Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34981,
-    "updated_at": "2026-10-08T21:03:15Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
