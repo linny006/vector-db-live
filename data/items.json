@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-08T13:41:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An Enterprise-Grade Advanced RAG Engine powered by FastAPI, LangChain, Qdrant, and React. Engineered with Hybrid Search ",
+    "id": "MeetRamani28/Nexus-RAG",
+    "language": "TypeScript",
+    "name": "MeetRamani28/Nexus-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-08T13:36:34Z",
+    "url": "https://github.com/MeetRamani28/Nexus-RAG"
+  },
+  {
+    "description": "RAG workshop: document loading & chunking, embeddings, vector databases, reranking and RAGAS evaluation.",
+    "id": "nitinkukreja0709/RAIT_RAG_WORKSHOP",
+    "language": "Jupyter Notebook",
+    "name": "nitinkukreja0709/RAIT_RAG_WORKSHOP",
+    "stars": 0,
+    "updated_at": "2026-10-08T13:35:37Z",
+    "url": "https://github.com/nitinkukreja0709/RAIT_RAG_WORKSHOP"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 0,
+    "updated_at": "2026-10-08T13:31:26Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T13:30:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 3,
     "updated_at": "2026-10-08T13:30:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3295,
+    "updated_at": "2026-10-08T13:29:50Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "\u57fa\u4e8e Spring AI 1.1.8 + DeepSeek + Milvus 2.5 \u7684 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf",
@@ -45,15 +99,6 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3286,
-    "updated_at": "2026-10-08T13:29:50Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Multi-modal product catalog platform \u2014 CLIP + BGE embeddings in Qdrant, hybrid retrieval with cross-encoder reranking, a",
     "id": "Vikas9892/product_intelligence",
     "language": "Python",
@@ -77,17 +122,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1189,
-    "updated_at": "2026-10-08T13:29:33Z",
+    "updated_at": "2026-10-08T13:41:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-08T13:22:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Build an amazing prototype for answering user queries on Indian Constitution and SC judgements",
@@ -162,15 +198,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T13:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
     "id": "DevAnimecx/free-ai-agent-stack",
     "language": "TypeScript",
@@ -203,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8335,
-    "updated_at": "2026-10-08T13:23:07Z",
+    "updated_at": "2026-10-08T13:36:09Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-08T13:11:53Z",
+    "updated_at": "2026-10-08T13:38:31Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-08T13:10:12Z",
+    "updated_at": "2026-10-08T13:38:38Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 897,
-    "updated_at": "2026-10-08T12:57:53Z",
+    "updated_at": "2026-10-08T13:41:23Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16875,
-    "updated_at": "2026-10-08T13:30:33Z",
+    "updated_at": "2026-10-08T13:42:33Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T11:48:42Z",
     "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:48:14Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:46:16Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Production-ready, modular RAG template featuring Milvus Standalone, 2-Stage Cross-Encoder Reranking, LLM Synthesis (gpt-",
-    "id": "Shotza247/Milvus_4RAG_Template",
-    "language": "Python",
-    "name": "Shotza247/Milvus_4RAG_Template",
-    "stars": 0,
-    "updated_at": "2026-10-08T11:45:18Z",
-    "url": "https://github.com/Shotza247/Milvus_4RAG_Template"
   }
 ]
