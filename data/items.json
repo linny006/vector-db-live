@@ -1,21 +1,66 @@
 [
   {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-08T19:27:46Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "An open-source toolkit for building document-grounded AI assistants, with hosted deployment tools in development.",
+    "id": "virajmhatre415/ragforge-ai",
+    "language": "HTML",
+    "name": "virajmhatre415/ragforge-ai",
+    "stars": 0,
+    "updated_at": "2026-10-08T19:22:27Z",
+    "url": "https://github.com/virajmhatre415/ragforge-ai"
+  },
+  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
     "name": "Cognilogical/NeuroStrata",
     "stars": 5,
-    "updated_at": "2026-10-08T19:13:46Z",
+    "updated_at": "2026-10-08T19:19:50Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
-    "description": "An open-source toolkit for building document-grounded AI assistants, with hosted deployment tools in development.",
-    "id": "virajmhatre415/ragforge-ai",
-    "language": "\u2014",
-    "name": "virajmhatre415/ragforge-ai",
-    "stars": 0,
-    "updated_at": "2026-10-08T19:12:03Z",
-    "url": "https://github.com/virajmhatre415/ragforge-ai"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3380,
+    "updated_at": "2026-10-08T19:23:19Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-08T19:17:11Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T19:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-08T19:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted platform to specialize and serve private LLMs \u2014 Knowledge (RAG) + Fine-tuning (LoRA/QLoRA), including image-",
@@ -32,7 +77,7 @@
     "language": "Shell",
     "name": "karailker/awesome-docker-compose",
     "stars": 9,
-    "updated_at": "2026-10-08T19:10:49Z",
+    "updated_at": "2026-10-08T19:22:10Z",
     "url": "https://github.com/karailker/awesome-docker-compose"
   },
   {
@@ -86,17 +131,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1189,
-    "updated_at": "2026-10-08T19:11:16Z",
+    "updated_at": "2026-10-08T19:27:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T19:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -104,26 +140,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9378,
-    "updated_at": "2026-10-08T19:15:19Z",
+    "updated_at": "2026-10-08T19:19:31Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-08T19:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3380,
-    "updated_at": "2026-10-08T18:59:59Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6487,
-    "updated_at": "2026-10-08T19:03:51Z",
+    "updated_at": "2026-10-08T19:29:15Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 7121,
     "updated_at": "2026-10-08T18:08:52Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-08T18:42:13Z",
-    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "Production-ready, modular RAG template featuring Milvus Standalone, 2-Stage Cross-Encoder Reranking, LLM Synthesis (gpt-",
@@ -378,15 +387,6 @@
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-08T17:44:10Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
     "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
     "language": "Jupyter Notebook",
@@ -445,7 +445,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31738,
+    "stars": 31739,
     "updated_at": "2026-10-08T17:37:16Z",
     "url": "https://github.com/topoteretes/cognee"
   }
