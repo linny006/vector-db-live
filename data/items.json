@@ -1,12 +1,102 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-08T11:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1189,
+    "updated_at": "2026-10-08T11:00:04Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 111,
+    "updated_at": "2026-10-08T10:59:27Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "3D visualization of embeddings from ChromaDB using UMAP and HDBSCAN",
+    "id": "koprjaa/chromadb-embedding-visualizer",
+    "language": "Python",
+    "name": "koprjaa/chromadb-embedding-visualizer",
+    "stars": 0,
+    "updated_at": "2026-10-08T10:56:39Z",
+    "url": "https://github.com/koprjaa/chromadb-embedding-visualizer"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 95,
+    "updated_at": "2026-10-08T10:54:51Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-10-08T10:54:27Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Autonomous local financial research assistant that ingests financial news, extracts tickers, fetches real-time market da",
+    "id": "rimiya366/fininsight-ai-financial-research-assistant",
+    "language": "Python",
+    "name": "rimiya366/fininsight-ai-financial-research-assistant",
+    "stars": 3,
+    "updated_at": "2026-10-08T10:52:12Z",
+    "url": "https://github.com/rimiya366/fininsight-ai-financial-research-assistant"
+  },
+  {
     "description": "Document Q&A platform using embeddings, semantic search, RAG and source-backed answers.",
     "id": "Cosmichomeless/Atlas-AI",
     "language": "Python",
     "name": "Cosmichomeless/Atlas-AI",
     "stars": 0,
-    "updated_at": "2026-10-08T10:45:17Z",
+    "updated_at": "2026-10-08T10:59:42Z",
     "url": "https://github.com/Cosmichomeless/Atlas-AI"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-08T10:48:00Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3175,
+    "updated_at": "2026-10-08T10:46:05Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T10:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-10-08T10:45:14Z",
+    "updated_at": "2026-10-08T10:57:22Z",
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-08T10:44:44Z",
+    "updated_at": "2026-10-08T10:50:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -43,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-10-08T10:42:24Z",
     "url": "https://github.com/hypercrux/hypercrux"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34975,
+    "updated_at": "2026-10-08T10:41:53Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -61,15 +160,6 @@
     "stars": 11,
     "updated_at": "2026-10-08T10:38:31Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3173,
-    "updated_at": "2026-10-08T10:38:02Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "The AI search platform",
@@ -99,30 +189,12 @@
     "url": "https://github.com/MaxineXiong/AI-Research-and-Learning-Copilot"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T10:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-08T10:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-08T10:31:35Z",
+    "updated_at": "2026-10-08T10:54:05Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -139,7 +211,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31611,
+    "stars": 31616,
     "updated_at": "2026-10-08T10:23:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -203,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-08T10:37:24Z",
+    "updated_at": "2026-10-08T10:57:57Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -221,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16874,
-    "updated_at": "2026-10-08T10:39:56Z",
+    "updated_at": "2026-10-08T10:45:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -248,7 +320,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46340,
-    "updated_at": "2026-10-08T09:59:39Z",
+    "updated_at": "2026-10-08T10:49:39Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -351,15 +423,6 @@
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1189,
-    "updated_at": "2026-10-08T09:44:58Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -367,15 +430,6 @@
     "stars": 13215,
     "updated_at": "2026-10-08T09:44:09Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34974,
-    "updated_at": "2026-10-08T10:41:53Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T09:41:18Z",
     "url": "https://github.com/CodeByAbi/AI-Bibliometrics"
-  },
-  {
-    "description": "Modular RAG API for document processing, semantic search, and LLM-powered Q&A.",
-    "id": "MOH-YAHIA/Mini-RAG",
-    "language": "Python",
-    "name": "MOH-YAHIA/Mini-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-08T09:40:52Z",
-    "url": "https://github.com/MOH-YAHIA/Mini-RAG"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-10-08T09:39:24Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-10-08T09:38:12Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-10-08T09:38:11Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-08T09:38:06Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-10-08T09:37:56Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
   }
 ]
