@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-08T18:45:22Z",
+    "updated_at": "2026-10-08T19:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "HTML",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-10-08T18:54:23Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
+    "id": "kunal-rathore-111/Neptune",
+    "language": "TypeScript",
+    "name": "kunal-rathore-111/Neptune",
+    "stars": 1,
+    "updated_at": "2026-10-08T18:53:45Z",
+    "url": "https://github.com/kunal-rathore-111/Neptune"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16875,
+    "updated_at": "2026-10-08T18:52:09Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-10-08T18:50:09Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "A beginner-friendly, hands-on Generative AI course with 16 guided Jupyter notebooks covering LLMs, LangChain, embeddings",
+    "id": "Jayneel467/Genai_series",
+    "language": "Jupyter Notebook",
+    "name": "Jayneel467/Genai_series",
+    "stars": 0,
+    "updated_at": "2026-10-08T18:49:55Z",
+    "url": "https://github.com/Jayneel467/Genai_series"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T18:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -16,15 +70,6 @@
     "stars": 5,
     "updated_at": "2026-10-08T18:44:20Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
-    "id": "kunal-rathore-111/Neptune",
-    "language": "TypeScript",
-    "name": "kunal-rathore-111/Neptune",
-    "stars": 1,
-    "updated_at": "2026-10-08T18:43:48Z",
-    "url": "https://github.com/kunal-rathore-111/Neptune"
   },
   {
     "description": "OpenEverest provider for Milvus",
@@ -41,7 +86,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 3379,
-    "updated_at": "2026-10-08T18:39:33Z",
+    "updated_at": "2026-10-08T18:59:59Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -70,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-10-08T18:36:51Z",
     "url": "https://github.com/api-evangelist/vectorize-io"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6487,
+    "updated_at": "2026-10-08T18:36:38Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
@@ -113,26 +167,8 @@
     "language": "Scala",
     "name": "datris/datris-platform-oss",
     "stars": 12,
-    "updated_at": "2026-10-08T18:31:16Z",
+    "updated_at": "2026-10-08T18:55:57Z",
     "url": "https://github.com/datris/datris-platform-oss"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T18:30:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6485,
-    "updated_at": "2026-10-08T18:36:38Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9377,
-    "updated_at": "2026-10-08T18:34:42Z",
+    "updated_at": "2026-10-08T18:57:09Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -373,7 +409,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31735,
+    "stars": 31736,
     "updated_at": "2026-10-08T17:37:16Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T17:35:23Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-10-08T17:35:10Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-10-08T17:33:07Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-10-08T17:32:26Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-10-08T17:32:12Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   }
 ]
