@@ -1,5 +1,59 @@
 [
   {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-08T03:36:42Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 269,
+    "updated_at": "2026-10-08T03:36:28Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:36:21Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "- ",
+    "id": "Scaibu/llm-observability-platform",
+    "language": "Python",
+    "name": "Scaibu/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-10-08T03:35:35Z",
+    "url": "https://github.com/Scaibu/llm-observability-platform"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 105,
+    "updated_at": "2026-10-08T03:34:24Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T03:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,15 +81,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 104,
-    "updated_at": "2026-10-08T03:20:22Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "Benchmark for vector databases.",
     "id": "zilliztech/VectorDBBench",
     "language": "Python",
@@ -45,15 +90,6 @@
     "url": "https://github.com/zilliztech/VectorDBBench"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T03:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -61,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-10-08T03:14:18Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
-    "id": "YunanJeong/rag-git-docs",
-    "language": "Python",
-    "name": "YunanJeong/rag-git-docs",
-    "stars": 0,
-    "updated_at": "2026-10-08T03:11:35Z",
-    "url": "https://github.com/YunanJeong/rag-git-docs"
   },
   {
     "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9374,
-    "updated_at": "2026-10-08T03:28:49Z",
+    "updated_at": "2026-10-08T03:41:08Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -112,18 +139,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3115,
+    "stars": 3120,
     "updated_at": "2026-10-08T02:58:54Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 269,
-    "updated_at": "2026-10-08T02:58:53Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -133,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-08T02:57:37Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-08T02:35:42Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-08T01:15:12Z",
     "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-10-08T01:14:43Z",
-    "url": "https://github.com/rein98/PsyChat"
   }
 ]
