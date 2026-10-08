@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SwineCoder101/hvec](https://github.com/SwineCoder101/hvec) | 0 | Rust | 2026-10-08 | Rust CLI for benchmarking homomorphic vector compression against real RAG pipelines: compare codecs, embedding models an |
-| 2 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6482 | TypeScript | 2026-10-08 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 3 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 18 | JavaScript | 2026-10-08 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
-| 4 | [Filippo-Venturini/ctxvault](https://github.com/Filippo-Venturini/ctxvault) | 63 | Python | 2026-10-08 | Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query. |
-| 5 | [vikassrivastava18/Law-law-land](https://github.com/vikassrivastava18/Law-law-land) | 0 | Python | 2026-10-08 | Build an amazing prototype for answering user queries on Indian Constitution and SC judgements |
-| 6 | [RifkyA911/NovaSentry](https://github.com/RifkyA911/NovaSentry) | 0 | Rust | 2026-10-08 | 🛡️ Autonomous Multi-Agent AI RAG Security Sentry & Guardrail Engine in Rust with Axum REST API and Tailwind CSS SOC Sent |
-| 7 | [api-evangelist/myscale](https://github.com/api-evangelist/myscale) | 0 | — | 2026-10-08 | MyScale — independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b |
-| 8 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 371 | Python | 2026-10-08 | Program that lets you ask questions about your documents and audio or video files. |
-| 9 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-10-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [SwineCoder101/hvec](https://github.com/SwineCoder101/hvec) | 0 | Rust | 2026-10-08 | Rust CLI for benchmarking homomorphic vector compression against real RAG pipelines: compare codecs, embedding models an |
+| 4 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6482 | TypeScript | 2026-10-08 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
+| 5 | [Dakera-AI/dakera-deploy](https://github.com/Dakera-AI/dakera-deploy) | 18 | JavaScript | 2026-10-08 | Self-hosted Dakera AI memory server — Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring. |
+| 6 | [Filippo-Venturini/ctxvault](https://github.com/Filippo-Venturini/ctxvault) | 63 | Python | 2026-10-08 | Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query. |
+| 7 | [vikassrivastava18/Law-law-land](https://github.com/vikassrivastava18/Law-law-land) | 0 | Python | 2026-10-08 | Build an amazing prototype for answering user queries on Indian Constitution and SC judgements |
+| 8 | [RifkyA911/NovaSentry](https://github.com/RifkyA911/NovaSentry) | 0 | Rust | 2026-10-08 | 🛡️ Autonomous Multi-Agent AI RAG Security Sentry & Guardrail Engine in Rust with Axum REST API and Tailwind CSS SOC Sent |
+| 9 | [api-evangelist/myscale](https://github.com/api-evangelist/myscale) | 0 | — | 2026-10-08 | MyScale — independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b |
+| 10 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 371 | Python | 2026-10-08 | Program that lets you ask questions about your documents and audio or video files. |
+| 11 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-10-08 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 12 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34977 | Rust | 2026-10-08 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 13 | [Cognipeer/console](https://github.com/Cognipeer/console) | 26 | TypeScript | 2026-10-08 | Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub,  |
 | 14 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-10-08 | Milvus — independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source |
