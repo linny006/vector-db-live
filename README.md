@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-08 07:59 UTC
+> ⏰ Last updated: 2026-10-08 08:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 3140 | Rust | 2026-10-08 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 2 | [gxc02529-jpg/KnowLoop](https://github.com/gxc02529-jpg/KnowLoop) | 0 | Python | 2026-10-08 | Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and  |
-| 3 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 274 | Go | 2026-10-08 | AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too |
-| 4 | [nnethercott/hannoy](https://github.com/nnethercott/hannoy) | 87 | Rust | 2026-10-08 | Production-ready KV-backed HNSW implementation in Rust using LMDB |
-| 5 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 269 | Rust | 2026-10-08 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 7 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 121 | MDX | 2026-10-08 | The documentation for SurrealDB, built with Vike, React, and Mantine |
-| 8 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13214 | Java | 2026-10-08 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
-| 9 | [FraiseHQ/fraise](https://github.com/FraiseHQ/fraise) | 7 | Go | 2026-10-08 | In-memory knowledge store for AI agents |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [FraiseHQ/fraise](https://github.com/FraiseHQ/fraise) | 7 | Go | 2026-10-08 | In-memory knowledge store for AI agents |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 3140 | Rust | 2026-10-08 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 5 | [gxc02529-jpg/KnowLoop](https://github.com/gxc02529-jpg/KnowLoop) | 0 | Python | 2026-10-08 | Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and  |
+| 6 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 274 | Go | 2026-10-08 | AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too |
+| 7 | [nnethercott/hannoy](https://github.com/nnethercott/hannoy) | 87 | Rust | 2026-10-08 | Production-ready KV-backed HNSW implementation in Rust using LMDB |
+| 8 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 269 | Rust | 2026-10-08 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 10 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 121 | MDX | 2026-10-08 | The documentation for SurrealDB, built with Vike, React, and Mantine |
+| 11 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13214 | Java | 2026-10-08 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
 | 12 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2040 | Go | 2026-10-08 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 13 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6244 | Rust | 2026-10-08 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
 | 14 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 11 | JavaScript | 2026-10-08 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
 | 15 | [ppossanzini/Jigen](https://github.com/ppossanzini/Jigen) | 15 | C# | 2026-10-08 | Jigen DB is vector database written from scratch in c# |
 | 16 | [infino-ai/infino](https://github.com/infino-ai/infino) | 109 | Rust | 2026-10-08 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
-| 17 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31592 | Python | 2026-10-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
+| 17 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31593 | Python | 2026-10-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
 | 18 | [recerndata/recern-vector](https://github.com/recerndata/recern-vector) | 0 | Rust | 2026-10-08 | A single-file, embedded, inspectable vector database. Rust, Python and a CLI. |
 | 19 | [ChromaDotNet/ChromaDB.SemanticKernel.Sample](https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample) | 3 | C# | 2026-10-08 | Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData. |
 | 20 | [ChromaDotNet/ChromaDB.AgentFramework.Sample](https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample) | 3 | C# | 2026-10-08 | Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData. |
