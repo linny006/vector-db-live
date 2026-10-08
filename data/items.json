@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-07T23:45:23Z",
+    "updated_at": "2026-10-08T00:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!",
+    "id": "weaviate/recipes",
+    "language": "Jupyter Notebook",
+    "name": "weaviate/recipes",
+    "stars": 950,
+    "updated_at": "2026-10-08T00:00:07Z",
+    "url": "https://github.com/weaviate/recipes"
+  },
+  {
+    "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
+    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
+    "language": "Python",
+    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
+    "stars": 0,
+    "updated_at": "2026-10-07T23:58:18Z",
+    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 1,
+    "updated_at": "2026-10-07T23:56:15Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-07T23:55:00Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-07T23:53:56Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-10-07T23:53:13Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Chunk checkout and fulfillment events into stable vectors with a typed Python service.",
+    "id": "OnyxCross8950/storefront-order-vector-ingest",
+    "language": "Python",
+    "name": "OnyxCross8950/storefront-order-vector-ingest",
+    "stars": 0,
+    "updated_at": "2026-10-07T23:53:01Z",
+    "url": "https://github.com/OnyxCross8950/storefront-order-vector-ingest"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-10-07T23:47:53Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-10-07T23:46:08Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-10-07T23:46:06Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-07T23:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -189,15 +288,6 @@
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-07T23:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "",
     "id": "Dangamuwagedilshan/x0",
     "language": "\u2014",
@@ -205,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T23:30:31Z",
     "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Mojo",
-    "name": "pavelhorak/pion",
-    "stars": 1,
-    "updated_at": "2026-10-07T23:31:29Z",
-    "url": "https://github.com/pavelhorak/pion"
   },
   {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
@@ -241,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T23:40:44Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-07T23:26:27Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
@@ -293,7 +365,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9371,
-    "updated_at": "2026-10-07T23:40:56Z",
+    "updated_at": "2026-10-07T23:56:00Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -351,15 +423,6 @@
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   },
   {
-    "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
-    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "language": "Python",
-    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "stars": 0,
-    "updated_at": "2026-10-07T23:13:44Z",
-    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
     "id": "SKeditz42/Vec",
     "language": "C",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T23:10:35Z",
     "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "A retrieval-augmented generation CLI that answers questions about your own notes and cites the passage each answer came ",
-    "id": "Iddrisusalima/ask-my-docs",
-    "language": "Python",
-    "name": "Iddrisusalima/ask-my-docs",
-    "stars": 1,
-    "updated_at": "2026-10-07T23:10:16Z",
-    "url": "https://github.com/Iddrisusalima/ask-my-docs"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 12,
-    "updated_at": "2026-10-07T23:07:29Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-10-07T23:06:26Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-10-07T23:06:23Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
-    "id": "NGT-labs/NGT",
-    "language": "C++",
-    "name": "NGT-labs/NGT",
-    "stars": 1374,
-    "updated_at": "2026-10-07T23:04:11Z",
-    "url": "https://github.com/NGT-labs/NGT"
-  },
-  {
-    "description": "RAG assistant for business Q&A over a document corpus, with cited sources. Pinecone retrieval, Ollama Cloud generation, ",
-    "id": "juandsep/document-rag-assistant",
-    "language": "Python",
-    "name": "juandsep/document-rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-10-07T23:04:51Z",
-    "url": "https://github.com/juandsep/document-rag-assistant"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 896,
-    "updated_at": "2026-10-07T23:42:42Z",
-    "url": "https://github.com/orneryd/NornicDB"
   }
 ]
