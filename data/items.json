@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-08T16:15:24Z",
+    "updated_at": "2026-10-08T16:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rust CLI for benchmarking homomorphic vector compression against real RAG pipelines: compare codecs, embedding models an",
+    "id": "SwineCoder101/hvec",
+    "language": "Rust",
+    "name": "SwineCoder101/hvec",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:28:23Z",
+    "url": "https://github.com/SwineCoder101/hvec"
+  },
+  {
+    "description": "Build an amazing prototype for answering user queries on Indian Constitution and SC judgements",
+    "id": "vikassrivastava18/Law-law-land",
+    "language": "Python",
+    "name": "vikassrivastava18/Law-law-land",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:27:30Z",
+    "url": "https://github.com/vikassrivastava18/Law-law-land"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 7,
+    "updated_at": "2026-10-08T16:23:57Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 96,
+    "updated_at": "2026-10-08T16:23:17Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46342,
+    "updated_at": "2026-10-08T16:29:41Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:20:45Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-10-08T16:18:57Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-10-08T16:20:28Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:16:53Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "",
+    "id": "kanu-priy/ClauseAI",
+    "language": "Python",
+    "name": "kanu-priy/ClauseAI",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:16:23Z",
+    "url": "https://github.com/kanu-priy/ClauseAI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T16:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
@@ -36,15 +135,6 @@
     "url": "https://github.com/zmwzmo11130/neuraldocs"
   },
   {
-    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:12:15Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f Autonomous Multi-Agent AI RAG Security Sentry & Guardrail Engine in Rust with Axum REST API and Tailwind CSS SOC Sent",
     "id": "RifkyA911/NovaSentry",
     "language": "Rust",
@@ -72,15 +162,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "",
-    "id": "kanu-priy/ClauseAI",
-    "language": "Python",
-    "name": "kanu-priy/ClauseAI",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:09:46Z",
-    "url": "https://github.com/kanu-priy/ClauseAI"
-  },
-  {
     "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
     "id": "hypercrux/hypercrux",
     "language": "Go",
@@ -88,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T16:07:14Z",
     "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46342,
-    "updated_at": "2026-10-08T16:07:46Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -133,15 +205,6 @@
     "stars": 1189,
     "updated_at": "2026-10-08T16:11:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T16:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -185,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-08T16:05:30Z",
+    "updated_at": "2026-10-08T16:26:32Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6117,
-    "updated_at": "2026-10-08T16:06:41Z",
+    "updated_at": "2026-10-08T16:20:50Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -284,17 +347,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34978,
-    "updated_at": "2026-10-08T16:03:50Z",
+    "updated_at": "2026-10-08T16:25:26Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Rust CLI for benchmarking homomorphic vector compression against real RAG pipelines: compare codecs, embedding models an",
-    "id": "SwineCoder101/hvec",
-    "language": "Rust",
-    "name": "SwineCoder101/hvec",
-    "stars": 0,
-    "updated_at": "2026-10-08T15:28:41Z",
-    "url": "https://github.com/SwineCoder101/hvec"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -322,15 +376,6 @@
     "stars": 63,
     "updated_at": "2026-10-08T15:24:24Z",
     "url": "https://github.com/Filippo-Venturini/ctxvault"
-  },
-  {
-    "description": "Build an amazing prototype for answering user queries on Indian Constitution and SC judgements",
-    "id": "vikassrivastava18/Law-law-land",
-    "language": "Python",
-    "name": "vikassrivastava18/Law-law-land",
-    "stars": 0,
-    "updated_at": "2026-10-08T15:23:24Z",
-    "url": "https://github.com/vikassrivastava18/Law-law-land"
   },
   {
     "description": "MyScale \u2014 independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b",
@@ -365,7 +410,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-08T15:51:47Z",
+    "updated_at": "2026-10-08T16:24:01Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9377,
-    "updated_at": "2026-10-08T15:53:12Z",
+    "updated_at": "2026-10-08T16:24:39Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -401,52 +446,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 1998,
-    "updated_at": "2026-10-08T15:06:37Z",
+    "updated_at": "2026-10-08T16:22:09Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 1,
-    "updated_at": "2026-10-08T15:06:03Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-10-08T15:05:10Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-10-08T15:04:07Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-10-08T15:03:38Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 2,
-    "updated_at": "2026-10-08T15:03:25Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   }
 ]
