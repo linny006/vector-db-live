@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-08 05:30 UTC
+> ⏰ Last updated: 2026-10-08 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [recerndata/recern-vector](https://github.com/recerndata/recern-vector) | 0 | Rust | 2026-10-08 | A single-file, embedded, inspectable vector database. Rust, Python and a CLI. |
-| 3 | [Harsha2620/gitcontext](https://github.com/Harsha2620/gitcontext) | 0 | Python | 2026-10-08 |  |
-| 4 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1994 | Python | 2026-10-08 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
-| 5 | [ldclabs/anda-db](https://github.com/ldclabs/anda-db) | 31 | Rust | 2026-10-08 | 🗄 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory. |
-| 6 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-10-08 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
-| 7 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6482 | TypeScript | 2026-10-08 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 8 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 38940 | Python | 2026-10-08 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 9 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2040 | Go | 2026-10-08 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-08 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 13 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7119 | Java | 2026-10-08 | The AI search platform |
-| 14 | [nambok/mentedb](https://github.com/nambok/mentedb) | 118 | Rust | 2026-10-08 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
-| 15 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11615 | Rust | 2026-10-08 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 16 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 20 | Rust | 2026-10-08 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
-| 17 | [hypercrux/hypercrux](https://github.com/hypercrux/hypercrux) | 0 | Go | 2026-10-08 | A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr |
-| 18 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 3131 | Rust | 2026-10-08 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 1 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 2 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 3133 | Rust | 2026-10-08 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [recerndata/recern-vector](https://github.com/recerndata/recern-vector) | 0 | Rust | 2026-10-08 | A single-file, embedded, inspectable vector database. Rust, Python and a CLI. |
+| 6 | [Harsha2620/gitcontext](https://github.com/Harsha2620/gitcontext) | 0 | Python | 2026-10-08 |  |
+| 7 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1994 | Python | 2026-10-08 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 8 | [ldclabs/anda-db](https://github.com/ldclabs/anda-db) | 31 | Rust | 2026-10-08 | 🗄 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory. |
+| 9 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-10-08 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
+| 10 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6482 | TypeScript | 2026-10-08 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
+| 11 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 38942 | Python | 2026-10-08 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 12 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2040 | Go | 2026-10-08 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 13 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-08 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 14 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7119 | Java | 2026-10-08 | The AI search platform |
+| 15 | [nambok/mentedb](https://github.com/nambok/mentedb) | 118 | Rust | 2026-10-08 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
+| 16 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11615 | Rust | 2026-10-08 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 17 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 20 | Rust | 2026-10-08 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
+| 18 | [hypercrux/hypercrux](https://github.com/hypercrux/hypercrux) | 0 | Go | 2026-10-08 | A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr |
 | 19 | [devharis99/vectra](https://github.com/devharis99/vectra) | 1 | Python | 2026-10-08 | Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite |
 | 20 | [Raynerhalfandhalf451/writeback](https://github.com/Raynerhalfandhalf451/writeback) | 0 | JavaScript | 2026-10-08 | Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with |
 | 21 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 371 | Python | 2026-10-08 | Program that lets you ask questions about your documents and audio or video files. |
