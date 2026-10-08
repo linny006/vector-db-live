@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-08T18:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3379,
+    "updated_at": "2026-10-08T18:13:56Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13218,
+    "updated_at": "2026-10-08T18:13:10Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 5,
+    "updated_at": "2026-10-08T18:11:42Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-08T18:11:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Rust CLI for benchmarking homomorphic vector compression against real RAG pipelines: compare codecs, embedding models an",
+    "id": "SwineCoder101/hvec",
+    "language": "Rust",
+    "name": "SwineCoder101/hvec",
+    "stars": 0,
+    "updated_at": "2026-10-08T18:09:40Z",
+    "url": "https://github.com/SwineCoder101/hvec"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7121,
+    "updated_at": "2026-10-08T18:08:52Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-08T18:05:48Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-08T18:07:30Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
+    "id": "kunal-rathore-111/Neptune",
+    "language": "TypeScript",
+    "name": "kunal-rathore-111/Neptune",
+    "stars": 1,
+    "updated_at": "2026-10-08T18:02:47Z",
+    "url": "https://github.com/kunal-rathore-111/Neptune"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-08T18:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -18,15 +117,6 @@
     "url": "https://github.com/Shotza247/Milvus_4RAG_Template"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-08T17:56:05Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
     "id": "pwolfey09-sketch/embedflow",
     "language": "Python",
@@ -41,7 +131,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9377,
-    "updated_at": "2026-10-08T17:51:50Z",
+    "updated_at": "2026-10-08T18:13:42Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -99,15 +189,6 @@
     "url": "https://github.com/kyr0/defuss-vectorsearch"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3379,
-    "updated_at": "2026-10-08T18:00:17Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
     "id": "api-evangelist/surrealdb",
     "language": "\u2014",
@@ -117,22 +198,13 @@
     "url": "https://github.com/api-evangelist/surrealdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-08T17:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-08T18:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6485,
+    "updated_at": "2026-10-08T18:08:14Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
@@ -194,7 +266,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1189,
-    "updated_at": "2026-10-08T17:39:48Z",
+    "updated_at": "2026-10-08T18:05:29Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -205,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-10-08T17:39:08Z",
     "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-08T17:38:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -229,7 +292,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31724,
+    "stars": 31730,
     "updated_at": "2026-10-08T17:37:16Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -385,68 +448,5 @@
     "stars": 1999,
     "updated_at": "2026-10-08T17:19:53Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6484,
-    "updated_at": "2026-10-08T17:45:03Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 13000,
-    "updated_at": "2026-10-08T17:13:31Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
-    "id": "Dakera-AI/dakera-cli",
-    "language": "Rust",
-    "name": "Dakera-AI/dakera-cli",
-    "stars": 8,
-    "updated_at": "2026-10-08T17:21:02Z",
-    "url": "https://github.com/Dakera-AI/dakera-cli"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-08T17:02:40Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
-    "id": "kunal-rathore-111/Neptune",
-    "language": "TypeScript",
-    "name": "kunal-rathore-111/Neptune",
-    "stars": 1,
-    "updated_at": "2026-10-08T17:01:38Z",
-    "url": "https://github.com/kunal-rathore-111/Neptune"
-  },
-  {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 556,
-    "updated_at": "2026-10-08T16:52:47Z",
-    "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 15,
-    "updated_at": "2026-10-08T16:52:23Z",
-    "url": "https://github.com/ppossanzini/Jigen"
   }
 ]
