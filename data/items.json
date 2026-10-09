@@ -1,12 +1,48 @@
 [
   {
-    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
-    "id": "ssrjkk/agent-skills",
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9384,
+    "updated_at": "2026-10-09T20:29:26Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Microsoft.Extensions.VectorData provider for Chroma and Chroma Cloud, built on ChromaDB.Client.",
+    "id": "ChromaDotNet/ChromaDB.VectorData",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.VectorData",
+    "stars": 3,
+    "updated_at": "2026-10-09T20:29:50Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "ShotaroRocha61/developers-guide-to-ai",
     "language": "Python",
-    "name": "ssrjkk/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-09T20:13:37Z",
-    "url": "https://github.com/ssrjkk/agent-skills"
+    "name": "ShotaroRocha61/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:27:31Z",
+    "url": "https://github.com/ShotaroRocha61/developers-guide-to-ai"
+  },
+  {
+    "description": "Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData.",
+    "id": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
+    "stars": 3,
+    "updated_at": "2026-10-09T20:22:19Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
+  },
+  {
+    "description": "Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData.",
+    "id": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
+    "stars": 3,
+    "updated_at": "2026-10-09T20:22:14Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -14,8 +50,35 @@
     "language": "Go",
     "name": "23skdu/longbow",
     "stars": 13,
-    "updated_at": "2026-10-09T20:13:02Z",
+    "updated_at": "2026-10-09T20:21:43Z",
     "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 1,
+    "updated_at": "2026-10-09T20:30:16Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31896,
+    "updated_at": "2026-10-09T20:18:29Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T20:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -23,8 +86,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-09T20:12:24Z",
+    "updated_at": "2026-10-09T20:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-09T20:13:37Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -108,15 +180,6 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T20:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
     "id": "ather-techie/rag-interview-system",
     "language": "Jupyter Notebook",
@@ -149,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1193,
-    "updated_at": "2026-10-09T20:15:17Z",
+    "updated_at": "2026-10-09T20:18:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -347,7 +410,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-09T19:42:25Z",
+    "updated_at": "2026-10-09T20:20:26Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T19:41:13Z",
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "Self-hosted RAG demo with semantic search, cross-encoder reranking, and source attribution \u2014 built to show how the piece",
-    "id": "drintoul/rag",
-    "language": "HTML",
-    "name": "drintoul/rag",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:40:02Z",
-    "url": "https://github.com/drintoul/rag"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:38:48Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:36:52Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 1,
-    "updated_at": "2026-10-09T20:14:27Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-10-09T19:35:49Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-09T19:34:34Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-09T19:33:10Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
