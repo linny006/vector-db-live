@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-09T00:26:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Provider-agnostic RAG document Q&A (FastAPI + PostgreSQL/pgvector). Upload PDFs, get answers grounded in them with citat",
+    "id": "Enoch-Nemili/papermind",
+    "language": "Python",
+    "name": "Enoch-Nemili/papermind",
+    "stars": 0,
+    "updated_at": "2026-10-09T00:26:56Z",
+    "url": "https://github.com/Enoch-Nemili/papermind"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 5,
+    "updated_at": "2026-10-09T00:22:39Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "An AI-powered job search and career assistant that helps candidates discover relevant opportunities, apply more efficien",
+    "id": "mohocodes-team/job-assistant-agent",
+    "language": "\u2014",
+    "name": "mohocodes-team/job-assistant-agent",
+    "stars": 4,
+    "updated_at": "2026-10-09T00:22:08Z",
+    "url": "https://github.com/mohocodes-team/job-assistant-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T00:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 897,
-    "updated_at": "2026-10-09T00:12:48Z",
+    "updated_at": "2026-10-09T00:22:30Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -36,31 +81,13 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T00:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11620,
-    "updated_at": "2026-10-09T00:14:29Z",
+    "updated_at": "2026-10-09T00:28:09Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-08T23:38:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
@@ -81,15 +108,6 @@
     "url": "https://github.com/tywangq/leasehound"
   },
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 5,
-    "updated_at": "2026-10-08T23:22:42Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -104,8 +122,17 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9380,
-    "updated_at": "2026-10-09T00:10:55Z",
+    "updated_at": "2026-10-09T00:26:38Z",
     "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66835,
+    "updated_at": "2026-10-08T23:11:36Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-08T22:34:59Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
-    "id": "pinecone-io/examples",
-    "language": "Jupyter Notebook",
-    "name": "pinecone-io/examples",
-    "stars": 3049,
-    "updated_at": "2026-10-08T22:33:24Z",
-    "url": "https://github.com/pinecone-io/examples"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1190,
-    "updated_at": "2026-10-08T23:16:00Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-10-08T22:32:15Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
   }
 ]
