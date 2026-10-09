@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-09T12:45:20Z",
+    "updated_at": "2026-10-09T13:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1918,
+    "updated_at": "2026-10-09T12:56:27Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31849,
+    "updated_at": "2026-10-09T12:54:16Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-09T12:54:53Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-09T12:51:23Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2050,
+    "updated_at": "2026-10-09T12:49:56Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-09T12:49:52Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-09T12:48:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Where vectors come alive - A lightweight, visual-first vector database with embedded ML models. No API keys required.",
+    "id": "knowusuboaky/VectrixDB",
+    "language": "Python",
+    "name": "knowusuboaky/VectrixDB",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:49:09Z",
+    "url": "https://github.com/knowusuboaky/VectrixDB"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7123,
+    "updated_at": "2026-10-09T12:49:37Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T12:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -27,21 +117,12 @@
     "url": "https://github.com/t0rresmarcus/FanVault-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T12:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1504,
-    "updated_at": "2026-10-09T12:35:06Z",
+    "updated_at": "2026-10-09T12:56:52Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -50,17 +131,8 @@
     "language": "Shell",
     "name": "karailker/awesome-docker-compose",
     "stars": 9,
-    "updated_at": "2026-10-09T12:40:36Z",
+    "updated_at": "2026-10-09T12:52:54Z",
     "url": "https://github.com/karailker/awesome-docker-compose"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2050,
-    "updated_at": "2026-10-09T12:26:53Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -81,15 +153,6 @@
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31848,
-    "updated_at": "2026-10-09T12:38:59Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
     "id": "Tribrix23/CleaveDB",
     "language": "Python",
@@ -99,40 +162,13 @@
     "url": "https://github.com/Tribrix23/CleaveDB"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-09T12:30:15Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-09T12:13:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46346,
+    "stars": 46347,
     "updated_at": "2026-10-09T12:12:34Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1918,
-    "updated_at": "2026-10-09T12:19:11Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -142,15 +178,6 @@
     "stars": 116,
     "updated_at": "2026-10-09T12:28:47Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-09T12:39:16Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9385,
-    "updated_at": "2026-10-09T12:27:50Z",
+    "updated_at": "2026-10-09T12:55:54Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -216,15 +243,6 @@
     "url": "https://github.com/zilliztech/knowhere"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7123,
-    "updated_at": "2026-10-09T12:35:45Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -232,15 +250,6 @@
     "stars": 3417,
     "updated_at": "2026-10-09T11:34:11Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Mojo",
-    "name": "pavelhorak/pion",
-    "stars": 1,
-    "updated_at": "2026-10-09T12:29:26Z",
-    "url": "https://github.com/pavelhorak/pion"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -293,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16876,
-    "updated_at": "2026-10-09T12:40:48Z",
+    "updated_at": "2026-10-09T13:00:29Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T10:04:29Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Where vectors come alive - A lightweight, visual-first vector database with embedded ML models. No API keys required.",
-    "id": "knowusuboaky/VectrixDB",
-    "language": "Python",
-    "name": "knowusuboaky/VectrixDB",
-    "stars": 0,
-    "updated_at": "2026-10-09T12:23:05Z",
-    "url": "https://github.com/knowusuboaky/VectrixDB"
   },
   {
     "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
