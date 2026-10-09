@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-09T06:30:21Z",
+    "updated_at": "2026-10-09T06:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 269,
+    "updated_at": "2026-10-09T06:42:50Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2127,
+    "updated_at": "2026-10-09T06:35:04Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T06:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "milvus-io/pymilvus",
     "stars": 1416,
-    "updated_at": "2026-10-09T06:29:37Z",
+    "updated_at": "2026-10-09T06:33:34Z",
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "Tribrix23/CleaveDB",
     "stars": 0,
-    "updated_at": "2026-10-09T06:29:29Z",
+    "updated_at": "2026-10-09T06:35:37Z",
     "url": "https://github.com/Tribrix23/CleaveDB"
   },
   {
@@ -50,7 +77,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 289,
-    "updated_at": "2026-10-09T06:26:04Z",
+    "updated_at": "2026-10-09T06:44:07Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -108,15 +135,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T06:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -133,15 +151,6 @@
     "stars": 99,
     "updated_at": "2026-10-09T06:11:40Z",
     "url": "https://github.com/qdrant/java-client"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 269,
-    "updated_at": "2026-10-09T06:30:04Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "The AI search platform",
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9383,
-    "updated_at": "2026-10-09T06:26:35Z",
+    "updated_at": "2026-10-09T06:42:07Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-10-09T06:15:30Z",
+    "updated_at": "2026-10-09T06:31:53Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -373,7 +382,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46341,
+    "stars": 46340,
     "updated_at": "2026-10-09T04:11:41Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T04:03:10Z",
     "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-10-09T04:02:10Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
   }
 ]
