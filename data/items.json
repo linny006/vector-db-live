@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T01:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1638,
+    "updated_at": "2026-10-09T00:59:08Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T00:58:59Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
     "id": "tapiruslab/TapirusDB",
     "language": "Rust",
@@ -63,24 +90,6 @@
     "url": "https://github.com/mohocodes-team/job-assistant-agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T00:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T00:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
@@ -97,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-10-09T00:47:00Z",
     "url": "https://github.com/tryAGI/Turbopuffer"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8334,
+    "updated_at": "2026-10-09T00:30:18Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -124,15 +142,6 @@
     "stars": 9381,
     "updated_at": "2026-10-09T00:49:12Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1638,
-    "updated_at": "2026-10-09T00:08:45Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -293,7 +302,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6492,
-    "updated_at": "2026-10-08T22:49:33Z",
+    "updated_at": "2026-10-09T00:59:59Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T22:37:33Z",
     "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "Vector database built from scratch in Java with zero dependencies. HNSW, KD-Tree and Brute Force search side by side, pl",
-    "id": "krishkantrai27/Vector_AI",
-    "language": "Java",
-    "name": "krishkantrai27/Vector_AI",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:37:16Z",
-    "url": "https://github.com/krishkantrai27/Vector_AI"
   }
 ]
