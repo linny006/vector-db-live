@@ -1,11 +1,65 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-09T17:14:36Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-09T17:07:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 899,
+    "updated_at": "2026-10-09T17:07:47Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "Java",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-10-09T17:04:58Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 97,
+    "updated_at": "2026-10-09T17:03:02Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T17:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-09T17:00:24Z",
+    "updated_at": "2026-10-09T17:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,31 +90,22 @@
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
+    "description": "Open-source self-hosted AI Backend for agents: vectors, storage, functions, models, tools, and knowledge workflows.",
+    "id": "hacrex/Archon-Base",
+    "language": "Go",
+    "name": "hacrex/Archon-Base",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:46:52Z",
+    "url": "https://github.com/hacrex/Archon-Base"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1193,
-    "updated_at": "2026-10-09T16:52:32Z",
+    "updated_at": "2026-10-09T17:12:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T16:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 899,
-    "updated_at": "2026-10-09T16:45:45Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -70,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T16:40:28Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-09T16:39:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
@@ -112,7 +148,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31880,
+    "stars": 31882,
     "updated_at": "2026-10-09T16:32:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -149,17 +185,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11629,
-    "updated_at": "2026-10-09T16:22:52Z",
+    "updated_at": "2026-10-09T17:12:36Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-09T16:18:03Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
     "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9385,
-    "updated_at": "2026-10-09T16:47:13Z",
+    "updated_at": "2026-10-09T17:11:42Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-09T16:28:02Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 13002,
-    "updated_at": "2026-10-09T14:35:47Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
-    "id": "tryAGI/Qdrant",
-    "language": "C#",
-    "name": "tryAGI/Qdrant",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:26:41Z",
-    "url": "https://github.com/tryAGI/Qdrant"
-  },
-  {
-    "description": "No longer maintained. Percolate is now a Postgres extension: see Percolation-Labs/get-percolate",
-    "id": "Percolation-Labs/percolate",
-    "language": "Python",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-09T14:21:54Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   }
 ]
