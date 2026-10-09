@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-09T09:45:19Z",
+    "updated_at": "2026-10-09T10:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
+    "id": "Tamilmani027/Context-IQ",
+    "language": "JavaScript",
+    "name": "Tamilmani027/Context-IQ",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:59:27Z",
+    "url": "https://github.com/Tamilmani027/Context-IQ"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 4,
+    "updated_at": "2026-10-09T09:59:04Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
+    "id": "davidfernxndez/github-repository-rag",
+    "language": "Jupyter Notebook",
+    "name": "davidfernxndez/github-repository-rag",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:57:29Z",
+    "url": "https://github.com/davidfernxndez/github-repository-rag"
+  },
+  {
+    "description": "Self-hosted RAG chatbot that answers questions about my career. FastAPI, Qdrant, Ollama. No third-party LLM APIs.",
+    "id": "kdraggoo/chatbot",
+    "language": "Python",
+    "name": "kdraggoo/chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-09T09:52:32Z",
+    "url": "https://github.com/kdraggoo/chatbot"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-09T09:55:37Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1191,
+    "updated_at": "2026-10-09T09:51:58Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46346,
+    "updated_at": "2026-10-09T09:53:45Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2050,
+    "updated_at": "2026-10-09T09:50:04Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13219,
+    "updated_at": "2026-10-09T09:46:42Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T09:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 269,
-    "updated_at": "2026-10-09T09:45:13Z",
+    "updated_at": "2026-10-09T09:45:55Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -72,15 +162,6 @@
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
-    "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
-    "id": "Tamilmani027/Context-IQ",
-    "language": "JavaScript",
-    "name": "Tamilmani027/Context-IQ",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:34:12Z",
-    "url": "https://github.com/Tamilmani027/Context-IQ"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T09:30:44Z",
     "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T09:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
@@ -160,24 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T09:25:40Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-09T09:38:44Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1191,
-    "updated_at": "2026-10-09T09:24:12Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
@@ -306,24 +360,6 @@
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   },
   {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 4,
-    "updated_at": "2026-10-09T09:20:23Z",
-    "url": "https://github.com/kamilsj/vectors"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2050,
-    "updated_at": "2026-10-09T09:40:57Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
     "id": "FIRE-hub911/citation-assistant",
     "language": "Shell",
@@ -392,17 +428,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8336,
-    "updated_at": "2026-10-09T09:06:30Z",
+    "updated_at": "2026-10-09T09:48:19Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13219,
-    "updated_at": "2026-10-09T09:40:54Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "An intelligent Retrieval-Augmented Generation (RAG) chatbot that answers employee questions using a company's HR policy ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T09:04:35Z",
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:02:34Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-10-09T09:01:24Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-09T09:00:04Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
