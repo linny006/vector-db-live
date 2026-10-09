@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-09T23:00:20Z",
+    "updated_at": "2026-10-09T23:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-10-09T23:15:10Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6501,
+    "updated_at": "2026-10-09T23:15:07Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
+    "id": "eminsk/nanovector",
+    "language": "Python",
+    "name": "eminsk/nanovector",
+    "stars": 6,
+    "updated_at": "2026-10-09T23:08:27Z",
+    "url": "https://github.com/eminsk/nanovector"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-09T23:08:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 1,
+    "updated_at": "2026-10-09T23:08:45Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8341,
+    "updated_at": "2026-10-09T23:04:20Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T23:00:55Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
@@ -36,31 +99,13 @@
     "url": "https://github.com/adamksn/aturanorg"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T22:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1194,
-    "updated_at": "2026-10-09T22:57:57Z",
+    "updated_at": "2026-10-09T23:11:31Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-09T22:38:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
@@ -77,7 +122,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-09T22:32:54Z",
+    "updated_at": "2026-10-09T23:14:04Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 1,
-    "updated_at": "2026-10-09T22:58:37Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "An AI career coach that reads your actual resume and turns it into targeted job strategy \u2014 every answer grounded in your",
     "id": "theo-ai-lab/ai-career-coach",
     "language": "TypeScript",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T21:58:26Z",
     "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-10-09T21:58:15Z",
-    "url": "https://github.com/FraiseHQ/fraise"
   },
   {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
@@ -324,15 +351,6 @@
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6501,
-    "updated_at": "2026-10-09T22:52:01Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-09T21:29:30Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-09T21:28:34Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "Core backend and node plugins for AI Crew Suite",
-    "id": "ai-crew-suite/platform",
-    "language": "TypeScript",
-    "name": "ai-crew-suite/platform",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:27:35Z",
-    "url": "https://github.com/ai-crew-suite/platform"
   }
 ]
