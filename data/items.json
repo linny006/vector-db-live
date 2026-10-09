@@ -1,11 +1,74 @@
 [
   {
+    "description": "A multi-user load benchmark for Long-Term Memory (LTM) systems",
+    "id": "skhynix/LTM100",
+    "language": "Python",
+    "name": "skhynix/LTM100",
+    "stars": 4,
+    "updated_at": "2026-10-09T10:28:56Z",
+    "url": "https://github.com/skhynix/LTM100"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-09T10:30:12Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7122,
+    "updated_at": "2026-10-09T10:20:04Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-09T10:20:04Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "Self-hosted RAG chatbot that answers questions about my career. FastAPI, Qdrant, Ollama. No third-party LLM APIs.",
+    "id": "kdraggoo/chatbot",
+    "language": "Python",
+    "name": "kdraggoo/chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-09T10:18:27Z",
+    "url": "https://github.com/kdraggoo/chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T10:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T10:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
     "id": "ZenSystemAI/Zengram",
     "language": "JavaScript",
     "name": "ZenSystemAI/Zengram",
     "stars": 61,
-    "updated_at": "2026-10-09T10:15:23Z",
+    "updated_at": "2026-10-09T10:15:33Z",
     "url": "https://github.com/ZenSystemAI/Zengram"
   },
   {
@@ -22,18 +85,18 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31829,
-    "updated_at": "2026-10-09T10:10:59Z",
+    "stars": 31830,
+    "updated_at": "2026-10-09T10:23:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
     "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-09T10:12:24Z",
-    "url": "https://github.com/sunormesky-max/epicode"
+    "name": "lancedb/lancedb",
+    "stars": 11627,
+    "updated_at": "2026-10-09T10:10:56Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -43,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-10-09T10:09:37Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Self-hosted RAG chatbot that answers questions about my career. FastAPI, Qdrant, Ollama. No third-party LLM APIs.",
-    "id": "kdraggoo/chatbot",
-    "language": "Python",
-    "name": "kdraggoo/chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-09T10:07:38Z",
-    "url": "https://github.com/kdraggoo/chatbot"
   },
   {
     "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
@@ -99,24 +153,6 @@
     "url": "https://github.com/knowusuboaky/VectrixDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T10:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T10:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
     "id": "Tamilmani027/Context-IQ",
     "language": "JavaScript",
@@ -148,7 +184,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1191,
+    "stars": 1192,
     "updated_at": "2026-10-09T09:51:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -187,6 +223,15 @@
     "stars": 2,
     "updated_at": "2026-10-09T09:44:27Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 97,
+    "updated_at": "2026-10-09T09:44:17Z",
+    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -297,15 +342,6 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7122,
-    "updated_at": "2026-10-09T10:00:57Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-09T09:09:46Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 899,
-    "updated_at": "2026-10-09T09:25:04Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:08:57Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-09T10:09:17Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-09T09:07:38Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
   }
 ]
