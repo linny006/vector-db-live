@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-09T12:30:21Z",
+    "updated_at": "2026-10-09T12:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1192,
+    "updated_at": "2026-10-09T12:41:13Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe",
+    "id": "t0rresmarcus/FanVault-AI",
+    "language": "TypeScript",
+    "name": "t0rresmarcus/FanVault-AI",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:39:41Z",
+    "url": "https://github.com/t0rresmarcus/FanVault-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T12:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1504,
-    "updated_at": "2026-10-09T12:27:30Z",
+    "updated_at": "2026-10-09T12:35:06Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Shell",
     "name": "karailker/awesome-docker-compose",
     "stars": 9,
-    "updated_at": "2026-10-09T12:26:55Z",
+    "updated_at": "2026-10-09T12:40:36Z",
     "url": "https://github.com/karailker/awesome-docker-compose"
   },
   {
@@ -59,17 +86,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31848,
-    "updated_at": "2026-10-09T12:26:45Z",
+    "updated_at": "2026-10-09T12:38:59Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T12:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-10-09T12:20:33Z",
+    "updated_at": "2026-10-09T12:39:16Z",
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7123,
-    "updated_at": "2026-10-09T12:22:30Z",
+    "updated_at": "2026-10-09T12:35:45Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -211,18 +229,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3416,
+    "stars": 3417,
     "updated_at": "2026-10-09T11:34:11Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1192,
-    "updated_at": "2026-10-09T12:17:52Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Pion \u2014 the memory engine for AI inference",
@@ -284,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16876,
-    "updated_at": "2026-10-09T12:28:31Z",
+    "updated_at": "2026-10-09T12:40:48Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -340,6 +349,15 @@
     "stars": 61,
     "updated_at": "2026-10-09T10:15:33Z",
     "url": "https://github.com/ZenSystemAI/Zengram"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34986,
+    "updated_at": "2026-10-09T10:13:45Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -427,26 +445,8 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13219,
+    "stars": 13220,
     "updated_at": "2026-10-09T09:46:42Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 269,
-    "updated_at": "2026-10-09T10:04:42Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-09T09:44:27Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
