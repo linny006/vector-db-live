@@ -1,5 +1,104 @@
 [
   {
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 4,
+    "updated_at": "2026-10-09T18:58:26Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
+    "id": "api-evangelist/ragflow",
+    "language": "\u2014",
+    "name": "api-evangelist/ragflow",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:57:58Z",
+    "url": "https://github.com/api-evangelist/ragflow"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Autonomous Multi-Agent AI RAG Security Sentry & Guardrail Engine in Rust with Axum REST API and Tailwind CSS SOC Sent",
+    "id": "RifkyA911/NovaSentry",
+    "language": "Rust",
+    "name": "RifkyA911/NovaSentry",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:56:50Z",
+    "url": "https://github.com/RifkyA911/NovaSentry"
+  },
+  {
+    "description": "Retrieval-augmented generation, hands on: a local RAG Explorer app and a test-case RAG chatbot in n8n + Pinecone",
+    "id": "jayamvishnudeep/RAG",
+    "language": "Python",
+    "name": "jayamvishnudeep/RAG",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:56:14Z",
+    "url": "https://github.com/jayamvishnudeep/RAG"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34984,
+    "updated_at": "2026-10-09T18:49:24Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Chatbot RAG sobre datos oficiales de la Escuela Polit\u00e9cnica Superior de Ja\u00e9n (UJA). Recuperaci\u00f3n y generaci\u00f3n 100% en lo",
+    "id": "samubp10/tfg-recomendador-uja",
+    "language": "Python",
+    "name": "samubp10/tfg-recomendador-uja",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:49:18Z",
+    "url": "https://github.com/samubp10/tfg-recomendador-uja"
+  },
+  {
+    "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:48:25Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Open-source, local-first AI meeting assistant (macOS HUD). Real-time Silero VAD + Apple-MLX Whisper on-device transcript",
+    "id": "IliasSami/lethologica",
+    "language": "Rust",
+    "name": "IliasSami/lethologica",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:48:03Z",
+    "url": "https://github.com/IliasSami/lethologica"
+  },
+  {
+    "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:47:29Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "MyScale \u2014 independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b",
+    "id": "api-evangelist/myscale",
+    "language": "\u2014",
+    "name": "api-evangelist/myscale",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:45:27Z",
+    "url": "https://github.com/api-evangelist/myscale"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T18:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -135,15 +234,6 @@
     "url": "https://github.com/kisinja/rag-production-app"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T18:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
     "id": "eminsk/nanovector",
     "language": "Python",
@@ -230,7 +320,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-09T18:40:52Z",
+    "updated_at": "2026-10-09T18:54:46Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -284,7 +374,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1193,
-    "updated_at": "2026-10-09T18:27:58Z",
+    "updated_at": "2026-10-09T18:50:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -324,13 +414,13 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
     "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34983,
-    "updated_at": "2026-10-09T17:24:35Z",
-    "url": "https://github.com/qdrant/qdrant"
+    "name": "lightonai/next-plaid",
+    "stars": 555,
+    "updated_at": "2026-10-09T19:00:23Z",
+    "url": "https://github.com/lightonai/next-plaid"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -358,95 +448,5 @@
     "stars": 899,
     "updated_at": "2026-10-09T18:32:00Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 97,
-    "updated_at": "2026-10-09T17:03:02Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
-    "id": "datris/datris-platform-oss",
-    "language": "Scala",
-    "name": "datris/datris-platform-oss",
-    "stars": 12,
-    "updated_at": "2026-10-09T18:08:09Z",
-    "url": "https://github.com/datris/datris-platform-oss"
-  },
-  {
-    "description": "Open-source self-hosted AI Backend for agents: vectors, storage, functions, models, tools, and knowledge workflows.",
-    "id": "hacrex/Archon-Base",
-    "language": "Go",
-    "name": "hacrex/Archon-Base",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:46:52Z",
-    "url": "https://github.com/hacrex/Archon-Base"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-09T16:40:28Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-09T16:35:56Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 556,
-    "updated_at": "2026-10-09T17:22:31Z",
-    "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31886,
-    "updated_at": "2026-10-09T16:32:04Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Where vectors come alive - A lightweight, visual-first vector database with embedded ML models. No API keys required.",
-    "id": "knowusuboaky/VectrixDB",
-    "language": "Python",
-    "name": "knowusuboaky/VectrixDB",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:57:45Z",
-    "url": "https://github.com/knowusuboaky/VectrixDB"
-  },
-  {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:23:46Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9456,
-    "updated_at": "2026-10-09T18:33:59Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
