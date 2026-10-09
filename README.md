@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-09 12:00 UTC
+> ⏰ Last updated: 2026-10-09 12:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sunormesky-max/epicode](https://github.com/sunormesky-max/epicode) | 8 | Rust | 2026-10-09 | Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense. |
-| 2 | [lightonai/next-plaid](https://github.com/lightonai/next-plaid) | 556 | Rust | 2026-10-09 | NextPlaid, ColGREP: Multi-vector search, from database to coding agents. |
-| 3 | [weaviate/typescript-client](https://github.com/weaviate/typescript-client) | 101 | TypeScript | 2026-10-09 | Official Weaviate TypeScript Client |
-| 4 | [karailker/awesome-docker-compose](https://github.com/karailker/awesome-docker-compose) | 9 | Shell | 2026-10-09 | A curated collection of Docker Compose configurations for popular services like PostgreSQL, Kafka, Elasticsearch, Redis, |
-| 5 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31842 | Python | 2026-10-09 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
-| 6 | [Tamilmani027/Context-IQ](https://github.com/Tamilmani027/Context-IQ) | 0 | JavaScript | 2026-10-09 | An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-09 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-09 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 9 | [ramalingamthangamani/rag-doc-assistant](https://github.com/ramalingamthangamani/rag-doc-assistant) | 0 | Jupyter Notebook | 2026-10-09 | Chat with your PDFs: hybrid retrieval (BM25 + dense), cross-encoder reranking, cited LLM answers, and evaluation noteboo |
-| 10 | [Yacine-ai-tech/IntelAI](https://github.com/Yacine-ai-tech/IntelAI) | 0 | Python | 2026-10-09 | Sovereign enterprise RAG & analytics platform — role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25  |
-| 11 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 387 | C++ | 2026-10-09 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
-| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-09 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 13 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46346 | Go | 2026-10-09 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 14 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7123 | Java | 2026-10-09 | The AI search platform |
-| 15 | [Cognipeer/console](https://github.com/Cognipeer/console) | 26 | TypeScript | 2026-10-09 | Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub,  |
-| 16 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1192 | Java | 2026-10-09 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 17 | [pavelhorak/pion](https://github.com/pavelhorak/pion) | 1 | Mojo | 2026-10-09 | Pion — the memory engine for AI inference |
-| 18 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 11 | JavaScript | 2026-10-09 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
-| 19 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-09 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 20 | [IdoY12/awesome-free-ai-apis](https://github.com/IdoY12/awesome-free-ai-apis) | 1 | JavaScript | 2026-10-09 | Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin |
-| 21 | [hbar-systems/brainfoundry-nous](https://github.com/hbar-systems/brainfoundry-nous) | 1 | Python | 2026-10-09 | Self-hosted sovereign AI brain — persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL |
-| 22 | [TAIPANBOX/engram](https://github.com/TAIPANBOX/engram) | 2 | Python | 2026-10-09 | SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi |
-| 23 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9384 | Rust | 2026-10-09 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 24 | [bundlab/generative-ai-engineering](https://github.com/bundlab/generative-ai-engineering) | 0 | Python | 2026-10-09 | A production-grade, hands-on repository designed to master generative AI engineering, from foundation models to producti |
-| 25 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16876 | Go | 2026-10-09 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 26 | [zyx4303/autorag](https://github.com/zyx4303/autorag) | 0 | Python | 2026-10-09 | 可运行的 RAG 后端：结构感知切分 + 向量/BM25 混合检索 + RRF 融合 + 四信号重排，服务端校验引用越界，检索为空时不调用大模型。FastAPI · Chroma · BGE · Docker · 30 项测试。 |
-| 27 | [infino-ai/infino](https://github.com/infino-ai/infino) | 116 | Rust | 2026-10-09 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
-| 28 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-09 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 29 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 4 | Python | 2026-10-09 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
-| 30 | [skhynix/LTM100](https://github.com/skhynix/LTM100) | 4 | Python | 2026-10-09 | A multi-user load benchmark for Long-Term Memory (LTM) systems |
-| 31 | [kdraggoo/chatbot](https://github.com/kdraggoo/chatbot) | 0 | Python | 2026-10-09 | Self-hosted RAG chatbot that answers questions about my career. FastAPI, Qdrant, Ollama. No third-party LLM APIs. |
-| 32 | [ZenSystemAI/Zengram](https://github.com/ZenSystemAI/Zengram) | 61 | JavaScript | 2026-10-09 | A Multi Agent Memory MCP That Connect Agents Across Systems and Machines |
-| 33 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2050 | Go | 2026-10-09 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 34 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11627 | Rust | 2026-10-09 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 35 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6498 | TypeScript | 2026-10-09 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 36 | [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag) | 255 | Python | 2026-10-09 | Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios. |
-| 37 | [AliZahiri/ai-rag-platform-blueprint](https://github.com/AliZahiri/ai-rag-platform-blueprint) | 0 | Python | 2026-10-09 | AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden |
-| 38 | [intersystems-community/FHIR-AI-Hackathon-Kit](https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit) | 7 | Jupyter Notebook | 2026-10-09 | Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector s |
-| 39 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-09 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 40 | [knowusuboaky/VectrixDB](https://github.com/knowusuboaky/VectrixDB) | 0 | Python | 2026-10-09 | Where vectors come alive - A lightweight, visual-first vector database with embedded ML models. No API keys required. |
-| 41 | [kamilsj/vectors](https://github.com/kamilsj/vectors) | 4 | Rust | 2026-10-09 | SQL-first vector database written in Rust: relational filters and similarity search in one query. |
-| 42 | [davidfernxndez/github-repository-rag](https://github.com/davidfernxndez/github-repository-rag) | 0 | Jupyter Notebook | 2026-10-09 | Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito |
-| 43 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13219 | Java | 2026-10-09 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
-| 44 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 269 | Rust | 2026-10-09 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 45 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-09 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 46 | [topk-io/topk](https://github.com/topk-io/topk) | 97 | Rust | 2026-10-09 | High-quality search for AI-native applications. |
-| 47 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 2127 | PHP | 2026-10-09 | The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T |
-| 48 | [BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP](https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP) | 0 | Python | 2026-10-09 | Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval |
-| 49 | [milvus-io/pymilvus](https://github.com/milvus-io/pymilvus) | 1416 | Python | 2026-10-09 | Python SDK for Milvus Vector Database |
-| 50 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-09 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 1 | [Tribrix23/CleaveDB](https://github.com/Tribrix23/CleaveDB) | 0 | Python | 2026-10-09 | Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++ |
+| 2 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 11 | JavaScript | 2026-10-09 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-09 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46346 | Go | 2026-10-09 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 5 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2050 | Go | 2026-10-09 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 6 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31844 | Python | 2026-10-09 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
+| 7 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | 1918 | Rust | 2026-10-09 | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. |
+| 8 | [infino-ai/infino](https://github.com/infino-ai/infino) | 116 | Rust | 2026-10-09 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
+| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-09 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 10 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-09 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 11 | [sunormesky-max/epicode](https://github.com/sunormesky-max/epicode) | 8 | Rust | 2026-10-09 | Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense. |
+| 12 | [lightonai/next-plaid](https://github.com/lightonai/next-plaid) | 556 | Rust | 2026-10-09 | NextPlaid, ColGREP: Multi-vector search, from database to coding agents. |
+| 13 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9385 | Rust | 2026-10-09 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 14 | [weaviate/typescript-client](https://github.com/weaviate/typescript-client) | 101 | TypeScript | 2026-10-09 | Official Weaviate TypeScript Client |
+| 15 | [karailker/awesome-docker-compose](https://github.com/karailker/awesome-docker-compose) | 9 | Shell | 2026-10-09 | A curated collection of Docker Compose configurations for popular services like PostgreSQL, Kafka, Elasticsearch, Redis, |
+| 16 | [Tamilmani027/Context-IQ](https://github.com/Tamilmani027/Context-IQ) | 0 | JavaScript | 2026-10-09 | An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri |
+| 17 | [ramalingamthangamani/rag-doc-assistant](https://github.com/ramalingamthangamani/rag-doc-assistant) | 0 | Jupyter Notebook | 2026-10-09 | Chat with your PDFs: hybrid retrieval (BM25 + dense), cross-encoder reranking, cited LLM answers, and evaluation noteboo |
+| 18 | [Yacine-ai-tech/IntelAI](https://github.com/Yacine-ai-tech/IntelAI) | 0 | Python | 2026-10-09 | Sovereign enterprise RAG & analytics platform — role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25  |
+| 19 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 387 | C++ | 2026-10-09 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
+| 20 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7123 | Java | 2026-10-09 | The AI search platform |
+| 21 | [Cognipeer/console](https://github.com/Cognipeer/console) | 26 | TypeScript | 2026-10-09 | Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub,  |
+| 22 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1192 | Java | 2026-10-09 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 23 | [pavelhorak/pion](https://github.com/pavelhorak/pion) | 1 | Mojo | 2026-10-09 | Pion — the memory engine for AI inference |
+| 24 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-09 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 25 | [IdoY12/awesome-free-ai-apis](https://github.com/IdoY12/awesome-free-ai-apis) | 1 | JavaScript | 2026-10-09 | Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin |
+| 26 | [hbar-systems/brainfoundry-nous](https://github.com/hbar-systems/brainfoundry-nous) | 1 | Python | 2026-10-09 | Self-hosted sovereign AI brain — persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL |
+| 27 | [TAIPANBOX/engram](https://github.com/TAIPANBOX/engram) | 2 | Python | 2026-10-09 | SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi |
+| 28 | [bundlab/generative-ai-engineering](https://github.com/bundlab/generative-ai-engineering) | 0 | Python | 2026-10-09 | A production-grade, hands-on repository designed to master generative AI engineering, from foundation models to producti |
+| 29 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16876 | Go | 2026-10-09 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
+| 30 | [zyx4303/autorag](https://github.com/zyx4303/autorag) | 0 | Python | 2026-10-09 | 可运行的 RAG 后端：结构感知切分 + 向量/BM25 混合检索 + RRF 融合 + 四信号重排，服务端校验引用越界，检索为空时不调用大模型。FastAPI · Chroma · BGE · Docker · 30 项测试。 |
+| 31 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-09 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 32 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 4 | Python | 2026-10-09 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
+| 33 | [skhynix/LTM100](https://github.com/skhynix/LTM100) | 4 | Python | 2026-10-09 | A multi-user load benchmark for Long-Term Memory (LTM) systems |
+| 34 | [kdraggoo/chatbot](https://github.com/kdraggoo/chatbot) | 0 | Python | 2026-10-09 | Self-hosted RAG chatbot that answers questions about my career. FastAPI, Qdrant, Ollama. No third-party LLM APIs. |
+| 35 | [ZenSystemAI/Zengram](https://github.com/ZenSystemAI/Zengram) | 61 | JavaScript | 2026-10-09 | A Multi Agent Memory MCP That Connect Agents Across Systems and Machines |
+| 36 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11627 | Rust | 2026-10-09 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 37 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6498 | TypeScript | 2026-10-09 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
+| 38 | [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag) | 255 | Python | 2026-10-09 | Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios. |
+| 39 | [AliZahiri/ai-rag-platform-blueprint](https://github.com/AliZahiri/ai-rag-platform-blueprint) | 0 | Python | 2026-10-09 | AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden |
+| 40 | [intersystems-community/FHIR-AI-Hackathon-Kit](https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit) | 7 | Jupyter Notebook | 2026-10-09 | Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector s |
+| 41 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-09 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 42 | [knowusuboaky/VectrixDB](https://github.com/knowusuboaky/VectrixDB) | 0 | Python | 2026-10-09 | Where vectors come alive - A lightweight, visual-first vector database with embedded ML models. No API keys required. |
+| 43 | [kamilsj/vectors](https://github.com/kamilsj/vectors) | 4 | Rust | 2026-10-09 | SQL-first vector database written in Rust: relational filters and similarity search in one query. |
+| 44 | [davidfernxndez/github-repository-rag](https://github.com/davidfernxndez/github-repository-rag) | 0 | Jupyter Notebook | 2026-10-09 | Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito |
+| 45 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13219 | Java | 2026-10-09 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
+| 46 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 269 | Rust | 2026-10-09 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 47 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-09 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 48 | [topk-io/topk](https://github.com/topk-io/topk) | 97 | Rust | 2026-10-09 | High-quality search for AI-native applications. |
+| 49 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 2127 | PHP | 2026-10-09 | The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T |
+| 50 | [BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP](https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP) | 0 | Python | 2026-10-09 | Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval |
 <!-- TRACKER_TABLE_END -->
 
 ---
