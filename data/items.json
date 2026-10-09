@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T12:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1504,
+    "updated_at": "2026-10-09T12:27:30Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "A curated collection of Docker Compose configurations for popular services like PostgreSQL, Kafka, Elasticsearch, Redis,",
+    "id": "karailker/awesome-docker-compose",
+    "language": "Shell",
+    "name": "karailker/awesome-docker-compose",
+    "stars": 9,
+    "updated_at": "2026-10-09T12:26:55Z",
+    "url": "https://github.com/karailker/awesome-docker-compose"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2050,
+    "updated_at": "2026-10-09T12:26:53Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-09T12:26:00Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2127,
+    "updated_at": "2026-10-09T12:22:22Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31848,
+    "updated_at": "2026-10-09T12:26:45Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T12:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
     "id": "Tribrix23/CleaveDB",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-09T12:14:09Z",
+    "updated_at": "2026-10-09T12:30:15Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -36,30 +108,12 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2050,
-    "updated_at": "2026-10-09T12:11:20Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31844,
-    "updated_at": "2026-10-09T12:07:31Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
     "id": "SeekStorm/SeekStorm",
     "language": "Rust",
     "name": "SeekStorm/SeekStorm",
     "stars": 1918,
-    "updated_at": "2026-10-09T12:06:54Z",
+    "updated_at": "2026-10-09T12:19:11Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
@@ -68,26 +122,8 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 116,
-    "updated_at": "2026-10-09T12:01:55Z",
+    "updated_at": "2026-10-09T12:28:47Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T12:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T12:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-10-09T12:02:14Z",
+    "updated_at": "2026-10-09T12:20:33Z",
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9385,
-    "updated_at": "2026-10-09T11:52:31Z",
+    "updated_at": "2026-10-09T12:27:50Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 101,
     "updated_at": "2026-10-09T11:49:22Z",
     "url": "https://github.com/weaviate/typescript-client"
-  },
-  {
-    "description": "A curated collection of Docker Compose configurations for popular services like PostgreSQL, Kafka, Elasticsearch, Redis,",
-    "id": "karailker/awesome-docker-compose",
-    "language": "Shell",
-    "name": "karailker/awesome-docker-compose",
-    "stars": 9,
-    "updated_at": "2026-10-09T12:03:54Z",
-    "url": "https://github.com/karailker/awesome-docker-compose"
   },
   {
     "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
@@ -176,17 +203,17 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7123,
-    "updated_at": "2026-10-09T11:39:27Z",
+    "updated_at": "2026-10-09T12:22:30Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-09T12:14:00Z",
-    "url": "https://github.com/Cognipeer/console"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3416,
+    "updated_at": "2026-10-09T11:34:11Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -194,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1192,
-    "updated_at": "2026-10-09T12:14:24Z",
+    "updated_at": "2026-10-09T12:17:52Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Mojo",
     "name": "pavelhorak/pion",
     "stars": 1,
-    "updated_at": "2026-10-09T11:26:02Z",
+    "updated_at": "2026-10-09T12:29:26Z",
     "url": "https://github.com/pavelhorak/pion"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16876,
-    "updated_at": "2026-10-09T12:08:00Z",
+    "updated_at": "2026-10-09T12:28:31Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "knowusuboaky/VectrixDB",
     "stars": 0,
-    "updated_at": "2026-10-09T12:12:32Z",
+    "updated_at": "2026-10-09T12:23:05Z",
     "url": "https://github.com/knowusuboaky/VectrixDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-09T09:44:27Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 97,
-    "updated_at": "2026-10-09T11:27:16Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2127,
-    "updated_at": "2026-10-09T09:43:33Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
-    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "language": "Python",
-    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:41:29Z",
-    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
   }
 ]
