@@ -5,8 +5,143 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-09T18:30:21Z",
+    "updated_at": "2026-10-09T18:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-09T18:44:02Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 1,
+    "updated_at": "2026-10-09T18:43:58Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:43:33Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-09T18:42:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-09T18:42:59Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:41:15Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
+    "id": "api-evangelist/lf-ai-and-data",
+    "language": "\u2014",
+    "name": "api-evangelist/lf-ai-and-data",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:38:22Z",
+    "url": "https://github.com/api-evangelist/lf-ai-and-data"
+  },
+  {
+    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:37:17Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
+    "id": "cluaiz/cluaizdb",
+    "language": "Rust",
+    "name": "cluaiz/cluaizdb",
+    "stars": 1,
+    "updated_at": "2026-10-09T18:35:49Z",
+    "url": "https://github.com/cluaiz/cluaizdb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9384,
+    "updated_at": "2026-10-09T18:42:16Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:33:43Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 1,
+    "updated_at": "2026-10-09T18:35:37Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Self-hosted RAG chatbot that answers questions about my career. FastAPI, Qdrant, Ollama. No third-party LLM APIs.",
+    "id": "kdraggoo/chatbot",
+    "language": "Python",
+    "name": "kdraggoo/chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:32:10Z",
+    "url": "https://github.com/kdraggoo/chatbot"
+  },
+  {
+    "description": "Production-oriented RAG application that ingests PDF documents, chunks and embeds their content using local Ollama model",
+    "id": "kisinja/rag-production-app",
+    "language": "Python",
+    "name": "kisinja/rag-production-app",
+    "stars": 1,
+    "updated_at": "2026-10-09T18:30:27Z",
+    "url": "https://github.com/kisinja/rag-production-app"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T18:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
@@ -90,40 +225,13 @@
     "url": "https://github.com/api-evangelist/chroma"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T18:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-09T18:11:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-09T18:11:40Z",
+    "updated_at": "2026-10-09T18:40:52Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 1,
-    "updated_at": "2026-10-09T18:29:41Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
@@ -171,24 +279,6 @@
     "url": "https://github.com/krishkantrai27/StackForge"
   },
   {
-    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
-    "id": "cluaiz/cluaizdb",
-    "language": "Rust",
-    "name": "cluaiz/cluaizdb",
-    "stars": 1,
-    "updated_at": "2026-10-09T17:49:45Z",
-    "url": "https://github.com/cluaiz/cluaizdb"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9384,
-    "updated_at": "2026-10-09T18:27:52Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -202,7 +292,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8339,
+    "stars": 8340,
     "updated_at": "2026-10-09T17:30:04Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -238,7 +328,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34984,
+    "stars": 34983,
     "updated_at": "2026-10-09T17:24:35Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -266,7 +356,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 899,
-    "updated_at": "2026-10-09T18:08:53Z",
+    "updated_at": "2026-10-09T18:32:00Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -328,7 +418,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31887,
+    "stars": 31886,
     "updated_at": "2026-10-09T16:32:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -356,97 +446,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9456,
-    "updated_at": "2026-10-09T18:25:56Z",
+    "updated_at": "2026-10-09T18:33:59Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
-    "id": "hypercrux/hypercrux",
-    "language": "Go",
-    "name": "hypercrux/hypercrux",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:16:26Z",
-    "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
-    "description": "NLP + RAG technique for requirements engineering.",
-    "id": "Semillero-GIDSYC/NLP4RE",
-    "language": "Jupyter Notebook",
-    "name": "Semillero-GIDSYC/NLP4RE",
-    "stars": 4,
-    "updated_at": "2026-10-09T16:15:32Z",
-    "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2006,
-    "updated_at": "2026-10-09T16:13:18Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "A full-stack Retrieval-Augmented Generation (RAG) AI System for Vietnamese Traffic Laws featuring Hybrid Search (BM25 + ",
-    "id": "huynoob1312/vietnamese_traffic_law_RAG",
-    "language": "Python",
-    "name": "huynoob1312/vietnamese_traffic_law_RAG",
-    "stars": 1,
-    "updated_at": "2026-10-09T16:08:02Z",
-    "url": "https://github.com/huynoob1312/vietnamese_traffic_law_RAG"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 4,
-    "updated_at": "2026-10-09T16:00:40Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Universal RAG tool",
-    "id": "pathwaycom/serviette",
-    "language": "Python",
-    "name": "pathwaycom/serviette",
-    "stars": 5,
-    "updated_at": "2026-10-09T15:57:28Z",
-    "url": "https://github.com/pathwaycom/serviette"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4444,
-    "updated_at": "2026-10-09T15:52:07Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-09T15:51:50Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:49:23Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Production-oriented RAG application that ingests PDF documents, chunks and embeds their content using local Ollama model",
-    "id": "kisinja/rag-production-app",
-    "language": "Python",
-    "name": "kisinja/rag-production-app",
-    "stars": 1,
-    "updated_at": "2026-10-09T15:48:02Z",
-    "url": "https://github.com/kisinja/rag-production-app"
   }
 ]
