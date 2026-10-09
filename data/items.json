@@ -1,12 +1,48 @@
 [
   {
-    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
-    "id": "Yacine-ai-tech/IntelAI",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "Yacine-ai-tech/IntelAI",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T16:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Universal RAG tool",
+    "id": "pathwaycom/serviette",
+    "language": "Python",
+    "name": "pathwaycom/serviette",
+    "stars": 5,
+    "updated_at": "2026-10-09T15:57:28Z",
+    "url": "https://github.com/pathwaycom/serviette"
+  },
+  {
+    "description": "Where vectors come alive - A lightweight, visual-first vector database with embedded ML models. No API keys required.",
+    "id": "knowusuboaky/VectrixDB",
+    "language": "Python",
+    "name": "knowusuboaky/VectrixDB",
     "stars": 0,
-    "updated_at": "2026-10-09T15:43:56Z",
-    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+    "updated_at": "2026-10-09T15:54:46Z",
+    "url": "https://github.com/knowusuboaky/VectrixDB"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-09T15:51:50Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34984,
+    "updated_at": "2026-10-09T15:51:18Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -14,8 +50,62 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9385,
-    "updated_at": "2026-10-09T15:44:29Z",
+    "updated_at": "2026-10-09T15:53:46Z",
     "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31873,
+    "updated_at": "2026-10-09T15:49:55Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:49:23Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Production-oriented RAG application that ingests PDF documents, chunks and embeds their content using local Ollama model",
+    "id": "kisinja/rag-production-app",
+    "language": "Python",
+    "name": "kisinja/rag-production-app",
+    "stars": 1,
+    "updated_at": "2026-10-09T15:48:02Z",
+    "url": "https://github.com/kisinja/rag-production-app"
+  },
+  {
+    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
+    "id": "hypercrux/hypercrux",
+    "language": "Go",
+    "name": "hypercrux/hypercrux",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:47:20Z",
+    "url": "https://github.com/hypercrux/hypercrux"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T15:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-09T15:43:56Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -36,15 +126,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31870,
-    "updated_at": "2026-10-09T15:35:53Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "An advanced RAG system utililzing text datasets chunked dynamically. Engineered a dual-stage retrieval pipeline using al",
     "id": "rahulboby/ChatVeritas",
     "language": "Python",
@@ -52,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-10-09T15:35:02Z",
     "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8338,
+    "updated_at": "2026-10-09T15:32:55Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
@@ -63,47 +153,11 @@
     "url": "https://github.com/tapiruslab/TapirusDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T15:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T15:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
-    "id": "hypercrux/hypercrux",
-    "language": "Go",
-    "name": "hypercrux/hypercrux",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:27:37Z",
-    "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34984,
-    "updated_at": "2026-10-09T15:44:50Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66857,
+    "stars": 66859,
     "updated_at": "2026-10-09T15:18:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -117,21 +171,12 @@
     "url": "https://github.com/kamilsj/vectors"
   },
   {
-    "description": "Where vectors come alive - A lightweight, visual-first vector database with embedded ML models. No API keys required.",
-    "id": "knowusuboaky/VectrixDB",
-    "language": "Python",
-    "name": "knowusuboaky/VectrixDB",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:29:26Z",
-    "url": "https://github.com/knowusuboaky/VectrixDB"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 899,
-    "updated_at": "2026-10-09T15:18:39Z",
+    "updated_at": "2026-10-09T15:54:59Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1193,
-    "updated_at": "2026-10-09T15:41:51Z",
+    "updated_at": "2026-10-09T15:56:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-09T15:23:21Z",
+    "updated_at": "2026-10-09T15:52:07Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -257,7 +302,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6500,
-    "updated_at": "2026-10-09T14:32:44Z",
+    "updated_at": "2026-10-09T15:59:06Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T13:59:03Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1504,
-    "updated_at": "2026-10-09T13:58:42Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-10-09T13:57:10Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-10-09T13:56:41Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "A vector database from scratch in Python. HNSW indexing, cosine/euclidean/dot-product similarity, persistence, and a RES",
-    "id": "iamsnh01/vecstore",
-    "language": "Python",
-    "name": "iamsnh01/vecstore",
-    "stars": 0,
-    "updated_at": "2026-10-09T13:56:23Z",
-    "url": "https://github.com/iamsnh01/vecstore"
-  },
-  {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 247,
-    "updated_at": "2026-10-09T15:11:15Z",
-    "url": "https://github.com/deven96/ahnlich"
   }
 ]
