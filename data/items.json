@@ -1,5 +1,122 @@
 [
   {
+    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-09T20:13:37Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-09T20:13:02Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T20:12:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-09T20:09:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Vector database built from scratch in Java with zero dependencies. HNSW, KD-Tree and Brute Force search side by side, pl",
+    "id": "krishkantrai27/StackForge",
+    "language": "Java",
+    "name": "krishkantrai27/StackForge",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:08:39Z",
+    "url": "https://github.com/krishkantrai27/StackForge"
+  },
+  {
+    "description": "Self-hosted RAG chatbot that answers questions about my career. FastAPI, Qdrant, Ollama. No third-party LLM APIs.",
+    "id": "kdraggoo/chatbot",
+    "language": "Python",
+    "name": "kdraggoo/chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:06:38Z",
+    "url": "https://github.com/kdraggoo/chatbot"
+  },
+  {
+    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
+    "id": "n9524726-star/chatpdf-rag",
+    "language": "Python",
+    "name": "n9524726-star/chatpdf-rag",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:06:24Z",
+    "url": "https://github.com/n9524726-star/chatpdf-rag"
+  },
+  {
+    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
+    "id": "sarthaksinha2600/LLM-Contract",
+    "language": "\u2014",
+    "name": "sarthaksinha2600/LLM-Contract",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:06:14Z",
+    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:05:26Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
+    "id": "boulif781/enterprise-knowledge-assistant",
+    "language": "\u2014",
+    "name": "boulif781/enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:03:41Z",
+    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
+  },
+  {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 0,
+    "updated_at": "2026-10-09T20:02:33Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+  },
+  {
+    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
+    "id": "Bekhbekh7821/CanopyOps",
+    "language": "\u2014",
+    "name": "Bekhbekh7821/CanopyOps",
+    "stars": 1,
+    "updated_at": "2026-10-09T20:01:30Z",
+    "url": "https://github.com/Bekhbekh7821/CanopyOps"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T20:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
     "id": "ather-techie/rag-interview-system",
     "language": "Jupyter Notebook",
@@ -32,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1193,
-    "updated_at": "2026-10-09T19:57:10Z",
+    "updated_at": "2026-10-09T20:15:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -122,7 +239,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-10-09T19:49:00Z",
+    "updated_at": "2026-10-09T20:14:49Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -180,30 +297,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T19:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T19:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11627,
-    "updated_at": "2026-10-09T19:45:03Z",
+    "updated_at": "2026-10-09T20:04:37Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -214,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-10-09T19:44:40Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
-    "id": "ssrjkk/agent-skills",
-    "language": "Python",
-    "name": "ssrjkk/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-09T19:44:07Z",
-    "url": "https://github.com/ssrjkk/agent-skills"
   },
   {
     "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
@@ -306,15 +396,6 @@
     "url": "https://github.com/drintoul/rag"
   },
   {
-    "description": "Vector database built from scratch in Java with zero dependencies. HNSW, KD-Tree and Brute Force search side by side, pl",
-    "id": "krishkantrai27/StackForge",
-    "language": "Java",
-    "name": "krishkantrai27/StackForge",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:39:29Z",
-    "url": "https://github.com/krishkantrai27/StackForge"
-  },
-  {
     "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
     "id": "Ojcalzada/pulsepoint-RAG",
     "language": "Python",
@@ -322,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T19:38:48Z",
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-09T19:37:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
@@ -347,7 +419,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 1,
-    "updated_at": "2026-10-09T19:40:01Z",
+    "updated_at": "2026-10-09T20:14:27Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T19:33:10Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:31:36Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "A high-performance, hardware-native living data kernel. Dynamically unifies SQL, NoSQL, Graph, and Vector models via pro",
-    "id": "cluaiz/cluaizdb",
-    "language": "Rust",
-    "name": "cluaiz/cluaizdb",
-    "stars": 1,
-    "updated_at": "2026-10-09T19:31:04Z",
-    "url": "https://github.com/cluaiz/cluaizdb"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-10-09T19:27:05Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-10-09T19:25:40Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-10-09T19:23:51Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-10-09T19:23:05Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34986,
-    "updated_at": "2026-10-09T19:20:37Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Official Terraform provider for Pinecone ",
-    "id": "pinecone-io/terraform-provider-pinecone",
-    "language": "Go",
-    "name": "pinecone-io/terraform-provider-pinecone",
-    "stars": 32,
-    "updated_at": "2026-10-09T19:20:28Z",
-    "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
   }
 ]
