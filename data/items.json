@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T08:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13219,
+    "updated_at": "2026-10-09T08:14:49Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-09T08:14:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
@@ -14,8 +23,44 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-10-09T07:59:54Z",
+    "updated_at": "2026-10-09T08:08:30Z",
     "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
+    "id": "eminsk/nanovector",
+    "language": "Python",
+    "name": "eminsk/nanovector",
+    "stars": 6,
+    "updated_at": "2026-10-09T08:04:17Z",
+    "url": "https://github.com/eminsk/nanovector"
+  },
+  {
+    "description": "Universal RAG tool",
+    "id": "pathwaycom/serviette",
+    "language": "Python",
+    "name": "pathwaycom/serviette",
+    "stars": 5,
+    "updated_at": "2026-10-09T08:04:17Z",
+    "url": "https://github.com/pathwaycom/serviette"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T08:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T08:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -23,17 +68,8 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 899,
-    "updated_at": "2026-10-09T07:59:23Z",
+    "updated_at": "2026-10-09T08:04:57Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13219,
-    "updated_at": "2026-10-09T07:58:56Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
@@ -59,7 +95,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16876,
-    "updated_at": "2026-10-09T07:54:44Z",
+    "updated_at": "2026-10-09T08:08:33Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -99,31 +135,13 @@
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-09T07:49:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 289,
-    "updated_at": "2026-10-09T07:48:33Z",
+    "updated_at": "2026-10-09T08:11:35Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T07:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
@@ -140,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1191,
-    "updated_at": "2026-10-09T07:38:35Z",
+    "updated_at": "2026-10-09T08:10:40Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -229,7 +247,7 @@
     "id": "zilliztech/vector-graph-rag",
     "language": "Python",
     "name": "zilliztech/vector-graph-rag",
-    "stars": 254,
+    "stars": 255,
     "updated_at": "2026-10-09T07:32:00Z",
     "url": "https://github.com/zilliztech/vector-graph-rag"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-09T07:15:33Z",
     "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "A curated collection of Docker Compose configurations for popular services like PostgreSQL, Kafka, Elasticsearch, Redis,",
-    "id": "karailker/awesome-docker-compose",
-    "language": "Shell",
-    "name": "karailker/awesome-docker-compose",
-    "stars": 9,
-    "updated_at": "2026-10-09T07:56:09Z",
-    "url": "https://github.com/karailker/awesome-docker-compose"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-10-09T07:14:46Z",
-    "url": "https://github.com/a258huit58/claude-memory"
   }
 ]
