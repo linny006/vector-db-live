@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-09T05:15:20Z",
+    "updated_at": "2026-10-09T05:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "Enoch-Nemili/papermind",
     "stars": 0,
-    "updated_at": "2026-10-09T05:13:49Z",
+    "updated_at": "2026-10-09T05:30:12Z",
     "url": "https://github.com/Enoch-Nemili/papermind"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 898,
+    "updated_at": "2026-10-09T05:26:18Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-09T05:28:17Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 5,
+    "updated_at": "2026-10-09T05:21:25Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "AI-powered academic Q&A web app using RAG. Upload your study PDFs and get answers grounded in your own notes, with docum",
+    "id": "aditi-1731/EduRAG-Academic-Knowledge-Assistant",
+    "language": "CSS",
+    "name": "aditi-1731/EduRAG-Academic-Knowledge-Assistant",
+    "stars": 0,
+    "updated_at": "2026-10-09T05:21:12Z",
+    "url": "https://github.com/aditi-1731/EduRAG-Academic-Knowledge-Assistant"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7122,
+    "updated_at": "2026-10-09T05:16:22Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T05:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -32,7 +86,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 289,
-    "updated_at": "2026-10-09T05:10:18Z",
+    "updated_at": "2026-10-09T05:22:19Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-10-09T05:06:39Z",
+    "updated_at": "2026-10-09T05:30:01Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -52,24 +106,6 @@
     "stars": 1191,
     "updated_at": "2026-10-09T05:14:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 5,
-    "updated_at": "2026-10-09T05:04:32Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T05:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
@@ -126,15 +162,6 @@
     "url": "https://github.com/recerndata/recern-vector"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 898,
-    "updated_at": "2026-10-09T04:52:52Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T04:35:01Z",
     "url": "https://github.com/Aneesh495/tessera"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-09T04:13:20Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-09T03:48:25Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-10-09T03:48:08Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6494,
-    "updated_at": "2026-10-09T04:49:15Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
