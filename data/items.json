@@ -1,11 +1,146 @@
 [
   {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-09T13:15:20Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-10-09T13:12:58Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-09T13:12:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-09T13:12:06Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "A curated collection of Docker Compose configurations for popular services like PostgreSQL, Kafka, Elasticsearch, Redis,",
+    "id": "karailker/awesome-docker-compose",
+    "language": "Shell",
+    "name": "karailker/awesome-docker-compose",
+    "stars": 9,
+    "updated_at": "2026-10-09T13:11:55Z",
+    "url": "https://github.com/karailker/awesome-docker-compose"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-10-09T13:11:34Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3418,
+    "updated_at": "2026-10-09T13:11:28Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7123,
+    "updated_at": "2026-10-09T13:11:06Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Production RAG platform: OCR \u2192 semantic chunking \u2192 TEI embeddings \u2192 Qdrant \u2192 cross-encoder reranking \u2192 Llama 3, with gro",
+    "id": "Abhishekvoid/RagBag-backend",
+    "language": "Python",
+    "name": "Abhishekvoid/RagBag-backend",
+    "stars": 0,
+    "updated_at": "2026-10-09T13:10:09Z",
+    "url": "https://github.com/Abhishekvoid/RagBag-backend"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2050,
+    "updated_at": "2026-10-09T13:07:59Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Redis Vector Library. The AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 431,
+    "updated_at": "2026-10-09T13:07:52Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
+    "id": "yunaremaia/memwatch",
+    "language": "Python",
+    "name": "yunaremaia/memwatch",
+    "stars": 1,
+    "updated_at": "2026-10-09T13:04:21Z",
+    "url": "https://github.com/yunaremaia/memwatch"
+  },
+  {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-10-09T13:01:43Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31850,
+    "updated_at": "2026-10-09T13:08:06Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T13:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-09T13:00:26Z",
+    "updated_at": "2026-10-09T13:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,24 +153,6 @@
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31849,
-    "updated_at": "2026-10-09T12:54:16Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-09T12:54:53Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
     "description": "Pion \u2014 the memory engine for AI inference",
     "id": "pavelhorak/pion",
     "language": "Mojo",
@@ -43,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T12:51:23Z",
     "url": "https://github.com/pavelhorak/pion"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2050,
-    "updated_at": "2026-10-09T12:49:56Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -63,40 +171,13 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-09T12:48:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Where vectors come alive - A lightweight, visual-first vector database with embedded ML models. No API keys required.",
     "id": "knowusuboaky/VectrixDB",
     "language": "Python",
     "name": "knowusuboaky/VectrixDB",
     "stars": 0,
-    "updated_at": "2026-10-09T12:49:09Z",
+    "updated_at": "2026-10-09T13:02:53Z",
     "url": "https://github.com/knowusuboaky/VectrixDB"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7123,
-    "updated_at": "2026-10-09T12:49:37Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T12:45:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -104,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1192,
-    "updated_at": "2026-10-09T12:41:13Z",
+    "updated_at": "2026-10-09T13:11:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -126,21 +207,12 @@
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
-    "description": "A curated collection of Docker Compose configurations for popular services like PostgreSQL, Kafka, Elasticsearch, Redis,",
-    "id": "karailker/awesome-docker-compose",
-    "language": "Shell",
-    "name": "karailker/awesome-docker-compose",
-    "stars": 9,
-    "updated_at": "2026-10-09T12:52:54Z",
-    "url": "https://github.com/karailker/awesome-docker-compose"
-  },
-  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-09T12:26:00Z",
+    "updated_at": "2026-10-09T13:07:42Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -148,7 +220,7 @@
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
-    "stars": 2127,
+    "stars": 2128,
     "updated_at": "2026-10-09T12:22:22Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
@@ -176,7 +248,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 116,
-    "updated_at": "2026-10-09T12:28:47Z",
+    "updated_at": "2026-10-09T13:04:05Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -243,15 +315,6 @@
     "url": "https://github.com/zilliztech/knowhere"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3417,
-    "updated_at": "2026-10-09T11:34:11Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -302,7 +365,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16876,
-    "updated_at": "2026-10-09T13:00:29Z",
+    "updated_at": "2026-10-09T13:14:00Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 6498,
     "updated_at": "2026-10-09T10:07:28Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
-    "id": "zilliztech/vector-graph-rag",
-    "language": "Python",
-    "name": "zilliztech/vector-graph-rag",
-    "stars": 255,
-    "updated_at": "2026-10-09T10:07:25Z",
-    "url": "https://github.com/zilliztech/vector-graph-rag"
-  },
-  {
-    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-10-09T10:06:21Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector s",
-    "id": "intersystems-community/FHIR-AI-Hackathon-Kit",
-    "language": "Jupyter Notebook",
-    "name": "intersystems-community/FHIR-AI-Hackathon-Kit",
-    "stars": 7,
-    "updated_at": "2026-10-09T10:04:35Z",
-    "url": "https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-09T10:04:29Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 4,
-    "updated_at": "2026-10-09T10:11:05Z",
-    "url": "https://github.com/kamilsj/vectors"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
-    "id": "davidfernxndez/github-repository-rag",
-    "language": "Jupyter Notebook",
-    "name": "davidfernxndez/github-repository-rag",
-    "stars": 0,
-    "updated_at": "2026-10-09T09:57:29Z",
-    "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13220,
-    "updated_at": "2026-10-09T09:46:42Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
