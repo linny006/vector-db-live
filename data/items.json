@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-09T16:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector database built from scratch in Java with zero dependencies. HNSW, KD-Tree and Brute Force search side by side, pl",
+    "id": "krishkantrai27/StackForge",
+    "language": "Java",
+    "name": "krishkantrai27/StackForge",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:24:38Z",
+    "url": "https://github.com/krishkantrai27/StackForge"
+  },
+  {
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:23:46Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11629,
+    "updated_at": "2026-10-09T16:22:52Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 556,
+    "updated_at": "2026-10-09T16:19:15Z",
+    "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "Java",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-10-09T16:18:03Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
+    "id": "hypercrux/hypercrux",
+    "language": "Go",
+    "name": "hypercrux/hypercrux",
+    "stars": 0,
+    "updated_at": "2026-10-09T16:16:26Z",
+    "url": "https://github.com/hypercrux/hypercrux"
+  },
+  {
+    "description": "NLP + RAG technique for requirements engineering.",
+    "id": "Semillero-GIDSYC/NLP4RE",
+    "language": "Jupyter Notebook",
+    "name": "Semillero-GIDSYC/NLP4RE",
+    "stars": 4,
+    "updated_at": "2026-10-09T16:15:32Z",
+    "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-09T16:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -54,22 +135,13 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-09T16:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-09T16:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 4,
+    "updated_at": "2026-10-09T16:00:40Z",
+    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Universal RAG tool",
@@ -113,7 +185,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9385,
-    "updated_at": "2026-10-09T16:14:02Z",
+    "updated_at": "2026-10-09T16:28:57Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -121,8 +193,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31874,
-    "updated_at": "2026-10-09T15:49:55Z",
+    "stars": 31877,
+    "updated_at": "2026-10-09T16:27:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -142,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T15:48:02Z",
     "url": "https://github.com/kisinja/rag-production-app"
-  },
-  {
-    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
-    "id": "hypercrux/hypercrux",
-    "language": "Go",
-    "name": "hypercrux/hypercrux",
-    "stars": 0,
-    "updated_at": "2026-10-09T15:47:20Z",
-    "url": "https://github.com/hypercrux/hypercrux"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -176,7 +239,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8338,
-    "updated_at": "2026-10-09T16:09:35Z",
+    "updated_at": "2026-10-09T16:17:01Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -193,7 +256,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66860,
+    "stars": 66863,
     "updated_at": "2026-10-09T15:18:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -212,7 +275,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 899,
-    "updated_at": "2026-10-09T15:54:59Z",
+    "updated_at": "2026-10-09T16:19:29Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -221,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1193,
-    "updated_at": "2026-10-09T16:14:54Z",
+    "updated_at": "2026-10-09T16:28:52Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -279,24 +342,6 @@
     "url": "https://github.com/Juankia/docsearch-ai-rag"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11628,
-    "updated_at": "2026-10-09T14:52:07Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-09T14:49:32Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
     "id": "qdrant/skills",
     "language": "Python",
@@ -311,7 +356,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9457,
-    "updated_at": "2026-10-09T15:25:24Z",
+    "updated_at": "2026-10-09T16:23:12Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -329,7 +374,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-09T14:31:20Z",
+    "updated_at": "2026-10-09T16:28:02Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -369,15 +414,6 @@
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:20:31Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 1717,
     "updated_at": "2026-10-09T14:09:28Z",
     "url": "https://github.com/LLPhant/LLPhant"
-  },
-  {
-    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
-    "id": "n9524726-star/chatpdf-rag",
-    "language": "Python",
-    "name": "n9524726-star/chatpdf-rag",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:02:00Z",
-    "url": "https://github.com/n9524726-star/chatpdf-rag"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:01:46Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "\u53ef\u8fd0\u884c\u7684 RAG \u540e\u7aef\uff1a\u7ed3\u6784\u611f\u77e5\u5207\u5206 + \u5411\u91cf/BM25 \u6df7\u5408\u68c0\u7d22 + RRF \u878d\u5408 + \u56db\u4fe1\u53f7\u91cd\u6392\uff0c\u670d\u52a1\u7aef\u6821\u9a8c\u5f15\u7528\u8d8a\u754c\uff0c\u68c0\u7d22\u4e3a\u7a7a\u65f6\u4e0d\u8c03\u7528\u5927\u6a21\u578b\u3002FastAPI \u00b7 Chroma \u00b7 BGE \u00b7 Docker \u00b7 30 \u9879\u6d4b\u8bd5\u3002",
-    "id": "zyx4303/autorag",
-    "language": "Python",
-    "name": "zyx4303/autorag",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:01:25Z",
-    "url": "https://github.com/zyx4303/autorag"
-  },
-  {
-    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
-    "id": "Shitless-jnr3697/rebasis",
-    "language": "Python",
-    "name": "Shitless-jnr3697/rebasis",
-    "stars": 0,
-    "updated_at": "2026-10-09T14:00:52Z",
-    "url": "https://github.com/Shitless-jnr3697/rebasis"
   }
 ]
