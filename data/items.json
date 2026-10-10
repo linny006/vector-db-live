@@ -1,11 +1,74 @@
 [
   {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-10T15:28:53Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
+    "id": "davidfernxndez/github-repository-rag",
+    "language": "Jupyter Notebook",
+    "name": "davidfernxndez/github-repository-rag",
+    "stars": 0,
+    "updated_at": "2026-10-10T15:28:44Z",
+    "url": "https://github.com/davidfernxndez/github-repository-rag"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 371,
+    "updated_at": "2026-10-10T15:24:32Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46347,
+    "updated_at": "2026-10-10T15:23:43Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1196,
+    "updated_at": "2026-10-10T15:19:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 1,
+    "updated_at": "2026-10-10T15:21:40Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T15:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-10T15:15:20Z",
+    "updated_at": "2026-10-10T15:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/lightonai/next-plaid"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T15:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -113,7 +167,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 900,
-    "updated_at": "2026-10-10T15:14:18Z",
+    "updated_at": "2026-10-10T15:24:50Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 354,
     "updated_at": "2026-10-10T14:44:02Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1196,
-    "updated_at": "2026-10-10T14:42:29Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
@@ -256,7 +301,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35007,
+    "stars": 35008,
     "updated_at": "2026-10-10T14:04:46Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -286,15 +331,6 @@
     "stars": 4,
     "updated_at": "2026-10-10T13:44:14Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-10T15:13:24Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T13:19:35Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:18:50Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-10-10T13:17:24Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:17:14Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 3,
-    "updated_at": "2026-10-10T13:16:25Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
