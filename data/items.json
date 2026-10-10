@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T18:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-10T18:14:46Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-10T18:13:56Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\u26a1 In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantizat",
+    "id": "ronitgupta138/vectra-core",
+    "language": "Java",
+    "name": "ronitgupta138/vectra-core",
+    "stars": 41,
+    "updated_at": "2026-10-10T18:13:44Z",
+    "url": "https://github.com/ronitgupta138/vectra-core"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-10T18:10:48Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-10T18:10:45Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-10-10T18:08:23Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
+    "id": "OmniBioAI/omnibioai-dev-hub",
+    "language": "Python",
+    "name": "OmniBioAI/omnibioai-dev-hub",
+    "stars": 1,
+    "updated_at": "2026-10-10T18:07:53Z",
+    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-10T18:05:55Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "OpenEverest provider for Milvus",
+    "id": "openeverest/provider-milvus",
+    "language": "Go",
+    "name": "openeverest/provider-milvus",
+    "stars": 0,
+    "updated_at": "2026-10-10T18:04:53Z",
+    "url": "https://github.com/openeverest/provider-milvus"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-10T18:02:05Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9388,
+    "updated_at": "2026-10-10T18:05:29Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T18:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A single-file, embedded, inspectable vector database. Rust, Python and a CLI.",
     "id": "recerndata/recern-vector",
     "language": "Rust",
@@ -41,35 +158,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6509,
-    "updated_at": "2026-10-10T17:51:00Z",
+    "updated_at": "2026-10-10T18:13:17Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-10-10T17:55:12Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T17:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T18:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Spring AI RAG\uff1aEmbedding\u3001\u5411\u91cf\u5e93\u4e0e\u68c0\u7d22\u589e\u5f3a\u751f\u6210\u793a\u4f8b",
@@ -88,15 +178,6 @@
     "stars": 35008,
     "updated_at": "2026-10-10T17:40:08Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-10T17:35:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -194,17 +275,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2049,
-    "updated_at": "2026-10-10T16:43:25Z",
+    "updated_at": "2026-10-10T18:09:03Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:22:39Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -284,7 +356,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 4,
-    "updated_at": "2026-10-10T17:22:17Z",
+    "updated_at": "2026-10-10T18:00:34Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -320,7 +392,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46349,
-    "updated_at": "2026-10-10T15:23:43Z",
+    "updated_at": "2026-10-10T18:01:48Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -374,79 +446,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 900,
-    "updated_at": "2026-10-10T17:50:06Z",
+    "updated_at": "2026-10-10T18:07:08Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Chatbot RAG sobre datos oficiales de la Escuela Polit\u00e9cnica Superior de Ja\u00e9n (UJA). Recuperaci\u00f3n y generaci\u00f3n 100% en lo",
-    "id": "samubp10/tfg-recomendador-uja",
-    "language": "Python",
-    "name": "samubp10/tfg-recomendador-uja",
-    "stars": 0,
-    "updated_at": "2026-10-10T14:52:32Z",
-    "url": "https://github.com/samubp10/tfg-recomendador-uja"
-  },
-  {
-    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
-    "id": "tapiruslab/TapirusDB",
-    "language": "Rust",
-    "name": "tapiruslab/TapirusDB",
-    "stars": 0,
-    "updated_at": "2026-10-10T14:41:54Z",
-    "url": "https://github.com/tapiruslab/TapirusDB"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1509 questions & 52 RAG types), system design scenarios, arch",
-    "id": "ather-techie/rag-interview-system",
-    "language": "JavaScript",
-    "name": "ather-techie/rag-interview-system",
-    "stars": 166,
-    "updated_at": "2026-10-10T14:38:01Z",
-    "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-10T14:37:40Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-10T14:26:51Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Self-hosted microservice RAG on a single 6 GB GPU: Docling OCR, Qwen3.5-4B on SGLang, Qdrant hybrid search (bge-m3 + BM2",
-    "id": "mdmonsurali/Advanced-Hybrid-RAG",
-    "language": "Python",
-    "name": "mdmonsurali/Advanced-Hybrid-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-10T14:15:25Z",
-    "url": "https://github.com/mdmonsurali/Advanced-Hybrid-RAG"
-  },
-  {
-    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
-    "id": "tayyabimam1/awesome-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "tayyabimam1/awesome-ai-agent-stack",
-    "stars": 2,
-    "updated_at": "2026-10-10T14:10:47Z",
-    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
-  },
-  {
-    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
-    "id": "LLPhant/LLPhant",
-    "language": "PHP",
-    "name": "LLPhant/LLPhant",
-    "stars": 1718,
-    "updated_at": "2026-10-10T14:15:06Z",
-    "url": "https://github.com/LLPhant/LLPhant"
   }
 ]
