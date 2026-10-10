@@ -1,5 +1,86 @@
 [
   {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 13,
+    "updated_at": "2026-10-10T21:30:09Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-10T21:29:04Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 1,
+    "updated_at": "2026-10-10T21:27:07Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3337,
+    "updated_at": "2026-10-10T21:23:44Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-10T21:21:33Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-10-10T21:21:13Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-10-10T21:16:29Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T21:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T21:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
     "id": "Surging-scotandlot818/product-dev-blueprint",
     "language": "TypeScript",
@@ -16,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-10-10T21:14:17Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "A lightweight, self-hosted **Retrieval-Augmented Generation (RAG)** system.",
+    "id": "mghasemi/TinyRAG",
+    "language": "TypeScript",
+    "name": "mghasemi/TinyRAG",
+    "stars": 0,
+    "updated_at": "2026-10-10T21:14:03Z",
+    "url": "https://github.com/mghasemi/TinyRAG"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -86,7 +176,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-10T21:09:07Z",
+    "updated_at": "2026-10-10T21:27:04Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -126,15 +216,6 @@
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:09:02Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
     "id": "younismahmoud1234/gitsage",
     "language": "Java",
@@ -153,24 +234,6 @@
     "url": "https://github.com/leo2007960216/deeprecall"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T21:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T21:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
     "id": "kirill2911/awesome-vector-search",
     "language": "\u2014",
@@ -178,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-10-10T20:58:42Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "",
+    "id": "rohitnath-dev/custom-rag",
+    "language": "Python",
+    "name": "rohitnath-dev/custom-rag",
+    "stars": 0,
+    "updated_at": "2026-10-10T20:57:45Z",
+    "url": "https://github.com/rohitnath-dev/custom-rag"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -288,15 +360,6 @@
     "url": "https://github.com/ribagolx10/crossvector"
   },
   {
-    "description": "",
-    "id": "rohitnath-dev/custom-rag",
-    "language": "Python",
-    "name": "rohitnath-dev/custom-rag",
-    "stars": 0,
-    "updated_at": "2026-10-10T20:57:45Z",
-    "url": "https://github.com/rohitnath-dev/custom-rag"
-  },
-  {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
     "id": "Separative-involucre520/SearchPaperByEmbedding",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 14,
     "updated_at": "2026-10-10T20:24:53Z",
     "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 354,
-    "updated_at": "2026-10-10T20:24:25Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-10-10T20:22:40Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-10-10T20:22:34Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 35,
-    "updated_at": "2026-10-10T20:19:52Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
-    "id": "nikoma/bicdb",
-    "language": "Rust",
-    "name": "nikoma/bicdb",
-    "stars": 2,
-    "updated_at": "2026-10-10T20:19:45Z",
-    "url": "https://github.com/nikoma/bicdb"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-10T20:02:50Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "RAG copilot for codebases: tree-sitter chunking, test-aware retrieval, LLM query rewriting. Evaluated on 45 questions (R",
-    "id": "Mulasreeja15/gitcontext",
-    "language": "Python",
-    "name": "Mulasreeja15/gitcontext",
-    "stars": 0,
-    "updated_at": "2026-10-10T20:02:29Z",
-    "url": "https://github.com/Mulasreeja15/gitcontext"
   }
 ]
