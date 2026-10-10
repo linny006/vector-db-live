@@ -1,5 +1,77 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-10T09:13:17Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "",
+    "id": "rohitnath-dev/custom-rag",
+    "language": "Python",
+    "name": "rohitnath-dev/custom-rag",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:12:46Z",
+    "url": "https://github.com/rohitnath-dev/custom-rag"
+  },
+  {
+    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
+    "id": "yashbhosale789/yashbhosale789",
+    "language": "\u2014",
+    "name": "yashbhosale789/yashbhosale789",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:12:45Z",
+    "url": "https://github.com/yashbhosale789/yashbhosale789"
+  },
+  {
+    "description": "AI-powered pet sales advisor with RAG, n8n, FastAPI, PostgreSQL, ChromaDB, Gemini and Ollama.",
+    "id": "Abouzarsh/ai-pet-sales-advisor",
+    "language": "Python",
+    "name": "Abouzarsh/ai-pet-sales-advisor",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:12:23Z",
+    "url": "https://github.com/Abouzarsh/ai-pet-sales-advisor"
+  },
+  {
+    "description": "Chatbot RAG sobre datos oficiales de la Escuela Polit\u00e9cnica Superior de Ja\u00e9n (UJA). Recuperaci\u00f3n y generaci\u00f3n 100% en lo",
+    "id": "samubp10/tfg-recomendador-uja",
+    "language": "Python",
+    "name": "samubp10/tfg-recomendador-uja",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:12:06Z",
+    "url": "https://github.com/samubp10/tfg-recomendador-uja"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-10T09:09:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T09:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T09:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -27,24 +99,6 @@
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T08:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T09:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
     "id": "GCTRL-TECH/platform",
     "language": "TypeScript",
@@ -61,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T08:42:55Z",
     "url": "https://github.com/huynoob1312/vietnamese_traffic_law_RAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-10T08:41:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -90,15 +135,6 @@
     "url": "https://github.com/HosseinHeydari2004/SmartDocs-RAG"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-10T08:22:40Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Production-ready Retrieval-Augmented Generation system that combines document ingestion, intelligent chunking, vector se",
     "id": "Abeesh-2027/Production-Ready-RAG-System",
     "language": "Python",
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-10T08:50:03Z",
+    "updated_at": "2026-10-10T09:06:22Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -207,15 +243,6 @@
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
   },
   {
-    "description": "",
-    "id": "rohitnath-dev/custom-rag",
-    "language": "Python",
-    "name": "rohitnath-dev/custom-rag",
-    "stars": 0,
-    "updated_at": "2026-10-10T07:43:10Z",
-    "url": "https://github.com/rohitnath-dev/custom-rag"
-  },
-  {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
     "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
     "language": "Jupyter Notebook",
@@ -248,7 +275,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46343,
-    "updated_at": "2026-10-10T07:39:42Z",
+    "updated_at": "2026-10-10T09:11:44Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-10T07:18:15Z",
     "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-10T07:16:55Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-10T07:15:26Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-10-10T07:13:56Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
