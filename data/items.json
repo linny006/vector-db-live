@@ -1,5 +1,59 @@
 [
   {
+    "description": "Production-ready Retrieval-Augmented Generation system that combines document ingestion, intelligent chunking, vector se",
+    "id": "Abeesh-2027/Production-Ready-RAG-System",
+    "language": "Python",
+    "name": "Abeesh-2027/Production-Ready-RAG-System",
+    "stars": 0,
+    "updated_at": "2026-10-10T13:57:38Z",
+    "url": "https://github.com/Abeesh-2027/Production-Ready-RAG-System"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-10T13:51:21Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 4,
+    "updated_at": "2026-10-10T13:51:02Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+    "id": "LLPhant/LLPhant",
+    "language": "PHP",
+    "name": "LLPhant/LLPhant",
+    "stars": 1718,
+    "updated_at": "2026-10-10T13:50:48Z",
+    "url": "https://github.com/LLPhant/LLPhant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T13:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T14:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
@@ -32,17 +86,8 @@
     "language": "Rust",
     "name": "tapiruslab/TapirusDB",
     "stars": 0,
-    "updated_at": "2026-10-10T13:43:16Z",
+    "updated_at": "2026-10-10T13:50:39Z",
     "url": "https://github.com/tapiruslab/TapirusDB"
-  },
-  {
-    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
-    "id": "LLPhant/LLPhant",
-    "language": "PHP",
-    "name": "LLPhant/LLPhant",
-    "stars": 1718,
-    "updated_at": "2026-10-10T13:44:00Z",
-    "url": "https://github.com/LLPhant/LLPhant"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 900,
-    "updated_at": "2026-10-10T13:33:17Z",
+    "updated_at": "2026-10-10T13:48:20Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -117,24 +162,6 @@
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T13:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T13:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
     "id": "Accessible-sloughing768/docustra",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T13:25:50Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-10T13:39:37Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T12:36:20Z",
     "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 5,
-    "updated_at": "2026-10-10T12:36:07Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1196,
-    "updated_at": "2026-10-10T13:42:49Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
