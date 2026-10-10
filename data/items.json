@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T23:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Hybrid BM25 + dense RAG over documents and GitHub repositories. Exact file:line citations, grounded refusal, and a contr",
+    "id": "mohdnayif799/Hybrid-Retrieval-RAG-for-Documents-Code-and-Repositories",
+    "language": "Python",
+    "name": "mohdnayif799/Hybrid-Retrieval-RAG-for-Documents-Code-and-Repositories",
+    "stars": 1,
+    "updated_at": "2026-10-10T23:44:24Z",
+    "url": "https://github.com/mohdnayif799/Hybrid-Retrieval-RAG-for-Documents-Code-and-Repositories"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-10T23:36:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1639,
+    "updated_at": "2026-10-10T23:32:58Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T23:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "RAG copilot for codebases: tree-sitter chunking, test-aware retrieval, LLM query rewriting. Evaluated on 45 questions (R",
     "id": "Mulasreeja15/gitcontext",
     "language": "Python",
@@ -18,24 +63,6 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T23:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T23:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -43,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T23:14:39Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-10T23:08:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -140,7 +158,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 901,
-    "updated_at": "2026-10-10T23:18:05Z",
+    "updated_at": "2026-10-10T23:35:40Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35013,
-    "updated_at": "2026-10-10T23:25:52Z",
+    "updated_at": "2026-10-10T23:30:41Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 17,
     "updated_at": "2026-10-10T20:57:45Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-10-10T20:57:40Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "Production-oriented RAG application that ingests PDF documents, chunks and embeds their content using local Ollama model",
-    "id": "kisinja/rag-production-app",
-    "language": "Python",
-    "name": "kisinja/rag-production-app",
-    "stars": 1,
-    "updated_at": "2026-10-10T20:57:35Z",
-    "url": "https://github.com/kisinja/rag-production-app"
   }
 ]
