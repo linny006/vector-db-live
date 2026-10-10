@@ -1,39 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T01:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-10T01:41:41Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6503,
-    "updated_at": "2026-10-10T01:45:15Z",
+    "updated_at": "2026-10-10T01:57:22Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T01:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-10T01:55:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -41,8 +23,35 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46344,
-    "updated_at": "2026-10-10T01:25:40Z",
+    "updated_at": "2026-10-10T01:53:44Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-10T01:50:23Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Autonomous web navigation and automated workflow agent equipped with Qdrant vector memory, Playwright, and n8n webhook o",
+    "id": "omniversodigital/cerebro-web-agent",
+    "language": "Python",
+    "name": "omniversodigital/cerebro-web-agent",
+    "stars": 1,
+    "updated_at": "2026-10-10T01:49:33Z",
+    "url": "https://github.com/omniversodigital/cerebro-web-agent"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-10T01:50:45Z",
+    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Edge Vector search engine with Vulkan GPU acceleration, hierarchical indexing (HRM2), and native LangChain integration. ",
@@ -50,8 +59,26 @@
     "language": "Python",
     "name": "schwabauerbriantomas-gif/m2m-vector-search",
     "stars": 24,
-    "updated_at": "2026-10-10T01:25:36Z",
+    "updated_at": "2026-10-10T01:46:20Z",
     "url": "https://github.com/schwabauerbriantomas-gif/m2m-vector-search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T01:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T02:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -70,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T01:22:00Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-10T01:15:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -184,7 +202,7 @@
     "id": "oceanbase/oceanbase",
     "language": "C++",
     "name": "oceanbase/oceanbase",
-    "stars": 10299,
+    "stars": 10300,
     "updated_at": "2026-10-10T01:00:41Z",
     "url": "https://github.com/oceanbase/oceanbase"
   },
@@ -297,15 +315,6 @@
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-10T00:47:26Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
     "id": "Ojcalzada/pulsepoint-RAG",
     "language": "Python",
@@ -367,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T00:34:37Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Autonomous web navigation and automated workflow agent equipped with Qdrant vector memory, Playwright, and n8n webhook o",
-    "id": "omniversodigital/cerebro-web-agent",
-    "language": "Python",
-    "name": "omniversodigital/cerebro-web-agent",
-    "stars": 1,
-    "updated_at": "2026-10-10T00:33:06Z",
-    "url": "https://github.com/omniversodigital/cerebro-web-agent"
   },
   {
     "description": "RAG copilot for codebases: hybrid BM25 + vector search, tree-sitter chunking, evaluated retrieval (Recall@5 67% \u2192 100%)",
