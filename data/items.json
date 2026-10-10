@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T17:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Isomorphic ultra edge AI embedding model + inference library using ONNX Runtime for vector embedding with exact and Turb",
+    "id": "kyr0/defuss-vectorsearch",
+    "language": "TypeScript",
+    "name": "kyr0/defuss-vectorsearch",
+    "stars": 0,
+    "updated_at": "2026-10-10T17:14:59Z",
+    "url": "https://github.com/kyr0/defuss-vectorsearch"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -14,44 +14,17 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-10T17:00:10Z",
+    "updated_at": "2026-10-10T17:14:12Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Virtual filesystem implementation in Go with spatial indexing and concurrent operations",
-    "id": "ZanzyTHEbar/virtual-vectorfs",
-    "language": "Go",
-    "name": "ZanzyTHEbar/virtual-vectorfs",
-    "stars": 1,
-    "updated_at": "2026-10-10T16:52:43Z",
-    "url": "https://github.com/ZanzyTHEbar/virtual-vectorfs"
-  },
-  {
-    "description": "RAG copilot for codebases: tree-sitter chunking, test-aware retrieval, LLM query rewriting. Evaluated on 45 questions (R",
-    "id": "Mulasreeja15/gitcontext",
-    "language": "Python",
-    "name": "Mulasreeja15/gitcontext",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:48:21Z",
-    "url": "https://github.com/Mulasreeja15/gitcontext"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1196,
-    "updated_at": "2026-10-10T16:47:01Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T16:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6509,
+    "updated_at": "2026-10-10T17:09:09Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -59,8 +32,62 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 5,
-    "updated_at": "2026-10-10T16:39:06Z",
+    "updated_at": "2026-10-10T17:07:05Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 289,
+    "updated_at": "2026-10-10T17:03:09Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 2,
+    "updated_at": "2026-10-10T17:04:29Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "RAG copilot for codebases: tree-sitter chunking, test-aware retrieval, LLM query rewriting. Evaluated on 45 questions (R",
+    "id": "Mulasreeja15/gitcontext",
+    "language": "Python",
+    "name": "Mulasreeja15/gitcontext",
+    "stars": 0,
+    "updated_at": "2026-10-10T17:01:01Z",
+    "url": "https://github.com/Mulasreeja15/gitcontext"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T17:00:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T17:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1196,
+    "updated_at": "2026-10-10T17:13:34Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Mirror of https://git.ciepiela.org/dawid/langchain-memvid, where issues and pull requests go. A Langchain implementation",
@@ -153,15 +180,6 @@
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6509,
-    "updated_at": "2026-10-10T15:54:30Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -185,7 +203,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-10-10T15:39:35Z",
+    "updated_at": "2026-10-10T17:10:18Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "gainratio/edgeproc-core",
     "stars": 0,
-    "updated_at": "2026-10-10T15:34:00Z",
+    "updated_at": "2026-10-10T17:04:18Z",
     "url": "https://github.com/gainratio/edgeproc-core"
   },
   {
@@ -275,7 +293,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-10T16:33:51Z",
+    "updated_at": "2026-10-10T17:02:03Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 900,
-    "updated_at": "2026-10-10T16:56:48Z",
+    "updated_at": "2026-10-10T17:12:43Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35009,
-    "updated_at": "2026-10-10T16:59:11Z",
+    "updated_at": "2026-10-10T17:13:09Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-10T13:41:16Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-10T13:39:00Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
-    "id": "devharis99/vectra",
-    "language": "Python",
-    "name": "devharis99/vectra",
-    "stars": 1,
-    "updated_at": "2026-10-10T13:37:16Z",
-    "url": "https://github.com/devharis99/vectra"
   }
 ]
