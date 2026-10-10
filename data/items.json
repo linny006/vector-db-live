@@ -1,5 +1,23 @@
 [
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11628,
+    "updated_at": "2026-10-10T02:39:32Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T02:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-10T02:30:18Z",
+    "updated_at": "2026-10-10T02:32:21Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -34,6 +52,15 @@
     "stars": 1,
     "updated_at": "2026-10-10T02:26:45Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6504,
+    "updated_at": "2026-10-10T02:40:09Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -79,24 +106,6 @@
     "stars": 387,
     "updated_at": "2026-10-10T02:15:34Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T02:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6503,
-    "updated_at": "2026-10-10T02:23:52Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T00:34:37Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "RAG copilot for codebases: hybrid BM25 + vector search, tree-sitter chunking, evaluated retrieval (Recall@5 67% \u2192 100%)",
-    "id": "Mulasreeja15/gitcontext",
-    "language": "Python",
-    "name": "Mulasreeja15/gitcontext",
-    "stars": 0,
-    "updated_at": "2026-10-10T00:31:33Z",
-    "url": "https://github.com/Mulasreeja15/gitcontext"
   }
 ]
