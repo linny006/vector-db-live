@@ -1,5 +1,104 @@
 [
   {
+    "description": "A single-file, embedded, inspectable vector database. Rust, Python and a CLI.",
+    "id": "recerndata/recern-vector",
+    "language": "Rust",
+    "name": "recerndata/recern-vector",
+    "stars": 1,
+    "updated_at": "2026-10-10T14:45:14Z",
+    "url": "https://github.com/recerndata/recern-vector"
+  },
+  {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xGraph/10xGraph",
+    "language": "Python",
+    "name": "10xGraph/10xGraph",
+    "stars": 22,
+    "updated_at": "2026-10-10T14:44:14Z",
+    "url": "https://github.com/10xGraph/10xGraph"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 354,
+    "updated_at": "2026-10-10T14:44:02Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1196,
+    "updated_at": "2026-10-10T14:42:29Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
+    "id": "tapiruslab/TapirusDB",
+    "language": "Rust",
+    "name": "tapiruslab/TapirusDB",
+    "stars": 0,
+    "updated_at": "2026-10-10T14:41:54Z",
+    "url": "https://github.com/tapiruslab/TapirusDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-10T14:38:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1509 questions & 52 RAG types), system design scenarios, arch",
+    "id": "ather-techie/rag-interview-system",
+    "language": "JavaScript",
+    "name": "ather-techie/rag-interview-system",
+    "stars": 166,
+    "updated_at": "2026-10-10T14:38:01Z",
+    "url": "https://github.com/ather-techie/rag-interview-system"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-10T14:37:40Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 4,
+    "updated_at": "2026-10-10T14:35:15Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T14:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-10T14:36:28Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,24 +126,6 @@
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1196,
-    "updated_at": "2026-10-10T14:28:52Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 4,
-    "updated_at": "2026-10-10T14:26:24Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
     "id": "lightonai/next-plaid",
     "language": "Rust",
@@ -63,24 +144,6 @@
     "url": "https://github.com/mdmonsurali/Advanced-Hybrid-RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T14:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xGraph/10xGraph",
-    "language": "Python",
-    "name": "10xGraph/10xGraph",
-    "stars": 22,
-    "updated_at": "2026-10-10T14:14:24Z",
-    "url": "https://github.com/10xGraph/10xGraph"
-  },
-  {
     "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
     "id": "tayyabimam1/awesome-ai-agent-stack",
     "language": "TypeScript",
@@ -88,24 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T14:10:47Z",
     "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
-  },
-  {
-    "description": "A single-file, embedded, inspectable vector database. Rust, Python and a CLI.",
-    "id": "recerndata/recern-vector",
-    "language": "Rust",
-    "name": "recerndata/recern-vector",
-    "stars": 1,
-    "updated_at": "2026-10-10T14:14:02Z",
-    "url": "https://github.com/recerndata/recern-vector"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-10T14:08:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
@@ -121,7 +166,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35005,
+    "stars": 35006,
     "updated_at": "2026-10-10T14:04:46Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2049,
-    "updated_at": "2026-10-10T14:23:45Z",
+    "updated_at": "2026-10-10T14:31:05Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -171,21 +216,12 @@
     "url": "https://github.com/fenecdb/fenec"
   },
   {
-    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
-    "id": "tapiruslab/TapirusDB",
-    "language": "Rust",
-    "name": "tapiruslab/TapirusDB",
-    "stars": 0,
-    "updated_at": "2026-10-10T13:50:39Z",
-    "url": "https://github.com/tapiruslab/TapirusDB"
-  },
-  {
     "description": "Chatbot RAG sobre datos oficiales de la Escuela Polit\u00e9cnica Superior de Ja\u00e9n (UJA). Recuperaci\u00f3n y generaci\u00f3n 100% en lo",
     "id": "samubp10/tfg-recomendador-uja",
     "language": "Python",
     "name": "samubp10/tfg-recomendador-uja",
     "stars": 0,
-    "updated_at": "2026-10-10T13:41:53Z",
+    "updated_at": "2026-10-10T14:44:42Z",
     "url": "https://github.com/samubp10/tfg-recomendador-uja"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T13:00:08Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-10-10T12:58:48Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "Isomorphic ultra edge AI embedding model + inference library using ONNX Runtime for vector embedding with exact and Turb",
-    "id": "kyr0/defuss-vectorsearch",
-    "language": "TypeScript",
-    "name": "kyr0/defuss-vectorsearch",
-    "stars": 0,
-    "updated_at": "2026-10-10T12:57:36Z",
-    "url": "https://github.com/kyr0/defuss-vectorsearch"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-10-10T12:57:06Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "Tenant-isolated vector memory for multi-client AI pipelines: one Qdrant collection, server-side tenant filters, plus an ",
-    "id": "MicoleKurt/tenant-memory-service",
-    "language": "Python",
-    "name": "MicoleKurt/tenant-memory-service",
-    "stars": 0,
-    "updated_at": "2026-10-10T12:56:56Z",
-    "url": "https://github.com/MicoleKurt/tenant-memory-service"
   }
 ]
