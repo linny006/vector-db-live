@@ -1,21 +1,48 @@
 [
   {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-10T03:29:57Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 5,
+    "updated_at": "2026-10-10T03:29:55Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
+    "id": "edwardtay/awesome-ai",
+    "language": "\u2014",
+    "name": "edwardtay/awesome-ai",
+    "stars": 5,
+    "updated_at": "2026-10-10T03:25:28Z",
+    "url": "https://github.com/edwardtay/awesome-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T03:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-10T03:15:19Z",
+    "updated_at": "2026-10-10T03:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-10T03:14:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -27,22 +54,22 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-10T03:14:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6506,
-    "updated_at": "2026-10-10T03:14:13Z",
+    "updated_at": "2026-10-10T03:23:11Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
-    "id": "edwardtay/awesome-ai",
-    "language": "\u2014",
-    "name": "edwardtay/awesome-ai",
-    "stars": 5,
-    "updated_at": "2026-10-10T03:06:11Z",
-    "url": "https://github.com/edwardtay/awesome-ai"
   },
   {
     "description": "Pion \u2014 the memory engine for AI inference",
@@ -54,15 +81,6 @@
     "url": "https://github.com/pavelhorak/pion"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T03:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -70,15 +88,6 @@
     "stars": 11628,
     "updated_at": "2026-10-10T02:56:25Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-10T02:53:46Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -106,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-10-10T02:26:45Z",
     "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46343,
+    "updated_at": "2026-10-10T02:22:19Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -151,15 +169,6 @@
     "stars": 1194,
     "updated_at": "2026-10-10T03:06:41Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46344,
-    "updated_at": "2026-10-10T02:22:19Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -310,7 +319,7 @@
     "id": "oceanbase/oceanbase",
     "language": "C++",
     "name": "oceanbase/oceanbase",
-    "stars": 10300,
+    "stars": 10301,
     "updated_at": "2026-10-10T01:00:41Z",
     "url": "https://github.com/oceanbase/oceanbase"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-10T00:41:18Z",
     "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-10T00:39:42Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
