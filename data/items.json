@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-10T03:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-10T03:14:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9456,
+    "updated_at": "2026-10-10T03:14:32Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6506,
+    "updated_at": "2026-10-10T03:14:13Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
+    "id": "edwardtay/awesome-ai",
+    "language": "\u2014",
+    "name": "edwardtay/awesome-ai",
+    "stars": 5,
+    "updated_at": "2026-10-10T03:06:11Z",
+    "url": "https://github.com/edwardtay/awesome-ai"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-10T03:04:54Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-10T03:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -16,42 +79,6 @@
     "stars": 8,
     "updated_at": "2026-10-10T02:53:46Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-10T02:51:51Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-10T02:46:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6506,
-    "updated_at": "2026-10-10T03:00:11Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-10T03:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T02:26:45Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9456,
-    "updated_at": "2026-10-10T02:54:34Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -131,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1194,
-    "updated_at": "2026-10-10T02:55:54Z",
+    "updated_at": "2026-10-10T03:06:41Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-10T00:39:42Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-10T00:37:47Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-10-10T00:35:57Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
