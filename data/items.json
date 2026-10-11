@@ -1,11 +1,83 @@
 [
   {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 371,
+    "updated_at": "2026-10-11T12:00:04Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Autonomous research agent \u2014 10 sources in parallel, self-correcting loop, exports PDF/Word/HTML. Powered by LangGraph + ",
+    "id": "RobertoDeLaCamara/Research-Agent",
+    "language": "Python",
+    "name": "RobertoDeLaCamara/Research-Agent",
+    "stars": 6,
+    "updated_at": "2026-10-11T11:57:16Z",
+    "url": "https://github.com/RobertoDeLaCamara/Research-Agent"
+  },
+  {
+    "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
+    "id": "abhishekkapoorx/DEVOPS-AGENT",
+    "language": "Python",
+    "name": "abhishekkapoorx/DEVOPS-AGENT",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:54:49Z",
+    "url": "https://github.com/abhishekkapoorx/DEVOPS-AGENT"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9460,
+    "updated_at": "2026-10-11T11:49:25Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
+    "id": "pwolfey09-sketch/embedflow",
+    "language": "Python",
+    "name": "pwolfey09-sketch/embedflow",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:47:15Z",
+    "url": "https://github.com/pwolfey09-sketch/embedflow"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-10-11T11:57:43Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
+    "id": "Constraintworthy6058/ai-github-repository-assistant",
+    "language": "TypeScript",
+    "name": "Constraintworthy6058/ai-github-repository-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-11T11:45:54Z",
+    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T11:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-11T11:45:19Z",
+    "updated_at": "2026-10-11T12:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "Fidonis/qdrant-mcp-rbac",
     "stars": 0,
-    "updated_at": "2026-10-11T11:42:15Z",
+    "updated_at": "2026-10-11T11:55:13Z",
     "url": "https://github.com/Fidonis/qdrant-mcp-rbac"
   },
   {
@@ -86,7 +158,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-11T11:40:04Z",
+    "updated_at": "2026-10-11T11:53:21Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -153,15 +225,6 @@
     "url": "https://github.com/sarcosomebankcheck694/coordinode"
   },
   {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-10-11T11:38:34Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
     "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
     "id": "cornelablastular720/dbdb-index",
     "language": "Go",
@@ -185,7 +248,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35024,
-    "updated_at": "2026-10-11T11:31:30Z",
+    "updated_at": "2026-10-11T11:59:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-11T11:31:03Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T11:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
@@ -315,15 +369,6 @@
     "url": "https://github.com/a258huit58/claude-memory"
   },
   {
-    "description": "Program that lets you ask questions about your documents and audio or video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 371,
-    "updated_at": "2026-10-11T11:18:02Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
     "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
     "id": "Anonymousforareason111/hybrid-orchestrator",
     "language": "Python",
@@ -340,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T11:12:49Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
-    "id": "abhishekkapoorx/DEVOPS-AGENT",
-    "language": "Python",
-    "name": "abhishekkapoorx/DEVOPS-AGENT",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:21:26Z",
-    "url": "https://github.com/abhishekkapoorx/DEVOPS-AGENT"
   },
   {
     "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T11:03:01Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 2,
-    "updated_at": "2026-10-11T11:02:54Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1196,
-    "updated_at": "2026-10-11T11:02:30Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-11T11:02:02Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-10-11T10:59:26Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
   }
 ]
