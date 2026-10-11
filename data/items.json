@@ -1,12 +1,39 @@
 [
   {
+    "description": "AI-Powered Context-Aware Doubt Resolution Assistant built with FastAPI, React (Vite), Tailwind CSS, RAG, ChromaDB, and G",
+    "id": "SouravLenka/MindForge",
+    "language": "JavaScript",
+    "name": "SouravLenka/MindForge",
+    "stars": 2,
+    "updated_at": "2026-10-11T07:55:45Z",
+    "url": "https://github.com/SouravLenka/MindForge"
+  },
+  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-11T07:49:28Z",
+    "updated_at": "2026-10-11T07:52:42Z",
     "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-11T07:52:22Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T07:50:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -23,17 +50,8 @@
     "language": "Python",
     "name": "sahnsookyung/JobScout",
     "stars": 2,
-    "updated_at": "2026-10-11T07:48:12Z",
+    "updated_at": "2026-10-11T07:51:08Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T07:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-11T07:45:20Z",
+    "updated_at": "2026-10-11T08:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2049,
-    "updated_at": "2026-10-11T07:25:47Z",
+    "updated_at": "2026-10-11T07:53:17Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -212,7 +230,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-11T07:24:29Z",
+    "updated_at": "2026-10-11T07:58:45Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3550,
     "updated_at": "2026-10-11T06:54:12Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-10-11T06:53:38Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-10-11T06:53:37Z",
-    "url": "https://github.com/clizardyy/unbody"
   }
 ]
