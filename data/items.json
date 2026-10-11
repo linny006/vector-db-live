@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-11T08:15:20Z",
+    "updated_at": "2026-10-11T08:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1196,
+    "updated_at": "2026-10-11T08:30:11Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI-Powered Context-Aware Doubt Resolution Assistant built with FastAPI, React (Vite), Tailwind CSS, RAG, ChromaDB, and G",
+    "id": "SouravLenka/MindForge",
+    "language": "JavaScript",
+    "name": "SouravLenka/MindForge",
+    "stars": 2,
+    "updated_at": "2026-10-11T08:29:51Z",
+    "url": "https://github.com/SouravLenka/MindForge"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-11T08:23:09Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T08:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Real-time CDC-to-embedding pipeline \u2014 streams Postgres changes into vector stores (pgvector/Qdrant) for RAG, with a Spar",
@@ -36,15 +72,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "AI-Powered Context-Aware Doubt Resolution Assistant built with FastAPI, React (Vite), Tailwind CSS, RAG, ChromaDB, and G",
-    "id": "SouravLenka/MindForge",
-    "language": "JavaScript",
-    "name": "SouravLenka/MindForge",
-    "stars": 2,
-    "updated_at": "2026-10-11T08:07:30Z",
-    "url": "https://github.com/SouravLenka/MindForge"
-  },
-  {
     "description": "Duotronic Bus Protocol: A high-performance, fixed-size binary protocol for multiplexing analog, digital, and probabilist",
     "id": "theblobinc/duotronic-bus-protocol",
     "language": "JavaScript",
@@ -54,21 +81,12 @@
     "url": "https://github.com/theblobinc/duotronic-bus-protocol"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T08:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-11T08:13:58Z",
+    "updated_at": "2026-10-11T08:30:07Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T07:52:22Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1196,
-    "updated_at": "2026-10-11T08:02:23Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
@@ -187,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-10-11T07:30:53Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11635,
+    "updated_at": "2026-10-11T07:30:48Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-11T07:00:32Z",
     "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:00:19Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-10-11T06:57:50Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
   }
 ]
