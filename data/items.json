@@ -1,11 +1,83 @@
 [
   {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-10-11T17:28:36Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 7,
+    "updated_at": "2026-10-11T17:21:44Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-11T17:21:13Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "",
+    "id": "Harsha2620/gitcontext",
+    "language": "Python",
+    "name": "Harsha2620/gitcontext",
+    "stars": 0,
+    "updated_at": "2026-10-11T17:18:54Z",
+    "url": "https://github.com/Harsha2620/gitcontext"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-10-11T17:18:09Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-11T17:17:10Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with",
+    "id": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
+    "language": "TypeScript",
+    "name": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
+    "stars": 4,
+    "updated_at": "2026-10-11T17:15:28Z",
+    "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T17:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-11T17:15:22Z",
+    "updated_at": "2026-10-11T17:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7123,
-    "updated_at": "2026-10-11T17:14:40Z",
+    "updated_at": "2026-10-11T17:19:01Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -27,6 +99,15 @@
     "url": "https://github.com/hfgwygey/yu-ai-agent"
   },
   {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-10-11T17:14:12Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -34,6 +115,15 @@
     "stars": 354,
     "updated_at": "2026-10-11T17:14:09Z",
     "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "A fully local, privacy-focused RAG assistant for Pandas documentation. Features an inspectable ChromaDB vector store, Fa",
+    "id": "mzlmkrts/pandas-rag-assistant",
+    "language": "JavaScript",
+    "name": "mzlmkrts/pandas-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-11T17:08:53Z",
+    "url": "https://github.com/mzlmkrts/pandas-rag-assistant"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -54,15 +144,6 @@
     "url": "https://github.com/rimironenko/rag-staleness-check"
   },
   {
-    "description": "AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with",
-    "id": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
-    "language": "TypeScript",
-    "name": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
-    "stars": 4,
-    "updated_at": "2026-10-11T17:03:05Z",
-    "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
-  },
-  {
     "description": "Reproducible corpus/churn/ledger harness for measuring RAG index decay across pgvector, Qdrant, and Chroma - replays 13 ",
     "id": "rimironenko/rag-index-decay",
     "language": "Python",
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T17:02:17Z",
     "url": "https://github.com/rimironenko/rag-index-decay"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T17:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -112,7 +184,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 29796,
+    "stars": 29798,
     "updated_at": "2026-10-11T16:38:57Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -149,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1195,
-    "updated_at": "2026-10-11T17:11:52Z",
+    "updated_at": "2026-10-11T17:28:51Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -315,15 +387,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-11T16:55:13Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 6243,
     "updated_at": "2026-10-11T16:02:26Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
-    "id": "ompatel3158/ULTSQL",
-    "language": "Dart",
-    "name": "ompatel3158/ULTSQL",
-    "stars": 1,
-    "updated_at": "2026-10-11T15:08:49Z",
-    "url": "https://github.com/ompatel3158/ULTSQL"
-  },
-  {
-    "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
-    "id": "ashraful2871/Salon-Management-Frontend",
-    "language": "TypeScript",
-    "name": "ashraful2871/Salon-Management-Frontend",
-    "stars": 0,
-    "updated_at": "2026-10-11T15:06:00Z",
-    "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
-  },
-  {
-    "description": "Core backend and node plugins for AI Crew Suite",
-    "id": "ai-crew-suite/platform",
-    "language": "TypeScript",
-    "name": "ai-crew-suite/platform",
-    "stars": 0,
-    "updated_at": "2026-10-11T14:58:36Z",
-    "url": "https://github.com/ai-crew-suite/platform"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-11T14:49:40Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-11T14:48:26Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
-    "id": "pwolfey09-sketch/embedflow",
-    "language": "Python",
-    "name": "pwolfey09-sketch/embedflow",
-    "stars": 0,
-    "updated_at": "2026-10-11T14:45:01Z",
-    "url": "https://github.com/pwolfey09-sketch/embedflow"
-  },
-  {
-    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
-    "id": "Constraintworthy6058/ai-github-repository-assistant",
-    "language": "TypeScript",
-    "name": "Constraintworthy6058/ai-github-repository-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-11T14:43:44Z",
-    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
   }
 ]
