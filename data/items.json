@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-11T03:00:19Z",
+    "updated_at": "2026-10-11T03:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-10-11T03:13:25Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 2,
+    "updated_at": "2026-10-11T03:12:14Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "Self-hosted, multi-tenant RAG platform for sensitive documents \u2014 FastAPI + LangGraph, Qdrant, Keycloak RBAC, event-drive",
+    "id": "bwolak94/rag-panel",
+    "language": "Python",
+    "name": "bwolak94/rag-panel",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:09:16Z",
+    "url": "https://github.com/bwolak94/rag-panel"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 901,
+    "updated_at": "2026-10-11T03:06:50Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-11T03:03:19Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-11T03:01:31Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "A hands-on RAG pipeline for resume-based question answering with RAGAS evaluation of answer quality, faithfulness, and r",
+    "id": "VenkateshDoijode/rag-ragas-pipeline",
+    "language": "\u2014",
+    "name": "VenkateshDoijode/rag-ragas-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:00:54Z",
+    "url": "https://github.com/VenkateshDoijode/rag-ragas-pipeline"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T03:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -34,24 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T02:46:09Z",
     "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-11T02:46:00Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T02:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -202,7 +256,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3527,
+    "stars": 3529,
     "updated_at": "2026-10-11T02:26:19Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T01:46:44Z",
     "url": "https://github.com/Mulasreeja15/gitcontext"
-  },
-  {
-    "description": "Two Strands agents triage a bank card dispute against policy with RAG, guardrails and a human approval gate. Deployable ",
-    "id": "vishalbns/dispute-triage-agents",
-    "language": "Python",
-    "name": "vishalbns/dispute-triage-agents",
-    "stars": 0,
-    "updated_at": "2026-10-11T01:42:18Z",
-    "url": "https://github.com/vishalbns/dispute-triage-agents"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-11T01:41:30Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2049,
-    "updated_at": "2026-10-11T02:20:01Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-11T01:35:40Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "A multi-user load benchmark for Long-Term Memory (LTM) systems",
-    "id": "skhynix/LTM100",
-    "language": "Python",
-    "name": "skhynix/LTM100",
-    "stars": 4,
-    "updated_at": "2026-10-11T01:32:37Z",
-    "url": "https://github.com/skhynix/LTM100"
-  },
-  {
-    "description": "AI-powered academic Q&A web app using RAG. Upload your study PDFs and get answers grounded in your own notes, with docum",
-    "id": "aditi-1731/EduRAG-Academic-Knowledge-Assistant",
-    "language": "CSS",
-    "name": "aditi-1731/EduRAG-Academic-Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-10-11T01:29:55Z",
-    "url": "https://github.com/aditi-1731/EduRAG-Academic-Knowledge-Assistant"
   }
 ]
