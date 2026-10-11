@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-11T08:42:47Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-11T08:38:44Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "CluaizDB Embedded Memory Infrastructure for Local AI",
+    "id": "cluaiz/cluaizdb",
+    "language": "Rust",
+    "name": "cluaiz/cluaizdb",
+    "stars": 1,
+    "updated_at": "2026-10-11T08:38:03Z",
+    "url": "https://github.com/cluaiz/cluaizdb"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:34:04Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 5,
+    "updated_at": "2026-10-11T08:33:45Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T08:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,15 +90,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T08:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Real-time CDC-to-embedding pipeline \u2014 streams Postgres changes into vector stores (pgvector/Qdrant) for RAG, with a Spar",
     "id": "pinpols/vec-stream",
     "language": "Python",
@@ -52,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T08:14:49Z",
     "url": "https://github.com/pinpols/vec-stream"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-11T08:11:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -81,21 +117,12 @@
     "url": "https://github.com/theblobinc/duotronic-bus-protocol"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-11T08:30:07Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
     "id": "Yoruxyv/semantix",
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-11T07:52:22Z",
+    "updated_at": "2026-10-11T08:39:34Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -378,15 +405,6 @@
     "url": "https://github.com/rein98/PsyChat"
   },
   {
-    "description": "CluaizDB Embedded Memory Infrastructure for Local AI",
-    "id": "cluaiz/cluaizdb",
-    "language": "Rust",
-    "name": "cluaiz/cluaizdb",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:09:16Z",
-    "url": "https://github.com/cluaiz/cluaizdb"
-  },
-  {
     "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
     "id": "ribagolx10/crossvector",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-11T07:01:48Z",
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2007,
-    "updated_at": "2026-10-11T07:01:28Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 2,
-    "updated_at": "2026-10-11T07:00:32Z",
-    "url": "https://github.com/SKeditz42/Vec"
   }
 ]
