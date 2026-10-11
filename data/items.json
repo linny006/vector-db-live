@@ -1,5 +1,158 @@
 [
   {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2129,
+    "updated_at": "2026-10-11T17:59:44Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
+    "id": "Ac3v3d0/semafold",
+    "language": "Python",
+    "name": "Ac3v3d0/semafold",
+    "stars": 4,
+    "updated_at": "2026-10-11T17:59:38Z",
+    "url": "https://github.com/Ac3v3d0/semafold"
+  },
+  {
+    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
+    "id": "aziz5971/TalentLens",
+    "language": "Python",
+    "name": "aziz5971/TalentLens",
+    "stars": 2,
+    "updated_at": "2026-10-11T17:58:14Z",
+    "url": "https://github.com/aziz5971/TalentLens"
+  },
+  {
+    "description": "Bayesian MMM\uacfc \ucd5c\uc2e0 \uc2dc\uc7a5 \ud2b8\ub80c\ub4dc\ub97c \ud65c\uc6a9\ud574 \ub2e4\uc74c \ubd84\uae30 \ub9c8\ucf00\ud305 \uc608\uc0b0 \ubc30\ubd84\uc744 \ucd94\ucc9c\ud558\uace0, \uc608\uc0c1 \uc131\uacfc\uc640 \ubd88\ud655\uc2e4\uc131\uc744 \ube44\uad50\ud558\ub294 \uc2dc\ubbac\ub808\uc774\ud130",
+    "id": "LEE-ok/trend-aware-mmm",
+    "language": "Python",
+    "name": "LEE-ok/trend-aware-mmm",
+    "stars": 1,
+    "updated_at": "2026-10-11T17:58:38Z",
+    "url": "https://github.com/LEE-ok/trend-aware-mmm"
+  },
+  {
+    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
+    "id": "lannyfervent952/fastapi-agent-blueprint",
+    "language": "Python",
+    "name": "lannyfervent952/fastapi-agent-blueprint",
+    "stars": 1,
+    "updated_at": "2026-10-11T17:57:32Z",
+    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
+  },
+  {
+    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
+    "id": "Bielrezende/WMB-100K",
+    "language": "\u2014",
+    "name": "Bielrezende/WMB-100K",
+    "stars": 0,
+    "updated_at": "2026-10-11T17:56:50Z",
+    "url": "https://github.com/Bielrezende/WMB-100K"
+  },
+  {
+    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
+    "id": "okeidontlike/Awareness-Local",
+    "language": "JavaScript",
+    "name": "okeidontlike/Awareness-Local",
+    "stars": 2,
+    "updated_at": "2026-10-11T17:56:37Z",
+    "url": "https://github.com/okeidontlike/Awareness-Local"
+  },
+  {
+    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
+    "id": "ahmahmahm/pdf-rag-assistant",
+    "language": "\u2014",
+    "name": "ahmahmahm/pdf-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-11T17:56:31Z",
+    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
+  },
+  {
+    "description": "Multimodal semantic search across text, images, audio and video using Google's EmbeddingGemma 2, PostgreSQL + pgvector a",
+    "id": "FrancescoCiannavei/Multimodal-Vector-Search",
+    "language": "Python",
+    "name": "FrancescoCiannavei/Multimodal-Vector-Search",
+    "stars": 1,
+    "updated_at": "2026-10-11T17:53:42Z",
+    "url": "https://github.com/FrancescoCiannavei/Multimodal-Vector-Search"
+  },
+  {
+    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
+    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
+    "language": "\u2014",
+    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
+    "stars": 0,
+    "updated_at": "2026-10-11T17:53:03Z",
+    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
+  },
+  {
+    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
+    "id": "decided-indication109/AI-Engineer-in-90-Days",
+    "language": "Mermaid",
+    "name": "decided-indication109/AI-Engineer-in-90-Days",
+    "stars": 3,
+    "updated_at": "2026-10-11T17:51:55Z",
+    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
+  },
+  {
+    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
+    "id": "eastythenob8-svg/graph-memory",
+    "language": "TypeScript",
+    "name": "eastythenob8-svg/graph-memory",
+    "stars": 1,
+    "updated_at": "2026-10-11T17:51:27Z",
+    "url": "https://github.com/eastythenob8-svg/graph-memory"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9460,
+    "updated_at": "2026-10-11T17:47:22Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
+    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "language": "JavaScript",
+    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "stars": 2,
+    "updated_at": "2026-10-11T17:47:15Z",
+    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
+  },
+  {
+    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
+    "id": "a258huit58/claude-memory",
+    "language": "JavaScript",
+    "name": "a258huit58/claude-memory",
+    "stars": 1,
+    "updated_at": "2026-10-11T17:46:24Z",
+    "url": "https://github.com/a258huit58/claude-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T17:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T18:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
     "id": "Anonymousforareason111/hybrid-orchestrator",
     "language": "Python",
@@ -124,24 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T17:31:21Z",
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T17:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T17:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -313,140 +448,5 @@
     "stars": 29798,
     "updated_at": "2026-10-11T16:38:57Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
-    "id": "RishabhMathur06/CASO-RAG",
-    "language": "Python",
-    "name": "RishabhMathur06/CASO-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-11T16:33:06Z",
-    "url": "https://github.com/RishabhMathur06/CASO-RAG"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-10-11T16:25:04Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1195,
-    "updated_at": "2026-10-11T17:43:29Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9460,
-    "updated_at": "2026-10-11T17:37:44Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
-    "id": "Tribrix23/CleaveDB",
-    "language": "Python",
-    "name": "Tribrix23/CleaveDB",
-    "stars": 0,
-    "updated_at": "2026-10-11T16:17:38Z",
-    "url": "https://github.com/Tribrix23/CleaveDB"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 97,
-    "updated_at": "2026-10-11T16:16:29Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 11,
-    "updated_at": "2026-10-11T16:12:24Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-11T16:11:01Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "PropBot: an AI-powered real estate assistant that helps users search properties, compare listings, and get instant answe",
-    "id": "shivakumar-hassan-lokesh/Propbot-AI-Real-Estate-Assistant",
-    "language": "Python",
-    "name": "shivakumar-hassan-lokesh/Propbot-AI-Real-Estate-Assistant",
-    "stars": 0,
-    "updated_at": "2026-10-11T16:10:22Z",
-    "url": "https://github.com/shivakumar-hassan-lokesh/Propbot-AI-Real-Estate-Assistant"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-10-11T16:07:38Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": "Building a RAG pipeline from scratch in Python to understand the fundamentals. Document loading, chunking, embeddings, v",
-    "id": "mllendinez10/rag-from-scratch",
-    "language": "Python",
-    "name": "mllendinez10/rag-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-10-11T16:06:22Z",
-    "url": "https://github.com/mllendinez10/rag-from-scratch"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 13006,
-    "updated_at": "2026-10-11T16:11:05Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-11T16:00:46Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-11T16:00:13Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1505,
-    "updated_at": "2026-10-11T15:58:33Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   }
 ]
