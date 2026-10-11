@@ -1,12 +1,39 @@
 [
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
+    "description": "An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and",
+    "id": "nehalvaghasiya/agentic-rag",
+    "language": "Python",
+    "name": "nehalvaghasiya/agentic-rag",
+    "stars": 1,
+    "updated_at": "2026-10-11T03:59:54Z",
+    "url": "https://github.com/nehalvaghasiya/agentic-rag"
+  },
+  {
+    "description": "A lightweight, self-hosted **Retrieval-Augmented Generation (RAG)** system.",
+    "id": "mghasemi/TinyRAG",
+    "language": "TypeScript",
+    "name": "mghasemi/TinyRAG",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:59:47Z",
+    "url": "https://github.com/mghasemi/TinyRAG"
+  },
+  {
+    "description": "Self-hosted, multi-tenant RAG platform for sensitive documents \u2014 FastAPI + LangGraph, Qdrant, Keycloak RBAC, event-drive",
+    "id": "bwolak94/rag-panel",
+    "language": "Python",
+    "name": "bwolak94/rag-panel",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:59:46Z",
+    "url": "https://github.com/bwolak94/rag-panel"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
     "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3531,
-    "updated_at": "2026-10-11T03:42:49Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:58:04Z",
+    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "The fastest pure Go in-memory Redis alternative. 6.87M+ ops/s peak throughput, 119\u00b5s latency, Multi-Reactor engine, embe",
@@ -14,8 +41,98 @@
     "language": "Go",
     "name": "GargAnshu9468/vortexkv",
     "stars": 18,
-    "updated_at": "2026-10-11T03:41:33Z",
+    "updated_at": "2026-10-11T03:56:19Z",
     "url": "https://github.com/GargAnshu9468/vortexkv"
+  },
+  {
+    "description": "Absurdly fast embedded graph database with built-in vector search. Rust core, Node.js and Python connectors, GQL, graph ",
+    "id": "bhensley5/overgraph",
+    "language": "Rust",
+    "name": "bhensley5/overgraph",
+    "stars": 53,
+    "updated_at": "2026-10-11T03:53:33Z",
+    "url": "https://github.com/bhensley5/overgraph"
+  },
+  {
+    "description": "Built a secure multi-modal retrieval system for document ingestion using Neo4j vector database and LangChain orchestrati",
+    "id": "Shreyas2409/book-rag",
+    "language": "Python",
+    "name": "Shreyas2409/book-rag",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:49:53Z",
+    "url": "https://github.com/Shreyas2409/book-rag"
+  },
+  {
+    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 20,
+    "updated_at": "2026-10-11T03:49:25Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-11T03:57:07Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-11T03:47:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-11T03:47:09Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "Spring Data Reindexer",
+    "id": "evgeniycheban/spring-data-reindexer",
+    "language": "Java",
+    "name": "evgeniycheban/spring-data-reindexer",
+    "stars": 24,
+    "updated_at": "2026-10-11T03:46:30Z",
+    "url": "https://github.com/evgeniycheban/spring-data-reindexer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T03:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T03:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3532,
+    "updated_at": "2026-10-11T03:42:49Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Intelligent file organization with computer vision, audio analysis, chunking, proactive AI-powered analysis, interactive",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "thebearwithabite/ai-file-organizer",
     "stars": 49,
-    "updated_at": "2026-10-11T03:45:19Z",
+    "updated_at": "2026-10-11T03:45:46Z",
     "url": "https://github.com/thebearwithabite/ai-file-organizer"
   },
   {
@@ -45,15 +162,6 @@
     "url": "https://github.com/ihrimon/ai-engineering-journey"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:45:00Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
     "id": "nikoma/bicdb",
     "language": "Rust",
@@ -70,33 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T03:31:17Z",
     "url": "https://github.com/ShubhikaUpreti/MyAI"
-  },
-  {
-    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 20,
-    "updated_at": "2026-10-11T03:31:14Z",
-    "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T03:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T03:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The in-browser vector store that remembers \u2014 a Rust\u2192WASM HNSW engine that persists to OPFS and stays consistent across t",
@@ -126,15 +207,6 @@
     "url": "https://github.com/pavelhorak/pion"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-11T03:15:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -144,31 +216,13 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Self-hosted, multi-tenant RAG platform for sensitive documents \u2014 FastAPI + LangGraph, Qdrant, Keycloak RBAC, event-drive",
-    "id": "bwolak94/rag-panel",
-    "language": "Python",
-    "name": "bwolak94/rag-panel",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:09:16Z",
-    "url": "https://github.com/bwolak94/rag-panel"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 901,
-    "updated_at": "2026-10-11T03:27:24Z",
+    "updated_at": "2026-10-11T03:56:20Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-11T03:32:20Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T02:19:34Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:18:00Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-10-11T02:13:57Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-11T02:11:52Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-10-11T02:11:30Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-10-11T02:10:14Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-10-11T02:05:53Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   }
 ]
