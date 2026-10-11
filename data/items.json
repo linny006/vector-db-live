@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T09:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 5,
+    "updated_at": "2026-10-11T08:59:09Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-11T08:56:39Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
+    "id": "musabbozkurt/oauth2-authorization-server",
+    "language": "Java",
+    "name": "musabbozkurt/oauth2-authorization-server",
+    "stars": 6,
+    "updated_at": "2026-10-11T08:52:21Z",
+    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
+  },
+  {
+    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
+    "id": "Niccher/Chege-Photos-Platform",
+    "language": "PHP",
+    "name": "Niccher/Chege-Photos-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:47:16Z",
+    "url": "https://github.com/Niccher/Chege-Photos-Platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T08:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -7,6 +61,15 @@
     "stars": 5,
     "updated_at": "2026-10-11T08:42:47Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35022,
+    "updated_at": "2026-10-11T08:40:06Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -36,33 +99,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 5,
-    "updated_at": "2026-10-11T08:33:45Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T08:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T08:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -88,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-10-11T08:23:09Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9390,
+    "updated_at": "2026-10-11T08:19:46Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Real-time CDC-to-embedding pipeline \u2014 streams Postgres changes into vector stores (pgvector/Qdrant) for RAG, with a Spar",
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-11T08:39:34Z",
+    "updated_at": "2026-10-11T08:48:26Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -133,6 +178,15 @@
     "stars": 2,
     "updated_at": "2026-10-11T07:51:08Z",
     "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9459,
+    "updated_at": "2026-10-11T07:44:34Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T07:31:20Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
-    "id": "Niccher/Chege-Photos-Platform",
-    "language": "PHP",
-    "name": "Niccher/Chege-Photos-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:31:19Z",
-    "url": "https://github.com/Niccher/Chege-Photos-Platform"
   },
   {
     "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
@@ -365,7 +410,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-11T07:14:47Z",
+    "updated_at": "2026-10-11T08:46:16Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-11T07:09:25Z",
     "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:08:19Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:04:17Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:02:30Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-10-11T07:02:26Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
-    "id": "fub05/MCP---Agent-Starter-Kit",
-    "language": "Python",
-    "name": "fub05/MCP---Agent-Starter-Kit",
-    "stars": 6,
-    "updated_at": "2026-10-11T07:01:48Z",
-    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   }
 ]
