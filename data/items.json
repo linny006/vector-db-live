@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 354,
+    "updated_at": "2026-10-11T16:56:27Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2049,
+    "updated_at": "2026-10-11T16:55:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-11T16:49:05Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T16:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +45,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-11T16:43:32Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
+    "id": "ry-ops/commit-relay",
+    "language": "Shell",
+    "name": "ry-ops/commit-relay",
+    "stars": 2,
+    "updated_at": "2026-10-11T16:42:53Z",
+    "url": "https://github.com/ry-ops/commit-relay"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -25,6 +61,15 @@
     "stars": 5,
     "updated_at": "2026-10-11T16:39:13Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
+    "id": "NirDiamant/RAG_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/RAG_Techniques",
+    "stars": 29796,
+    "updated_at": "2026-10-11T16:38:57Z",
+    "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
   {
     "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
@@ -45,22 +90,13 @@
     "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T16:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 29795,
-    "updated_at": "2026-10-11T16:38:57Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3579,
+    "updated_at": "2026-10-11T16:27:32Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -72,21 +108,12 @@
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3578,
-    "updated_at": "2026-10-11T16:27:32Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1195,
-    "updated_at": "2026-10-11T16:41:31Z",
+    "updated_at": "2026-10-11T17:00:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9460,
-    "updated_at": "2026-10-11T16:22:14Z",
+    "updated_at": "2026-10-11T16:52:18Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-11T15:55:11Z",
+    "updated_at": "2026-10-11T16:55:13Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -288,15 +315,6 @@
     "url": "https://github.com/aashutosh-repo/DailyFinanceTracker"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 354,
-    "updated_at": "2026-10-11T15:27:10Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Production RAG platform: OCR \u2192 semantic chunking \u2192 TEI embeddings \u2192 Qdrant \u2192 cross-encoder reranking \u2192 Llama 3, with gro",
     "id": "Abhishekvoid/RagBag-backend",
     "language": "Python",
@@ -313,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T15:22:10Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2049,
-    "updated_at": "2026-10-11T16:10:35Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T14:40:40Z",
     "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-10-11T14:40:11Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
   }
 ]
