@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T08:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Real-time CDC-to-embedding pipeline \u2014 streams Postgres changes into vector stores (pgvector/Qdrant) for RAG, with a Spar",
+    "id": "pinpols/vec-stream",
+    "language": "Python",
+    "name": "pinpols/vec-stream",
+    "stars": 1,
+    "updated_at": "2026-10-11T08:14:49Z",
+    "url": "https://github.com/pinpols/vec-stream"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-11T08:11:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-11T08:07:39Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
     "description": "AI-Powered Context-Aware Doubt Resolution Assistant built with FastAPI, React (Vite), Tailwind CSS, RAG, ChromaDB, and G",
     "id": "SouravLenka/MindForge",
     "language": "JavaScript",
     "name": "SouravLenka/MindForge",
     "stars": 2,
-    "updated_at": "2026-10-11T07:55:45Z",
+    "updated_at": "2026-10-11T08:07:30Z",
     "url": "https://github.com/SouravLenka/MindForge"
+  },
+  {
+    "description": "Duotronic Bus Protocol: A high-performance, fixed-size binary protocol for multiplexing analog, digital, and probabilist",
+    "id": "theblobinc/duotronic-bus-protocol",
+    "language": "JavaScript",
+    "name": "theblobinc/duotronic-bus-protocol",
+    "stars": 0,
+    "updated_at": "2026-10-11T08:04:40Z",
+    "url": "https://github.com/theblobinc/duotronic-bus-protocol"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T08:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-11T07:52:42Z",
+    "updated_at": "2026-10-11T08:13:58Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -27,21 +81,12 @@
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T07:50:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1196,
-    "updated_at": "2026-10-11T07:48:27Z",
+    "updated_at": "2026-10-11T08:02:23Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-11T07:51:08Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T08:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T07:42:27Z",
     "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-11T07:41:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -223,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-11T07:25:34Z",
     "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-11T07:58:45Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T06:57:50Z",
     "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 14,
-    "updated_at": "2026-10-11T06:54:41Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3550,
-    "updated_at": "2026-10-11T06:54:12Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
