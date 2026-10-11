@@ -1,11 +1,56 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-11T06:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3541,
+    "updated_at": "2026-10-11T06:00:03Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:52:09Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 13,
+    "updated_at": "2026-10-11T05:51:43Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6511,
+    "updated_at": "2026-10-11T05:51:24Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-11T05:42:59Z",
+    "updated_at": "2026-10-11T05:53:52Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -14,8 +59,53 @@
     "language": "Python",
     "name": "sergiunicoara/Generative-AI",
     "stars": 3,
-    "updated_at": "2026-10-11T05:42:16Z",
+    "updated_at": "2026-10-11T05:50:37Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 1,
+    "updated_at": "2026-10-11T05:50:25Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-11T05:49:29Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9458,
+    "updated_at": "2026-10-11T05:48:46Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:45:49Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-11T05:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -142,24 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T05:32:02Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-11T05:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-11T05:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
@@ -369,15 +441,6 @@
     "url": "https://github.com/Maurellone/TySVA"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6510,
-    "updated_at": "2026-10-11T05:44:12Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
     "id": "Yoruxyv/semantix",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-11T04:49:59Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 20,
-    "updated_at": "2026-10-11T04:46:18Z",
-    "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-11T05:25:04Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3541,
-    "updated_at": "2026-10-11T04:41:55Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "RAG-based internal knowledge search concept with workflow visuals; application source and deployment setup are not inclu",
-    "id": "kalyan870/Internal-Knowledge-Search",
-    "language": "HTML",
-    "name": "kalyan870/Internal-Knowledge-Search",
-    "stars": 0,
-    "updated_at": "2026-10-11T04:31:55Z",
-    "url": "https://github.com/kalyan870/Internal-Knowledge-Search"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1196,
-    "updated_at": "2026-10-11T05:44:18Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 5,
-    "updated_at": "2026-10-11T04:30:07Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Lightweight approximate nearest neighbor (ANN) vector search engine and embedding indexing pipeline.",
-    "id": "irtazirfan08-source/VectorCore",
-    "language": "Python",
-    "name": "irtazirfan08-source/VectorCore",
-    "stars": 0,
-    "updated_at": "2026-10-11T04:24:54Z",
-    "url": "https://github.com/irtazirfan08-source/VectorCore"
   }
 ]
