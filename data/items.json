@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-12T05:30:20Z",
+    "updated_at": "2026-10-12T05:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Duotronic Bus Protocol: A high-performance, fixed-size binary protocol for multiplexing analog, digital, and probabilist",
-    "id": "theblobinc/duotronic-bus-protocol",
-    "language": "Python",
-    "name": "theblobinc/duotronic-bus-protocol",
-    "stars": 0,
-    "updated_at": "2026-10-12T05:25:36Z",
-    "url": "https://github.com/theblobinc/duotronic-bus-protocol"
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-12T05:44:29Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -23,8 +23,44 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-12T05:24:18Z",
+    "updated_at": "2026-10-12T05:44:04Z",
     "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-12T05:42:46Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 119,
+    "updated_at": "2026-10-12T05:36:57Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Duotronic Bus Protocol: A high-performance, fixed-size binary protocol for multiplexing analog, digital, and probabilist",
+    "id": "theblobinc/duotronic-bus-protocol",
+    "language": "Python",
+    "name": "theblobinc/duotronic-bus-protocol",
+    "stars": 0,
+    "updated_at": "2026-10-12T05:34:47Z",
+    "url": "https://github.com/theblobinc/duotronic-bus-protocol"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T05:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted, multi-tenant RAG platform for sensitive documents \u2014 FastAPI + LangGraph, Qdrant, Keycloak RBAC, event-drive",
@@ -54,15 +90,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-12T05:26:53Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
@@ -90,21 +117,12 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T05:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 903,
-    "updated_at": "2026-10-12T05:27:02Z",
+    "updated_at": "2026-10-12T05:41:46Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-12T04:33:17Z",
     "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-10-12T04:32:52Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 2,
-    "updated_at": "2026-10-12T04:32:47Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
   }
 ]
