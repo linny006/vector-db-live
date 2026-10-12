@@ -1,5 +1,113 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-12T17:44:40Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "\ud83d\udcc4 Structured RAG Document Intelligence Pipeline \u2014 Semantic chunking, FAISS vector search, MMR re-ranking & 100% sourced ",
+    "id": "KalsoumDS/RAG-Document-Intelligence",
+    "language": "Python",
+    "name": "KalsoumDS/RAG-Document-Intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-12T17:44:29Z",
+    "url": "https://github.com/KalsoumDS/RAG-Document-Intelligence"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-12T17:44:13Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-12T17:39:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
+    "id": "sanonone/kektordb",
+    "language": "Go",
+    "name": "sanonone/kektordb",
+    "stars": 86,
+    "updated_at": "2026-10-12T17:39:11Z",
+    "url": "https://github.com/sanonone/kektordb"
+  },
+  {
+    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
+    "id": "sm-joe/localrag",
+    "language": "Python",
+    "name": "sm-joe/localrag",
+    "stars": 0,
+    "updated_at": "2026-10-12T17:38:54Z",
+    "url": "https://github.com/sm-joe/localrag"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 903,
+    "updated_at": "2026-10-12T17:42:25Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-12T17:32:55Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13230,
+    "updated_at": "2026-10-12T17:36:32Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
+    "id": "datris/datris-platform-oss",
+    "language": "Scala",
+    "name": "datris/datris-platform-oss",
+    "stars": 12,
+    "updated_at": "2026-10-12T17:30:47Z",
+    "url": "https://github.com/datris/datris-platform-oss"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T17:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T17:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
     "id": "Thisen-Ekanayake/Athena",
     "language": "Python",
@@ -23,7 +131,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-12T17:23:58Z",
+    "updated_at": "2026-10-12T17:40:50Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -34,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T17:23:24Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 903,
-    "updated_at": "2026-10-12T17:26:27Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
-    "id": "sm-joe/localrag",
-    "language": "Python",
-    "name": "sm-joe/localrag",
-    "stars": 0,
-    "updated_at": "2026-10-12T17:22:10Z",
-    "url": "https://github.com/sm-joe/localrag"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
@@ -81,49 +171,22 @@
     "url": "https://github.com/zilliztech/knowhere"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T17:15:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T17:15:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
     "id": "sunormesky-max/epicode",
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-10-12T17:28:59Z",
+    "updated_at": "2026-10-12T17:41:26Z",
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-12T17:19:37Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-12T17:08:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3659,
+    "updated_at": "2026-10-12T17:11:34Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Pinecone BYOC",
@@ -140,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1198,
-    "updated_at": "2026-10-12T17:17:56Z",
+    "updated_at": "2026-10-12T17:39:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -167,17 +230,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35048,
-    "updated_at": "2026-10-12T16:50:14Z",
+    "updated_at": "2026-10-12T17:37:57Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-12T17:23:22Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -221,7 +275,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8354,
-    "updated_at": "2026-10-12T17:15:16Z",
+    "updated_at": "2026-10-12T17:37:03Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 9397,
     "updated_at": "2026-10-12T17:09:20Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13230,
-    "updated_at": "2026-10-12T16:32:01Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Production-ready full-stack AI web app combining a Scikit-Learn Random Forest ML predictor and a Groq-powered RAG co-pil",
@@ -333,15 +378,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3658,
-    "updated_at": "2026-10-12T17:11:34Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -358,15 +394,6 @@
     "stars": 32097,
     "updated_at": "2026-10-12T15:58:11Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\ud83d\udcc4 Structured RAG Document Intelligence Pipeline \u2014 Semantic chunking, FAISS vector search, MMR re-ranking & 100% sourced ",
-    "id": "KalsoumDS/RAG-Document-Intelligence",
-    "language": "Python",
-    "name": "KalsoumDS/RAG-Document-Intelligence",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:54:57Z",
-    "url": "https://github.com/KalsoumDS/RAG-Document-Intelligence"
   },
   {
     "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
@@ -401,7 +428,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46364,
-    "updated_at": "2026-10-12T15:45:44Z",
+    "updated_at": "2026-10-12T17:39:31Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -409,7 +436,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66975,
+    "stars": 66976,
     "updated_at": "2026-10-12T15:45:36Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-12T15:40:27Z",
     "url": "https://github.com/vaibhav-rj/RAG-pipeline"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:28:43Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "Redis Vector Library. The AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 431,
-    "updated_at": "2026-10-12T15:56:44Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:27:46Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   }
 ]
