@@ -1,10 +1,46 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-12T19:38:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "OpenEverest provider for Milvus",
+    "id": "openeverest/provider-milvus",
+    "language": "Go",
+    "name": "openeverest/provider-milvus",
+    "stars": 0,
+    "updated_at": "2026-10-12T19:34:39Z",
+    "url": "https://github.com/openeverest/provider-milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T19:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T19:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "LlamaIndex is the document processing platform for AI",
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 52469,
+    "stars": 52468,
     "updated_at": "2026-10-12T19:28:17Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -16,15 +52,6 @@
     "stars": 86,
     "updated_at": "2026-10-12T19:20:22Z",
     "url": "https://github.com/sanonone/kektordb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T19:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -45,15 +72,6 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T19:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 3663,
-    "updated_at": "2026-10-12T19:12:19Z",
+    "updated_at": "2026-10-12T19:44:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Go",
     "name": "pinecone-io/terraform-provider-pinecone",
     "stars": 32,
-    "updated_at": "2026-10-12T19:10:01Z",
+    "updated_at": "2026-10-12T19:43:19Z",
     "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T19:07:45Z",
     "url": "https://github.com/sm-joe/localrag"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-12T19:07:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "mirkobozzetto/flowflow",
     "stars": 173,
-    "updated_at": "2026-10-12T19:24:17Z",
+    "updated_at": "2026-10-12T19:43:21Z",
     "url": "https://github.com/mirkobozzetto/flowflow"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-12T18:33:56Z",
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-12T18:33:21Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   }
 ]
