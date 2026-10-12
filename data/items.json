@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-12T11:30:27Z",
+    "updated_at": "2026-10-12T11:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-12T11:42:32Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
+    "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
+    "language": "Python",
+    "name": "gitakhileshyadav/LLM-Based-Web-Research-System",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:41:32Z",
+    "url": "https://github.com/gitakhileshyadav/LLM-Based-Web-Research-System"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-12T11:40:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
+    "id": "Tribrix23/CleaveDB",
+    "language": "Python",
+    "name": "Tribrix23/CleaveDB",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:39:41Z",
+    "url": "https://github.com/Tribrix23/CleaveDB"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1198,
+    "updated_at": "2026-10-12T11:38:40Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11649,
+    "updated_at": "2026-10-12T11:38:03Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "\u26a1 Enterprise-grade RAG AI chatbot answering internal company questions grounded in multi-format documents (PDF, MD, TXT,",
+    "id": "Farhodoff/company-knowledge-base-rag",
+    "language": "Python",
+    "name": "Farhodoff/company-knowledge-base-rag",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:37:46Z",
+    "url": "https://github.com/Farhodoff/company-knowledge-base-rag"
+  },
+  {
+    "description": "FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe",
+    "id": "t0rresmarcus/FanVault-AI",
+    "language": "TypeScript",
+    "name": "t0rresmarcus/FanVault-AI",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:37:38Z",
+    "url": "https://github.com/t0rresmarcus/FanVault-AI"
+  },
+  {
+    "description": "A fully local, open-source RAG assistant for Indian Criminal Law (IPC, CrPC, BNS, BNSS) \u2014 CrewAI + Qdrant + Ollama (LLaM",
+    "id": "Pratik2207/indian-criminal-law-rag-agent",
+    "language": "Python",
+    "name": "Pratik2207/indian-criminal-law-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:37:16Z",
+    "url": "https://github.com/Pratik2207/indian-criminal-law-rag-agent"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2051,
+    "updated_at": "2026-10-12T11:37:12Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
+    "id": "sm-joe/localrag",
+    "language": "Python",
+    "name": "sm-joe/localrag",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:33:03Z",
+    "url": "https://github.com/sm-joe/localrag"
+  },
+  {
+    "description": "A hands-on AI Engineering portfolio covering LLMs, Prompt Engineering, RAG, LangChain, LangGraph, AI Agents, Multi-Agent",
+    "id": "jafarxdev/ai-engineering-projects",
+    "language": "Python",
+    "name": "jafarxdev/ai-engineering-projects",
+    "stars": 2,
+    "updated_at": "2026-10-12T11:30:49Z",
+    "url": "https://github.com/jafarxdev/ai-engineering-projects"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T11:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
@@ -18,24 +135,6 @@
     "url": "https://github.com/feather-store/feather"
   },
   {
-    "description": "\u26a1 Enterprise-grade RAG AI chatbot answering internal company questions grounded in multi-format documents (PDF, MD, TXT,",
-    "id": "Farhodoff/company-knowledge-base-rag",
-    "language": "Python",
-    "name": "Farhodoff/company-knowledge-base-rag",
-    "stars": 0,
-    "updated_at": "2026-10-12T11:28:20Z",
-    "url": "https://github.com/Farhodoff/company-knowledge-base-rag"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-12T11:27:39Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -43,15 +142,6 @@
     "stars": 7126,
     "updated_at": "2026-10-12T11:29:30Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A hands-on AI Engineering portfolio covering LLMs, Prompt Engineering, RAG, LangChain, LangGraph, AI Agents, Multi-Agent",
-    "id": "jafarxdev/ai-engineering-projects",
-    "language": "Python",
-    "name": "jafarxdev/ai-engineering-projects",
-    "stars": 2,
-    "updated_at": "2026-10-12T11:24:10Z",
-    "url": "https://github.com/jafarxdev/ai-engineering-projects"
   },
   {
     "description": "RAG chatbot with PostgreSQL vector database for intelligent Q&A on conversation transcripts",
@@ -72,12 +162,21 @@
     "url": "https://github.com/henry-hai/SentryQuery-AI"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35046,
+    "updated_at": "2026-10-12T11:21:43Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-12T11:21:06Z",
+    "updated_at": "2026-10-12T11:33:47Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -88,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T11:20:44Z",
     "url": "https://github.com/S33mi/modern-ai-llm-journey"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2051,
-    "updated_at": "2026-10-12T11:19:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T11:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
@@ -122,17 +203,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-12T11:14:55Z",
+    "updated_at": "2026-10-12T11:32:54Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-12T11:10:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
@@ -169,15 +241,6 @@
     "stars": 119,
     "updated_at": "2026-10-12T10:57:12Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
-    "id": "Tribrix23/CleaveDB",
-    "language": "Python",
-    "name": "Tribrix23/CleaveDB",
-    "stars": 0,
-    "updated_at": "2026-10-12T10:56:49Z",
-    "url": "https://github.com/Tribrix23/CleaveDB"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -221,7 +284,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6510,
-    "updated_at": "2026-10-12T11:23:17Z",
+    "updated_at": "2026-10-12T11:40:07Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -266,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8351,
-    "updated_at": "2026-10-12T11:23:02Z",
+    "updated_at": "2026-10-12T11:37:08Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -322,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T10:03:25Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1198,
-    "updated_at": "2026-10-12T10:02:22Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T09:51:47Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-10-12T09:51:14Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
-    "id": "Oyabure-Zakari/ai-agent-practice",
-    "language": "TypeScript",
-    "name": "Oyabure-Zakari/ai-agent-practice",
-    "stars": 0,
-    "updated_at": "2026-10-12T09:51:08Z",
-    "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-10-12T09:50:56Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 2,
-    "updated_at": "2026-10-12T09:50:41Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "ChironDB is a Rust-native vector database for AI and RAG applications, combining dense, sparse, and hybrid search with r",
-    "id": "Gaussian-id/ChironDB",
-    "language": "Rust",
-    "name": "Gaussian-id/ChironDB",
-    "stars": 2,
-    "updated_at": "2026-10-12T09:50:07Z",
-    "url": "https://github.com/Gaussian-id/ChironDB"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1355,
-    "updated_at": "2026-10-12T10:34:28Z",
-    "url": "https://github.com/infinispan/infinispan"
   }
 ]
