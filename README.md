@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-12 10:30 UTC
+> ⏰ Last updated: 2026-10-12 10:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7126 | Java | 2026-10-12 | The AI search platform |
-| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2051 | Go | 2026-10-12 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 3 | [Farhodoff/company-knowledge-base-rag](https://github.com/Farhodoff/company-knowledge-base-rag) | 0 | Python | 2026-10-12 | ⚡ Enterprise-grade RAG AI chatbot answering internal company questions grounded in multi-format documents (PDF, MD, TXT, |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7126 | Java | 2026-10-12 | The AI search platform |
+| 5 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2051 | Go | 2026-10-12 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 6 | [Farhodoff/company-knowledge-base-rag](https://github.com/Farhodoff/company-knowledge-base-rag) | 0 | Python | 2026-10-12 | ⚡ Enterprise-grade RAG AI chatbot answering internal company questions grounded in multi-format documents (PDF, MD, TXT, |
 | 7 | [joydeep-07/Lens-LM](https://github.com/joydeep-07/Lens-LM) | 1 | JavaScript | 2026-10-12 | Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to |
 | 8 | [n9524726-star/chatpdf-rag](https://github.com/n9524726-star/chatpdf-rag) | 0 | Python | 2026-10-12 | Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards—100% private, no cloud |
 | 9 | [sarthaksinha2600/LLM-Contract](https://github.com/sarthaksinha2600/LLM-Contract) | 0 | — | 2026-10-12 | Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence. |
