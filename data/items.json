@@ -1,5 +1,131 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T14:30:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-12T14:29:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Velocity Local Services: local AI that remembers 32M tokens and can use your computer - all on your machine. Chat with w",
+    "id": "Veloresearch/VLS-32M-Context-Local-LLM",
+    "language": "\u2014",
+    "name": "Veloresearch/VLS-32M-Context-Local-LLM",
+    "stars": 5,
+    "updated_at": "2026-10-12T14:29:43Z",
+    "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
+  },
+  {
+    "description": "A production-grade, hands-on repository designed to master generative AI engineering, from foundation models to producti",
+    "id": "bundlab/generative-ai-engineering",
+    "language": "Python",
+    "name": "bundlab/generative-ai-engineering",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:29:23Z",
+    "url": "https://github.com/bundlab/generative-ai-engineering"
+  },
+  {
+    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
+    "id": "sm-joe/localrag",
+    "language": "Python",
+    "name": "sm-joe/localrag",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:28:09Z",
+    "url": "https://github.com/sm-joe/localrag"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:27:58Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:27:48Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-10-12T14:27:09Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "Mirror of https://git.ciepiela.org/dawid/langchain-memvid, where issues and pull requests go. A Langchain implementation",
+    "id": "sarumaj/langchain-memvid",
+    "language": "Python",
+    "name": "sarumaj/langchain-memvid",
+    "stars": 3,
+    "updated_at": "2026-10-12T14:23:07Z",
+    "url": "https://github.com/sarumaj/langchain-memvid"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6509,
+    "updated_at": "2026-10-12T14:21:26Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Heros is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. Bayma",
+    "id": "Hudsonmathew1910/Hero-s-AI",
+    "language": "HTML",
+    "name": "Hudsonmathew1910/Hero-s-AI",
+    "stars": 3,
+    "updated_at": "2026-10-12T14:19:16Z",
+    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
+  },
+  {
+    "description": "MCP server for Qdrant: manage Qdrant Cloud (clusters, backups, keys) and your data (collections, hybrid search, text mem",
+    "id": "Jeevav62/qdrant-full-mcp",
+    "language": "Python",
+    "name": "Jeevav62/qdrant-full-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:18:46Z",
+    "url": "https://github.com/Jeevav62/qdrant-full-mcp"
+  },
+  {
+    "description": "A production-grade vector database built from scratch in Rust \u2014 Flat, IVF, HNSW & PQ indexes, self-hostable via Docker, ",
+    "id": "dhanushkumar-amk/VECTA",
+    "language": "Rust",
+    "name": "dhanushkumar-amk/VECTA",
+    "stars": 2,
+    "updated_at": "2026-10-12T14:16:43Z",
+    "url": "https://github.com/dhanushkumar-amk/VECTA"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T14:15:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -36,15 +162,6 @@
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
   },
   {
-    "description": "A production-grade vector database built from scratch in Rust \u2014 Flat, IVF, HNSW & PQ indexes, self-hostable via Docker, ",
-    "id": "dhanushkumar-amk/VECTA",
-    "language": "Rust",
-    "name": "dhanushkumar-amk/VECTA",
-    "stars": 2,
-    "updated_at": "2026-10-12T14:06:36Z",
-    "url": "https://github.com/dhanushkumar-amk/VECTA"
-  },
-  {
     "description": "The holographic core for leOS",
     "id": "AnOversizedMooseWithSocks/leCore",
     "language": "Python",
@@ -58,7 +175,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3655,
+    "stars": 3656,
     "updated_at": "2026-10-12T14:05:28Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -81,33 +198,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T14:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T14:15:30Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-12T13:59:54Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -115,6 +205,15 @@
     "stars": 1355,
     "updated_at": "2026-10-12T13:59:45Z",
     "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39075,
+    "updated_at": "2026-10-12T13:50:05Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
@@ -130,7 +229,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32087,
+    "stars": 32088,
     "updated_at": "2026-10-12T13:47:56Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -175,7 +274,7 @@
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
-    "stars": 119,
+    "stars": 120,
     "updated_at": "2026-10-12T13:38:37Z",
     "url": "https://github.com/infino-ai/infino"
   },
@@ -185,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16875,
-    "updated_at": "2026-10-12T14:13:07Z",
+    "updated_at": "2026-10-12T14:21:07Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -214,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T13:26:46Z",
     "url": "https://github.com/joydeep-07/Lens-LM"
-  },
-  {
-    "description": "MCP server for Qdrant: manage Qdrant Cloud (clusters, backups, keys) and your data (collections, hybrid search, text mem",
-    "id": "Jeevav62/qdrant-full-mcp",
-    "language": "Python",
-    "name": "Jeevav62/qdrant-full-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-12T14:03:51Z",
-    "url": "https://github.com/Jeevav62/qdrant-full-mcp"
   },
   {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
@@ -324,15 +414,6 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6509,
-    "updated_at": "2026-10-12T14:10:16Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T13:06:26Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-12T13:06:06Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-10-12T13:04:43Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-10-12T13:01:31Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-10-12T13:01:09Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-10-12T13:00:51Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 2,
-    "updated_at": "2026-10-12T13:00:38Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "\u26a1 Enterprise-grade RAG AI chatbot answering internal company questions grounded in multi-format documents (PDF, MD, TXT,",
-    "id": "Farhodoff/company-knowledge-base-rag",
-    "language": "Python",
-    "name": "Farhodoff/company-knowledge-base-rag",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:58:56Z",
-    "url": "https://github.com/Farhodoff/company-knowledge-base-rag"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-10-12T12:57:30Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:56:47Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
   }
 ]
