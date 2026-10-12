@@ -1,12 +1,102 @@
 [
   {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-12T14:11:09Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 354,
+    "updated_at": "2026-10-12T14:12:16Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-10-12T14:09:26Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:08:17Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "A production-grade vector database built from scratch in Rust \u2014 Flat, IVF, HNSW & PQ indexes, self-hostable via Docker, ",
+    "id": "dhanushkumar-amk/VECTA",
+    "language": "Rust",
+    "name": "dhanushkumar-amk/VECTA",
+    "stars": 2,
+    "updated_at": "2026-10-12T14:06:36Z",
+    "url": "https://github.com/dhanushkumar-amk/VECTA"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 12,
+    "updated_at": "2026-10-12T14:06:32Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3655,
+    "updated_at": "2026-10-12T14:05:28Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2052,
-    "updated_at": "2026-10-12T14:00:13Z",
+    "updated_at": "2026-10-12T14:00:58Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35048,
+    "updated_at": "2026-10-12T14:00:29Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T14:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T14:15:30Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -40,7 +130,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32086,
+    "stars": 32087,
     "updated_at": "2026-10-12T13:47:56Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -50,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-12T13:46:53Z",
+    "updated_at": "2026-10-12T14:14:34Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -61,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T13:46:07Z",
     "url": "https://github.com/KalsoumDS/RAG-Document-Intelligence"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T13:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T14:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -99,15 +171,6 @@
     "url": "https://github.com/Filippo-Venturini/ctxvault"
   },
   {
-    "description": "A production-grade vector database built from scratch in Rust \u2014 Flat, IVF, HNSW & PQ indexes, self-hostable via Docker, ",
-    "id": "dhanushkumar-amk/VECTA",
-    "language": "Rust",
-    "name": "dhanushkumar-amk/VECTA",
-    "stars": 2,
-    "updated_at": "2026-10-12T13:40:30Z",
-    "url": "https://github.com/dhanushkumar-amk/VECTA"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -122,7 +185,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16875,
-    "updated_at": "2026-10-12T13:34:14Z",
+    "updated_at": "2026-10-12T14:13:07Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -151,6 +214,15 @@
     "stars": 1,
     "updated_at": "2026-10-12T13:26:46Z",
     "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "MCP server for Qdrant: manage Qdrant Cloud (clusters, backups, keys) and your data (collections, hybrid search, text mem",
+    "id": "Jeevav62/qdrant-full-mcp",
+    "language": "Python",
+    "name": "Jeevav62/qdrant-full-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-12T14:03:51Z",
+    "url": "https://github.com/Jeevav62/qdrant-full-mcp"
   },
   {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
@@ -187,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T13:18:13Z",
     "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3654,
-    "updated_at": "2026-10-12T13:17:08Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
@@ -266,7 +329,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6509,
-    "updated_at": "2026-10-12T13:54:35Z",
+    "updated_at": "2026-10-12T14:10:16Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T12:56:47Z",
     "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-12T12:55:22Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-10-12T12:55:19Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-10-12T12:55:13Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-10-12T12:54:53Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "RAG-powered financial education assistant: upload banking/finance PDFs or text, then get grounded explanations, quizzes ",
-    "id": "vineet416/FinEduGuide-AI-Assistant",
-    "language": "Python",
-    "name": "vineet416/FinEduGuide-AI-Assistant",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:53:38Z",
-    "url": "https://github.com/vineet416/FinEduGuide-AI-Assistant"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 3,
-    "updated_at": "2026-10-12T12:53:27Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "LLM Deep Web Research Tool \u2014 expands your query into multiple dimensions, crawls trusted web sources in real time, store",
-    "id": "gitakhileshyadav/LLM-Based-Web-Research-System",
-    "language": "Python",
-    "name": "gitakhileshyadav/LLM-Based-Web-Research-System",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:52:41Z",
-    "url": "https://github.com/gitakhileshyadav/LLM-Based-Web-Research-System"
   }
 ]
