@@ -1,5 +1,203 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T18:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
+    "id": "Deafened-vascularstructure846/pageindex-rag",
+    "language": "Python",
+    "name": "Deafened-vascularstructure846/pageindex-rag",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:45:09Z",
+    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
+  },
+  {
+    "description": "An advanced,local vector database for Flutter, powered by Rust and HNSW graph indexing.",
+    "id": "MostafaSensei106/Waffle-DB",
+    "language": "Dart",
+    "name": "MostafaSensei106/Waffle-DB",
+    "stars": 5,
+    "updated_at": "2026-10-12T18:44:56Z",
+    "url": "https://github.com/MostafaSensei106/Waffle-DB"
+  },
+  {
+    "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
+    "id": "Tamilmani027/Context-IQ",
+    "language": "JavaScript",
+    "name": "Tamilmani027/Context-IQ",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:44:32Z",
+    "url": "https://github.com/Tamilmani027/Context-IQ"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:43:06Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
+    "id": "Uncomfortable-filagree112/OpenViking",
+    "language": "\u2014",
+    "name": "Uncomfortable-filagree112/OpenViking",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:42:05Z",
+    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
+  },
+  {
+    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
+    "id": "cornellebivalved856/example-multimodal-rag",
+    "language": "Python",
+    "name": "cornellebivalved856/example-multimodal-rag",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:41:44Z",
+    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
+  },
+  {
+    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
+    "id": "Boney-massiveness357/ragscope",
+    "language": "Python",
+    "name": "Boney-massiveness357/ragscope",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:41:28Z",
+    "url": "https://github.com/Boney-massiveness357/ragscope"
+  },
+  {
+    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
+    "id": "conceited-watergillyflower311/meilisearch-desktop",
+    "language": "TypeScript",
+    "name": "conceited-watergillyflower311/meilisearch-desktop",
+    "stars": 2,
+    "updated_at": "2026-10-12T18:41:13Z",
+    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 13,
+    "updated_at": "2026-10-12T18:39:20Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 3,
+    "updated_at": "2026-10-12T18:38:45Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 173,
+    "updated_at": "2026-10-12T18:37:32Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:37:29Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
+    "id": "sshisto/mnemo-mcp",
+    "language": "Python",
+    "name": "sshisto/mnemo-mcp",
+    "stars": 2,
+    "updated_at": "2026-10-12T18:36:05Z",
+    "url": "https://github.com/sshisto/mnemo-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 3,
+    "updated_at": "2026-10-12T18:35:56Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:35:32Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:41:59Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
+    "id": "xl3v3r/hermes-oracle-memory",
+    "language": "Python",
+    "name": "xl3v3r/hermes-oracle-memory",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:33:56Z",
+    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:33:21Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "An eCommerce application built with Java Spring Boot following layered architecture principles, including RESTful APIs, ",
+    "id": "Shivang14d04/ShopGrid",
+    "language": "Java",
+    "name": "Shivang14d04/ShopGrid",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:31:47Z",
+    "url": "https://github.com/Shivang14d04/ShopGrid"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:31:10Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T18:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
     "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
     "language": "Python",
@@ -25,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-10-12T18:28:33Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
-    "id": "Tamilmani027/Context-IQ",
-    "language": "JavaScript",
-    "name": "Tamilmani027/Context-IQ",
-    "stars": 1,
-    "updated_at": "2026-10-12T18:27:17Z",
-    "url": "https://github.com/Tamilmani027/Context-IQ"
   },
   {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
@@ -106,24 +295,6 @@
     "stars": 1919,
     "updated_at": "2026-10-12T18:21:39Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T18:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T18:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
@@ -207,15 +378,6 @@
     "url": "https://github.com/pavelhorak/pion"
   },
   {
-    "description": "An eCommerce application built with Java Spring Boot following layered architecture principles, including RESTful APIs, ",
-    "id": "Shivang14d04/ShopGrid",
-    "language": "Java",
-    "name": "Shivang14d04/ShopGrid",
-    "stars": 0,
-    "updated_at": "2026-10-12T18:06:15Z",
-    "url": "https://github.com/Shivang14d04/ShopGrid"
-  },
-  {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
@@ -239,7 +401,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1198,
-    "updated_at": "2026-10-12T18:27:29Z",
+    "updated_at": "2026-10-12T18:44:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -259,15 +421,6 @@
     "stars": 903,
     "updated_at": "2026-10-12T18:19:59Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-12T18:10:44Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -293,160 +446,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7126,
-    "updated_at": "2026-10-12T18:30:18Z",
+    "updated_at": "2026-10-12T18:32:25Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-12T17:44:40Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
-    "id": "sanonone/kektordb",
-    "language": "Go",
-    "name": "sanonone/kektordb",
-    "stars": 86,
-    "updated_at": "2026-10-12T17:39:11Z",
-    "url": "https://github.com/sanonone/kektordb"
-  },
-  {
-    "description": "LocalRAG is a portable, Docker-based local RAG chatbot that lets you upload documents, retrieve relevant content with Qd",
-    "id": "sm-joe/localrag",
-    "language": "Python",
-    "name": "sm-joe/localrag",
-    "stars": 0,
-    "updated_at": "2026-10-12T17:38:54Z",
-    "url": "https://github.com/sm-joe/localrag"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13230,
-    "updated_at": "2026-10-12T17:36:32Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
-    "id": "Thisen-Ekanayake/Athena",
-    "language": "Python",
-    "name": "Thisen-Ekanayake/Athena",
-    "stars": 1,
-    "updated_at": "2026-10-12T17:30:01Z",
-    "url": "https://github.com/Thisen-Ekanayake/Athena"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-12T18:28:27Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-12T17:23:24Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "RAG pipeline security testing toolkit - 27 techniques across 6 kill chain phases, mapped to MITRE ATLAS",
-    "id": "itsbroken-ai/RAGdrag",
-    "language": "Python",
-    "name": "itsbroken-ai/RAGdrag",
-    "stars": 42,
-    "updated_at": "2026-10-12T17:18:38Z",
-    "url": "https://github.com/itsbroken-ai/RAGdrag"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 387,
-    "updated_at": "2026-10-12T17:15:41Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-12T18:08:25Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3663,
-    "updated_at": "2026-10-12T18:27:23Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Pinecone BYOC",
-    "id": "pinecone-io/pulumi-pinecone-byoc",
-    "language": "Python",
-    "name": "pinecone-io/pulumi-pinecone-byoc",
-    "stars": 15,
-    "updated_at": "2026-10-12T17:07:37Z",
-    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
-    "id": "M4F-S/gomaa",
-    "language": "Python",
-    "name": "M4F-S/gomaa",
-    "stars": 33,
-    "updated_at": "2026-10-12T16:56:58Z",
-    "url": "https://github.com/M4F-S/gomaa"
-  },
-  {
-    "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
-    "id": "SwineCoder101/hvec",
-    "language": "Rust",
-    "name": "SwineCoder101/hvec",
-    "stars": 0,
-    "updated_at": "2026-10-12T16:56:12Z",
-    "url": "https://github.com/SwineCoder101/hvec"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35048,
-    "updated_at": "2026-10-12T17:57:35Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9462,
-    "updated_at": "2026-10-12T16:47:56Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-12T16:45:45Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
   }
 ]
