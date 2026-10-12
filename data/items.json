@@ -1,12 +1,39 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "\ud83d\udcc4 Structured RAG Document Intelligence Pipeline \u2014 Semantic chunking, FAISS vector search, MMR re-ranking & 100% sourced ",
+    "id": "KalsoumDS/RAG-Document-Intelligence",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T15:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "KalsoumDS/RAG-Document-Intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-12T15:54:57Z",
+    "url": "https://github.com/KalsoumDS/RAG-Document-Intelligence"
+  },
+  {
+    "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
+    "id": "Tribrix23/CleaveDB",
+    "language": "Python",
+    "name": "Tribrix23/CleaveDB",
+    "stars": 0,
+    "updated_at": "2026-10-12T15:53:59Z",
+    "url": "https://github.com/Tribrix23/CleaveDB"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 1,
+    "updated_at": "2026-10-12T15:49:33Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
+    "id": "gainratio/edgeproc-core",
+    "language": "Python",
+    "name": "gainratio/edgeproc-core",
+    "stars": 0,
+    "updated_at": "2026-10-12T15:47:38Z",
+    "url": "https://github.com/gainratio/edgeproc-core"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -14,8 +41,44 @@
     "language": "Python",
     "name": "sharfuddin18/Codemaster-Ai",
     "stars": 2,
-    "updated_at": "2026-10-12T15:44:08Z",
+    "updated_at": "2026-10-12T15:49:46Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46365,
+    "updated_at": "2026-10-12T15:45:44Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66974,
+    "updated_at": "2026-10-12T15:45:36Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T15:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T16:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -45,15 +108,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "\ud83d\udcc4 Structured RAG Document Intelligence Pipeline \u2014 Semantic chunking, FAISS vector search, MMR re-ranking & 100% sourced ",
-    "id": "KalsoumDS/RAG-Document-Intelligence",
-    "language": "Python",
-    "name": "KalsoumDS/RAG-Document-Intelligence",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:40:43Z",
-    "url": "https://github.com/KalsoumDS/RAG-Document-Intelligence"
-  },
-  {
     "description": "It relates with implementation of RAG pipelines. Quest to fine tune different elements(retrieval , generation broadly) o",
     "id": "vaibhav-rj/RAG-pipeline",
     "language": "Jupyter Notebook",
@@ -61,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-10-12T15:40:27Z",
     "url": "https://github.com/vaibhav-rj/RAG-pipeline"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32094,
+    "updated_at": "2026-10-12T15:58:11Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -76,8 +139,8 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39076,
-    "updated_at": "2026-10-12T15:37:35Z",
+    "stars": 39077,
+    "updated_at": "2026-10-12T15:55:44Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -90,24 +153,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
-    "id": "gainratio/edgeproc-core",
-    "language": "Python",
-    "name": "gainratio/edgeproc-core",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:33:06Z",
-    "url": "https://github.com/gainratio/edgeproc-core"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T15:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "",
     "id": "giuliano0s/ifrs-canoas-rag",
     "language": "Python",
@@ -117,21 +162,12 @@
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66974,
-    "updated_at": "2026-10-12T15:28:37Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
     "id": "redis/redis-vl-python",
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 431,
-    "updated_at": "2026-10-12T15:28:20Z",
+    "updated_at": "2026-10-12T15:56:44Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2052,
     "updated_at": "2026-10-12T14:47:22Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-10-12T14:46:37Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-12T14:44:59Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-12T14:43:18Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
-    "id": "edwardtay/awesome-ai",
-    "language": "\u2014",
-    "name": "edwardtay/awesome-ai",
-    "stars": 6,
-    "updated_at": "2026-10-12T14:43:11Z",
-    "url": "https://github.com/edwardtay/awesome-ai"
   }
 ]
