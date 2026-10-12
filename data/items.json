@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T21:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
+    "id": "StarTrail-org/LEANN",
+    "language": "Python",
+    "name": "StarTrail-org/LEANN",
+    "stars": 13019,
+    "updated_at": "2026-10-12T21:15:11Z",
+    "url": "https://github.com/StarTrail-org/LEANN"
+  },
+  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1480,
-    "updated_at": "2026-10-12T20:59:33Z",
+    "updated_at": "2026-10-12T21:13:48Z",
     "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "An advanced,local vector database for Flutter, powered by Rust and HNSW graph indexing.",
+    "id": "MostafaSensei106/Waffle-DB",
+    "language": "Dart",
+    "name": "MostafaSensei106/Waffle-DB",
+    "stars": 5,
+    "updated_at": "2026-10-12T21:08:07Z",
+    "url": "https://github.com/MostafaSensei106/Waffle-DB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-12T21:07:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
+    "id": "hypercrux/hypercrux",
+    "language": "Go",
+    "name": "hypercrux/hypercrux",
+    "stars": 0,
+    "updated_at": "2026-10-12T21:05:37Z",
+    "url": "https://github.com/hypercrux/hypercrux"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T21:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
@@ -25,15 +79,6 @@
     "stars": 123,
     "updated_at": "2026-10-12T20:58:46Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "An advanced,local vector database for Flutter, powered by Rust and HNSW graph indexing.",
-    "id": "MostafaSensei106/Waffle-DB",
-    "language": "Dart",
-    "name": "MostafaSensei106/Waffle-DB",
-    "stars": 5,
-    "updated_at": "2026-10-12T20:57:40Z",
-    "url": "https://github.com/MostafaSensei106/Waffle-DB"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -162,33 +207,6 @@
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   },
   {
-    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
-    "id": "hypercrux/hypercrux",
-    "language": "Go",
-    "name": "hypercrux/hypercrux",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:46:26Z",
-    "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T20:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T21:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
     "id": "jourdaninorder609/mind-query",
     "language": "TypeScript",
@@ -223,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T20:41:44Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-12T20:40:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
@@ -356,7 +365,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1198,
-    "updated_at": "2026-10-12T20:58:49Z",
+    "updated_at": "2026-10-12T21:14:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -396,15 +405,6 @@
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   },
   {
-    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
-    "id": "StarTrail-org/LEANN",
-    "language": "Python",
-    "name": "StarTrail-org/LEANN",
-    "stars": 13019,
-    "updated_at": "2026-10-12T20:53:45Z",
-    "url": "https://github.com/StarTrail-org/LEANN"
-  },
-  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -437,7 +437,7 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 7,
-    "updated_at": "2026-10-12T20:20:09Z",
+    "updated_at": "2026-10-12T21:13:02Z",
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
