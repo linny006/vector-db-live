@@ -1,12 +1,21 @@
 [
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-12T17:44:40Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T18:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
+    "id": "RishabhMathur06/CASO-RAG",
+    "language": "Python",
+    "name": "RishabhMathur06/CASO-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-12T17:58:42Z",
+    "url": "https://github.com/RishabhMathur06/CASO-RAG"
   },
   {
     "description": "\ud83d\udcc4 Structured RAG Document Intelligence Pipeline \u2014 Semantic chunking, FAISS vector search, MMR re-ranking & 100% sourced ",
@@ -14,8 +23,98 @@
     "language": "Python",
     "name": "KalsoumDS/RAG-Document-Intelligence",
     "stars": 0,
-    "updated_at": "2026-10-12T17:44:29Z",
+    "updated_at": "2026-10-12T17:57:05Z",
     "url": "https://github.com/KalsoumDS/RAG-Document-Intelligence"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1198,
+    "updated_at": "2026-10-12T17:53:55Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Edge Vector search engine with Vulkan GPU acceleration, hierarchical indexing (HRM2), and native LangChain integration. ",
+    "id": "schwabauerbriantomas-gif/m2m-vector-search",
+    "language": "Python",
+    "name": "schwabauerbriantomas-gif/m2m-vector-search",
+    "stars": 24,
+    "updated_at": "2026-10-12T17:53:17Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/m2m-vector-search"
+  },
+  {
+    "description": "Self-hosted multitenant platform for AI agents and Telegram bots with event-driven architecture",
+    "id": "Vensus137/Coreness-Legacy",
+    "language": "Python",
+    "name": "Vensus137/Coreness-Legacy",
+    "stars": 30,
+    "updated_at": "2026-10-12T17:51:40Z",
+    "url": "https://github.com/Vensus137/Coreness-Legacy"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 903,
+    "updated_at": "2026-10-12T17:53:21Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-12T17:50:59Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32098,
+    "updated_at": "2026-10-12T17:49:31Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
+    "id": "datris/datris-platform-oss",
+    "language": "Scala",
+    "name": "datris/datris-platform-oss",
+    "stars": 12,
+    "updated_at": "2026-10-12T17:48:41Z",
+    "url": "https://github.com/datris/datris-platform-oss"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T17:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7126,
+    "updated_at": "2026-10-12T17:48:06Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-12T17:44:40Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -54,21 +153,12 @@
     "url": "https://github.com/sm-joe/localrag"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 903,
-    "updated_at": "2026-10-12T17:42:25Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-12T17:32:55Z",
+    "updated_at": "2026-10-12T17:56:51Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -79,33 +169,6 @@
     "stars": 13230,
     "updated_at": "2026-10-12T17:36:32Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
-    "id": "datris/datris-platform-oss",
-    "language": "Scala",
-    "name": "datris/datris-platform-oss",
-    "stars": 12,
-    "updated_at": "2026-10-12T17:30:47Z",
-    "url": "https://github.com/datris/datris-platform-oss"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T17:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T17:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T17:28:51Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-12T17:40:50Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -184,7 +238,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3659,
+    "stars": 3661,
     "updated_at": "2026-10-12T17:11:34Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -196,15 +250,6 @@
     "stars": 15,
     "updated_at": "2026-10-12T17:07:37Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1198,
-    "updated_at": "2026-10-12T17:39:00Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35048,
-    "updated_at": "2026-10-12T17:37:57Z",
+    "updated_at": "2026-10-12T17:57:35Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T16:45:45Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7126,
-    "updated_at": "2026-10-12T17:29:21Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Postgres MCP Server",
@@ -387,15 +423,6 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32097,
-    "updated_at": "2026-10-12T15:58:11Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
     "id": "Senthilsivam41/kinegraph-v",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-12T15:49:46Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46364,
-    "updated_at": "2026-10-12T17:39:31Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66976,
-    "updated_at": "2026-10-12T15:45:36Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "It relates with implementation of RAG pipelines. Quest to fine tune different elements(retrieval , generation broadly) o",
-    "id": "vaibhav-rj/RAG-pipeline",
-    "language": "Jupyter Notebook",
-    "name": "vaibhav-rj/RAG-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-12T15:40:27Z",
-    "url": "https://github.com/vaibhav-rj/RAG-pipeline"
   }
 ]
