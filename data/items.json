@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-12T12:15:26Z",
+    "updated_at": "2026-10-12T12:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector s",
+    "id": "intersystems-community/FHIR-AI-Hackathon-Kit",
+    "language": "Jupyter Notebook",
+    "name": "intersystems-community/FHIR-AI-Hackathon-Kit",
+    "stars": 7,
+    "updated_at": "2026-10-12T12:29:09Z",
+    "url": "https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3651,
+    "updated_at": "2026-10-12T12:28:14Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35047,
+    "updated_at": "2026-10-12T12:26:28Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-12T12:22:53Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-12T12:19:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46364,
+    "updated_at": "2026-10-12T12:17:52Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T12:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Synthetic dataset + agent-memory benchmark for an MSc thesis comparing vector, knowledge-graph, and hybrid memory archit",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T12:14:18Z",
     "url": "https://github.com/Hemant-1821/memory_arch_evaluation"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46364,
-    "updated_at": "2026-10-12T12:13:42Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -41,7 +95,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-12T12:12:42Z",
+    "updated_at": "2026-10-12T12:23:18Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -90,24 +144,6 @@
     "url": "https://github.com/Farhodoff/company-knowledge-base-rag"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-12T12:03:48Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T12:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-12T12:15:25Z",
+    "updated_at": "2026-10-12T12:29:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -130,7 +166,7 @@
     "id": "vineet416/FinEduGuide-AI-Assistant",
     "language": "Python",
     "name": "vineet416/FinEduGuide-AI-Assistant",
-    "stars": 1,
+    "stars": 0,
     "updated_at": "2026-10-12T11:56:00Z",
     "url": "https://github.com/vineet416/FinEduGuide-AI-Assistant"
   },
@@ -140,7 +176,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8352,
-    "updated_at": "2026-10-12T12:07:42Z",
+    "updated_at": "2026-10-12T12:22:14Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T11:41:32Z",
     "url": "https://github.com/gitakhileshyadav/LLM-Based-Web-Research-System"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-12T11:40:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
@@ -279,15 +306,6 @@
     "url": "https://github.com/henry-hai/SentryQuery-AI"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35046,
-    "updated_at": "2026-10-12T11:58:19Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "From Classical ML & Deep Learning to Modern AI & LLMs",
     "id": "S33mi/modern-ai-llm-journey",
     "language": "Jupyter Notebook",
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "dikshant182004/MathTutor",
     "stars": 3,
-    "updated_at": "2026-10-12T12:12:58Z",
+    "updated_at": "2026-10-12T12:26:30Z",
     "url": "https://github.com/dikshant182004/MathTutor"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T10:08:12Z",
     "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
-    "id": "Shitless-jnr3697/rebasis",
-    "language": "Python",
-    "name": "Shitless-jnr3697/rebasis",
-    "stars": 0,
-    "updated_at": "2026-10-12T10:07:23Z",
-    "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "AI-powered academic Q&A web app using RAG. Upload your study PDFs and get answers grounded in your own notes, with docum",
-    "id": "aditi-1731/EduRAG-Academic-Knowledge-Assistant",
-    "language": "CSS",
-    "name": "aditi-1731/EduRAG-Academic-Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-10-12T10:07:06Z",
-    "url": "https://github.com/aditi-1731/EduRAG-Academic-Knowledge-Assistant"
   }
 ]
