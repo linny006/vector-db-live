@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-12T03:15:20Z",
+    "updated_at": "2026-10-12T03:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "- ",
+    "id": "Scaibu/llm-observability-platform",
+    "language": "Python",
+    "name": "Scaibu/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-10-12T03:19:12Z",
+    "url": "https://github.com/Scaibu/llm-observability-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T03:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -94,7 +112,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 2050,
+    "stars": 2051,
     "updated_at": "2026-10-12T03:07:33Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -178,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T03:00:43Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T03:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
@@ -284,7 +293,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-12T02:49:52Z",
+    "updated_at": "2026-10-12T03:25:06Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46356,
-    "updated_at": "2026-10-12T02:56:19Z",
+    "updated_at": "2026-10-12T03:22:10Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -427,7 +436,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3610,
+    "stars": 3611,
     "updated_at": "2026-10-12T02:27:52Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T02:27:52Z",
     "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 2,
-    "updated_at": "2026-10-12T02:27:42Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
   }
 ]
