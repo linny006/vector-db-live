@@ -1,21 +1,57 @@
 [
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
+    "description": "RAG copilot for codebases: tree-sitter chunking, test-aware retrieval, LLM query rewriting. Evaluated on 45 questions (R",
+    "id": "Mulasreeja15/gitcontext",
     "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 354,
-    "updated_at": "2026-10-12T23:28:16Z",
-    "url": "https://github.com/schmitech/orbit"
+    "name": "Mulasreeja15/gitcontext",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:44:11Z",
+    "url": "https://github.com/Mulasreeja15/gitcontext"
   },
   {
-    "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
-    "id": "Oyabure-Zakari/ai-agent-practice",
-    "language": "TypeScript",
-    "name": "Oyabure-Zakari/ai-agent-practice",
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
     "stars": 0,
-    "updated_at": "2026-10-12T23:21:39Z",
-    "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
+    "updated_at": "2026-10-12T23:43:13Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:43:11Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-10-12T23:42:34Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2052,
+    "updated_at": "2026-10-12T23:39:06Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-12T23:38:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -23,8 +59,44 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 904,
-    "updated_at": "2026-10-12T23:29:00Z",
+    "updated_at": "2026-10-12T23:44:21Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
+    "id": "Oyabure-Zakari/ai-agent-practice",
+    "language": "TypeScript",
+    "name": "Oyabure-Zakari/ai-agent-practice",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:32:55Z",
+    "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T23:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-12T23:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 354,
+    "updated_at": "2026-10-12T23:28:16Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
@@ -54,24 +126,6 @@
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T23:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-12T23:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -79,24 +133,6 @@
     "stars": 6510,
     "updated_at": "2026-10-12T23:28:54Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-12T23:08:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2052,
-    "updated_at": "2026-10-12T23:06:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -130,7 +166,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3676,
+    "stars": 3677,
     "updated_at": "2026-10-12T22:43:18Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-12T23:12:39Z",
+    "updated_at": "2026-10-12T23:38:57Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T20:45:00Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
-    "id": "gainratio/edgeproc-core",
-    "language": "Python",
-    "name": "gainratio/edgeproc-core",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:44:21Z",
-    "url": "https://github.com/gainratio/edgeproc-core"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-10-12T20:42:44Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:41:44Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-10-12T20:39:59Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
