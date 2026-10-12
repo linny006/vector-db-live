@@ -1,11 +1,128 @@
 [
   {
+    "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
+    "id": "Oyabure-Zakari/ai-agent-practice",
+    "language": "TypeScript",
+    "name": "Oyabure-Zakari/ai-agent-practice",
+    "stars": 0,
+    "updated_at": "2026-10-12T12:44:54Z",
+    "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-10-12T12:44:51Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3651,
+    "updated_at": "2026-10-12T12:44:14Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 88,
+    "updated_at": "2026-10-12T12:40:40Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-10-12T12:40:22Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 4,
+    "updated_at": "2026-10-12T12:39:03Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-12T12:38:45Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-12T12:38:09Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4444,
+    "updated_at": "2026-10-12T12:38:01Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-10-12T12:32:58Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-12T12:32:52Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-10-12T12:32:17Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T12:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-12T12:30:23Z",
+    "updated_at": "2026-10-12T12:45:27Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,21 +135,12 @@
     "url": "https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3651,
-    "updated_at": "2026-10-12T12:28:14Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35047,
-    "updated_at": "2026-10-12T12:26:28Z",
+    "updated_at": "2026-10-12T12:42:37Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -41,7 +149,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-12T12:22:53Z",
+    "updated_at": "2026-10-12T12:33:42Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -58,18 +166,9 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46364,
+    "stars": 46365,
     "updated_at": "2026-10-12T12:17:52Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T12:15:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Synthetic dataset + agent-memory benchmark for an MSc thesis comparing vector, knowledge-graph, and hybrid memory archit",
@@ -88,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-10-12T12:12:25Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4444,
-    "updated_at": "2026-10-12T12:23:18Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Mirror of https://git.ciepiela.org/dawid/langchain-memvid, where issues and pull requests go. A Langchain implementation",
@@ -158,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-12T12:29:53Z",
+    "updated_at": "2026-10-12T12:36:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -176,7 +266,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8352,
-    "updated_at": "2026-10-12T12:22:14Z",
+    "updated_at": "2026-10-12T12:33:45Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -284,7 +374,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7126,
-    "updated_at": "2026-10-12T11:29:30Z",
+    "updated_at": "2026-10-12T12:42:06Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T11:02:40Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 119,
-    "updated_at": "2026-10-12T10:57:12Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 903,
-    "updated_at": "2026-10-12T11:04:13Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "\ud83e\uddee Multi-agent AI math tutor built with LangGraph \u2014 CRAG retrieval, episodic & semantic long-term memory, Tavily MCP web ",
-    "id": "dikshant182004/MathTutor",
-    "language": "Python",
-    "name": "dikshant182004/MathTutor",
-    "stars": 3,
-    "updated_at": "2026-10-12T12:26:30Z",
-    "url": "https://github.com/dikshant182004/MathTutor"
-  },
-  {
-    "description": "A vector database in C++. Building the stuff I'd normally just pip install.",
-    "id": "adityasharmaaaaa/overveckill",
-    "language": "C++",
-    "name": "adityasharmaaaaa/overveckill",
-    "stars": 1,
-    "updated_at": "2026-10-12T10:50:09Z",
-    "url": "https://github.com/adityasharmaaaaa/overveckill"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-12T10:49:59Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6510,
-    "updated_at": "2026-10-12T11:49:12Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6186,
-    "updated_at": "2026-10-12T10:16:46Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9398,
-    "updated_at": "2026-10-12T10:13:32Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
-    "id": "n9524726-star/chatpdf-rag",
-    "language": "Python",
-    "name": "n9524726-star/chatpdf-rag",
-    "stars": 0,
-    "updated_at": "2026-10-12T10:08:30Z",
-    "url": "https://github.com/n9524726-star/chatpdf-rag"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-10-12T10:08:12Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
   }
 ]
