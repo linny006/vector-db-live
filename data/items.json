@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-12T01:15:21Z",
+    "updated_at": "2026-10-12T01:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "Python",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 0,
+    "updated_at": "2026-10-12T01:30:05Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-12T01:26:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
+    "id": "Tribrix23/CleaveDB",
+    "language": "Python",
+    "name": "Tribrix23/CleaveDB",
+    "stars": 0,
+    "updated_at": "2026-10-12T01:22:30Z",
+    "url": "https://github.com/Tribrix23/CleaveDB"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-12T01:20:21Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "RAG copilot for codebases: tree-sitter chunking, test-aware retrieval, LLM query rewriting. Evaluated on 45 questions (R",
+    "id": "Mulasreeja15/gitcontext",
+    "language": "Python",
+    "name": "Mulasreeja15/gitcontext",
+    "stars": 0,
+    "updated_at": "2026-10-12T01:19:35Z",
+    "url": "https://github.com/Mulasreeja15/gitcontext"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-12T01:16:17Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T01:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Two Strands agents triage a bank card dispute against policy with RAG, guardrails and a human approval gate. Deployable ",
@@ -25,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-10-12T01:01:57Z",
     "url": "https://github.com/gay00ung/vecnook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T01:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -63,15 +117,6 @@
     "url": "https://github.com/rmednitzer/core-graph"
   },
   {
-    "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
-    "id": "Tribrix23/CleaveDB",
-    "language": "Python",
-    "name": "Tribrix23/CleaveDB",
-    "stars": 0,
-    "updated_at": "2026-10-12T00:51:32Z",
-    "url": "https://github.com/Tribrix23/CleaveDB"
-  },
-  {
     "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
     "id": "codelined-ag/Extracto",
     "language": "TypeScript",
@@ -86,7 +131,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-12T01:09:24Z",
+    "updated_at": "2026-10-12T01:29:20Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -103,7 +148,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3605,
+    "stars": 3606,
     "updated_at": "2026-10-12T00:45:01Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -117,15 +162,6 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-12T01:15:10Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
     "id": "monaccode/astromesh",
     "language": "Python",
@@ -133,24 +169,6 @@
     "stars": 36,
     "updated_at": "2026-10-12T00:35:35Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-12T00:31:15Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-12T00:29:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -310,7 +328,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 2049,
+    "stars": 2050,
     "updated_at": "2026-10-11T23:59:40Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-11T23:46:01Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "A fast, local and secure Retrieval-Augmented Generation (RAG) CLI application.",
-    "id": "tanguykonan/pocket-rag-cli",
-    "language": "Python",
-    "name": "tanguykonan/pocket-rag-cli",
-    "stars": 0,
-    "updated_at": "2026-10-11T23:43:36Z",
-    "url": "https://github.com/tanguykonan/pocket-rag-cli"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-10-11T23:46:41Z",
-    "url": "https://github.com/mmnto-ai/totem"
   }
 ]
