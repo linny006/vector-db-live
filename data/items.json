@@ -1,11 +1,92 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:58:09Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-12T11:57:21Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "RAG-powered financial education assistant: upload banking/finance PDFs or text, then get grounded explanations, quizzes ",
+    "id": "vineet416/FinEduGuide-AI-Assistant",
+    "language": "Python",
+    "name": "vineet416/FinEduGuide-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-10-12T11:56:00Z",
+    "url": "https://github.com/vineet416/FinEduGuide-AI-Assistant"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8352,
+    "updated_at": "2026-10-12T11:55:21Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Synthetic dataset + agent-memory benchmark for an MSc thesis comparing vector, knowledge-graph, and hybrid memory archit",
+    "id": "Hemant-1821/memory_arch_evaluation",
+    "language": "Python",
+    "name": "Hemant-1821/memory_arch_evaluation",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:55:33Z",
+    "url": "https://github.com/Hemant-1821/memory_arch_evaluation"
+  },
+  {
+    "description": "\u26a1 Enterprise-grade RAG AI chatbot answering internal company questions grounded in multi-format documents (PDF, MD, TXT,",
+    "id": "Farhodoff/company-knowledge-base-rag",
+    "language": "Python",
+    "name": "Farhodoff/company-knowledge-base-rag",
+    "stars": 0,
+    "updated_at": "2026-10-12T11:48:49Z",
+    "url": "https://github.com/Farhodoff/company-knowledge-base-rag"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-12T11:47:40Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-10-12T11:46:57Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T11:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-12T11:45:21Z",
+    "updated_at": "2026-10-12T12:00:32Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-12T11:42:32Z",
+    "updated_at": "2026-10-12T11:54:56Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -63,15 +144,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "\u26a1 Enterprise-grade RAG AI chatbot answering internal company questions grounded in multi-format documents (PDF, MD, TXT,",
-    "id": "Farhodoff/company-knowledge-base-rag",
-    "language": "Python",
-    "name": "Farhodoff/company-knowledge-base-rag",
-    "stars": 0,
-    "updated_at": "2026-10-12T11:37:46Z",
-    "url": "https://github.com/Farhodoff/company-knowledge-base-rag"
-  },
-  {
     "description": "FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe",
     "id": "t0rresmarcus/FanVault-AI",
     "language": "TypeScript",
@@ -117,15 +189,6 @@
     "url": "https://github.com/jafarxdev/ai-engineering-projects"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T11:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
     "id": "feather-store/feather",
     "language": "Python",
@@ -167,17 +230,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35046,
-    "updated_at": "2026-10-12T11:21:43Z",
+    "updated_at": "2026-10-12T11:58:19Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-12T11:33:47Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "From Classical ML & Deep Learning to Modern AI & LLMs",
@@ -221,8 +275,17 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-12T11:08:01Z",
+    "updated_at": "2026-10-12T11:46:43Z",
     "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46364,
+    "updated_at": "2026-10-12T11:03:44Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -284,7 +347,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6510,
-    "updated_at": "2026-10-12T11:40:07Z",
+    "updated_at": "2026-10-12T11:49:12Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -297,13 +360,13 @@
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
-    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
-    "id": "joydeep-07/Lens-LM",
-    "language": "JavaScript",
-    "name": "joydeep-07/Lens-LM",
-    "stars": 1,
-    "updated_at": "2026-10-12T10:12:51Z",
-    "url": "https://github.com/joydeep-07/Lens-LM"
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9398,
+    "updated_at": "2026-10-12T10:13:32Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -322,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T10:08:12Z",
     "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8351,
-    "updated_at": "2026-10-12T11:37:08Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T10:00:56Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-12T10:00:49Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-10-12T09:59:11Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-10-12T09:57:03Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-10-12T09:56:11Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-10-12T09:54:34Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-10-12T09:51:47Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
