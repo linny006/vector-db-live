@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-12T13:30:21Z",
+    "updated_at": "2026-10-12T13:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 97,
+    "updated_at": "2026-10-12T13:42:30Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.",
+    "id": "Filippo-Venturini/ctxvault",
+    "language": "Python",
+    "name": "Filippo-Venturini/ctxvault",
+    "stars": 63,
+    "updated_at": "2026-10-12T13:41:28Z",
+    "url": "https://github.com/Filippo-Venturini/ctxvault"
+  },
+  {
+    "description": "A production-grade vector database built from scratch in Rust \u2014 Flat, IVF, HNSW & PQ indexes, self-hostable via Docker, ",
+    "id": "dhanushkumar-amk/VECTA",
+    "language": "Rust",
+    "name": "dhanushkumar-amk/VECTA",
+    "stars": 2,
+    "updated_at": "2026-10-12T13:40:30Z",
+    "url": "https://github.com/dhanushkumar-amk/VECTA"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-12T13:39:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 119,
+    "updated_at": "2026-10-12T13:38:37Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32084,
+    "updated_at": "2026-10-12T13:36:53Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16875,
+    "updated_at": "2026-10-12T13:34:14Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector s",
+    "id": "intersystems-community/FHIR-AI-Hackathon-Kit",
+    "language": "Jupyter Notebook",
+    "name": "intersystems-community/FHIR-AI-Hackathon-Kit",
+    "stars": 7,
+    "updated_at": "2026-10-12T13:32:37Z",
+    "url": "https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-12T13:30:42Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-12T13:30:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
@@ -25,15 +115,6 @@
     "stars": 35,
     "updated_at": "2026-10-12T13:22:19Z",
     "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 119,
-    "updated_at": "2026-10-12T13:19:55Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -90,13 +171,13 @@
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-12T13:15:44Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Bilingual (Bangla and English) RAG and LangGraph agent for Bangladesh government services with source-cited answers, an ",
+    "id": "farjanaferdausi-cs50ai/ESBC-AI-Proposal",
+    "language": "HTML",
+    "name": "farjanaferdausi-cs50ai/ESBC-AI-Proposal",
+    "stars": 0,
+    "updated_at": "2026-10-12T13:15:40Z",
+    "url": "https://github.com/farjanaferdausi-cs50ai/ESBC-AI-Proposal"
   },
   {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
@@ -135,12 +216,21 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6509,
+    "updated_at": "2026-10-12T13:11:40Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-12T13:23:48Z",
+    "updated_at": "2026-10-12T13:33:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -151,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T13:11:26Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-12T13:11:23Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-12T13:10:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -232,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T13:01:09Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32083,
-    "updated_at": "2026-10-12T13:00:52Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-12T12:49:20Z",
     "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-12T12:49:03Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-12T12:47:59Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-12T12:46:26Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
-    "id": "Oyabure-Zakari/ai-agent-practice",
-    "language": "TypeScript",
-    "name": "Oyabure-Zakari/ai-agent-practice",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:44:54Z",
-    "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-10-12T12:44:51Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 88,
-    "updated_at": "2026-10-12T12:40:40Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-10-12T12:40:22Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   }
 ]
