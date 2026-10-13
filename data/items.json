@@ -1,12 +1,57 @@
 [
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2053,
-    "updated_at": "2026-10-13T15:44:24Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-13T15:58:06Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
+    "id": "ry-ops/commit-relay",
+    "language": "Shell",
+    "name": "ry-ops/commit-relay",
+    "stars": 2,
+    "updated_at": "2026-10-13T15:57:35Z",
+    "url": "https://github.com/ry-ops/commit-relay"
+  },
+  {
+    "description": "It relates with implementation of RAG pipelines. Quest to fine tune different elements(retrieval , generation broadly) o",
+    "id": "vaibhav-rj/RAG-pipeline",
+    "language": "Jupyter Notebook",
+    "name": "vaibhav-rj/RAG-pipeline",
+    "stars": 1,
+    "updated_at": "2026-10-13T15:55:13Z",
+    "url": "https://github.com/vaibhav-rj/RAG-pipeline"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-13T15:51:55Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7128,
+    "updated_at": "2026-10-13T15:51:20Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Upscale images with up to three ESRGAN models, blending their strengths for sharp details, clean surfaces, and accurate ",
+    "id": "Dangamuwagedilshan/comfyui_ensemble_upscale",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/comfyui_ensemble_upscale",
+    "stars": 1,
+    "updated_at": "2026-10-13T15:50:24Z",
+    "url": "https://github.com/Dangamuwagedilshan/comfyui_ensemble_upscale"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,17 +59,53 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1201,
-    "updated_at": "2026-10-13T15:43:41Z",
+    "updated_at": "2026-10-13T15:53:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-13T15:40:51Z",
-    "url": "https://github.com/iberi22/xavier"
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 24,
+    "updated_at": "2026-10-13T15:46:37Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-10-13T15:46:14Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T15:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T15:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2053,
+    "updated_at": "2026-10-13T15:44:24Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,7 +122,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 905,
-    "updated_at": "2026-10-13T15:40:17Z",
+    "updated_at": "2026-10-13T15:51:34Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -52,15 +133,6 @@
     "stars": 9,
     "updated_at": "2026-10-13T15:39:59Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-js",
-    "language": "TypeScript",
-    "name": "cyborginc/cyborgdb-js",
-    "stars": 7,
-    "updated_at": "2026-10-13T15:41:22Z",
-    "url": "https://github.com/cyborginc/cyborgdb-js"
   },
   {
     "description": "LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle",
@@ -85,8 +157,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32171,
-    "updated_at": "2026-10-13T15:36:40Z",
+    "stars": 32173,
+    "updated_at": "2026-10-13T15:54:11Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -131,26 +203,8 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 290,
-    "updated_at": "2026-10-13T15:31:52Z",
+    "updated_at": "2026-10-13T15:46:28Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T15:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T15:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -162,15 +216,6 @@
     "url": "https://github.com/cyborginc/cyborgdb-py"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7128,
-    "updated_at": "2026-10-13T15:31:25Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
     "id": "Yacine-ai-tech/IntelAI",
     "language": "Python",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T15:26:37Z",
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-13T15:23:24Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -203,7 +239,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6517,
-    "updated_at": "2026-10-13T15:17:47Z",
+    "updated_at": "2026-10-13T15:50:31Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35059,
-    "updated_at": "2026-10-13T15:38:43Z",
+    "updated_at": "2026-10-13T15:45:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -248,7 +284,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8357,
-    "updated_at": "2026-10-13T15:41:45Z",
+    "updated_at": "2026-10-13T15:52:35Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59556,
-    "updated_at": "2026-10-13T14:54:47Z",
+    "updated_at": "2026-10-13T15:51:39Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13235,
-    "updated_at": "2026-10-13T14:43:29Z",
+    "updated_at": "2026-10-13T15:54:13Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T14:40:12Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2367,
-    "updated_at": "2026-10-13T14:39:08Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-10-13T14:39:08Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "Upscale images with up to three ESRGAN models, blending their strengths for sharp details, clean surfaces, and accurate ",
-    "id": "Dangamuwagedilshan/comfyui_ensemble_upscale",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/comfyui_ensemble_upscale",
-    "stars": 1,
-    "updated_at": "2026-10-13T14:37:50Z",
-    "url": "https://github.com/Dangamuwagedilshan/comfyui_ensemble_upscale"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-10-13T14:36:37Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
