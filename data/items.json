@@ -1,5 +1,86 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-13T13:44:13Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46376,
+    "updated_at": "2026-10-13T13:43:54Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-13T13:43:35Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-13T13:42:47Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "A full-stack Retrieval-Augmented Generation (RAG) AI System for Vietnamese Traffic Laws featuring Hybrid Search (BM25 + ",
+    "id": "huynoob1312/vietnamese_traffic_law_RAG",
+    "language": "Jupyter Notebook",
+    "name": "huynoob1312/vietnamese_traffic_law_RAG",
+    "stars": 1,
+    "updated_at": "2026-10-13T13:42:40Z",
+    "url": "https://github.com/huynoob1312/vietnamese_traffic_law_RAG"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3779,
+    "updated_at": "2026-10-13T13:39:44Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 4,
+    "updated_at": "2026-10-13T13:39:02Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 1,
+    "updated_at": "2026-10-13T13:31:50Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T13:30:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,8 +104,17 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 97,
-    "updated_at": "2026-10-13T13:28:18Z",
+    "updated_at": "2026-10-13T13:34:49Z",
     "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16879,
+    "updated_at": "2026-10-13T13:27:47Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -32,17 +122,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32158,
-    "updated_at": "2026-10-13T13:26:07Z",
+    "updated_at": "2026-10-13T13:42:51Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-13T13:26:00Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -59,17 +140,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1201,
-    "updated_at": "2026-10-13T13:25:12Z",
+    "updated_at": "2026-10-13T13:44:16Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 4,
-    "updated_at": "2026-10-13T13:28:27Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -99,15 +171,6 @@
     "url": "https://github.com/didilili/shopkeeper-agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T13:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
     "id": "joydeep-07/Lens-LM",
     "language": "JavaScript",
@@ -115,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T13:11:34Z",
     "url": "https://github.com/joydeep-07/Lens-LM"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46375,
-    "updated_at": "2026-10-13T13:11:08Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9464,
-    "updated_at": "2026-10-13T13:15:05Z",
+    "updated_at": "2026-10-13T13:45:16Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35059,
-    "updated_at": "2026-10-13T12:51:07Z",
+    "updated_at": "2026-10-13T13:39:12Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -211,7 +265,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2366,
+    "stars": 2367,
     "updated_at": "2026-10-13T12:50:28Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -239,7 +293,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-13T13:28:30Z",
+    "updated_at": "2026-10-13T13:31:51Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -324,15 +378,6 @@
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3776,
-    "updated_at": "2026-10-13T13:30:32Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
     "id": "api-evangelist/nomic-ai",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T11:54:40Z",
     "url": "https://github.com/IdoY12/awesome-free-ai-apis"
-  },
-  {
-    "description": "A full-stack Retrieval-Augmented Generation (RAG) AI System for Vietnamese Traffic Laws featuring Hybrid Search (BM25 + ",
-    "id": "huynoob1312/vietnamese_traffic_law_RAG",
-    "language": "Jupyter Notebook",
-    "name": "huynoob1312/vietnamese_traffic_law_RAG",
-    "stars": 1,
-    "updated_at": "2026-10-13T11:54:27Z",
-    "url": "https://github.com/huynoob1312/vietnamese_traffic_law_RAG"
-  },
-  {
-    "description": "A facade over vector databases \u2014 one interface, ~15 backends",
-    "id": "i2mint/vd",
-    "language": "Python",
-    "name": "i2mint/vd",
-    "stars": 1,
-    "updated_at": "2026-10-13T11:42:39Z",
-    "url": "https://github.com/i2mint/vd"
-  },
-  {
-    "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
-    "id": "Tamilmani027/Context-IQ",
-    "language": "JavaScript",
-    "name": "Tamilmani027/Context-IQ",
-    "stars": 1,
-    "updated_at": "2026-10-13T11:39:00Z",
-    "url": "https://github.com/Tamilmani027/Context-IQ"
-  },
-  {
-    "description": "A hands-on AI Engineering portfolio covering LLMs, Prompt Engineering, RAG, LangChain, LangGraph, AI Agents, Multi-Agent",
-    "id": "jafarxdev/ai-engineering-projects",
-    "language": "Python",
-    "name": "jafarxdev/ai-engineering-projects",
-    "stars": 2,
-    "updated_at": "2026-10-13T11:37:56Z",
-    "url": "https://github.com/jafarxdev/ai-engineering-projects"
-  },
-  {
-    "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
-    "id": "Tribrix23/CleaveDB",
-    "language": "Python",
-    "name": "Tribrix23/CleaveDB",
-    "stars": 0,
-    "updated_at": "2026-10-13T11:33:57Z",
-    "url": "https://github.com/Tribrix23/CleaveDB"
   }
 ]
