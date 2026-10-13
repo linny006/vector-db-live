@@ -1,5 +1,122 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7126,
+    "updated_at": "2026-10-13T07:30:11Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-13T07:30:20Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Enterprise RAG with role-based access control (RBAC) and LLM guardrails: multi-format ingestion, 3-layer ACL enforcement",
+    "id": "mustafaabdullahai-dev/enterprise-rag-rbac",
+    "language": "Python",
+    "name": "mustafaabdullahai-dev/enterprise-rag-rbac",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:28:53Z",
+    "url": "https://github.com/mustafaabdullahai-dev/enterprise-rag-rbac"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1199,
+    "updated_at": "2026-10-13T07:23:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-13T07:22:37Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Portable semantic memory layer for LLM agents over MCP",
+    "id": "fazerluga-creator/shared-memory",
+    "language": "Python",
+    "name": "fazerluga-creator/shared-memory",
+    "stars": 2,
+    "updated_at": "2026-10-13T07:21:47Z",
+    "url": "https://github.com/fazerluga-creator/shared-memory"
+  },
+  {
+    "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
+    "id": "Tamilmani027/Context-IQ",
+    "language": "JavaScript",
+    "name": "Tamilmani027/Context-IQ",
+    "stars": 1,
+    "updated_at": "2026-10-13T07:18:56Z",
+    "url": "https://github.com/Tamilmani027/Context-IQ"
+  },
+  {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:18:40Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
+    "id": "n9524726-star/chatpdf-rag",
+    "language": "Python",
+    "name": "n9524726-star/chatpdf-rag",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:17:57Z",
+    "url": "https://github.com/n9524726-star/chatpdf-rag"
+  },
+  {
+    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
+    "id": "sarthaksinha2600/LLM-Contract",
+    "language": "\u2014",
+    "name": "sarthaksinha2600/LLM-Contract",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:17:40Z",
+    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:17:17Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T07:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T07:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
     "id": "boulif781/enterprise-knowledge-assistant",
     "language": "\u2014",
@@ -23,7 +140,7 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 7,
-    "updated_at": "2026-10-13T07:14:19Z",
+    "updated_at": "2026-10-13T07:16:55Z",
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
@@ -52,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T07:12:40Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-13T07:14:08Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -162,24 +270,6 @@
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T07:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T07:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
     "id": "cornellebivalved856/example-multimodal-rag",
     "language": "Python",
@@ -270,15 +360,6 @@
     "url": "https://github.com/Abhishek-P-2005/PoisonBench"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7126,
-    "updated_at": "2026-10-13T07:15:03Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Heros is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. Bayma",
     "id": "Hudsonmathew1910/Hero-s-AI",
     "language": "HTML",
@@ -364,89 +445,8 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3745,
+    "stars": 3749,
     "updated_at": "2026-10-13T06:41:26Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-10-13T06:39:55Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "Autonomous research agent \u2014 10 sources in parallel, self-correcting loop, exports PDF/Word/HTML. Powered by LangGraph + ",
-    "id": "RobertoDeLaCamara/Research-Agent",
-    "language": "Python",
-    "name": "RobertoDeLaCamara/Research-Agent",
-    "stars": 6,
-    "updated_at": "2026-10-13T06:39:02Z",
-    "url": "https://github.com/RobertoDeLaCamara/Research-Agent"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-10-13T06:38:37Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Personal portfolio showcasing AI/ML projects, Python and PyTorch work, and my journey into deep learning.",
-    "id": "Qureshiii/Qureshiii",
-    "language": "\u2014",
-    "name": "Qureshiii/Qureshiii",
-    "stars": 0,
-    "updated_at": "2026-10-13T06:37:09Z",
-    "url": "https://github.com/Qureshiii/Qureshiii"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-10-13T06:37:00Z",
-    "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Bilingual (Bangla and English) RAG and LangGraph agent for Bangladesh government services with source-cited answers, an ",
-    "id": "farjanaferdausi-cs50ai/ESBC-AI-Proposal",
-    "language": "HTML",
-    "name": "farjanaferdausi-cs50ai/ESBC-AI-Proposal",
-    "stars": 0,
-    "updated_at": "2026-10-13T06:35:27Z",
-    "url": "https://github.com/farjanaferdausi-cs50ai/ESBC-AI-Proposal"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-10-13T06:32:28Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-13T06:32:23Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2364,
-    "updated_at": "2026-10-13T06:31:44Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
