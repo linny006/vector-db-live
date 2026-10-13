@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T06:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-13T06:28:44Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-13T06:28:24Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Bilingual (Bangla and English) RAG and LangGraph agent for Bangladesh government services with source-cited answers, an ",
+    "id": "farjanaferdausi-cs50ai/ESBC-AI-Proposal",
+    "language": "HTML",
+    "name": "farjanaferdausi-cs50ai/ESBC-AI-Proposal",
+    "stars": 0,
+    "updated_at": "2026-10-13T06:27:26Z",
+    "url": "https://github.com/farjanaferdausi-cs50ai/ESBC-AI-Proposal"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46368,
+    "updated_at": "2026-10-13T06:21:26Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Aspire integrations for Chroma and Chroma Cloud, built on ChromaDB.Client.",
+    "id": "ChromaDotNet/ChromaDB.Aspire",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Aspire",
+    "stars": 3,
+    "updated_at": "2026-10-13T06:21:25Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Aspire"
+  },
+  {
+    "description": "Provider-neutral AI engineering platform for multi-LLM orchestration, hybrid RAG, semantic routing, shared memory, and e",
+    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
+    "language": "Python",
+    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
+    "stars": 0,
+    "updated_at": "2026-10-13T06:18:28Z",
+    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-13T06:18:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2364,
+    "updated_at": "2026-10-13T06:17:52Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T06:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
     "id": "redrob-labs/redrob-recall",
     "language": "Rust",
@@ -9,15 +99,6 @@
     "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-13T06:08:10Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -25,15 +106,6 @@
     "stars": 121,
     "updated_at": "2026-10-13T06:05:19Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-13T06:15:24Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -49,7 +121,7 @@
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
-    "stars": 271,
+    "stars": 270,
     "updated_at": "2026-10-13T06:02:47Z",
     "url": "https://github.com/codecoradev/uteke"
   },
@@ -63,24 +135,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T06:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T06:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
     "id": "xl3v3r/hermes-oracle-memory",
     "language": "Python",
@@ -88,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-10-13T06:00:09Z",
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35054,
+    "updated_at": "2026-10-13T06:28:15Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI-powered PDF RAG Chatbot using Streamlit, ChromaDB, embeddings, and LLMs to retrieve relevant document content and ans",
@@ -99,15 +162,6 @@
     "url": "https://github.com/thecoder-prog/PDF_RAG_Chatbot"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2364,
-    "updated_at": "2026-10-13T05:48:11Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
     "id": "YunanJeong/rag-git-docs",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T05:42:52Z",
     "url": "https://github.com/YunanJeong/rag-git-docs"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-13T05:42:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16877,
-    "updated_at": "2026-10-13T05:24:16Z",
+    "updated_at": "2026-10-13T06:25:33Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-13T06:14:59Z",
+    "updated_at": "2026-10-13T06:15:48Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-13T04:56:21Z",
     "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-13T04:55:00Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-13T04:53:34Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-10-13T04:52:05Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-10-13T04:50:58Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Lightweight approximate nearest neighbor (ANN) vector search engine and embedding indexing pipeline.",
-    "id": "irtazirfan08-source/VectorCore",
-    "language": "Python",
-    "name": "irtazirfan08-source/VectorCore",
-    "stars": 0,
-    "updated_at": "2026-10-13T04:49:48Z",
-    "url": "https://github.com/irtazirfan08-source/VectorCore"
   }
 ]
