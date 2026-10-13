@@ -1,12 +1,111 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7127,
+    "updated_at": "2026-10-13T08:29:05Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Heros is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. Bayma",
+    "id": "Hudsonmathew1910/Hero-s-AI",
+    "language": "HTML",
+    "name": "Hudsonmathew1910/Hero-s-AI",
+    "stars": 3,
+    "updated_at": "2026-10-13T08:28:45Z",
+    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6514,
+    "updated_at": "2026-10-13T08:28:41Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-13T08:15:21Z",
+    "updated_at": "2026-10-13T08:30:29Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG pipeline for QA knowledge \u2014 chunk, embed, and query test cases and bug reports using Qdrant vector DB, sentence-tran",
+    "id": "anant-pw/qa-rag-pipeline",
+    "language": "Python",
+    "name": "anant-pw/qa-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-13T08:26:25Z",
+    "url": "https://github.com/anant-pw/qa-rag-pipeline"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2364,
+    "updated_at": "2026-10-13T08:26:11Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 20,
+    "updated_at": "2026-10-13T08:28:16Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 270,
+    "updated_at": "2026-10-13T08:20:56Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46371,
+    "updated_at": "2026-10-13T08:19:46Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-13T08:17:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-13T08:16:52Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T08:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
@@ -23,17 +122,8 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-13T08:14:13Z",
+    "updated_at": "2026-10-13T08:28:43Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T08:07:03Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -41,17 +131,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-13T08:06:39Z",
+    "updated_at": "2026-10-13T08:19:22Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46369,
-    "updated_at": "2026-10-13T08:05:27Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
@@ -81,6 +162,15 @@
     "url": "https://github.com/ihrimon/ai-engineering-journey"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35054,
+    "updated_at": "2026-10-13T07:56:24Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
     "id": "SeekStorm/SeekStorm",
     "language": "Rust",
@@ -95,7 +185,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8358,
-    "updated_at": "2026-10-13T08:03:23Z",
+    "updated_at": "2026-10-13T08:24:07Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -106,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T07:52:21Z",
     "url": "https://github.com/openeverest/provider-milvus"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-13T07:51:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Portable semantic memory layer for LLM agents over MCP",
@@ -180,15 +261,6 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7126,
-    "updated_at": "2026-10-13T07:42:32Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Enterprise RAG with role-based access control (RBAC) and LLM guardrails: multi-format ingestion, 3-layer ACL enforcement",
     "id": "mustafaabdullahai-dev/enterprise-rag-rbac",
     "language": "Python",
@@ -214,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T07:18:56Z",
     "url": "https://github.com/Tamilmani027/Context-IQ"
-  },
-  {
-    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
-    "id": "YunanJeong/rag-git-docs",
-    "language": "Python",
-    "name": "YunanJeong/rag-git-docs",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:18:40Z",
-    "url": "https://github.com/YunanJeong/rag-git-docs"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -266,7 +329,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 121,
-    "updated_at": "2026-10-13T07:14:06Z",
+    "updated_at": "2026-10-13T08:20:14Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2053,
-    "updated_at": "2026-10-13T07:13:12Z",
+    "updated_at": "2026-10-13T08:17:23Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 17,
     "updated_at": "2026-10-13T07:11:50Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:00:37Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:00:17Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:00:01Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 2,
-    "updated_at": "2026-10-13T06:59:48Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "TypeScript",
-    "name": "badhope/spark",
-    "stars": 20,
-    "updated_at": "2026-10-13T07:02:50Z",
-    "url": "https://github.com/badhope/spark"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-10-13T06:57:01Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-10-13T06:56:13Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
   }
 ]
