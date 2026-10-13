@@ -1,5 +1,86 @@
 [
   {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 24,
+    "updated_at": "2026-10-13T17:28:39Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3790,
+    "updated_at": "2026-10-13T17:24:01Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...),unified AI service(image/video/a",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 435,
+    "updated_at": "2026-10-13T17:22:47Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2367,
+    "updated_at": "2026-10-13T17:20:40Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-13T17:21:28Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
+    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
+    "stars": 4,
+    "updated_at": "2026-10-13T17:18:29Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
+  },
+  {
+    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-10-13T17:18:28Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
+    "id": "SwineCoder101/hvec",
+    "language": "Rust",
+    "name": "SwineCoder101/hvec",
+    "stars": 0,
+    "updated_at": "2026-10-13T17:15:44Z",
+    "url": "https://github.com/SwineCoder101/hvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T17:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-10-13T17:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 24,
-    "updated_at": "2026-10-13T17:14:25Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -59,7 +131,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6517,
-    "updated_at": "2026-10-13T17:06:03Z",
+    "updated_at": "2026-10-13T17:21:07Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -70,15 +142,6 @@
     "stars": 9,
     "updated_at": "2026-10-13T17:01:23Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T17:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG copilot for codebases: tree-sitter chunking, test-aware retrieval, LLM query rewriting. Evaluated on 45 questions (R",
@@ -108,15 +171,6 @@
     "url": "https://github.com/cyborginc/cyborgdb-js"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3790,
-    "updated_at": "2026-10-13T16:55:36Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32182,
-    "updated_at": "2026-10-13T16:52:27Z",
+    "updated_at": "2026-10-13T17:15:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -194,7 +248,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-13T17:15:19Z",
+    "updated_at": "2026-10-13T17:28:39Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 7,
     "updated_at": "2026-10-13T16:32:50Z",
     "url": "https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-13T17:09:09Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -230,7 +275,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2053,
-    "updated_at": "2026-10-13T16:25:32Z",
+    "updated_at": "2026-10-13T17:25:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 11663,
     "updated_at": "2026-10-13T17:08:42Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
-    "id": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin-for-KoboldAI",
-    "stars": 4,
-    "updated_at": "2026-10-13T16:01:25Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
   },
   {
     "description": "MedicAsk is a local RAG medical chatbot: Pinecone , LangChain,  Ollama (Llama 3.2) with a custom Flask/JS UI, history-aw",
@@ -329,7 +365,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 905,
-    "updated_at": "2026-10-13T16:32:00Z",
+    "updated_at": "2026-10-13T17:18:37Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T15:22:28Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
-    "id": "MassivDash/ai_tools",
-    "language": "Rust",
-    "name": "MassivDash/ai_tools",
-    "stars": 3,
-    "updated_at": "2026-10-13T15:39:05Z",
-    "url": "https://github.com/MassivDash/ai_tools"
-  },
-  {
-    "description": "AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with",
-    "id": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
-    "language": "TypeScript",
-    "name": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
-    "stars": 4,
-    "updated_at": "2026-10-13T15:11:33Z",
-    "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
-  },
-  {
-    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
-    "id": "devharis99/vectra",
-    "language": "Python",
-    "name": "devharis99/vectra",
-    "stars": 1,
-    "updated_at": "2026-10-13T15:09:26Z",
-    "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:03:51Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
   }
 ]
