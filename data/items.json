@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-13T04:00:23Z",
+    "updated_at": "2026-10-13T04:15:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-13T04:15:04Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-13T04:15:10Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 271,
+    "updated_at": "2026-10-13T04:10:36Z",
+    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
@@ -14,17 +41,17 @@
     "language": "Go",
     "name": "hypercrux/hypercrux",
     "stars": 0,
-    "updated_at": "2026-10-13T03:58:42Z",
+    "updated_at": "2026-10-13T04:09:32Z",
     "url": "https://github.com/hypercrux/hypercrux"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3727,
-    "updated_at": "2026-10-13T03:57:48Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2052,
+    "updated_at": "2026-10-13T04:08:37Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -32,17 +59,44 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-13T04:00:01Z",
+    "updated_at": "2026-10-13T04:08:13Z",
     "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 121,
+    "updated_at": "2026-10-13T04:06:53Z",
+    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8357,
-    "updated_at": "2026-10-13T03:57:18Z",
+    "stars": 8358,
+    "updated_at": "2026-10-13T04:04:54Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T04:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3730,
+    "updated_at": "2026-10-13T04:13:25Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -54,15 +108,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2052,
-    "updated_at": "2026-10-13T03:54:05Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -72,15 +117,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T03:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
     "id": "Thisen-Ekanayake/Athena",
     "language": "Python",
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T03:36:45Z",
     "url": "https://github.com/Thisen-Ekanayake/Athena"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 271,
-    "updated_at": "2026-10-13T03:50:08Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
@@ -121,7 +148,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32118,
+    "stars": 32120,
     "updated_at": "2026-10-13T03:14:26Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -140,17 +167,8 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 904,
-    "updated_at": "2026-10-13T03:57:19Z",
+    "updated_at": "2026-10-13T04:14:49Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-13T03:08:05Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "redrob-labs/redrob-recall",
     "stars": 0,
-    "updated_at": "2026-10-13T02:59:24Z",
+    "updated_at": "2026-10-13T04:10:56Z",
     "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1199,
-    "updated_at": "2026-10-13T03:41:42Z",
+    "updated_at": "2026-10-13T04:03:46Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -302,7 +320,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-13T02:26:24Z",
+    "updated_at": "2026-10-13T04:10:51Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T02:03:52Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-10-13T02:03:39Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 2,
-    "updated_at": "2026-10-13T02:03:25Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
