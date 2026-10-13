@@ -1,6 +1,60 @@
 [
   {
-    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-13T03:39:01Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-13T03:38:11Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 1,
+    "updated_at": "2026-10-13T03:36:45Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 271,
+    "updated_at": "2026-10-13T03:31:42Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T03:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T03:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
     "id": "Yacine-ai-tech/IntelAI",
     "language": "Python",
     "name": "Yacine-ai-tech/IntelAI",
@@ -18,22 +72,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
     "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 271,
-    "updated_at": "2026-10-13T03:23:44Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-13T03:28:30Z",
-    "url": "https://github.com/nadeem4/nl2sql"
+    "name": "xerj-org/xerj",
+    "stars": 3721,
+    "updated_at": "2026-10-13T03:29:43Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "This is the source code of the Milvus vector database for Ballerina",
@@ -45,38 +90,11 @@
     "url": "https://github.com/ballerina-platform/module-ballerinax-milvus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T03:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T03:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-13T03:25:25Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32115,
+    "stars": 32116,
     "updated_at": "2026-10-13T03:14:26Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -86,7 +104,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9463,
-    "updated_at": "2026-10-13T03:14:25Z",
+    "updated_at": "2026-10-13T03:38:40Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 904,
-    "updated_at": "2026-10-13T03:15:40Z",
+    "updated_at": "2026-10-13T03:30:42Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "milvus-io/pymilvus",
     "stars": 1417,
-    "updated_at": "2026-10-13T03:01:40Z",
+    "updated_at": "2026-10-13T03:35:37Z",
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T02:59:24Z",
     "url": "https://github.com/redrob-labs/redrob-recall"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3714,
-    "updated_at": "2026-10-13T03:29:43Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Autonomous RAG agent designed to ingest technical documentation, perform local semantic search, and synthesize engineeri",
@@ -248,7 +257,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1199,
-    "updated_at": "2026-10-13T03:27:53Z",
+    "updated_at": "2026-10-13T03:41:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -266,7 +275,7 @@
     "language": "C++",
     "name": "zilliztech/knowhere",
     "stars": 387,
-    "updated_at": "2026-10-13T02:27:38Z",
+    "updated_at": "2026-10-13T03:44:15Z",
     "url": "https://github.com/zilliztech/knowhere"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46366,
-    "updated_at": "2026-10-13T02:57:50Z",
+    "updated_at": "2026-10-13T03:36:47Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T01:59:52Z",
     "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-10-13T01:58:35Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
   }
 ]
