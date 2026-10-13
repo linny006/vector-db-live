@@ -1,11 +1,101 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T14:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2053,
+    "updated_at": "2026-10-13T14:00:17Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2367,
+    "updated_at": "2026-10-13T14:00:03Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32162,
+    "updated_at": "2026-10-13T13:57:04Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A full-stack Retrieval-Augmented Generation (RAG) AI System for Vietnamese Traffic Laws featuring Hybrid Search (BM25 + ",
+    "id": "huynoob1312/vietnamese_traffic_law_RAG",
+    "language": "Jupyter Notebook",
+    "name": "huynoob1312/vietnamese_traffic_law_RAG",
+    "stars": 1,
+    "updated_at": "2026-10-13T13:49:06Z",
+    "url": "https://github.com/huynoob1312/vietnamese_traffic_law_RAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-13T13:46:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59558,
+    "updated_at": "2026-10-13T13:46:12Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 4,
+    "updated_at": "2026-10-13T13:45:43Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 290,
+    "updated_at": "2026-10-13T13:47:02Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T13:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-13T13:44:13Z",
+    "updated_at": "2026-10-13T13:51:51Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -36,31 +126,13 @@
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
   },
   {
-    "description": "A full-stack Retrieval-Augmented Generation (RAG) AI System for Vietnamese Traffic Laws featuring Hybrid Search (BM25 + ",
-    "id": "huynoob1312/vietnamese_traffic_law_RAG",
-    "language": "Jupyter Notebook",
-    "name": "huynoob1312/vietnamese_traffic_law_RAG",
-    "stars": 1,
-    "updated_at": "2026-10-13T13:42:40Z",
-    "url": "https://github.com/huynoob1312/vietnamese_traffic_law_RAG"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3779,
+    "stars": 3783,
     "updated_at": "2026-10-13T13:39:44Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 4,
-    "updated_at": "2026-10-13T13:39:02Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
@@ -70,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T13:31:50Z",
     "url": "https://github.com/Thisen-Ekanayake/Athena"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T13:30:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T13:30:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Upscale images with up to three ESRGAN models, blending their strengths for sharp details, clean surfaces, and accurate ",
@@ -104,7 +158,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 97,
-    "updated_at": "2026-10-13T13:34:49Z",
+    "updated_at": "2026-10-13T13:47:54Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -113,26 +167,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16879,
-    "updated_at": "2026-10-13T13:27:47Z",
+    "updated_at": "2026-10-13T13:51:54Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32158,
-    "updated_at": "2026-10-13T13:42:51Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-13T13:25:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -140,7 +176,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1201,
-    "updated_at": "2026-10-13T13:44:16Z",
+    "updated_at": "2026-10-13T13:51:54Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-13T13:28:25Z",
+    "updated_at": "2026-10-13T13:52:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9464,
-    "updated_at": "2026-10-13T13:45:16Z",
+    "updated_at": "2026-10-13T13:48:46Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -257,17 +293,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35059,
-    "updated_at": "2026-10-13T13:39:12Z",
+    "updated_at": "2026-10-13T13:55:38Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2367,
-    "updated_at": "2026-10-13T12:50:28Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "OpenEverest provider for Milvus",
@@ -293,7 +320,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-13T13:31:51Z",
+    "updated_at": "2026-10-13T13:51:14Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/webdev-hemant/baby-llm"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2053,
-    "updated_at": "2026-10-13T12:27:56Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Agentic Optimizer and Toolkit for experimentation using the Oracle AI Database",
     "id": "oracle/ai-optimizer",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T11:55:55Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 387,
-    "updated_at": "2026-10-13T11:55:39Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
-    "id": "IdoY12/awesome-free-ai-apis",
-    "language": "JavaScript",
-    "name": "IdoY12/awesome-free-ai-apis",
-    "stars": 1,
-    "updated_at": "2026-10-13T11:54:40Z",
-    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
   }
 ]
