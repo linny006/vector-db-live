@@ -1,11 +1,74 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T16:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2053,
+    "updated_at": "2026-10-13T16:25:32Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 24,
+    "updated_at": "2026-10-13T16:21:04Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-13T16:21:32Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6517,
+    "updated_at": "2026-10-13T16:27:33Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-13T16:18:22Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T16:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 4,
-    "updated_at": "2026-10-13T16:14:35Z",
+    "updated_at": "2026-10-13T16:25:34Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -16,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-10-13T16:13:34Z",
     "url": "https://github.com/Mulasreeja15/gitcontext"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35060,
+    "updated_at": "2026-10-13T16:26:44Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -45,15 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2053,
-    "updated_at": "2026-10-13T16:06:49Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector s",
     "id": "intersystems-community/FHIR-AI-Hackathon-Kit",
     "language": "Jupyter Notebook",
@@ -72,24 +135,6 @@
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T16:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T16:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "MedicAsk is a local RAG medical chatbot: Pinecone , LangChain,  Ollama (Llama 3.2) with a custom Flask/JS UI, history-aw",
     "id": "wlo-dev/Medical-Assistant-ChatBot-",
     "language": "Python",
@@ -99,22 +144,13 @@
     "url": "https://github.com/wlo-dev/Medical-Assistant-ChatBot-"
   },
   {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 24,
-    "updated_at": "2026-10-13T15:58:20Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-13T15:58:06Z",
-    "url": "https://github.com/iberi22/xavier"
+    "name": "topoteretes/cognee",
+    "stars": 32175,
+    "updated_at": "2026-10-13T16:25:20Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
@@ -144,6 +180,15 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59557,
+    "updated_at": "2026-10-13T15:51:39Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -167,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1201,
-    "updated_at": "2026-10-13T16:02:50Z",
+    "updated_at": "2026-10-13T16:24:31Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 905,
-    "updated_at": "2026-10-13T15:51:34Z",
+    "updated_at": "2026-10-13T16:23:22Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -207,21 +252,12 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32173,
-    "updated_at": "2026-10-13T15:59:14Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-13T15:35:55Z",
+    "updated_at": "2026-10-13T16:22:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 431,
-    "updated_at": "2026-10-13T15:32:51Z",
+    "updated_at": "2026-10-13T16:19:31Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
@@ -286,24 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T15:22:28Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6517,
-    "updated_at": "2026-10-13T15:50:31Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35059,
-    "updated_at": "2026-10-13T16:12:34Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
@@ -387,15 +405,6 @@
     "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59556,
-    "updated_at": "2026-10-13T15:51:39Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
     "id": "viviannenitrogenous100/mentedb",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-13T14:52:07Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1482,
-    "updated_at": "2026-10-13T14:51:00Z",
-    "url": "https://github.com/datalevin/datalevin"
   }
 ]
