@@ -1,5 +1,77 @@
 [
   {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-13T17:41:49Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-13T17:38:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6517,
+    "updated_at": "2026-10-13T17:38:15Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-13T17:34:58Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Retrieval-augmented generation from first principles: ingestion and parsing, vector embeddings, vector stores and databa",
+    "id": "Dharaneswara-Reddy/RAG_Implementations",
+    "language": "Jupyter Notebook",
+    "name": "Dharaneswara-Reddy/RAG_Implementations",
+    "stars": 2,
+    "updated_at": "2026-10-13T17:32:56Z",
+    "url": "https://github.com/Dharaneswara-Reddy/RAG_Implementations"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-13T17:32:53Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T17:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T17:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 3790,
-    "updated_at": "2026-10-13T17:24:01Z",
+    "updated_at": "2026-10-13T17:42:33Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -34,15 +106,6 @@
     "stars": 2367,
     "updated_at": "2026-10-13T17:20:40Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-13T17:21:28Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "Basic vector database plugin that works wth KoboldAI.  Adds documents, images, and audio files.",
@@ -72,31 +135,13 @@
     "url": "https://github.com/SwineCoder101/hvec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T17:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T17:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-13T17:08:40Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "name": "topoteretes/cognee",
+    "stars": 32182,
+    "updated_at": "2026-10-13T17:15:37Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T17:02:51Z",
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6517,
-    "updated_at": "2026-10-13T17:21:07Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -178,15 +214,6 @@
     "stars": 8357,
     "updated_at": "2026-10-13T17:00:44Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32182,
-    "updated_at": "2026-10-13T17:15:37Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -248,7 +275,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-13T17:28:39Z",
+    "updated_at": "2026-10-13T17:43:45Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -265,7 +292,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35061,
+    "stars": 35062,
     "updated_at": "2026-10-13T16:26:44Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -365,7 +392,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 905,
-    "updated_at": "2026-10-13T17:18:37Z",
+    "updated_at": "2026-10-13T17:34:01Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 431,
     "updated_at": "2026-10-13T16:19:31Z",
     "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 290,
-    "updated_at": "2026-10-13T15:46:28Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-10-13T15:27:52Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-13T15:22:28Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   }
 ]
