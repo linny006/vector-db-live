@@ -1,5 +1,131 @@
 [
   {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 387,
+    "updated_at": "2026-10-13T02:27:38Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-13T02:28:17Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-13T02:28:23Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-13T02:26:24Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
+    "id": "n9524726-star/chatpdf-rag",
+    "language": "Python",
+    "name": "n9524726-star/chatpdf-rag",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:20:37Z",
+    "url": "https://github.com/n9524726-star/chatpdf-rag"
+  },
+  {
+    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
+    "id": "sarthaksinha2600/LLM-Contract",
+    "language": "\u2014",
+    "name": "sarthaksinha2600/LLM-Contract",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:20:19Z",
+    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:19:32Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-13T02:18:56Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 904,
+    "updated_at": "2026-10-13T02:30:00Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
+    "id": "boulif781/enterprise-knowledge-assistant",
+    "language": "\u2014",
+    "name": "boulif781/enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:17:54Z",
+    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
+  },
+  {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 0,
+    "updated_at": "2026-10-13T02:16:08Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+  },
+  {
+    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
+    "id": "Bekhbekh7821/CanopyOps",
+    "language": "\u2014",
+    "name": "Bekhbekh7821/CanopyOps",
+    "stars": 1,
+    "updated_at": "2026-10-13T02:15:44Z",
+    "url": "https://github.com/Bekhbekh7821/CanopyOps"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T02:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T02:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -16,6 +142,15 @@
     "stars": 4,
     "updated_at": "2026-10-13T02:13:51Z",
     "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46366,
+    "updated_at": "2026-10-13T02:19:45Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -49,8 +184,8 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 3700,
-    "updated_at": "2026-10-13T02:07:29Z",
+    "stars": 3701,
+    "updated_at": "2026-10-13T02:25:31Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -99,24 +234,6 @@
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46365,
-    "updated_at": "2026-10-13T02:11:45Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-13T02:05:21Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -133,24 +250,6 @@
     "stars": 3,
     "updated_at": "2026-10-13T02:00:35Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T02:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T02:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
@@ -329,7 +428,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2052,
-    "updated_at": "2026-10-13T01:18:16Z",
+    "updated_at": "2026-10-13T02:28:00Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -338,26 +437,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9463,
-    "updated_at": "2026-10-13T02:13:32Z",
+    "updated_at": "2026-10-13T02:22:55Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 904,
-    "updated_at": "2026-10-13T02:06:02Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-13T01:42:43Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Semantic memory and cross-project search for AI",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T00:55:56Z",
     "url": "https://github.com/jkraybill/gordo-ledger"
-  },
-  {
-    "description": "\u9762\u5411\u5c31\u8bca\u5168\u6d41\u7a0b\u7684 AI \u5c31\u533b\u52a9\u624b\uff1a\u75c7\u72b6\u54a8\u8be2 / \u667a\u80fd\u5206\u8bca / \u62a5\u544a\u89e3\u8bfb / \u5c31\u533b FAQ\u3002LangChain + FastAPI + Vue3 + Milvus\uff0c\u5185\u7f6e\u533b\u7597\u5b89\u5168\u62a4\u680f\u4e0e\u5168\u94fe\u8def\u964d\u7ea7\u3002",
-    "id": "3353826467/medical-triage-ai-agent",
-    "language": "Python",
-    "name": "3353826467/medical-triage-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:45:49Z",
-    "url": "https://github.com/3353826467/medical-triage-ai-agent"
-  },
-  {
-    "description": "An open-source collection of AI projects, tools, and experiments built to advance accessible innovation, encourage colla",
-    "id": "Eric428-a/AI-ML-Portfolio-Lab",
-    "language": "Python",
-    "name": "Eric428-a/AI-ML-Portfolio-Lab",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:45:47Z",
-    "url": "https://github.com/Eric428-a/AI-ML-Portfolio-Lab"
-  },
-  {
-    "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
-    "id": "ashraful2871/Salon-Management-Frontend",
-    "language": "TypeScript",
-    "name": "ashraful2871/Salon-Management-Frontend",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:45:29Z",
-    "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6511,
-    "updated_at": "2026-10-13T00:41:53Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:37:44Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-10-13T00:36:36Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:32:28Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe",
-    "id": "t0rresmarcus/FanVault-AI",
-    "language": "TypeScript",
-    "name": "t0rresmarcus/FanVault-AI",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:30:03Z",
-    "url": "https://github.com/t0rresmarcus/FanVault-AI"
-  },
-  {
-    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
-    "id": "n9524726-star/chatpdf-rag",
-    "language": "Python",
-    "name": "n9524726-star/chatpdf-rag",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:28:26Z",
-    "url": "https://github.com/n9524726-star/chatpdf-rag"
   }
 ]
