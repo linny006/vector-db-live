@@ -1,12 +1,102 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T11:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A facade over vector databases \u2014 one interface, ~15 backends",
+    "id": "i2mint/vd",
+    "language": "Python",
+    "name": "i2mint/vd",
+    "stars": 1,
+    "updated_at": "2026-10-13T11:12:48Z",
+    "url": "https://github.com/i2mint/vd"
+  },
+  {
+    "description": " A local database for Flutter combining dense vector search, full-text search and filtered storage in one Rust engine.",
+    "id": "MostafaSensei106/Waffle-DB",
+    "language": "Dart",
+    "name": "MostafaSensei106/Waffle-DB",
+    "stars": 5,
+    "updated_at": "2026-10-13T11:11:16Z",
+    "url": "https://github.com/MostafaSensei106/Waffle-DB"
+  },
+  {
+    "description": "Upscale images with up to three ESRGAN models, blending their strengths for sharp details, clean surfaces, and accurate ",
+    "id": "Dangamuwagedilshan/comfyui_ensemble_upscale",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/comfyui_ensemble_upscale",
+    "stars": 1,
+    "updated_at": "2026-10-13T11:10:40Z",
+    "url": "https://github.com/Dangamuwagedilshan/comfyui_ensemble_upscale"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-13T11:10:07Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-13T11:09:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
+    "id": "infiniflow/infinity",
+    "language": "C++",
+    "name": "infiniflow/infinity",
+    "stars": 4739,
+    "updated_at": "2026-10-13T11:08:14Z",
+    "url": "https://github.com/infiniflow/infinity"
+  },
+  {
+    "description": "A Privacy-First, Self-Evolving Local Memory & Life Success Engine (Zero-Daemon Embedded LLM)",
+    "id": "webdev-hemant/baby-llm",
+    "language": "Python",
+    "name": "webdev-hemant/baby-llm",
+    "stars": 0,
+    "updated_at": "2026-10-13T11:05:07Z",
+    "url": "https://github.com/webdev-hemant/baby-llm"
+  },
+  {
     "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
     "id": "Tribrix23/CleaveDB",
     "language": "Python",
     "name": "Tribrix23/CleaveDB",
     "stars": 0,
-    "updated_at": "2026-10-13T10:59:08Z",
+    "updated_at": "2026-10-13T11:03:03Z",
     "url": "https://github.com/Tribrix23/CleaveDB"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32140,
+    "updated_at": "2026-10-13T11:00:37Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T11:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -54,24 +144,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": " A local database for Flutter combining dense vector search, full-text search and filtered storage in one Rust engine.",
-    "id": "MostafaSensei106/Waffle-DB",
-    "language": "Dart",
-    "name": "MostafaSensei106/Waffle-DB",
-    "stars": 5,
-    "updated_at": "2026-10-13T10:50:02Z",
-    "url": "https://github.com/MostafaSensei106/Waffle-DB"
-  },
-  {
-    "description": "A Privacy-First, Self-Evolving Local Memory & Life Success Engine (Zero-Daemon Embedded LLM)",
-    "id": "webdev-hemant/baby-llm",
-    "language": "Python",
-    "name": "webdev-hemant/baby-llm",
-    "stars": 0,
-    "updated_at": "2026-10-13T10:46:33Z",
-    "url": "https://github.com/webdev-hemant/baby-llm"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -81,24 +153,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T10:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T11:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
     "id": "RishabhMathur06/CASO-RAG",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T10:43:22Z",
     "url": "https://github.com/RishabhMathur06/CASO-RAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-13T10:41:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "OpenEverest provider for Milvus",
@@ -148,7 +193,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35056,
+    "stars": 35057,
     "updated_at": "2026-10-13T10:33:33Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -261,6 +306,15 @@
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   },
   {
+    "description": "\ud83d\udcca \u7535\u5546\u6570\u4ed3\u667a\u80fd\u95ee\u6570 AI Agent\uff0c\u6700\u9002\u5408\u7528\u4e8e\u7cfb\u7edf\u5b66\u4e60 LangGraph \u7684\u5b9e\u6218\u9879\u76ee\uff1a\u57fa\u4e8e LangGraph\u3001FastAPI\u3001Qdrant\u3001Elasticsearch\u3001MySQL \u4e0e React\uff0c\u5b8c\u6574\u5b9e\u73b0\u5143\u6570\u636e\u77e5\u8bc6\u5e93\u3001\u6df7\u5408\u68c0\u7d22\u3001\u81ea\u7136",
+    "id": "didilili/shopkeeper-agent",
+    "language": "Python",
+    "name": "didilili/shopkeeper-agent",
+    "stars": 454,
+    "updated_at": "2026-10-13T10:20:33Z",
+    "url": "https://github.com/didilili/shopkeeper-agent"
+  },
+  {
     "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
     "id": "Genusophiophagussqueezeplay359/ragpipe",
     "language": "Python",
@@ -365,7 +419,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9464,
-    "updated_at": "2026-10-13T10:42:06Z",
+    "updated_at": "2026-10-13T11:08:14Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -387,24 +441,6 @@
     "url": "https://github.com/buitoan112233/EleutherIA"
   },
   {
-    "description": "Upscale images with up to three ESRGAN models, blending their strengths for sharp details, clean surfaces, and accurate ",
-    "id": "Dangamuwagedilshan/comfyui_ensemble_upscale",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/comfyui_ensemble_upscale",
-    "stars": 1,
-    "updated_at": "2026-10-13T10:06:01Z",
-    "url": "https://github.com/Dangamuwagedilshan/comfyui_ensemble_upscale"
-  },
-  {
-    "description": "\ud83d\udcca \u7535\u5546\u6570\u4ed3\u667a\u80fd\u95ee\u6570 AI Agent\uff0c\u6700\u9002\u5408\u7528\u4e8e\u7cfb\u7edf\u5b66\u4e60 LangGraph \u7684\u5b9e\u6218\u9879\u76ee\uff1a\u57fa\u4e8e LangGraph\u3001FastAPI\u3001Qdrant\u3001Elasticsearch\u3001MySQL \u4e0e React\uff0c\u5b8c\u6574\u5b9e\u73b0\u5143\u6570\u636e\u77e5\u8bc6\u5e93\u3001\u6df7\u5408\u68c0\u7d22\u3001\u81ea\u7136",
-    "id": "didilili/shopkeeper-agent",
-    "language": "Python",
-    "name": "didilili/shopkeeper-agent",
-    "stars": 453,
-    "updated_at": "2026-10-13T10:20:33Z",
-    "url": "https://github.com/didilili/shopkeeper-agent"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T10:04:56Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
-    "id": "zilliztech/vts",
-    "language": "Java",
-    "name": "zilliztech/vts",
-    "stars": 134,
-    "updated_at": "2026-10-13T10:03:35Z",
-    "url": "https://github.com/zilliztech/vts"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-10-13T10:03:18Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6242,
-    "updated_at": "2026-10-13T10:57:28Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A 12-level pixel puzzle game that teaches modern AI engineering: tool use, MCP, RAG, embeddings, prompt injection, guard",
-    "id": "frozenheart123/bit7-facility-escape",
-    "language": "HTML",
-    "name": "frozenheart123/bit7-facility-escape",
-    "stars": 0,
-    "updated_at": "2026-10-13T10:01:00Z",
-    "url": "https://github.com/frozenheart123/bit7-facility-escape"
   }
 ]
