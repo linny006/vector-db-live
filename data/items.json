@@ -1,12 +1,66 @@
 [
   {
-    "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
-    "id": "MassivDash/ai_tools",
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1201,
+    "updated_at": "2026-10-13T15:28:53Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-10-13T15:27:52Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7128,
+    "updated_at": "2026-10-13T15:30:23Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-13T15:26:37Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
     "language": "Rust",
-    "name": "MassivDash/ai_tools",
-    "stars": 3,
-    "updated_at": "2026-10-13T15:13:49Z",
-    "url": "https://github.com/MassivDash/ai_tools"
+    "name": "RediSearch/RediSearch",
+    "stars": 6242,
+    "updated_at": "2026-10-13T15:27:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-13T15:23:24Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32171,
+    "updated_at": "2026-10-13T15:29:40Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -14,8 +68,53 @@
     "language": "Python",
     "name": "gyr0byte/Generative-AI",
     "stars": 0,
-    "updated_at": "2026-10-13T15:12:21Z",
+    "updated_at": "2026-10-13T15:22:28Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6517,
+    "updated_at": "2026-10-13T15:17:47Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35059,
+    "updated_at": "2026-10-13T15:16:01Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T15:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-13T15:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Tools is a tester and companion web application designed to help you manage, test, and interact with local LLM infras",
+    "id": "MassivDash/ai_tools",
+    "language": "Rust",
+    "name": "MassivDash/ai_tools",
+    "stars": 3,
+    "updated_at": "2026-10-13T15:13:49Z",
+    "url": "https://github.com/MassivDash/ai_tools"
   },
   {
     "description": "AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with",
@@ -50,8 +149,17 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-13T15:10:49Z",
+    "updated_at": "2026-10-13T15:18:34Z",
     "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8357,
+    "updated_at": "2026-10-13T15:05:44Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -63,42 +171,6 @@
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
   },
   {
-    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-10-13T15:06:28Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1201,
-    "updated_at": "2026-10-13T15:13:09Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T15:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-13T15:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
     "id": "Accessible-sloughing768/docustra",
     "language": "Python",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T14:58:54Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32169,
-    "updated_at": "2026-10-13T14:57:08Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -142,6 +205,15 @@
     "stars": 3,
     "updated_at": "2026-10-13T14:55:02Z",
     "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59557,
+    "updated_at": "2026-10-13T14:54:47Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
@@ -203,7 +275,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 905,
-    "updated_at": "2026-10-13T15:13:01Z",
+    "updated_at": "2026-10-13T15:19:45Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -270,15 +342,6 @@
     "url": "https://github.com/kirill2911/awesome-vector-search"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6242,
-    "updated_at": "2026-10-13T15:05:03Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -320,7 +383,7 @@
     "language": "TypeScript",
     "name": "cyborginc/cyborgdb-js",
     "stars": 7,
-    "updated_at": "2026-10-13T14:36:23Z",
+    "updated_at": "2026-10-13T15:27:59Z",
     "url": "https://github.com/cyborginc/cyborgdb-js"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/humanhady/DocMine"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35060,
-    "updated_at": "2026-10-13T14:29:13Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
     "id": "shoaibraza123/promptbook-mcp",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-13T14:28:55Z",
     "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-10-13T14:28:19Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 354,
-    "updated_at": "2026-10-13T14:28:12Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3789,
-    "updated_at": "2026-10-13T14:27:43Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-10-13T14:26:59Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
-    "id": "kldhsh123/Afterglow",
-    "language": "Python",
-    "name": "kldhsh123/Afterglow",
-    "stars": 314,
-    "updated_at": "2026-10-13T14:23:52Z",
-    "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-10-13T14:22:07Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   }
 ]
