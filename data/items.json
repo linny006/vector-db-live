@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-13T23:30:20Z",
+    "updated_at": "2026-10-13T23:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A curated list of PHP libraries and tools for AI, Machine Learning, and Natural Language Processing. Find everything you",
+    "id": "garyblankenship/awesome-php-ai",
+    "language": "HTML",
+    "name": "garyblankenship/awesome-php-ai",
+    "stars": 49,
+    "updated_at": "2026-10-13T23:42:44Z",
+    "url": "https://github.com/garyblankenship/awesome-php-ai"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-13T23:43:35Z",
+    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,8 +32,71 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2052,
-    "updated_at": "2026-10-13T23:29:28Z",
+    "updated_at": "2026-10-13T23:38:56Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-13T23:36:49Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Production-grade RAG knowledge base system in Rust: hybrid retrieval (vector + full-text + knowledge graph), pluggable s",
+    "id": "haibingzhao/easyrag",
+    "language": "Rust",
+    "name": "haibingzhao/easyrag",
+    "stars": 2,
+    "updated_at": "2026-10-13T23:34:56Z",
+    "url": "https://github.com/haibingzhao/easyrag"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-13T23:41:48Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-13T23:34:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "German news topic classification (10kGNAD): embeddings + Qdrant kNN vs fine-tuned DistilBERT, 0.897 macro-F1",
+    "id": "abhisheklakhani-it/german-text-classifier",
+    "language": "Python",
+    "name": "abhisheklakhani-it/german-text-classifier",
+    "stars": 0,
+    "updated_at": "2026-10-13T23:31:00Z",
+    "url": "https://github.com/abhisheklakhani-it/german-text-classifier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-13T23:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 3828,
+    "updated_at": "2026-10-13T23:30:15Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
@@ -27,15 +108,6 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-13T23:28:29Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -43,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-13T23:27:49Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A curated list of PHP libraries and tools for AI, Machine Learning, and Natural Language Processing. Find everything you",
-    "id": "garyblankenship/awesome-php-ai",
-    "language": "HTML",
-    "name": "garyblankenship/awesome-php-ai",
-    "stars": 49,
-    "updated_at": "2026-10-13T23:26:19Z",
-    "url": "https://github.com/garyblankenship/awesome-php-ai"
   },
   {
     "description": "Semantic codebase assistant for GitHub repositories powered by RAG, pgvector, and Gemini.",
@@ -63,15 +126,6 @@
     "url": "https://github.com/Mxnrxjj/talk-to-my-repo"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-13T23:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -81,15 +135,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-13T23:24:44Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-10-13T23:12:10Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-13T23:07:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
@@ -151,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-10-13T22:56:12Z",
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin-for-KoboldAI"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 3827,
-    "updated_at": "2026-10-13T23:30:15Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -373,7 +400,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32209,
+    "stars": 32210,
     "updated_at": "2026-10-13T21:10:03Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-13T21:01:05Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-10-13T21:00:05Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-13T20:59:14Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Upscale images with up to three ESRGAN models, blending their strengths for sharp details, clean surfaces, and accurate ",
-    "id": "Dangamuwagedilshan/comfyui_ensemble_upscale",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/comfyui_ensemble_upscale",
-    "stars": 1,
-    "updated_at": "2026-10-13T20:58:57Z",
-    "url": "https://github.com/Dangamuwagedilshan/comfyui_ensemble_upscale"
   }
 ]
