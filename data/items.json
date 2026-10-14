@@ -1,11 +1,65 @@
 [
   {
+    "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
+    "id": "taladb/taladb",
+    "language": "Rust",
+    "name": "taladb/taladb",
+    "stars": 5,
+    "updated_at": "2026-10-14T03:44:33Z",
+    "url": "https://github.com/taladb/taladb"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9466,
+    "updated_at": "2026-10-14T03:43:19Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T03:40:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Autonomous RAG agent designed to ingest technical documentation, perform local semantic search, and synthesize engineeri",
+    "id": "manasIO/Engineering-Knowledge-Agent",
+    "language": "Python",
+    "name": "manasIO/Engineering-Knowledge-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:33:53Z",
+    "url": "https://github.com/manasIO/Engineering-Knowledge-Agent"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9400,
+    "updated_at": "2026-10-14T03:32:04Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T03:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-14T03:30:19Z",
+    "updated_at": "2026-10-14T03:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -45,24 +99,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T03:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9466,
-    "updated_at": "2026-10-14T03:28:08Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 124,
     "updated_at": "2026-10-14T03:14:52Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T03:10:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
@@ -122,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1201,
-    "updated_at": "2026-10-14T03:23:58Z",
+    "updated_at": "2026-10-14T03:44:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T02:05:51Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:05:36Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-10-14T02:05:08Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "Upscale images with up to three ESRGAN models, blending their strengths for sharp details, clean surfaces, and accurate ",
-    "id": "Dangamuwagedilshan/comfyui_ensemble_upscale",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/comfyui_ensemble_upscale",
-    "stars": 1,
-    "updated_at": "2026-10-14T02:03:55Z",
-    "url": "https://github.com/Dangamuwagedilshan/comfyui_ensemble_upscale"
   }
 ]
