@@ -1,12 +1,102 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T11:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-14T11:41:46Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 354,
+    "updated_at": "2026-10-14T11:40:29Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T11:38:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-10-14T11:37:51Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-14T11:35:15Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
     "id": "gyr0byte/Generative-AI",
     "language": "Python",
     "name": "gyr0byte/Generative-AI",
     "stars": 0,
-    "updated_at": "2026-10-14T11:28:49Z",
+    "updated_at": "2026-10-14T11:34:51Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-14T11:34:09Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-10-14T11:33:29Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T11:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11671,
+    "updated_at": "2026-10-14T11:30:19Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Legal AI Assistant for Indian Law \u2013 A Hybrid RAG platform (FastAPI + React) built with Google Gemini 3.5 Flash, Dense Em",
@@ -23,8 +113,17 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-14T11:30:15Z",
+    "updated_at": "2026-10-14T11:43:11Z",
     "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32258,
+    "updated_at": "2026-10-14T11:21:58Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Mithra Life OS is a production-grade, AI-native personal operating system that consolidates task management, habit track",
@@ -36,49 +135,13 @@
     "url": "https://github.com/hemasaivattikuti25/Mithra-AI-life-os"
   },
   {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-14T11:21:29Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-14T11:20:03Z",
+    "updated_at": "2026-10-14T11:37:37Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32257,
-    "updated_at": "2026-10-14T11:21:58Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T11:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T11:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -88,6 +151,15 @@
     "stars": 1,
     "updated_at": "2026-10-14T11:13:56Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35072,
+    "updated_at": "2026-10-14T11:36:20Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
@@ -113,17 +185,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1201,
-    "updated_at": "2026-10-14T11:22:05Z",
+    "updated_at": "2026-10-14T11:44:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T11:08:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T11:06:47Z",
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
-    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
-    "id": "joydeep-07/Lens-LM",
-    "language": "JavaScript",
-    "name": "joydeep-07/Lens-LM",
-    "stars": 1,
-    "updated_at": "2026-10-14T11:05:56Z",
-    "url": "https://github.com/joydeep-07/Lens-LM"
   },
   {
     "description": "Rest client for Qdrant vector database",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T11:03:01Z",
     "url": "https://github.com/Ariesjeev/FixPilot"
-  },
-  {
-    "description": "Local-first LLM gateway: semantic caching and RAG on Qdrant, cost-aware routing from a local Ollama tier to a LiteLLM cl",
-    "id": "MAhsaanUllah/pulse-llm-gateway",
-    "language": "Python",
-    "name": "MAhsaanUllah/pulse-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:57:54Z",
-    "url": "https://github.com/MAhsaanUllah/pulse-llm-gateway"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-14T11:28:59Z",
+    "updated_at": "2026-10-14T11:43:08Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16881,
-    "updated_at": "2026-10-14T11:09:39Z",
+    "updated_at": "2026-10-14T11:32:01Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9466,
-    "updated_at": "2026-10-14T11:29:48Z",
+    "updated_at": "2026-10-14T11:40:26Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -257,7 +302,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8367,
-    "updated_at": "2026-10-14T11:29:36Z",
+    "updated_at": "2026-10-14T11:40:23Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/sh1v-max/AI-Backend"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35071,
-    "updated_at": "2026-10-14T11:13:10Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
     "id": "tryAGI/Pinecone",
     "language": "C#",
@@ -302,7 +338,7 @@
     "language": "Kotlin",
     "name": "ChromiaProject/vector-db-extension",
     "stars": 0,
-    "updated_at": "2026-10-14T10:28:16Z",
+    "updated_at": "2026-10-14T11:44:46Z",
     "url": "https://github.com/ChromiaProject/vector-db-extension"
   },
   {
@@ -328,7 +364,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4100,
+    "stars": 4124,
     "updated_at": "2026-10-14T09:53:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -347,7 +383,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7129,
-    "updated_at": "2026-10-14T11:29:03Z",
+    "updated_at": "2026-10-14T11:38:07Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6198,
-    "updated_at": "2026-10-14T09:44:26Z",
+    "updated_at": "2026-10-14T11:40:47Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 9400,
     "updated_at": "2026-10-14T09:23:23Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "VoyageAI Travel Planner - Backend",
-    "id": "satyabrata-mishra/VoyageAI-Backend",
-    "language": "Python",
-    "name": "satyabrata-mishra/VoyageAI-Backend",
-    "stars": 0,
-    "updated_at": "2026-10-14T09:21:03Z",
-    "url": "https://github.com/satyabrata-mishra/VoyageAI-Backend"
-  },
-  {
-    "description": "Enterprise RAG knowledge-base Q&A system \u2014 FastAPI + React 18 + LangChain + ChromaDB, with multi-user / multi-session ch",
-    "id": "huangJJ8/Intelligent_Q-A_RAG",
-    "language": "Python",
-    "name": "huangJJ8/Intelligent_Q-A_RAG",
-    "stars": 1,
-    "updated_at": "2026-10-14T09:14:50Z",
-    "url": "https://github.com/huangJJ8/Intelligent_Q-A_RAG"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/DocHarvest",
-    "language": "Python",
-    "name": "RohannShetty/DocHarvest",
-    "stars": 2,
-    "updated_at": "2026-10-14T09:09:59Z",
-    "url": "https://github.com/RohannShetty/DocHarvest"
-  },
-  {
-    "description": "An advanced RAG system utililzing text datasets chunked dynamically. Engineered a dual-stage retrieval pipeline using al",
-    "id": "rahulboby/ChatVeritas",
-    "language": "Python",
-    "name": "rahulboby/ChatVeritas",
-    "stars": 0,
-    "updated_at": "2026-10-14T09:07:46Z",
-    "url": "https://github.com/rahulboby/ChatVeritas"
   }
 ]
