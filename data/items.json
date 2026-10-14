@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T09:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise RAG knowledge-base Q&A system \u2014 FastAPI + React 18 + LangChain + ChromaDB, with multi-user / multi-session ch",
+    "id": "huangJJ8/Intelligent_Q-A_RAG",
+    "language": "Python",
+    "name": "huangJJ8/Intelligent_Q-A_RAG",
+    "stars": 1,
+    "updated_at": "2026-10-14T09:14:50Z",
+    "url": "https://github.com/huangJJ8/Intelligent_Q-A_RAG"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7129,
+    "updated_at": "2026-10-14T09:14:10Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T09:10:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
+    "id": "RohannShetty/DocHarvest",
+    "language": "Python",
+    "name": "RohannShetty/DocHarvest",
+    "stars": 2,
+    "updated_at": "2026-10-14T09:09:59Z",
+    "url": "https://github.com/RohannShetty/DocHarvest"
+  },
+  {
+    "description": "An advanced RAG system utililzing text datasets chunked dynamically. Engineered a dual-stage retrieval pipeline using al",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-10-14T09:07:46Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-14T09:04:44Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T09:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9466,
-    "updated_at": "2026-10-14T08:55:43Z",
+    "updated_at": "2026-10-14T09:04:05Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -43,51 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T08:52:27Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-14T08:51:30Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7129,
-    "updated_at": "2026-10-14T08:59:15Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T08:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T09:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T08:43:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -202,7 +229,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32243,
+    "stars": 32245,
     "updated_at": "2026-10-14T08:05:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 431,
-    "updated_at": "2026-10-14T08:04:49Z",
+    "updated_at": "2026-10-14T09:01:03Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35070,
-    "updated_at": "2026-10-14T08:36:16Z",
+    "updated_at": "2026-10-14T09:14:35Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T07:21:29Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-10-14T07:20:38Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-10-14T07:20:37Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 3,
-    "updated_at": "2026-10-14T07:19:42Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
