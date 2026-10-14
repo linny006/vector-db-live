@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-14T16:15:27Z",
+    "updated_at": "2026-10-14T16:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-14T16:29:45Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 4,
+    "updated_at": "2026-10-14T16:24:34Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:24:18Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
+    "id": "gainratio/edgeproc-core",
+    "language": "Python",
+    "name": "gainratio/edgeproc-core",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:21:58Z",
+    "url": "https://github.com/gainratio/edgeproc-core"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 4282,
+    "updated_at": "2026-10-14T16:18:40Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "henri76801/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "henri76801/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-14T16:16:59Z",
+    "url": "https://github.com/henri76801/rag-interview-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T16:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
@@ -54,15 +117,6 @@
     "url": "https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit"
   },
   {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "henri76801/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "henri76801/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-14T16:10:03Z",
-    "url": "https://github.com/henri76801/rag-interview-system"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -81,20 +135,11 @@
     "url": "https://github.com/ChromaDotNet/ChromaDB.Aspire"
   },
   {
-    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
-    "id": "chyinan/AegisRAG",
-    "language": "Python",
-    "name": "chyinan/AegisRAG",
-    "stars": 4,
-    "updated_at": "2026-10-14T16:06:03Z",
-    "url": "https://github.com/chyinan/AegisRAG"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32284,
+    "stars": 32285,
     "updated_at": "2026-10-14T16:05:49Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -108,40 +153,13 @@
     "url": "https://github.com/tryAGI/LangChain.Databases"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-14T16:15:11Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-14T16:03:56Z",
+    "updated_at": "2026-10-14T16:27:52Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
-    "id": "gainratio/edgeproc-core",
-    "language": "Python",
-    "name": "gainratio/edgeproc-core",
-    "stars": 0,
-    "updated_at": "2026-10-14T16:14:48Z",
-    "url": "https://github.com/gainratio/edgeproc-core"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T16:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u6cd5\u5f8b\u6cd5\u89c4\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff08RAG\uff09\uff1a\u53cc\u901a\u9053\u67b6\u6784\uff08\u5feb\u95ee\u5feb\u7b54 + \u68c0\u7d22\u589e\u5f3a\uff09\uff0c\u6cd5\u6761\u4e0e\u95ee\u7b54\u53cc\u8def\u53ec\u56de\u3001BGE-Reranker \u7cbe\u6392\u3001\u6761\u6587\u53f7\u7cbe\u786e\u8def\u7531\u3001\u65f6\u6548\u8fc7\u6ee4\u4e0e\u5f15\u7528\u6821\u9a8c\uff1b288 \u90e8\u73b0\u884c\u6cd5\u5f8b / 21,312 \u6761\u6cd5\u6761 / 2 \u4e07\u6761\u6cd5\u5f8b\u95ee\u7b54\uff0c\u914d 4 \u7c7b\u53ef\u590d",
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59566,
-    "updated_at": "2026-10-14T15:57:50Z",
+    "updated_at": "2026-10-14T16:30:13Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 4,
-    "updated_at": "2026-10-14T15:56:46Z",
+    "updated_at": "2026-10-14T16:30:04Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9466,
-    "updated_at": "2026-10-14T16:08:06Z",
+    "updated_at": "2026-10-14T16:27:15Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Go",
     "name": "openeverest/provider-milvus",
     "stars": 0,
-    "updated_at": "2026-10-14T16:13:47Z",
+    "updated_at": "2026-10-14T16:22:01Z",
     "url": "https://github.com/openeverest/provider-milvus"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9400,
-    "updated_at": "2026-10-14T16:13:04Z",
+    "updated_at": "2026-10-14T16:29:08Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1202,
-    "updated_at": "2026-10-14T15:07:02Z",
+    "updated_at": "2026-10-14T16:29:34Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-14T15:44:35Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
-    "id": "davidfernxndez/github-repository-rag",
-    "language": "Jupyter Notebook",
-    "name": "davidfernxndez/github-repository-rag",
-    "stars": 0,
-    "updated_at": "2026-10-14T14:40:34Z",
-    "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 27,
-    "updated_at": "2026-10-14T15:06:01Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   }
 ]
