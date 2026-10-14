@@ -1,11 +1,119 @@
 [
   {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-14T13:12:18Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Official repository of the Seismic library.",
+    "id": "TusKANNy/seismic",
+    "language": "Rust",
+    "name": "TusKANNy/seismic",
+    "stars": 140,
+    "updated_at": "2026-10-14T13:10:58Z",
+    "url": "https://github.com/TusKANNy/seismic"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-14T13:12:45Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-14T13:10:06Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-14T13:09:51Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-14T13:08:25Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32264,
+    "updated_at": "2026-10-14T13:14:03Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T13:07:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:07:56Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-14T13:05:20Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "",
+    "id": "ChromiaProject/vector-db-extension",
+    "language": "Kotlin",
+    "name": "ChromiaProject/vector-db-extension",
+    "stars": 0,
+    "updated_at": "2026-10-14T13:01:42Z",
+    "url": "https://github.com/ChromiaProject/vector-db-extension"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T13:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-14T13:00:22Z",
+    "updated_at": "2026-10-14T13:15:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -45,15 +153,6 @@
     "url": "https://github.com/hypercrux/hypercrux"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32263,
-    "updated_at": "2026-10-14T12:56:48Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
@@ -61,15 +160,6 @@
     "stars": 1483,
     "updated_at": "2026-10-14T12:55:13Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-14T12:55:05Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -108,29 +198,11 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T12:45:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T12:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
     "id": "liliang-cn/cortexdb",
     "language": "Go",
     "name": "liliang-cn/cortexdb",
-    "stars": 395,
+    "stars": 396,
     "updated_at": "2026-10-14T12:45:10Z",
     "url": "https://github.com/liliang-cn/cortexdb"
   },
@@ -176,7 +248,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1202,
-    "updated_at": "2026-10-14T12:58:50Z",
+    "updated_at": "2026-10-14T13:11:27Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -194,7 +266,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8368,
-    "updated_at": "2026-10-14T12:44:29Z",
+    "updated_at": "2026-10-14T13:11:23Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -203,26 +275,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-14T12:46:39Z",
+    "updated_at": "2026-10-14T13:14:08Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-14T12:35:39Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Official repository of the Seismic library.",
-    "id": "TusKANNy/seismic",
-    "language": "Rust",
-    "name": "TusKANNy/seismic",
-    "stars": 140,
-    "updated_at": "2026-10-14T12:30:14Z",
-    "url": "https://github.com/TusKANNy/seismic"
   },
   {
     "description": "Universal RAG tool",
@@ -239,7 +293,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-14T12:55:50Z",
+    "updated_at": "2026-10-14T13:08:07Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -248,7 +302,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-14T12:51:01Z",
+    "updated_at": "2026-10-14T13:05:55Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -355,7 +409,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4181,
+    "stars": 4194,
     "updated_at": "2026-10-14T11:46:39Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T11:37:51Z",
     "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
-    "id": "joydeep-07/Lens-LM",
-    "language": "JavaScript",
-    "name": "joydeep-07/Lens-LM",
-    "stars": 1,
-    "updated_at": "2026-10-14T11:35:15Z",
-    "url": "https://github.com/joydeep-07/Lens-LM"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:34:51Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-14T11:34:09Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
-    "id": "redrob-labs/redrob-recall",
-    "language": "Rust",
-    "name": "redrob-labs/redrob-recall",
-    "stars": 0,
-    "updated_at": "2026-10-14T12:51:40Z",
-    "url": "https://github.com/redrob-labs/redrob-recall"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11671,
-    "updated_at": "2026-10-14T11:30:19Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Legal AI Assistant for Indian Law \u2013 A Hybrid RAG platform (FastAPI + React) built with Google Gemini 3.5 Flash, Dense Em",
-    "id": "mahak-maheshwari-26/Legal-AI-Assistant",
-    "language": "Python",
-    "name": "mahak-maheshwari-26/Legal-AI-Assistant",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:22:58Z",
-    "url": "https://github.com/mahak-maheshwari-26/Legal-AI-Assistant"
   }
 ]
