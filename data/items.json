@@ -1,10 +1,118 @@
 [
   {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2014,
+    "updated_at": "2026-10-14T20:12:59Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35076,
+    "updated_at": "2026-10-14T20:11:18Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 4386,
+    "updated_at": "2026-10-14T20:10:54Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
+    "id": "xl3v3r/hermes-oracle-memory",
+    "language": "Python",
+    "name": "xl3v3r/hermes-oracle-memory",
+    "stars": 1,
+    "updated_at": "2026-10-14T20:10:38Z",
+    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-14T20:09:16Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T20:09:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46384,
+    "updated_at": "2026-10-14T20:07:56Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "RAG chatbot with PostgreSQL vector database for intelligent Q&A on conversation transcripts",
+    "id": "Ghorbel37/rag-vector-chatbot",
+    "language": "Jupyter Notebook",
+    "name": "Ghorbel37/rag-vector-chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-14T20:07:06Z",
+    "url": "https://github.com/Ghorbel37/rag-vector-chatbot"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1483,
+    "updated_at": "2026-10-14T20:06:00Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-14T20:02:29Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T20:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T20:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67075,
+    "stars": 67076,
     "updated_at": "2026-10-14T19:59:07Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -23,7 +131,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-14T19:56:46Z",
+    "updated_at": "2026-10-14T20:06:44Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -36,22 +144,13 @@
     "url": "https://github.com/datris/datris-platform-oss"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 4380,
-    "updated_at": "2026-10-14T20:00:12Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2014,
-    "updated_at": "2026-10-14T19:53:57Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
+    "name": "topoteretes/cognee",
+    "stars": 32293,
+    "updated_at": "2026-10-14T19:51:52Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
@@ -70,24 +169,6 @@
     "stars": 4,
     "updated_at": "2026-10-14T19:46:28Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Go Client for CyborgDB: The Encrypted Vector Database",
@@ -117,33 +198,6 @@
     "url": "https://github.com/ry-ops/commit-relay"
   },
   {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1483,
-    "updated_at": "2026-10-14T19:36:52Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-14T19:40:13Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T19:36:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
     "id": "Aashutosh31/arc-ai-project",
     "language": "JavaScript",
@@ -162,30 +216,12 @@
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32292,
-    "updated_at": "2026-10-14T19:51:52Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-14T19:30:37Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 124,
-    "updated_at": "2026-10-14T19:31:31Z",
+    "updated_at": "2026-10-14T20:11:07Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9400,
-    "updated_at": "2026-10-14T19:54:26Z",
+    "updated_at": "2026-10-14T20:10:24Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1639,
-    "updated_at": "2026-10-14T18:48:57Z",
+    "updated_at": "2026-10-14T20:09:02Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -387,12 +423,21 @@
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 272,
+    "updated_at": "2026-10-14T18:31:29Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-14T19:40:33Z",
+    "updated_at": "2026-10-14T20:07:29Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T18:29:07Z",
     "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:21:20Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35077,
-    "updated_at": "2026-10-14T19:57:03Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
-    "id": "Angular2Guy/AIDocumentLibraryChat",
-    "language": "Java",
-    "name": "Angular2Guy/AIDocumentLibraryChat",
-    "stars": 31,
-    "updated_at": "2026-10-14T18:14:15Z",
-    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 13018,
-    "updated_at": "2026-10-14T18:20:04Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Memory upgrades for digital people: chunk + embed + recall + back up, with the failure modes that silently kill agent me",
-    "id": "Merlin-Bedford/merlin-memory-kit",
-    "language": "Python",
-    "name": "Merlin-Bedford/merlin-memory-kit",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:13:49Z",
-    "url": "https://github.com/Merlin-Bedford/merlin-memory-kit"
   }
 ]
