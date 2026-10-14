@@ -1,12 +1,120 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-14T18:59:57Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-14T18:59:58Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-14T18:45:14Z",
+    "updated_at": "2026-10-14T19:00:05Z",
     "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 4350,
+    "updated_at": "2026-10-14T18:58:20Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9400,
+    "updated_at": "2026-10-14T18:59:24Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "VoloNexus.AI is a smart scheduling tool that takes the hassle out of managing meetings. It uses AI agents to read emails",
+    "id": "sanjay-1458/VoloNexus.AI",
+    "language": "TypeScript",
+    "name": "sanjay-1458/VoloNexus.AI",
+    "stars": 1,
+    "updated_at": "2026-10-14T18:57:48Z",
+    "url": "https://github.com/sanjay-1458/VoloNexus.AI"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-10-14T18:57:18Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "Local-first LLM routing gateway \u2014 semantic cache \u2192 local Ollama model \u2192   cost-aware cloud fallback cascade, with BYOK, ",
+    "id": "MAhsaanUllah/LLM-Pulse-Gateway",
+    "language": "Python",
+    "name": "MAhsaanUllah/LLM-Pulse-Gateway",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:55:33Z",
+    "url": "https://github.com/MAhsaanUllah/LLM-Pulse-Gateway"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-14T18:50:23Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-14T18:47:25Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T18:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-14T18:58:44Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T18:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
@@ -23,7 +131,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-14T18:43:15Z",
+    "updated_at": "2026-10-14T18:50:16Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -50,7 +158,7 @@
     "language": "Kotlin",
     "name": "ChromiaProject/vector-db-extension",
     "stars": 0,
-    "updated_at": "2026-10-14T18:40:15Z",
+    "updated_at": "2026-10-14T18:45:25Z",
     "url": "https://github.com/ChromiaProject/vector-db-extension"
   },
   {
@@ -72,15 +180,6 @@
     "url": "https://github.com/Thisen-Ekanayake/Athena"
   },
   {
-    "description": "Local-first LLM routing gateway \u2014 semantic cache \u2192 local Ollama model \u2192   cost-aware cloud fallback cascade, with BYOK, ",
-    "id": "MAhsaanUllah/LLM-Pulse-Gateway",
-    "language": "Python",
-    "name": "MAhsaanUllah/LLM-Pulse-Gateway",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:32:22Z",
-    "url": "https://github.com/MAhsaanUllah/LLM-Pulse-Gateway"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -88,15 +187,6 @@
     "stars": 2014,
     "updated_at": "2026-10-14T18:30:52Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T18:30:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -108,15 +198,6 @@
     "url": "https://github.com/fenecdb/fenec"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T18:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -124,15 +205,6 @@
     "stars": 1202,
     "updated_at": "2026-10-14T18:44:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-14T18:29:23Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Vector graphics format authored in DixScript, compressed with MBFA",
@@ -151,24 +223,6 @@
     "stars": 4,
     "updated_at": "2026-10-14T18:28:50Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-14T18:24:33Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 4341,
-    "updated_at": "2026-10-14T18:22:27Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -229,7 +283,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46383,
+    "stars": 46384,
     "updated_at": "2026-10-14T18:11:53Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32293,
-    "updated_at": "2026-10-14T18:44:33Z",
+    "updated_at": "2026-10-14T18:59:09Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16882,
-    "updated_at": "2026-10-14T18:04:40Z",
+    "updated_at": "2026-10-14T18:46:38Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -275,7 +329,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-14T18:43:05Z",
+    "updated_at": "2026-10-14T18:50:24Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -331,15 +385,6 @@
     "stars": 124,
     "updated_at": "2026-10-14T17:53:12Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9400,
-    "updated_at": "2026-10-14T18:41:44Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T17:10:16Z",
     "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
-    "id": "hypercrux/hypercrux",
-    "language": "Go",
-    "name": "hypercrux/hypercrux",
-    "stars": 0,
-    "updated_at": "2026-10-14T17:10:02Z",
-    "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-14T17:06:36Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-10-14T17:04:54Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-10-14T17:04:28Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-10-14T17:04:16Z",
-    "url": "https://github.com/api-evangelist/upstash"
   }
 ]
