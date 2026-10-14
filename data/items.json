@@ -1,5 +1,113 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7129,
+    "updated_at": "2026-10-14T20:44:50Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 1,
+    "updated_at": "2026-10-14T20:44:04Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-14T20:44:02Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
+    "id": "schwabauerbriantomas-gif/splatdb",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/splatdb",
+    "stars": 0,
+    "updated_at": "2026-10-14T20:41:11Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1356,
+    "updated_at": "2026-10-14T20:41:46Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1639,
+    "updated_at": "2026-10-14T20:40:04Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-14T20:39:28Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Runnable, minimal LLM examples for Java - Spring AI & LangChain4j. RAG, agents, MCP servers, tool calling, structured ou",
+    "id": "alxkm/java-ai-cookbook",
+    "language": "Java",
+    "name": "alxkm/java-ai-cookbook",
+    "stars": 3,
+    "updated_at": "2026-10-14T20:39:07Z",
+    "url": "https://github.com/alxkm/java-ai-cookbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T20:37:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
+    "id": "Aashutosh31/arc-ai-project",
+    "language": "JavaScript",
+    "name": "Aashutosh31/arc-ai-project",
+    "stars": 2,
+    "updated_at": "2026-10-14T20:33:49Z",
+    "url": "https://github.com/Aashutosh31/arc-ai-project"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T20:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T20:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
     "id": "sh1v-max/AI-Backend",
     "language": "HTML",
@@ -45,30 +153,12 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T20:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T20:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35076,
-    "updated_at": "2026-10-14T20:23:11Z",
+    "updated_at": "2026-10-14T20:39:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -76,7 +166,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4393,
+    "stars": 4399,
     "updated_at": "2026-10-14T20:10:54Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -88,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T20:10:38Z",
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-14T20:09:16Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T20:09:03Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -139,7 +211,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67077,
+    "stars": 67078,
     "updated_at": "2026-10-14T19:59:07Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -149,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1202,
-    "updated_at": "2026-10-14T19:57:28Z",
+    "updated_at": "2026-10-14T20:35:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -176,7 +248,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32294,
-    "updated_at": "2026-10-14T20:30:15Z",
+    "updated_at": "2026-10-14T20:30:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-14T20:28:32Z",
+    "updated_at": "2026-10-14T20:34:34Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -221,17 +293,8 @@
     "language": "Shell",
     "name": "ry-ops/commit-relay",
     "stars": 2,
-    "updated_at": "2026-10-14T19:37:21Z",
+    "updated_at": "2026-10-14T20:33:02Z",
     "url": "https://github.com/ry-ops/commit-relay"
-  },
-  {
-    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
-    "id": "Aashutosh31/arc-ai-project",
-    "language": "JavaScript",
-    "name": "Aashutosh31/arc-ai-project",
-    "stars": 2,
-    "updated_at": "2026-10-14T19:35:47Z",
-    "url": "https://github.com/Aashutosh31/arc-ai-project"
   },
   {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
@@ -250,15 +313,6 @@
     "stars": 124,
     "updated_at": "2026-10-14T20:18:00Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Runnable, minimal LLM examples for Java - Spring AI & LangChain4j. RAG, agents, MCP servers, tool calling, structured ou",
-    "id": "alxkm/java-ai-cookbook",
-    "language": "Java",
-    "name": "alxkm/java-ai-cookbook",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:24:20Z",
-    "url": "https://github.com/alxkm/java-ai-cookbook"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -306,15 +360,6 @@
     "url": "https://github.com/nikoma/bicdb"
   },
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1356,
-    "updated_at": "2026-10-14T20:20:37Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -356,7 +401,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9400,
-    "updated_at": "2026-10-14T20:30:23Z",
+    "updated_at": "2026-10-14T20:43:11Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/badhope/spark"
   },
   {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1639,
-    "updated_at": "2026-10-14T20:27:54Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-14T18:47:25Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
-    "id": "M4F-S/gomaa",
-    "language": "Python",
-    "name": "M4F-S/gomaa",
-    "stars": 33,
-    "updated_at": "2026-10-14T18:43:56Z",
-    "url": "https://github.com/M4F-S/gomaa"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-14T19:14:11Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "",
-    "id": "ChromiaProject/vector-db-extension",
-    "language": "Kotlin",
-    "name": "ChromiaProject/vector-db-extension",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:45:25Z",
-    "url": "https://github.com/ChromiaProject/vector-db-extension"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-14T18:37:52Z",
-    "url": "https://github.com/imagodata/filter_mate"
   }
 ]
