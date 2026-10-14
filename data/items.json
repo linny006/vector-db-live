@@ -1,11 +1,65 @@
 [
   {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-14T22:38:33Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T22:37:54Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T22:35:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-14T22:35:13Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8369,
+    "updated_at": "2026-10-14T22:39:39Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35076,
+    "updated_at": "2026-10-14T22:32:50Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-14T22:29:33Z",
+    "updated_at": "2026-10-14T22:30:23Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -13,7 +67,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67083,
+    "stars": 67086,
     "updated_at": "2026-10-14T22:28:11Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -23,7 +77,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-14T22:24:57Z",
+    "updated_at": "2026-10-14T22:39:42Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -40,8 +94,8 @@
     "id": "pixeltable/pixeltable",
     "language": "Python",
     "name": "pixeltable/pixeltable",
-    "stars": 1639,
-    "updated_at": "2026-10-14T22:22:13Z",
+    "stars": 1640,
+    "updated_at": "2026-10-14T22:37:57Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -54,15 +108,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T22:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
     "id": "hypercrux/hypercrux",
     "language": "Go",
@@ -72,21 +117,12 @@
     "url": "https://github.com/hypercrux/hypercrux"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-14T22:27:06Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9400,
-    "updated_at": "2026-10-14T22:28:16Z",
+    "updated_at": "2026-10-14T22:42:30Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T22:08:42Z",
     "url": "https://github.com/santenova/VectorVoyage"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T22:08:03Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -160,15 +187,6 @@
     "stars": 8,
     "updated_at": "2026-10-14T22:01:27Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8369,
-    "updated_at": "2026-10-14T22:01:27Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -311,7 +329,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1202,
-    "updated_at": "2026-10-14T22:20:19Z",
+    "updated_at": "2026-10-14T22:40:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6523,
-    "updated_at": "2026-10-14T22:29:30Z",
+    "updated_at": "2026-10-14T22:30:49Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -385,15 +403,6 @@
     "stars": 26,
     "updated_at": "2026-10-14T22:27:25Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35075,
-    "updated_at": "2026-10-14T21:42:09Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Runnable, minimal LLM examples for Java - Spring AI & LangChain4j. RAG, agents, MCP servers, tool calling, structured ou",
@@ -436,17 +445,8 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4434,
+    "stars": 4436,
     "updated_at": "2026-10-14T20:10:54Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1483,
-    "updated_at": "2026-10-14T20:06:00Z",
-    "url": "https://github.com/datalevin/datalevin"
   }
 ]
