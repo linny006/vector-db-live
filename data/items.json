@@ -1,30 +1,12 @@
 [
   {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:29:35Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
     "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:30:23Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2014,
-    "updated_at": "2026-10-14T10:24:58Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-14T10:45:14Z",
+    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -32,8 +14,71 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-14T10:24:54Z",
+    "updated_at": "2026-10-14T10:44:31Z",
     "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:40:57Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T10:38:10Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:36:56Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "\ud83d\ude80 Production-ready MERN + AI-powered application featuring Microservices Architecture, Multi-Agent AI System, LangGraph,",
+    "id": "chandan-0416/advanced-backend-concepts",
+    "language": "JavaScript",
+    "name": "chandan-0416/advanced-backend-concepts",
+    "stars": 1,
+    "updated_at": "2026-10-14T10:35:41Z",
+    "url": "https://github.com/chandan-0416/advanced-backend-concepts"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16881,
+    "updated_at": "2026-10-14T10:43:06Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6522,
+    "updated_at": "2026-10-14T10:33:53Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-14T10:33:52Z",
+    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -41,8 +86,44 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9466,
-    "updated_at": "2026-10-14T10:22:36Z",
+    "updated_at": "2026-10-14T10:32:06Z",
     "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T10:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T10:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2013,
+    "updated_at": "2026-10-14T10:24:58Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8367,
+    "updated_at": "2026-10-14T10:40:18Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
@@ -72,24 +153,6 @@
     "url": "https://github.com/sh1v-max/AI-Backend"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T10:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T10:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -99,49 +162,22 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "\ud83d\ude80 Production-ready MERN + AI-powered application featuring Microservices Architecture, Multi-Agent AI System, LangGraph,",
-    "id": "chandan-0416/advanced-backend-concepts",
-    "language": "JavaScript",
-    "name": "chandan-0416/advanced-backend-concepts",
-    "stars": 1,
-    "updated_at": "2026-10-14T10:15:19Z",
-    "url": "https://github.com/chandan-0416/advanced-backend-concepts"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35071,
-    "updated_at": "2026-10-14T10:14:36Z",
+    "updated_at": "2026-10-14T10:37:48Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8366,
-    "updated_at": "2026-10-14T10:20:18Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32250,
+    "stars": 32252,
     "updated_at": "2026-10-14T10:11:28Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T10:09:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
@@ -193,7 +229,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4050,
+    "stars": 4058,
     "updated_at": "2026-10-14T09:53:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -347,7 +383,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46381,
-    "updated_at": "2026-10-14T10:11:00Z",
+    "updated_at": "2026-10-14T10:38:31Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -358,15 +394,6 @@
     "stars": 1201,
     "updated_at": "2026-10-14T08:40:29Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16880,
-    "updated_at": "2026-10-14T10:12:08Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T08:14:15Z",
     "url": "https://github.com/ihrimon/ai-engineering-journey"
-  },
-  {
-    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
-    "id": "yashbhosale789/yashbhosale789",
-    "language": "\u2014",
-    "name": "yashbhosale789/yashbhosale789",
-    "stars": 0,
-    "updated_at": "2026-10-14T08:10:22Z",
-    "url": "https://github.com/yashbhosale789/yashbhosale789"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-14T08:05:59Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Redis Vector Library. The AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 431,
-    "updated_at": "2026-10-14T10:11:28Z",
-    "url": "https://github.com/redis/redis-vl-python"
   }
 ]
