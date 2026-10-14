@@ -1,12 +1,30 @@
 [
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "Hoffmann98/llmaker",
+    "language": "Go",
+    "name": "Hoffmann98/llmaker",
     "stars": 0,
-    "updated_at": "2026-10-14T05:42:32Z",
-    "url": "https://github.com/fenecdb/fenec"
+    "updated_at": "2026-10-14T05:59:40Z",
+    "url": "https://github.com/Hoffmann98/llmaker"
+  },
+  {
+    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
+    "id": "RohannShetty/DocHarvest",
+    "language": "Python",
+    "name": "RohannShetty/DocHarvest",
+    "stars": 2,
+    "updated_at": "2026-10-14T05:56:46Z",
+    "url": "https://github.com/RohannShetty/DocHarvest"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "jang34137/VectorRAG.Net",
+    "language": "C#",
+    "name": "jang34137/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:00:10Z",
+    "url": "https://github.com/jang34137/VectorRAG.Net"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,8 +32,62 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2052,
-    "updated_at": "2026-10-14T05:39:21Z",
+    "updated_at": "2026-10-14T05:52:47Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32232,
+    "updated_at": "2026-10-14T05:49:53Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-14T05:49:28Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 381,
+    "updated_at": "2026-10-14T05:47:21Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T05:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T05:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-14T05:42:32Z",
+    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-14T05:37:37Z",
+    "updated_at": "2026-10-14T06:00:17Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -88,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T05:31:16Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T05:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T05:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-14T04:55:39Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
-    "id": "fub05/MCP---Agent-Starter-Kit",
-    "language": "Python",
-    "name": "fub05/MCP---Agent-Starter-Kit",
-    "stars": 6,
-    "updated_at": "2026-10-14T04:55:03Z",
-    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 2,
-    "updated_at": "2026-10-14T04:53:47Z",
-    "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-10-14T04:53:39Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
-    "id": "joydeep-07/Lens-LM",
-    "language": "JavaScript",
-    "name": "joydeep-07/Lens-LM",
-    "stars": 1,
-    "updated_at": "2026-10-14T04:53:35Z",
-    "url": "https://github.com/joydeep-07/Lens-LM"
-  },
-  {
-    "description": "Semantic codebase assistant for GitHub repositories powered by RAG, pgvector, and Gemini.",
-    "id": "Mxnrxjj/talk-to-my-repo",
-    "language": "TypeScript",
-    "name": "Mxnrxjj/talk-to-my-repo",
-    "stars": 2,
-    "updated_at": "2026-10-14T04:53:08Z",
-    "url": "https://github.com/Mxnrxjj/talk-to-my-repo"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-10-14T04:51:05Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
   }
 ]
