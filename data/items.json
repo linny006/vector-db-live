@@ -1,12 +1,111 @@
 [
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-14T15:42:36Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T16:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u6cd5\u5f8b\u6cd5\u89c4\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff08RAG\uff09\uff1a\u53cc\u901a\u9053\u67b6\u6784\uff08\u5feb\u95ee\u5feb\u7b54 + \u68c0\u7d22\u589e\u5f3a\uff09\uff0c\u6cd5\u6761\u4e0e\u95ee\u7b54\u53cc\u8def\u53ec\u56de\u3001BGE-Reranker \u7cbe\u6392\u3001\u6761\u6587\u53f7\u7cbe\u786e\u8def\u7531\u3001\u65f6\u6548\u8fc7\u6ee4\u4e0e\u5f15\u7528\u6821\u9a8c\uff1b288 \u90e8\u73b0\u884c\u6cd5\u5f8b / 21,312 \u6761\u6cd5\u6761 / 2 \u4e07\u6761\u6cd5\u5f8b\u95ee\u7b54\uff0c\u914d 4 \u7c7b\u53ef\u590d",
+    "id": "yanxiao-ci/lawrag",
+    "language": "Python",
+    "name": "yanxiao-ci/lawrag",
+    "stars": 0,
+    "updated_at": "2026-10-14T15:59:28Z",
+    "url": "https://github.com/yanxiao-ci/lawrag"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-14T15:58:59Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
+    "id": "api-evangelist/upstash",
+    "language": "\u2014",
+    "name": "api-evangelist/upstash",
+    "stars": 0,
+    "updated_at": "2026-10-14T15:58:07Z",
+    "url": "https://github.com/api-evangelist/upstash"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-14T15:56:46Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "james99193/yu-ai-agent",
+    "language": "Java",
+    "name": "james99193/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-14T15:55:04Z",
+    "url": "https://github.com/james99193/yu-ai-agent"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-14T15:55:05Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Document-first sqlite3+faiss vector database",
+    "id": "thomas-villani/localvectordb",
+    "language": "Python",
+    "name": "thomas-villani/localvectordb",
+    "stars": 2,
+    "updated_at": "2026-10-14T16:00:09Z",
+    "url": "https://github.com/thomas-villani/localvectordb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32282,
+    "updated_at": "2026-10-14T15:51:34Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
+    "id": "hypercrux/hypercrux",
+    "language": "Go",
+    "name": "hypercrux/hypercrux",
+    "stars": 0,
+    "updated_at": "2026-10-14T15:51:30Z",
+    "url": "https://github.com/hypercrux/hypercrux"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16881,
+    "updated_at": "2026-10-14T15:50:54Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "richter4846/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "richter4846/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-14T15:49:30Z",
+    "url": "https://github.com/richter4846/rag-interview-system"
   },
   {
     "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
@@ -14,8 +113,44 @@
     "language": "Python",
     "name": "Thisen-Ekanayake/Athena",
     "stars": 1,
-    "updated_at": "2026-10-14T15:42:28Z",
+    "updated_at": "2026-10-14T15:47:44Z",
     "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 88,
+    "updated_at": "2026-10-14T15:46:33Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-14T15:58:56Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T15:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-14T15:42:36Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -49,8 +184,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35075,
-    "updated_at": "2026-10-14T15:38:56Z",
+    "stars": 35074,
+    "updated_at": "2026-10-14T15:59:04Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -61,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T15:38:48Z",
     "url": "https://github.com/ClaraIvanov/developers-guide-to-ai"
-  },
-  {
-    "description": "\u6cd5\u5f8b\u6cd5\u89c4\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff08RAG\uff09\uff1a\u53cc\u901a\u9053\u67b6\u6784\uff08\u5feb\u95ee\u5feb\u7b54 + \u68c0\u7d22\u589e\u5f3a\uff09\uff0c\u6cd5\u6761\u4e0e\u95ee\u7b54\u53cc\u8def\u53ec\u56de\u3001BGE-Reranker \u7cbe\u6392\u3001\u6761\u6587\u53f7\u7cbe\u786e\u8def\u7531\u3001\u65f6\u6548\u8fc7\u6ee4\u4e0e\u5f15\u7528\u6821\u9a8c\uff1b288 \u90e8\u73b0\u884c\u6cd5\u5f8b / 21,312 \u6761\u6cd5\u6761 / 2 \u4e07\u6761\u6cd5\u5f8b\u95ee\u7b54\uff0c\u914d 4 \u7c7b\u53ef\u590d",
-    "id": "yanxiao-ci/lawrag",
-    "language": "Python",
-    "name": "yanxiao-ci/lawrag",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:38:27Z",
-    "url": "https://github.com/yanxiao-ci/lawrag"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -90,39 +216,12 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T15:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T15:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32278,
-    "updated_at": "2026-10-14T15:29:58Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "OpenEverest provider for Milvus",
     "id": "openeverest/provider-milvus",
     "language": "Go",
     "name": "openeverest/provider-milvus",
     "stars": 0,
-    "updated_at": "2026-10-14T15:36:54Z",
+    "updated_at": "2026-10-14T15:53:51Z",
     "url": "https://github.com/openeverest/provider-milvus"
   },
   {
@@ -171,15 +270,6 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16882,
-    "updated_at": "2026-10-14T15:11:35Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Upload a PDF, ask questions, get answers with exact page citations \u2014 or an honest \"not found\" instead of a guess. Hybrid",
     "id": "shakshi-soni/LEXISEARCH-RAG",
     "language": "Python",
@@ -207,40 +297,13 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-14T15:06:56Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-14T15:05:27Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1356,
-    "updated_at": "2026-10-14T15:02:41Z",
+    "updated_at": "2026-10-14T15:59:27Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-14T15:01:48Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "Pyrope is a high-performance, adaptive Vector Database built as an extension of Microsoft Garnet. It features a unique d",
@@ -266,7 +329,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9400,
-    "updated_at": "2026-10-14T15:44:20Z",
+    "updated_at": "2026-10-14T15:58:09Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -329,7 +392,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7129,
-    "updated_at": "2026-10-14T14:56:44Z",
+    "updated_at": "2026-10-14T15:58:07Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -338,7 +401,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-14T15:44:05Z",
+    "updated_at": "2026-10-14T15:55:25Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -356,7 +419,7 @@
     "language": "TypeScript",
     "name": "cyborginc/cyborgdb-js",
     "stars": 7,
-    "updated_at": "2026-10-14T14:27:11Z",
+    "updated_at": "2026-10-14T15:49:02Z",
     "url": "https://github.com/cyborginc/cyborgdb-js"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-14T14:25:46Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
-  },
-  {
-    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
-    "id": "tryAGI/Turbopuffer",
-    "language": "C#",
-    "name": "tryAGI/Turbopuffer",
-    "stars": 0,
-    "updated_at": "2026-10-14T14:29:01Z",
-    "url": "https://github.com/tryAGI/Turbopuffer"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11674,
-    "updated_at": "2026-10-14T14:17:23Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI agent code examples",
-    "id": "nekozzz94/NekoAI-agents",
-    "language": "Python",
-    "name": "nekozzz94/NekoAI-agents",
-    "stars": 18,
-    "updated_at": "2026-10-14T14:13:54Z",
-    "url": "https://github.com/nekozzz94/NekoAI-agents"
-  },
-  {
-    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
-    "id": "joydeep-07/Lens-LM",
-    "language": "JavaScript",
-    "name": "joydeep-07/Lens-LM",
-    "stars": 1,
-    "updated_at": "2026-10-14T14:10:39Z",
-    "url": "https://github.com/joydeep-07/Lens-LM"
-  },
-  {
-    "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
-    "id": "Tribrix23/CleaveDB",
-    "language": "Python",
-    "name": "Tribrix23/CleaveDB",
-    "stars": 0,
-    "updated_at": "2026-10-14T14:09:24Z",
-    "url": "https://github.com/Tribrix23/CleaveDB"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-14T14:06:53Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Professor-centric Multimodal AI learning assistent for students.",
-    "id": "OmkarDeshmukh001/ProfessorMindAI",
-    "language": "TypeScript",
-    "name": "OmkarDeshmukh001/ProfessorMindAI",
-    "stars": 1,
-    "updated_at": "2026-10-14T14:06:51Z",
-    "url": "https://github.com/OmkarDeshmukh001/ProfessorMindAI"
   }
 ]
