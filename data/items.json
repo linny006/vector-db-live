@@ -1,11 +1,137 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-14T14:14:34Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent code examples",
+    "id": "nekozzz94/NekoAI-agents",
+    "language": "Python",
+    "name": "nekozzz94/NekoAI-agents",
+    "stars": 18,
+    "updated_at": "2026-10-14T14:13:54Z",
+    "url": "https://github.com/nekozzz94/NekoAI-agents"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-14T14:13:26Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32270,
+    "updated_at": "2026-10-14T14:13:00Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-14T14:10:39Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "Pyrope is a high-performance, adaptive Vector Database built as an extension of Microsoft Garnet. It features a unique d",
+    "id": "takurot/Pyrope",
+    "language": "C#",
+    "name": "takurot/Pyrope",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:09:39Z",
+    "url": "https://github.com/takurot/Pyrope"
+  },
+  {
+    "description": "Beyond NoSQL. CleaveDB combines document storage, intelligent graph bonds, vector search, and distributed clustering wit",
+    "id": "Tribrix23/CleaveDB",
+    "language": "Python",
+    "name": "Tribrix23/CleaveDB",
+    "stars": 0,
+    "updated_at": "2026-10-14T14:09:24Z",
+    "url": "https://github.com/Tribrix23/CleaveDB"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1202,
+    "updated_at": "2026-10-14T14:13:51Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T14:08:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2052,
+    "updated_at": "2026-10-14T14:08:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-14T14:06:53Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Professor-centric Multimodal AI learning assistent for students.",
+    "id": "OmkarDeshmukh001/ProfessorMindAI",
+    "language": "TypeScript",
+    "name": "OmkarDeshmukh001/ProfessorMindAI",
+    "stars": 1,
+    "updated_at": "2026-10-14T14:06:51Z",
+    "url": "https://github.com/OmkarDeshmukh001/ProfessorMindAI"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-14T14:01:16Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T14:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-14T14:00:23Z",
+    "updated_at": "2026-10-14T14:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-14T13:59:09Z",
+    "updated_at": "2026-10-14T14:15:14Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -54,15 +180,6 @@
     "url": "https://github.com/maximilien/weave-cli"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T13:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\ude80 Production-ready MERN + AI-powered application featuring Microservices Architecture, Multi-Agent AI System, LangGraph,",
     "id": "chandan-0416/advanced-backend-concepts",
     "language": "JavaScript",
@@ -81,49 +198,13 @@
     "url": "https://github.com/VeyraStorm8259/tenant-lifecycle-vector-ingest"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-14T13:59:18Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35073,
-    "updated_at": "2026-10-14T13:56:45Z",
+    "updated_at": "2026-10-14T14:06:02Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32267,
-    "updated_at": "2026-10-14T13:40:18Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T13:38:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Pyrope is a high-performance, adaptive Vector Database built as an extension of Microsoft Garnet. It features a unique d",
-    "id": "takurot/Pyrope",
-    "language": "C#",
-    "name": "takurot/Pyrope",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:31:57Z",
-    "url": "https://github.com/takurot/Pyrope"
   },
   {
     "description": "",
@@ -131,7 +212,7 @@
     "language": "Kotlin",
     "name": "ChromiaProject/vector-db-extension",
     "stars": 0,
-    "updated_at": "2026-10-14T13:30:44Z",
+    "updated_at": "2026-10-14T14:13:08Z",
     "url": "https://github.com/ChromiaProject/vector-db-extension"
   },
   {
@@ -288,15 +369,6 @@
     "url": "https://github.com/sh1v-max/AI-Backend"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2052,
-    "updated_at": "2026-10-14T12:59:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Rest client for Qdrant vector database",
     "id": "quarkiverse/quarkus-qdrant",
     "language": "Java",
@@ -328,7 +400,7 @@
     "id": "liliang-cn/cortexdb",
     "language": "Go",
     "name": "liliang-cn/cortexdb",
-    "stars": 396,
+    "stars": 397,
     "updated_at": "2026-10-14T12:45:10Z",
     "url": "https://github.com/liliang-cn/cortexdb"
   },
@@ -365,7 +437,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7129,
-    "updated_at": "2026-10-14T13:51:38Z",
+    "updated_at": "2026-10-14T14:09:38Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 59565,
     "updated_at": "2026-10-14T12:36:22Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1202,
-    "updated_at": "2026-10-14T13:58:17Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
-    "id": "Yacine-ai-tech/IntelAI",
-    "language": "Python",
-    "name": "Yacine-ai-tech/IntelAI",
-    "stars": 0,
-    "updated_at": "2026-10-14T12:35:36Z",
-    "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8368,
-    "updated_at": "2026-10-14T13:58:55Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-14T13:51:51Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Universal RAG tool",
-    "id": "pathwaycom/serviette",
-    "language": "Python",
-    "name": "pathwaycom/serviette",
-    "stars": 6,
-    "updated_at": "2026-10-14T12:27:32Z",
-    "url": "https://github.com/pathwaycom/serviette"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-14T13:08:07Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4444,
-    "updated_at": "2026-10-14T13:49:49Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1355,
-    "updated_at": "2026-10-14T12:24:26Z",
-    "url": "https://github.com/infinispan/infinispan"
   }
 ]
