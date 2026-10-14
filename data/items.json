@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-14T07:00:21Z",
+    "updated_at": "2026-10-14T07:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-10-14T07:14:42Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -14,8 +23,143 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 8,
-    "updated_at": "2026-10-14T06:59:09Z",
+    "updated_at": "2026-10-14T07:13:18Z",
     "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T07:13:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-14T07:12:38Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 4,
+    "updated_at": "2026-10-14T07:10:50Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "An Enterprise-Grade Advanced RAG Engine powered by FastAPI, LangChain, Qdrant, and React. Engineered with Hybrid Search ",
+    "id": "MeetRamani28/Nexus-RAG",
+    "language": "TypeScript",
+    "name": "MeetRamani28/Nexus-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-14T07:10:47Z",
+    "url": "https://github.com/MeetRamani28/Nexus-RAG"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-10-14T07:09:16Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6199,
+    "updated_at": "2026-10-14T07:08:55Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 2,
+    "updated_at": "2026-10-14T07:08:07Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "Upscale images with up to three ESRGAN models, blending their strengths for sharp details, clean surfaces, and accurate ",
+    "id": "Dangamuwagedilshan/comfyui_ensemble_upscale",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/comfyui_ensemble_upscale",
+    "stars": 1,
+    "updated_at": "2026-10-14T07:06:53Z",
+    "url": "https://github.com/Dangamuwagedilshan/comfyui_ensemble_upscale"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-14T07:06:55Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-10-14T07:05:43Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "Multimodal semantic search across text, images, audio and video using Google's EmbeddingGemma 2, PostgreSQL + pgvector a",
+    "id": "FrancescoCiannavei/Multimodal-Vector-Search",
+    "language": "Python",
+    "name": "FrancescoCiannavei/Multimodal-Vector-Search",
+    "stars": 2,
+    "updated_at": "2026-10-14T07:05:05Z",
+    "url": "https://github.com/FrancescoCiannavei/Multimodal-Vector-Search"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-10-14T07:04:19Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-10-14T07:00:30Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T07:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
+    "id": "zilliztech/vector-graph-rag",
+    "language": "Python",
+    "name": "zilliztech/vector-graph-rag",
+    "stars": 258,
+    "updated_at": "2026-10-14T07:00:30Z",
+    "url": "https://github.com/zilliztech/vector-graph-rag"
   },
   {
     "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
@@ -59,7 +203,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7129,
-    "updated_at": "2026-10-14T06:59:28Z",
+    "updated_at": "2026-10-14T07:02:01Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -99,15 +243,6 @@
     "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T06:51:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
     "id": "britorbs/consciousdb",
     "language": "Python",
@@ -139,7 +274,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35067,
+    "stars": 35069,
     "updated_at": "2026-10-14T06:49:09Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -160,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T06:47:30Z",
     "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T06:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -216,6 +342,15 @@
     "url": "https://github.com/clizardyy/unbody"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46380,
+    "updated_at": "2026-10-14T06:36:19Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
     "id": "gxc02529-jpg/KnowLoop",
     "language": "Python",
@@ -232,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T06:32:21Z",
     "url": "https://github.com/ishandutta2007/Awesome-Real-Time-Vector-Database-Sharding"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46379,
-    "updated_at": "2026-10-14T06:36:19Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
@@ -261,15 +387,6 @@
     "url": "https://github.com/scotth96/llmaker"
   },
   {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-14T06:28:31Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
     "id": "abhishekkapoorx/DEVOPS-AGENT",
     "language": "Python",
@@ -286,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T06:26:16Z",
     "url": "https://github.com/mancini04/vektori"
-  },
-  {
-    "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
-    "id": "zilliztech/vector-graph-rag",
-    "language": "Python",
-    "name": "zilliztech/vector-graph-rag",
-    "stars": 258,
-    "updated_at": "2026-10-14T07:00:20Z",
-    "url": "https://github.com/zilliztech/vector-graph-rag"
   },
   {
     "description": "A python package for developing AI applications with local LLMs.",
@@ -340,113 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-14T06:29:24Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2052,
-    "updated_at": "2026-10-14T06:16:24Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "Hoffmann98/llmaker",
-    "language": "Go",
-    "name": "Hoffmann98/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-14T06:05:28Z",
-    "url": "https://github.com/Hoffmann98/llmaker"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11667,
-    "updated_at": "2026-10-14T06:04:02Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "jang34137/VectorRAG.Net",
-    "language": "C#",
-    "name": "jang34137/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-14T06:01:13Z",
-    "url": "https://github.com/jang34137/VectorRAG.Net"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32235,
-    "updated_at": "2026-10-14T05:49:53Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-14T05:49:28Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:42:32Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "phuongsoderberg50661/vektori",
-    "language": "Python",
-    "name": "phuongsoderberg50661/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:38:22Z",
-    "url": "https://github.com/phuongsoderberg50661/vektori"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "Hoffmann843/VectorRAG.Net",
-    "language": "C#",
-    "name": "Hoffmann843/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:36:57Z",
-    "url": "https://github.com/Hoffmann843/VectorRAG.Net"
-  },
-  {
-    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
-    "id": "devharis99/vectra",
-    "language": "Python",
-    "name": "devharis99/vectra",
-    "stars": 1,
-    "updated_at": "2026-10-14T05:36:01Z",
-    "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "ZeynepChauhan/yu-ai-agent",
-    "language": "Java",
-    "name": "ZeynepChauhan/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:34:18Z",
-    "url": "https://github.com/ZeynepChauhan/yu-ai-agent"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-10-14T05:31:16Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
   }
 ]
