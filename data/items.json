@@ -1,11 +1,128 @@
 [
   {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-14T15:42:36Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 1,
+    "updated_at": "2026-10-14T15:42:28Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2014,
+    "updated_at": "2026-10-14T15:40:31Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T15:40:10Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "danielagrigorev79/llmaker",
+    "language": "Go",
+    "name": "danielagrigorev79/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-14T15:39:06Z",
+    "url": "https://github.com/danielagrigorev79/llmaker"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35075,
+    "updated_at": "2026-10-14T15:38:56Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "ClaraIvanov/developers-guide-to-ai",
+    "language": "Python",
+    "name": "ClaraIvanov/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-14T15:38:48Z",
+    "url": "https://github.com/ClaraIvanov/developers-guide-to-ai"
+  },
+  {
+    "description": "\u6cd5\u5f8b\u6cd5\u89c4\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff08RAG\uff09\uff1a\u53cc\u901a\u9053\u67b6\u6784\uff08\u5feb\u95ee\u5feb\u7b54 + \u68c0\u7d22\u589e\u5f3a\uff09\uff0c\u6cd5\u6761\u4e0e\u95ee\u7b54\u53cc\u8def\u53ec\u56de\u3001BGE-Reranker \u7cbe\u6392\u3001\u6761\u6587\u53f7\u7cbe\u786e\u8def\u7531\u3001\u65f6\u6548\u8fc7\u6ee4\u4e0e\u5f15\u7528\u6821\u9a8c\uff1b288 \u90e8\u73b0\u884c\u6cd5\u5f8b / 21,312 \u6761\u6cd5\u6761 / 2 \u4e07\u6761\u6cd5\u5f8b\u95ee\u7b54\uff0c\u914d 4 \u7c7b\u53ef\u590d",
+    "id": "yanxiao-ci/lawrag",
+    "language": "Python",
+    "name": "yanxiao-ci/lawrag",
+    "stars": 0,
+    "updated_at": "2026-10-14T15:38:27Z",
+    "url": "https://github.com/yanxiao-ci/lawrag"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 23,
+    "updated_at": "2026-10-14T15:35:18Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9466,
+    "updated_at": "2026-10-14T15:40:24Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T15:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T15:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32278,
+    "updated_at": "2026-10-14T15:29:58Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "OpenEverest provider for Milvus",
     "id": "openeverest/provider-milvus",
     "language": "Go",
     "name": "openeverest/provider-milvus",
     "stars": 0,
-    "updated_at": "2026-10-14T15:29:40Z",
+    "updated_at": "2026-10-14T15:36:54Z",
     "url": "https://github.com/openeverest/provider-milvus"
   },
   {
@@ -23,17 +140,8 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1483,
-    "updated_at": "2026-10-14T15:28:16Z",
+    "updated_at": "2026-10-14T15:31:12Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "\u6cd5\u5f8b\u6cd5\u89c4\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff08RAG\uff09\uff1a\u53cc\u901a\u9053\u67b6\u6784\uff08\u5feb\u95ee\u5feb\u7b54 + \u68c0\u7d22\u589e\u5f3a\uff09\uff0c\u6cd5\u6761\u4e0e\u95ee\u7b54\u53cc\u8def\u53ec\u56de\u3001BGE-Reranker \u7cbe\u6392\u3001\u6761\u6587\u53f7\u7cbe\u786e\u8def\u7531\u3001\u65f6\u6548\u8fc7\u6ee4\u4e0e\u5f15\u7528\u6821\u9a8c\uff1b288 \u90e8\u73b0\u884c\u6cd5\u5f8b / 21,312 \u6761\u6cd5\u6761 / 2 \u4e07\u6761\u6cd5\u5f8b\u95ee\u7b54\uff0c\u914d 4 \u7c7b\u53ef\u590d",
-    "id": "yanxiao-ci/lawrag",
-    "language": "Python",
-    "name": "yanxiao-ci/lawrag",
-    "stars": 0,
-    "updated_at": "2026-10-14T15:28:02Z",
-    "url": "https://github.com/yanxiao-ci/lawrag"
   },
   {
     "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
@@ -54,15 +162,6 @@
     "url": "https://github.com/pinecone-io/pinecone-api"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T15:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
     "id": "gyr0byte/Generative-AI",
     "language": "Python",
@@ -72,22 +171,13 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32276,
-    "updated_at": "2026-10-14T15:29:58Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T15:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16882,
+    "updated_at": "2026-10-14T15:11:35Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Upload a PDF, ask questions, get answers with exact page citations \u2014 or an honest \"not found\" instead of a guess. Hybrid",
@@ -115,15 +205,6 @@
     "stars": 9,
     "updated_at": "2026-10-14T15:28:15Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T15:09:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -180,21 +261,12 @@
     "url": "https://github.com/chyinan/AegisRAG"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-14T15:21:24Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9400,
-    "updated_at": "2026-10-14T15:29:29Z",
+    "updated_at": "2026-10-14T15:44:20Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "cyborginc/cyborgdb-py",
     "stars": 8,
-    "updated_at": "2026-10-14T14:40:42Z",
+    "updated_at": "2026-10-14T15:44:35Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
   },
   {
@@ -248,7 +320,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8370,
-    "updated_at": "2026-10-14T15:29:26Z",
+    "updated_at": "2026-10-14T15:35:31Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -266,7 +338,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-14T14:32:32Z",
+    "updated_at": "2026-10-14T15:44:05Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T14:06:51Z",
     "url": "https://github.com/OmkarDeshmukh001/ProfessorMindAI"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6199,
-    "updated_at": "2026-10-14T14:06:26Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35074,
-    "updated_at": "2026-10-14T15:23:07Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46383,
-    "updated_at": "2026-10-14T13:57:54Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-go",
-    "language": "Go",
-    "name": "cyborginc/cyborgdb-go",
-    "stars": 9,
-    "updated_at": "2026-10-14T13:53:38Z",
-    "url": "https://github.com/cyborginc/cyborgdb-go"
-  },
-  {
-    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
-    "id": "nikoma/bicdb",
-    "language": "Rust",
-    "name": "nikoma/bicdb",
-    "stars": 2,
-    "updated_at": "2026-10-14T13:48:26Z",
-    "url": "https://github.com/nikoma/bicdb"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 35,
-    "updated_at": "2026-10-14T13:45:57Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "\ud83d\ude80 Production-ready MERN + AI-powered application featuring Microservices Architecture, Multi-Agent AI System, LangGraph,",
-    "id": "chandan-0416/advanced-backend-concepts",
-    "language": "JavaScript",
-    "name": "chandan-0416/advanced-backend-concepts",
-    "stars": 1,
-    "updated_at": "2026-10-14T13:45:23Z",
-    "url": "https://github.com/chandan-0416/advanced-backend-concepts"
-  },
-  {
-    "description": "Chunk and index tenant lifecycle runbooks from a typed Python service.",
-    "id": "VeyraStorm8259/tenant-lifecycle-vector-ingest",
-    "language": "Python",
-    "name": "VeyraStorm8259/tenant-lifecycle-vector-ingest",
-    "stars": 0,
-    "updated_at": "2026-10-14T13:44:41Z",
-    "url": "https://github.com/VeyraStorm8259/tenant-lifecycle-vector-ingest"
   }
 ]
