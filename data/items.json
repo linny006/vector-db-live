@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T10:09:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-10-14T10:05:56Z",
+    "url": "https://github.com/tryAGI/Pinecone"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:05:17Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "",
+    "id": "ChromiaProject/vector-db-extension",
+    "language": "Kotlin",
+    "name": "ChromiaProject/vector-db-extension",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:04:18Z",
+    "url": "https://github.com/ChromiaProject/vector-db-extension"
+  },
+  {
+    "description": "Local-first LLM gateway: semantic caching and RAG on Qdrant, cost-aware routing from a local Ollama tier to a LiteLLM cl",
+    "id": "MAhsaanUllah/pulse-llm-gateway",
+    "language": "Python",
+    "name": "MAhsaanUllah/pulse-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:03:23Z",
+    "url": "https://github.com/MAhsaanUllah/pulse-llm-gateway"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T10:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T10:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -31,7 +94,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4042,
+    "stars": 4047,
     "updated_at": "2026-10-14T09:53:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -45,15 +108,6 @@
     "url": "https://github.com/SameetAsadullah/applygraph"
   },
   {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-14T09:52:21Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -61,24 +115,6 @@
     "stars": 7129,
     "updated_at": "2026-10-14T09:55:00Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T09:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T10:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-14T09:49:10Z",
+    "updated_at": "2026-10-14T10:00:44Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 9466,
     "updated_at": "2026-10-14T09:54:12Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T09:38:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -140,7 +167,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8365,
-    "updated_at": "2026-10-14T10:00:00Z",
+    "updated_at": "2026-10-14T10:12:58Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -178,6 +205,15 @@
     "stars": 243,
     "updated_at": "2026-10-14T09:23:35Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9401,
+    "updated_at": "2026-10-14T09:23:23Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "VoyageAI Travel Planner - Backend",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 4,
-    "updated_at": "2026-10-14T09:04:44Z",
+    "updated_at": "2026-10-14T10:14:24Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46381,
-    "updated_at": "2026-10-14T08:52:09Z",
+    "updated_at": "2026-10-14T10:11:00Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16880,
-    "updated_at": "2026-10-14T09:57:31Z",
+    "updated_at": "2026-10-14T10:12:08Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32248,
-    "updated_at": "2026-10-14T08:05:51Z",
+    "updated_at": "2026-10-14T10:11:28Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 431,
-    "updated_at": "2026-10-14T09:54:18Z",
+    "updated_at": "2026-10-14T10:11:28Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T07:44:13Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-14T07:37:59Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 123,
-    "updated_at": "2026-10-14T07:37:48Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "An Enterprise-Grade Advanced RAG Engine powered by FastAPI, LangChain, Qdrant, and React. Engineered with Hybrid Search ",
-    "id": "MeetRamani28/Nexus-RAG",
-    "language": "TypeScript",
-    "name": "MeetRamani28/Nexus-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-14T07:37:38Z",
-    "url": "https://github.com/MeetRamani28/Nexus-RAG"
-  },
-  {
-    "description": "Top Real Time Vector Database Sharding (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-Real-Time-Vector-Database-Sharding",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Real-Time-Vector-Database-Sharding",
-    "stars": 0,
-    "updated_at": "2026-10-14T07:36:07Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Real-Time-Vector-Database-Sharding"
   }
 ]
