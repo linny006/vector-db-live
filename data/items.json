@@ -1,5 +1,59 @@
 [
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67083,
+    "updated_at": "2026-10-14T22:28:11Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-14T22:24:57Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
+    "id": "schwabauerbriantomas-gif/splatdb",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/splatdb",
+    "stars": 0,
+    "updated_at": "2026-10-14T22:23:38Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1639,
+    "updated_at": "2026-10-14T22:22:13Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-14T22:22:09Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T22:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,22 +72,22 @@
     "url": "https://github.com/hypercrux/hypercrux"
   },
   {
-    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
-    "id": "schwabauerbriantomas-gif/splatdb",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/splatdb",
-    "stars": 0,
-    "updated_at": "2026-10-14T22:12:38Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-14T22:09:17Z",
+    "updated_at": "2026-10-14T22:27:06Z",
     "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9400,
+    "updated_at": "2026-10-14T22:28:16Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "VectorVoyage is a solution for querying datasets with 100% efficiency using Elasticsearch. During document ingestion, we",
@@ -94,7 +148,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 2052,
+    "stars": 2051,
     "updated_at": "2026-10-14T22:03:46Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -108,13 +162,13 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T22:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8369,
+    "updated_at": "2026-10-14T22:01:27Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -153,15 +207,6 @@
     "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67083,
-    "updated_at": "2026-10-14T21:51:00Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
     "id": "Aashutosh31/arc-ai-project",
     "language": "JavaScript",
@@ -180,15 +225,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1639,
-    "updated_at": "2026-10-14T21:58:04Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
     "id": "cyborginc/cyborgdb-js",
     "language": "TypeScript",
@@ -203,7 +239,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-14T22:05:53Z",
+    "updated_at": "2026-10-14T22:24:42Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -275,17 +311,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1202,
-    "updated_at": "2026-10-14T22:13:51Z",
+    "updated_at": "2026-10-14T22:20:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9401,
-    "updated_at": "2026-10-14T22:08:44Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
@@ -302,7 +329,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7129,
-    "updated_at": "2026-10-14T20:55:14Z",
+    "updated_at": "2026-10-14T22:28:37Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -333,21 +360,12 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8370,
-    "updated_at": "2026-10-14T22:01:27Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6523,
-    "updated_at": "2026-10-14T22:14:14Z",
+    "updated_at": "2026-10-14T22:29:30Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-14T20:54:08Z",
+    "updated_at": "2026-10-14T22:27:25Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32293,
-    "updated_at": "2026-10-14T22:10:58Z",
+    "updated_at": "2026-10-14T22:21:29Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -418,7 +436,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4429,
+    "stars": 4434,
     "updated_at": "2026-10-14T20:10:54Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 1483,
     "updated_at": "2026-10-14T20:06:00Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-10-14T21:36:55Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
-    "id": "datris/datris-platform-oss",
-    "language": "Scala",
-    "name": "datris/datris-platform-oss",
-    "stars": 12,
-    "updated_at": "2026-10-14T19:55:50Z",
-    "url": "https://github.com/datris/datris-platform-oss"
   }
 ]
