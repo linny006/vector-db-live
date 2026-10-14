@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-14T09:15:21Z",
+    "updated_at": "2026-10-14T09:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-14T09:30:17Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
+    "id": "davidfernxndez/github-repository-rag",
+    "language": "Jupyter Notebook",
+    "name": "davidfernxndez/github-repository-rag",
+    "stars": 0,
+    "updated_at": "2026-10-14T09:27:01Z",
+    "url": "https://github.com/davidfernxndez/github-repository-rag"
+  },
+  {
+    "description": "The Kubernetes operator for K8ssandra",
+    "id": "k8ssandra/k8ssandra-operator",
+    "language": "Go",
+    "name": "k8ssandra/k8ssandra-operator",
+    "stars": 243,
+    "updated_at": "2026-10-14T09:23:35Z",
+    "url": "https://github.com/k8ssandra/k8ssandra-operator"
+  },
+  {
+    "description": "VoyageAI Travel Planner - Backend",
+    "id": "satyabrata-mishra/VoyageAI-Backend",
+    "language": "Python",
+    "name": "satyabrata-mishra/VoyageAI-Backend",
+    "stars": 0,
+    "updated_at": "2026-10-14T09:21:03Z",
+    "url": "https://github.com/satyabrata-mishra/VoyageAI-Backend"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7129,
+    "updated_at": "2026-10-14T09:23:41Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T09:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise RAG knowledge-base Q&A system \u2014 FastAPI + React 18 + LangChain + ChromaDB, with multi-user / multi-session ch",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T09:14:50Z",
     "url": "https://github.com/huangJJ8/Intelligent_Q-A_RAG"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7129,
-    "updated_at": "2026-10-14T09:14:10Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -63,15 +108,6 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T09:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9466,
-    "updated_at": "2026-10-14T09:04:05Z",
+    "updated_at": "2026-10-14T09:25:52Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-14T08:52:27Z",
+    "updated_at": "2026-10-14T09:17:50Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16880,
-    "updated_at": "2026-10-14T08:36:32Z",
+    "updated_at": "2026-10-14T09:21:16Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "qdrant/skills",
     "stars": 257,
-    "updated_at": "2026-10-14T08:31:51Z",
+    "updated_at": "2026-10-14T09:17:46Z",
     "url": "https://github.com/qdrant/skills"
   },
   {
@@ -229,7 +265,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32245,
+    "stars": 32247,
     "updated_at": "2026-10-14T08:05:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 431,
-    "updated_at": "2026-10-14T09:01:03Z",
+    "updated_at": "2026-10-14T09:21:11Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
@@ -283,7 +319,7 @@
     "id": "liliang-cn/cortexdb",
     "language": "Go",
     "name": "liliang-cn/cortexdb",
-    "stars": 388,
+    "stars": 389,
     "updated_at": "2026-10-14T07:45:25Z",
     "url": "https://github.com/liliang-cn/cortexdb"
   },
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-14T07:22:20Z",
     "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-10-14T07:22:05Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
-    "id": "tayyabimam1/awesome-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "tayyabimam1/awesome-ai-agent-stack",
-    "stars": 28,
-    "updated_at": "2026-10-14T07:21:41Z",
-    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-10-14T07:21:37Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-14T07:21:29Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   }
 ]
