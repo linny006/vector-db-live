@@ -1,12 +1,66 @@
 [
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7129,
-    "updated_at": "2026-10-14T11:59:16Z",
-    "url": "https://github.com/vespa-engine/vespa"
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-14T12:14:55Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T12:13:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udd16 Intelligent RAG chatbot with dual modes: COVID-19 medical assistant + custom document Q&A. Built with LangChain, Chrom",
+    "id": "fomativeh/RAG-Chatbot",
+    "language": "Python",
+    "name": "fomativeh/RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-14T12:12:31Z",
+    "url": "https://github.com/fomativeh/RAG-Chatbot"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-14T12:11:33Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2052,
+    "updated_at": "2026-10-14T12:11:24Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-14T12:08:43Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-14T12:07:12Z",
+    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -14,8 +68,71 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1355,
-    "updated_at": "2026-10-14T11:58:41Z",
+    "updated_at": "2026-10-14T12:05:49Z",
     "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 393,
+    "updated_at": "2026-10-14T12:02:06Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-14T12:14:44Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16112,
+    "updated_at": "2026-10-14T12:00:58Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector s",
+    "id": "intersystems-community/FHIR-AI-Hackathon-Kit",
+    "language": "Jupyter Notebook",
+    "name": "intersystems-community/FHIR-AI-Hackathon-Kit",
+    "stars": 7,
+    "updated_at": "2026-10-14T12:00:30Z",
+    "url": "https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T12:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T12:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7129,
+    "updated_at": "2026-10-14T12:10:17Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -36,67 +153,13 @@
     "url": "https://github.com/RewFa-CEO/AMP"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:56:49Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-14T11:49:15Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-14T11:48:40Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector s",
-    "id": "intersystems-community/FHIR-AI-Hackathon-Kit",
-    "language": "Jupyter Notebook",
-    "name": "intersystems-community/FHIR-AI-Hackathon-Kit",
-    "stars": 7,
-    "updated_at": "2026-10-14T11:48:10Z",
-    "url": "https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4134,
+    "stars": 4143,
     "updated_at": "2026-10-14T11:46:39Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T11:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T11:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-10-14T11:41:46Z",
+    "updated_at": "2026-10-14T12:10:52Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 354,
     "updated_at": "2026-10-14T11:40:29Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T11:38:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
@@ -194,7 +248,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-14T11:59:04Z",
+    "updated_at": "2026-10-14T12:12:20Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -202,7 +256,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32259,
+    "stars": 32261,
     "updated_at": "2026-10-14T11:21:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -230,7 +284,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35072,
-    "updated_at": "2026-10-14T11:49:04Z",
+    "updated_at": "2026-10-14T12:06:39Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -257,17 +311,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1201,
-    "updated_at": "2026-10-14T11:59:48Z",
+    "updated_at": "2026-10-14T12:14:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
-    "id": "Yacine-ai-tech/IntelAI",
-    "language": "Python",
-    "name": "Yacine-ai-tech/IntelAI",
-    "stars": 0,
-    "updated_at": "2026-10-14T11:54:37Z",
-    "url": "https://github.com/Yacine-ai-tech/IntelAI"
   },
   {
     "description": "Rest client for Qdrant vector database",
@@ -297,15 +342,6 @@
     "url": "https://github.com/hypercrux/hypercrux"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2052,
-    "updated_at": "2026-10-14T10:50:18Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "\ud83d\ude80 Production-ready MERN + AI-powered application featuring Microservices Architecture, Multi-Agent AI System, LangGraph,",
     "id": "chandan-0416/advanced-backend-concepts",
     "language": "JavaScript",
@@ -320,7 +356,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16881,
-    "updated_at": "2026-10-14T11:49:53Z",
+    "updated_at": "2026-10-14T12:07:29Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9466,
-    "updated_at": "2026-10-14T11:40:26Z",
+    "updated_at": "2026-10-14T12:09:33Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -356,7 +392,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8367,
-    "updated_at": "2026-10-14T11:52:12Z",
+    "updated_at": "2026-10-14T12:14:52Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Kotlin",
     "name": "ChromiaProject/vector-db-extension",
     "stars": 0,
-    "updated_at": "2026-10-14T11:44:46Z",
+    "updated_at": "2026-10-14T12:01:00Z",
     "url": "https://github.com/ChromiaProject/vector-db-extension"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-14T09:54:44Z",
     "url": "https://github.com/samettemizer/nesti"
-  },
-  {
-    "description": "ApplyGraph is a session-based AI job copilot that uses FastAPI, LangGraph, PostgreSQL/pgvector, and OpenTelemetry to ana",
-    "id": "SameetAsadullah/applygraph",
-    "language": "Python",
-    "name": "SameetAsadullah/applygraph",
-    "stars": 0,
-    "updated_at": "2026-10-14T09:52:48Z",
-    "url": "https://github.com/SameetAsadullah/applygraph"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6198,
-    "updated_at": "2026-10-14T11:52:43Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
-    "id": "IdoY12/awesome-free-ai-apis",
-    "language": "JavaScript",
-    "name": "IdoY12/awesome-free-ai-apis",
-    "stars": 1,
-    "updated_at": "2026-10-14T09:35:31Z",
-    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-14T09:35:21Z",
-    "url": "https://github.com/badhope/spark"
   }
 ]
