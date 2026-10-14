@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T11:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1201,
+    "updated_at": "2026-10-14T11:00:20Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Local-first LLM gateway: semantic caching and RAG on Qdrant, cost-aware routing from a local Ollama tier to a LiteLLM cl",
+    "id": "MAhsaanUllah/pulse-llm-gateway",
+    "language": "Python",
+    "name": "MAhsaanUllah/pulse-llm-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:57:54Z",
+    "url": "https://github.com/MAhsaanUllah/pulse-llm-gateway"
+  },
+  {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
     "id": "sunormesky-max/epicode",
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-10-14T10:45:14Z",
+    "updated_at": "2026-10-14T10:56:34Z",
     "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-14T10:55:32Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
+    "id": "hypercrux/hypercrux",
+    "language": "Go",
+    "name": "hypercrux/hypercrux",
+    "stars": 0,
+    "updated_at": "2026-10-14T10:50:53Z",
+    "url": "https://github.com/hypercrux/hypercrux"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2052,
+    "updated_at": "2026-10-14T10:50:18Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-14T10:45:29Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T10:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -86,26 +158,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9466,
-    "updated_at": "2026-10-14T10:32:06Z",
+    "updated_at": "2026-10-14T10:47:09Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T10:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T10:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -122,7 +176,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8367,
-    "updated_at": "2026-10-14T10:40:18Z",
+    "updated_at": "2026-10-14T10:46:31Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -135,15 +189,6 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2052,
-    "updated_at": "2026-10-14T10:19:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
     "id": "sh1v-max/AI-Backend",
     "language": "HTML",
@@ -151,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T10:18:18Z",
     "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-14T10:15:49Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -175,7 +211,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32252,
+    "stars": 32253,
     "updated_at": "2026-10-14T10:11:28Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T10:28:16Z",
     "url": "https://github.com/ChromiaProject/vector-db-extension"
-  },
-  {
-    "description": "Local-first LLM gateway: semantic caching and RAG on Qdrant, cost-aware routing from a local Ollama tier to a LiteLLM cl",
-    "id": "MAhsaanUllah/pulse-llm-gateway",
-    "language": "Python",
-    "name": "MAhsaanUllah/pulse-llm-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-14T10:03:23Z",
-    "url": "https://github.com/MAhsaanUllah/pulse-llm-gateway"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -229,7 +256,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4058,
+    "stars": 4081,
     "updated_at": "2026-10-14T09:53:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -387,15 +414,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1201,
-    "updated_at": "2026-10-14T08:40:29Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
     "id": "DopamineDriven/slipstream",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 97,
     "updated_at": "2026-10-14T08:28:39Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 3,
-    "updated_at": "2026-10-14T08:19:56Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
-    "id": "ihrimon/ai-engineering-journey",
-    "language": "HTML",
-    "name": "ihrimon/ai-engineering-journey",
-    "stars": 0,
-    "updated_at": "2026-10-14T08:14:15Z",
-    "url": "https://github.com/ihrimon/ai-engineering-journey"
   }
 ]
