@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T06:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 381,
+    "updated_at": "2026-10-14T06:15:13Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-14T06:14:20Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-14T06:10:30Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2052,
+    "updated_at": "2026-10-14T06:10:22Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "Hoffmann98/llmaker",
     "language": "Go",
     "name": "Hoffmann98/llmaker",
     "stars": 0,
-    "updated_at": "2026-10-14T05:59:40Z",
+    "updated_at": "2026-10-14T06:05:28Z",
     "url": "https://github.com/Hoffmann98/llmaker"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11667,
+    "updated_at": "2026-10-14T06:04:02Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "jang34137/VectorRAG.Net",
+    "language": "C#",
+    "name": "jang34137/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-14T06:01:13Z",
+    "url": "https://github.com/jang34137/VectorRAG.Net"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T06:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-14T06:06:49Z",
+    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -18,29 +99,11 @@
     "url": "https://github.com/RohannShetty/DocHarvest"
   },
   {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "jang34137/VectorRAG.Net",
-    "language": "C#",
-    "name": "jang34137/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-14T06:00:10Z",
-    "url": "https://github.com/jang34137/VectorRAG.Net"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2052,
-    "updated_at": "2026-10-14T05:52:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32232,
+    "stars": 32233,
     "updated_at": "2026-10-14T05:49:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -54,33 +117,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 381,
-    "updated_at": "2026-10-14T05:47:21Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T05:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T05:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
@@ -90,13 +126,13 @@
     "url": "https://github.com/fenecdb/fenec"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-14T05:39:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46378,
+    "updated_at": "2026-10-14T05:40:52Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T05:38:22Z",
     "url": "https://github.com/phuongsoderberg50661/vektori"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-14T06:00:17Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T05:01:47Z",
     "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-10-14T04:57:31Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-10-14T04:55:46Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-10-14T04:55:39Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
