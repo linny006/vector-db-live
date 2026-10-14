@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T14:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-14T13:59:09Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46383,
+    "updated_at": "2026-10-14T13:57:54Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-go",
+    "language": "Go",
+    "name": "cyborginc/cyborgdb-go",
+    "stars": 9,
+    "updated_at": "2026-10-14T13:53:38Z",
+    "url": "https://github.com/cyborginc/cyborgdb-go"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 2,
+    "updated_at": "2026-10-14T13:48:26Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-14T13:45:57Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T13:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\ude80 Production-ready MERN + AI-powered application featuring Microservices Architecture, Multi-Agent AI System, LangGraph,",
+    "id": "chandan-0416/advanced-backend-concepts",
+    "language": "JavaScript",
+    "name": "chandan-0416/advanced-backend-concepts",
+    "stars": 1,
+    "updated_at": "2026-10-14T13:45:23Z",
+    "url": "https://github.com/chandan-0416/advanced-backend-concepts"
+  },
+  {
     "description": "Chunk and index tenant lifecycle runbooks from a typed Python service.",
     "id": "VeyraStorm8259/tenant-lifecycle-vector-ingest",
     "language": "Python",
@@ -14,8 +86,26 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-14T13:43:42Z",
+    "updated_at": "2026-10-14T13:59:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35073,
+    "updated_at": "2026-10-14T13:56:45Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32267,
+    "updated_at": "2026-10-14T13:40:18Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -43,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T13:30:44Z",
     "url": "https://github.com/ChromiaProject/vector-db-extension"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T13:30:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T13:30:34Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
@@ -108,15 +180,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46383,
-    "updated_at": "2026-10-14T13:19:47Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T13:17:33Z",
     "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32265,
-    "updated_at": "2026-10-14T13:40:18Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -189,21 +243,12 @@
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-14T13:20:03Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 124,
-    "updated_at": "2026-10-14T13:32:45Z",
+    "updated_at": "2026-10-14T13:54:00Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9466,
-    "updated_at": "2026-10-14T13:41:57Z",
+    "updated_at": "2026-10-14T13:58:17Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7129,
-    "updated_at": "2026-10-14T13:34:42Z",
+    "updated_at": "2026-10-14T13:51:38Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -338,7 +383,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1202,
-    "updated_at": "2026-10-14T13:44:44Z",
+    "updated_at": "2026-10-14T13:58:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -356,7 +401,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8368,
-    "updated_at": "2026-10-14T13:43:11Z",
+    "updated_at": "2026-10-14T13:58:55Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -365,7 +410,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-14T13:14:08Z",
+    "updated_at": "2026-10-14T13:51:51Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-14T13:44:50Z",
+    "updated_at": "2026-10-14T13:49:49Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1355,
     "updated_at": "2026-10-14T12:24:26Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
-    "id": "abhishekkapoorx/DEVOPS-AGENT",
-    "language": "Python",
-    "name": "abhishekkapoorx/DEVOPS-AGENT",
-    "stars": 0,
-    "updated_at": "2026-10-14T12:19:23Z",
-    "url": "https://github.com/abhishekkapoorx/DEVOPS-AGENT"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 257,
-    "updated_at": "2026-10-14T13:28:03Z",
-    "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "\ud83e\udd16 Intelligent RAG chatbot with dual modes: COVID-19 medical assistant + custom document Q&A. Built with LangChain, Chrom",
-    "id": "fomativeh/RAG-Chatbot",
-    "language": "Python",
-    "name": "fomativeh/RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-14T12:12:31Z",
-    "url": "https://github.com/fomativeh/RAG-Chatbot"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-14T12:11:33Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-14T12:07:12Z",
-    "url": "https://github.com/fenecdb/fenec"
   }
 ]
