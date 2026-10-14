@@ -1,6 +1,60 @@
 [
   {
-    "description": "Athena: Research data acquisition and RAG pipeline for automated research ingestion, enrichment, and ranking.",
+    "description": "Runnable, minimal LLM examples for Java - Spring AI & LangChain4j. RAG, agents, MCP servers, tool calling, structured ou",
+    "id": "alxkm/java-ai-cookbook",
+    "language": "Java",
+    "name": "alxkm/java-ai-cookbook",
+    "stars": 3,
+    "updated_at": "2026-10-14T19:24:20Z",
+    "url": "https://github.com/alxkm/java-ai-cookbook"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67073,
+    "updated_at": "2026-10-14T19:24:01Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11674,
+    "updated_at": "2026-10-14T19:23:13Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "OpenEverest provider for Milvus",
+    "id": "openeverest/provider-milvus",
+    "language": "Go",
+    "name": "openeverest/provider-milvus",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:15:41Z",
+    "url": "https://github.com/openeverest/provider-milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T19:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-14T19:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
     "id": "Thisen-Ekanayake/Athena",
     "language": "Python",
     "name": "Thisen-Ekanayake/Athena",
@@ -13,7 +67,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4363,
+    "stars": 4370,
     "updated_at": "2026-10-14T19:14:45Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "fireflyframework/fireflyframework-agentic",
     "stars": 4,
-    "updated_at": "2026-10-14T19:15:24Z",
+    "updated_at": "2026-10-14T19:16:20Z",
     "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-14T19:14:09Z",
+    "updated_at": "2026-10-14T19:20:15Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -90,15 +144,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Runnable, minimal LLM examples for Java - Spring AI & LangChain4j. RAG, agents, MCP servers, tool calling, structured ou",
-    "id": "alxkm/java-ai-cookbook",
-    "language": "Java",
-    "name": "alxkm/java-ai-cookbook",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:04:54Z",
-    "url": "https://github.com/alxkm/java-ai-cookbook"
-  },
-  {
     "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
     "id": "Yacine-ai-tech/IntelAI",
     "language": "Python",
@@ -115,24 +160,6 @@
     "stars": 296,
     "updated_at": "2026-10-14T19:01:36Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T19:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9400,
-    "updated_at": "2026-10-14T19:09:22Z",
+    "updated_at": "2026-10-14T19:23:11Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32293,
-    "updated_at": "2026-10-14T18:59:09Z",
+    "updated_at": "2026-10-14T19:20:56Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -414,15 +441,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11674,
-    "updated_at": "2026-10-14T18:42:59Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 59568,
     "updated_at": "2026-10-14T17:57:42Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 905,
-    "updated_at": "2026-10-14T18:15:30Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 124,
-    "updated_at": "2026-10-14T19:05:53Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
   }
 ]
