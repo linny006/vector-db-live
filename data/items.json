@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-14T21:15:22Z",
+    "updated_at": "2026-10-14T21:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-14T21:27:03Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1639,
+    "updated_at": "2026-10-14T21:28:53Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-14T21:23:59Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2014,
+    "updated_at": "2026-10-14T21:23:41Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "A vector-native embedded graph database. One graph. One vector space. One file.",
+    "id": "r-firth/vecgra",
+    "language": "Rust",
+    "name": "r-firth/vecgra",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:28:25Z",
+    "url": "https://github.com/r-firth/vecgra"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "HTML",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-10-14T21:20:26Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-14T21:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -14,7 +77,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 67081,
-    "updated_at": "2026-10-14T21:14:50Z",
+    "updated_at": "2026-10-14T21:24:21Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -25,6 +88,24 @@
     "stars": 0,
     "updated_at": "2026-10-14T21:13:48Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46385,
+    "updated_at": "2026-10-14T21:11:52Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11675,
+    "updated_at": "2026-10-14T21:11:08Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Edge Vector search engine with Vulkan GPU acceleration, hierarchical indexing (HRM2), and native LangChain integration. ",
@@ -50,7 +131,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1202,
-    "updated_at": "2026-10-14T21:12:38Z",
+    "updated_at": "2026-10-14T21:30:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -59,26 +140,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9401,
-    "updated_at": "2026-10-14T21:11:54Z",
+    "updated_at": "2026-10-14T21:28:20Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1639,
-    "updated_at": "2026-10-14T21:01:01Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-14T21:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
@@ -144,6 +207,15 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8370,
+    "updated_at": "2026-10-14T20:45:57Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
     "id": "Mr-DS-ML-85/StrikeDB",
     "language": "Rust",
@@ -176,7 +248,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35075,
-    "updated_at": "2026-10-14T20:56:21Z",
+    "updated_at": "2026-10-14T21:30:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -194,17 +266,8 @@
     "language": "JavaScript",
     "name": "Aashutosh31/arc-ai-project",
     "stars": 2,
-    "updated_at": "2026-10-14T21:15:09Z",
+    "updated_at": "2026-10-14T21:30:10Z",
     "url": "https://github.com/Aashutosh31/arc-ai-project"
-  },
-  {
-    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
-    "id": "sh1v-max/AI-Backend",
-    "language": "HTML",
-    "name": "sh1v-max/AI-Backend",
-    "stars": 0,
-    "updated_at": "2026-10-14T20:28:03Z",
-    "url": "https://github.com/sh1v-max/AI-Backend"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -234,31 +297,13 @@
     "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2014,
-    "updated_at": "2026-10-14T20:19:52Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4408,
+    "stars": 4414,
     "updated_at": "2026-10-14T20:10:54Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46384,
-    "updated_at": "2026-10-14T21:11:52Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
@@ -268,15 +313,6 @@
     "stars": 1483,
     "updated_at": "2026-10-14T20:06:00Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-14T20:53:18Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -313,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T19:48:25Z",
     "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-14T20:34:34Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Go Client for CyborgDB: The Encrypted Vector Database",
@@ -367,15 +394,6 @@
     "stars": 124,
     "updated_at": "2026-10-14T20:18:00Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11674,
-    "updated_at": "2026-10-14T21:11:08Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "OpenEverest provider for Milvus",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T19:05:00Z",
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 296,
-    "updated_at": "2026-10-14T20:54:41Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-14T18:59:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
