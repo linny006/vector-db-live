@@ -1,11 +1,47 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-15T18:29:52Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Hybrid RAG sales agent (SQL + pgvector) for a real fashion e-commerce brand. n8n, Gemini, Supabase, Telegram.",
+    "id": "YahiaRabbi/hybrid-rag-sales-agent",
+    "language": "JSON",
+    "name": "YahiaRabbi/hybrid-rag-sales-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:17:32Z",
+    "url": "https://github.com/YahiaRabbi/hybrid-rag-sales-agent"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1640,
+    "updated_at": "2026-10-15T18:19:05Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T18:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T18:15:22Z",
+    "updated_at": "2026-10-15T18:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32353,
-    "updated_at": "2026-10-15T18:14:19Z",
+    "updated_at": "2026-10-15T18:20:06Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -99,15 +135,6 @@
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T18:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -115,15 +142,6 @@
     "stars": 7129,
     "updated_at": "2026-10-15T18:04:11Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Hybrid RAG sales agent (SQL + pgvector) for a real fashion e-commerce brand. n8n, Gemini, Supabase, Telegram.",
-    "id": "YahiaRabbi/hybrid-rag-sales-agent",
-    "language": "PowerShell",
-    "name": "YahiaRabbi/hybrid-rag-sales-agent",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:00:08Z",
-    "url": "https://github.com/YahiaRabbi/hybrid-rag-sales-agent"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-15T18:12:52Z",
+    "updated_at": "2026-10-15T18:28:13Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 1356,
     "updated_at": "2026-10-15T17:50:40Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1640,
-    "updated_at": "2026-10-15T17:48:14Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
@@ -248,7 +257,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9402,
-    "updated_at": "2026-10-15T18:03:06Z",
+    "updated_at": "2026-10-15T18:26:07Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-15T17:20:39Z",
+    "updated_at": "2026-10-15T18:19:59Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -302,7 +311,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8373,
-    "updated_at": "2026-10-15T16:58:38Z",
+    "updated_at": "2026-10-15T18:29:26Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -373,7 +382,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 5419,
+    "stars": 5424,
     "updated_at": "2026-10-15T16:22:50Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 59577,
     "updated_at": "2026-10-15T15:53:55Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 27,
-    "updated_at": "2026-10-15T15:45:09Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   }
 ]
