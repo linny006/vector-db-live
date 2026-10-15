@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T22:00:21Z",
+    "updated_at": "2026-10-15T22:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-15T22:14:34Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3336,
+    "updated_at": "2026-10-15T22:13:27Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-15T22:13:19Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "A production-ready Legal AI Assistant built with RAG. Uses Qdrant Cloud, OpenRouter, and Streamlit to accurately answer ",
+    "id": "prashantv04/pdf-rag-system",
+    "language": "Python",
+    "name": "prashantv04/pdf-rag-system",
+    "stars": 0,
+    "updated_at": "2026-10-15T22:12:24Z",
+    "url": "https://github.com/prashantv04/pdf-rag-system"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "Dream-Pixels-Forge/memorius",
     "stars": 1,
-    "updated_at": "2026-10-15T21:59:42Z",
+    "updated_at": "2026-10-15T22:11:52Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-15T22:08:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-15T22:04:29Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T22:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -36,21 +99,12 @@
     "url": "https://github.com/alexandrmotologa/vectorlite-wasm"
   },
   {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 124,
-    "updated_at": "2026-10-15T21:58:27Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11680,
-    "updated_at": "2026-10-15T21:57:22Z",
+    "updated_at": "2026-10-15T22:05:08Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "lancedb/docs",
     "stars": 11,
-    "updated_at": "2026-10-15T21:51:16Z",
+    "updated_at": "2026-10-15T22:03:38Z",
     "url": "https://github.com/lancedb/docs"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T21:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
@@ -124,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-10-15T21:44:17Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "A production-ready Legal AI Assistant built with RAG. Uses Qdrant Cloud, OpenRouter, and Streamlit to accurately answer ",
-    "id": "prashantv04/pdf-rag-system",
-    "language": "Python",
-    "name": "prashantv04/pdf-rag-system",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:42:27Z",
-    "url": "https://github.com/prashantv04/pdf-rag-system"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -162,21 +198,12 @@
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-15T21:36:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32361,
-    "updated_at": "2026-10-15T21:50:04Z",
+    "updated_at": "2026-10-15T22:08:11Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1640,
-    "updated_at": "2026-10-15T21:16:20Z",
+    "updated_at": "2026-10-15T22:09:56Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -239,7 +266,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8374,
-    "updated_at": "2026-10-15T21:05:52Z",
+    "updated_at": "2026-10-15T22:06:39Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9402,
-    "updated_at": "2026-10-15T21:34:40Z",
+    "updated_at": "2026-10-15T22:09:53Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 7129,
     "updated_at": "2026-10-15T20:13:29Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 281,
-    "updated_at": "2026-10-15T20:10:39Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-15T21:34:27Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-15T20:01:09Z",
-    "url": "https://github.com/nambok/mentedb"
   }
 ]
