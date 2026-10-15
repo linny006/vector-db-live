@@ -5,8 +5,161 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T15:15:21Z",
+    "updated_at": "2026-10-15T15:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-15T15:29:08Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "MERGEN: Deniz Y\u00fcret Temelli Geli\u015ftirilmi\u015f De-Asciifier & Hermit Dave 50K S\u00f6zl\u00fc\u011f\u00fc, 4 Bili\u015fsel Faset, DAG Orkestrasyonu, Q",
+    "id": "code-ex/mergen-rag",
+    "language": "Python",
+    "name": "code-ex/mergen-rag",
+    "stars": 0,
+    "updated_at": "2026-10-15T15:28:40Z",
+    "url": "https://github.com/code-ex/mergen-rag"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 4995,
+    "updated_at": "2026-10-15T15:28:14Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9402,
+    "updated_at": "2026-10-15T15:27:20Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-15T15:30:07Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-10-15T15:26:23Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-10-15T15:25:33Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13254,
+    "updated_at": "2026-10-15T15:24:54Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-10-15T15:24:49Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-15T15:23:28Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2051,
+    "updated_at": "2026-10-15T15:21:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 64,
+    "updated_at": "2026-10-15T15:21:12Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-15T15:26:41Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
+    "id": "subrataai-wq/Aether-Manifold",
+    "language": "Rust",
+    "name": "subrataai-wq/Aether-Manifold",
+    "stars": 1,
+    "updated_at": "2026-10-15T15:17:25Z",
+    "url": "https://github.com/subrataai-wq/Aether-Manifold"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8373,
+    "updated_at": "2026-10-15T15:30:11Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Multimodal semantic search across text, images, audio and video using Google's EmbeddingGemma 2, PostgreSQL + pgvector a",
+    "id": "FrancescoCiannavei/Multimodal-Vector-Search",
+    "language": "Python",
+    "name": "FrancescoCiannavei/Multimodal-Vector-Search",
+    "stars": 2,
+    "updated_at": "2026-10-15T15:15:48Z",
+    "url": "https://github.com/FrancescoCiannavei/Multimodal-Vector-Search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T15:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -14,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32348,
-    "updated_at": "2026-10-15T15:14:03Z",
+    "updated_at": "2026-10-15T15:27:08Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -25,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T15:12:50Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T15:12:46Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
@@ -90,24 +234,6 @@
     "url": "https://github.com/openeverest/provider-milvus"
   },
   {
-    "description": "MERGEN: Deniz Y\u00fcret Temelli Geli\u015ftirilmi\u015f De-Asciifier & Hermit Dave 50K S\u00f6zl\u00fc\u011f\u00fc, 4 Bili\u015fsel Faset, DAG Orkestrasyonu, Q",
-    "id": "code-ex/mergen-rag",
-    "language": "Python",
-    "name": "code-ex/mergen-rag",
-    "stars": 0,
-    "updated_at": "2026-10-15T14:58:40Z",
-    "url": "https://github.com/code-ex/mergen-rag"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-15T15:12:38Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -122,17 +248,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9465,
-    "updated_at": "2026-10-15T14:53:15Z",
+    "updated_at": "2026-10-15T15:28:41Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2051,
-    "updated_at": "2026-10-15T14:50:13Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -149,7 +266,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1203,
-    "updated_at": "2026-10-15T15:02:32Z",
+    "updated_at": "2026-10-15T15:21:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -171,15 +288,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-15T14:48:35Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
@@ -198,15 +306,6 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9402,
-    "updated_at": "2026-10-15T14:55:30Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -216,21 +315,12 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 4974,
-    "updated_at": "2026-10-15T14:26:36Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11680,
-    "updated_at": "2026-10-15T14:23:10Z",
+    "updated_at": "2026-10-15T15:25:40Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -239,17 +329,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16884,
-    "updated_at": "2026-10-15T14:42:48Z",
+    "updated_at": "2026-10-15T15:26:11Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-15T14:20:09Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -270,31 +351,13 @@
     "url": "https://github.com/datris/datris-platform-oss"
   },
   {
-    "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
-    "id": "subrataai-wq/Aether-Manifold",
-    "language": "Rust",
-    "name": "subrataai-wq/Aether-Manifold",
-    "stars": 1,
-    "updated_at": "2026-10-15T14:12:35Z",
-    "url": "https://github.com/subrataai-wq/Aether-Manifold"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35085,
-    "updated_at": "2026-10-15T15:12:50Z",
+    "updated_at": "2026-10-15T15:24:51Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13254,
-    "updated_at": "2026-10-15T14:08:20Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
@@ -304,15 +367,6 @@
     "stars": 431,
     "updated_at": "2026-10-15T14:12:01Z",
     "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "Multimodal semantic search across text, images, audio and video using Google's EmbeddingGemma 2, PostgreSQL + pgvector a",
-    "id": "FrancescoCiannavei/Multimodal-Vector-Search",
-    "language": "Python",
-    "name": "FrancescoCiannavei/Multimodal-Vector-Search",
-    "stars": 2,
-    "updated_at": "2026-10-15T14:05:10Z",
-    "url": "https://github.com/FrancescoCiannavei/Multimodal-Vector-Search"
   },
   {
     "description": "GenAI project suite featuring RAG systems, Streamlit chatbots, TNPSC exam retrieval, and price monitoring. Built with La",
@@ -329,7 +383,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-15T14:01:12Z",
+    "updated_at": "2026-10-15T15:26:11Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -391,62 +445,8 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 39994,
+    "stars": 39995,
     "updated_at": "2026-10-15T13:48:36Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
-    "id": "pathwaycom/serviette",
-    "language": "Python",
-    "name": "pathwaycom/serviette",
-    "stars": 58796,
-    "updated_at": "2026-10-15T13:44:34Z",
-    "url": "https://github.com/pathwaycom/serviette"
-  },
-  {
-    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
-    "id": "api-evangelist/chroma",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma",
-    "stars": 0,
-    "updated_at": "2026-10-15T13:44:20Z",
-    "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
-    "id": "2B-4G10/NoLockQS",
-    "language": "Kotlin",
-    "name": "2B-4G10/NoLockQS",
-    "stars": 3,
-    "updated_at": "2026-10-15T13:46:50Z",
-    "url": "https://github.com/2B-4G10/NoLockQS"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8372,
-    "updated_at": "2026-10-15T15:10:48Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-15T13:34:41Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
-    "id": "joydeep-07/Lens-LM",
-    "language": "JavaScript",
-    "name": "joydeep-07/Lens-LM",
-    "stars": 1,
-    "updated_at": "2026-10-15T13:25:20Z",
-    "url": "https://github.com/joydeep-07/Lens-LM"
   }
 ]
