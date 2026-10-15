@@ -1,5 +1,95 @@
 [
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9402,
+    "updated_at": "2026-10-15T20:43:24Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
+    "id": "Bessouat40/RAGLight",
+    "language": "Python",
+    "name": "Bessouat40/RAGLight",
+    "stars": 672,
+    "updated_at": "2026-10-15T20:44:37Z",
+    "url": "https://github.com/Bessouat40/RAGLight"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-15T20:37:22Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-15T20:37:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open specification and community manifesto to formalize best practices, schemas, and specifications for cross-vendor dat",
+    "id": "opencrawling/open-ingestion-standard",
+    "language": "\u2014",
+    "name": "opencrawling/open-ingestion-standard",
+    "stars": 2,
+    "updated_at": "2026-10-15T20:36:26Z",
+    "url": "https://github.com/opencrawling/open-ingestion-standard"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:35:57Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-15T20:33:58Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-15T20:45:02Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T20:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T20:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "In-browser vector search, hardware SIMD HNSW indexing, and client-side generative RAG engine running entirely in WebAsse",
     "id": "alexandrmotologa/vectorlite-wasm",
     "language": "TypeScript",
@@ -22,7 +112,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67160,
+    "stars": 67161,
     "updated_at": "2026-10-15T20:20:13Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -59,35 +149,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1203,
-    "updated_at": "2026-10-15T20:29:31Z",
+    "updated_at": "2026-10-15T20:39:06Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T20:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T20:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-15T20:18:45Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -126,15 +189,6 @@
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-15T20:07:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -160,15 +214,6 @@
     "stars": 4,
     "updated_at": "2026-10-15T20:01:42Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
-    "id": "Bessouat40/RAGLight",
-    "language": "Python",
-    "name": "Bessouat40/RAGLight",
-    "stars": 672,
-    "updated_at": "2026-10-15T20:26:35Z",
-    "url": "https://github.com/Bessouat40/RAGLight"
   },
   {
     "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
@@ -279,15 +324,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9402,
-    "updated_at": "2026-10-15T20:28:39Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
     "id": "ry-ops/commit-relay",
     "language": "Shell",
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "dovahkiin-v/mitos",
     "stars": 4,
-    "updated_at": "2026-10-15T20:13:42Z",
+    "updated_at": "2026-10-15T20:37:21Z",
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32358,
-    "updated_at": "2026-10-15T20:05:21Z",
+    "updated_at": "2026-10-15T20:41:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -340,15 +376,6 @@
     "stars": 12,
     "updated_at": "2026-10-15T20:08:02Z",
     "url": "https://github.com/datris/datris-platform-oss"
-  },
-  {
-    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:05:05Z",
-    "url": "https://github.com/api-evangelist/contentstack"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9467,
-    "updated_at": "2026-10-15T19:24:52Z",
+    "updated_at": "2026-10-15T20:42:34Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T18:43:25Z",
     "url": "https://github.com/CGainsWorks/ml-agentic-research-assistant"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:36:52Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:36:39Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:35:02Z",
-    "url": "https://github.com/api-evangelist/milvus"
   }
 ]
