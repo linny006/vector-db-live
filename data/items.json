@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T10:18:00Z",
+    "updated_at": "2026-10-15T10:30:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 4710,
+    "updated_at": "2026-10-15T10:29:55Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
+    "id": "Mid-D-Man/msx",
+    "language": "Rust",
+    "name": "Mid-D-Man/msx",
+    "stars": 0,
+    "updated_at": "2026-10-15T10:29:05Z",
+    "url": "https://github.com/Mid-D-Man/msx"
+  },
+  {
+    "description": "High-performance approximate nearest neighbor (ANN) vector database built from scratch featuring multi-layer HNSW graph ",
+    "id": "asad-mj/micro-vectordb",
+    "language": "Python",
+    "name": "asad-mj/micro-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-15T10:23:15Z",
+    "url": "https://github.com/asad-mj/micro-vectordb"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16884,
+    "updated_at": "2026-10-15T10:26:10Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
+    "id": "davidfernxndez/github-repository-rag",
+    "language": "Jupyter Notebook",
+    "name": "davidfernxndez/github-repository-rag",
+    "stars": 0,
+    "updated_at": "2026-10-15T10:22:38Z",
+    "url": "https://github.com/davidfernxndez/github-repository-rag"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4445,
+    "updated_at": "2026-10-15T10:20:38Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T10:19:04Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multimodal semantic search across text, images, audio and video using Google's EmbeddingGemma 2, PostgreSQL + pgvector a",
@@ -18,22 +81,13 @@
     "url": "https://github.com/FrancescoCiannavei/Multimodal-Vector-Search"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T10:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 4709,
-    "updated_at": "2026-10-15T10:14:59Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8373,
+    "updated_at": "2026-10-15T10:13:53Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -41,7 +95,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-15T10:13:17Z",
+    "updated_at": "2026-10-15T10:24:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -126,21 +180,12 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16884,
-    "updated_at": "2026-10-15T09:58:53Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32330,
-    "updated_at": "2026-10-15T10:10:05Z",
+    "updated_at": "2026-10-15T10:29:09Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 4,
     "updated_at": "2026-10-15T09:22:39Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4445,
-    "updated_at": "2026-10-15T10:01:36Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T08:04:09Z",
     "url": "https://github.com/ishandutta2007/Awesome-AI-Agent-Memory"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-15T08:21:03Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
-    "id": "yashbhosale789/yashbhosale789",
-    "language": "\u2014",
-    "name": "yashbhosale789/yashbhosale789",
-    "stars": 0,
-    "updated_at": "2026-10-15T07:49:55Z",
-    "url": "https://github.com/yashbhosale789/yashbhosale789"
-  },
-  {
-    "description": "A Python-based Retrieval-Augmented Generation (RAG) pipeline for retrieving relevant information and generating context-",
-    "id": "Cybergoul/py-rag-pipeline",
-    "language": "Jupyter Notebook",
-    "name": "Cybergoul/py-rag-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-15T07:48:43Z",
-    "url": "https://github.com/Cybergoul/py-rag-pipeline"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1356,
-    "updated_at": "2026-10-15T07:38:14Z",
-    "url": "https://github.com/infinispan/infinispan"
   }
 ]
