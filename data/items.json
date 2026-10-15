@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T08:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ARTEA: Theory-Guided Hierarchical Graph Index for High-Performance ANN Search",
+    "id": "NTU-Siqiang-Group/Artea",
+    "language": "C++",
+    "name": "NTU-Siqiang-Group/Artea",
+    "stars": 4,
+    "updated_at": "2026-10-15T08:44:45Z",
+    "url": "https://github.com/NTU-Siqiang-Group/Artea"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-15T08:44:00Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-15T08:43:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 271,
+    "updated_at": "2026-10-15T08:42:58Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39130,
+    "updated_at": "2026-10-15T08:36:15Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 2,
+    "updated_at": "2026-10-15T08:33:51Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T08:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
     "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
@@ -13,7 +85,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 39961,
+    "stars": 39963,
     "updated_at": "2026-10-15T08:29:52Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -22,7 +94,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4658,
+    "stars": 4665,
     "updated_at": "2026-10-15T08:29:41Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -45,40 +117,13 @@
     "url": "https://github.com/takurot/Pyrope"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T08:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T08:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32326,
-    "updated_at": "2026-10-15T08:12:51Z",
+    "updated_at": "2026-10-15T08:39:43Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-15T08:11:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-15T07:54:29Z",
+    "updated_at": "2026-10-15T08:31:26Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7130,
-    "updated_at": "2026-10-15T07:54:34Z",
+    "updated_at": "2026-10-15T08:40:19Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2051,
-    "updated_at": "2026-10-15T07:43:52Z",
+    "updated_at": "2026-10-15T08:38:27Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -216,21 +261,12 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39130,
-    "updated_at": "2026-10-15T08:29:57Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-15T07:31:09Z",
+    "updated_at": "2026-10-15T08:45:17Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -284,17 +320,8 @@
     "language": "Kotlin",
     "name": "2B-4G10/NoLockQS",
     "stars": 3,
-    "updated_at": "2026-10-15T07:18:09Z",
+    "updated_at": "2026-10-15T08:39:51Z",
     "url": "https://github.com/2B-4G10/NoLockQS"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 271,
-    "updated_at": "2026-10-15T08:29:15Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -329,7 +356,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8372,
-    "updated_at": "2026-10-15T08:06:17Z",
+    "updated_at": "2026-10-15T08:31:12Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -369,15 +396,6 @@
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
-    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
-    "id": "joydeep-07/Lens-LM",
-    "language": "JavaScript",
-    "name": "joydeep-07/Lens-LM",
-    "stars": 1,
-    "updated_at": "2026-10-15T06:27:15Z",
-    "url": "https://github.com/joydeep-07/Lens-LM"
-  },
-  {
     "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
     "id": "gxc02529-jpg/KnowLoop",
     "language": "Python",
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9401,
-    "updated_at": "2026-10-15T08:16:07Z",
+    "updated_at": "2026-10-15T08:40:50Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-15T05:56:12Z",
     "url": "https://github.com/chyinan/AegisRAG"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xGraph/10xGraph",
-    "language": "Python",
-    "name": "10xGraph/10xGraph",
-    "stars": 23,
-    "updated_at": "2026-10-15T05:55:29Z",
-    "url": "https://github.com/10xGraph/10xGraph"
-  },
-  {
-    "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
-    "id": "ry-ops/commit-relay",
-    "language": "Shell",
-    "name": "ry-ops/commit-relay",
-    "stars": 2,
-    "updated_at": "2026-10-15T05:54:08Z",
-    "url": "https://github.com/ry-ops/commit-relay"
   }
 ]
