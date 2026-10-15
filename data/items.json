@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T11:45:23Z",
+    "updated_at": "2026-10-15T12:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Top Vector Similarity Search (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-Vector-Similarity-Search",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Vector-Similarity-Search",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:57:39Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Vector-Similarity-Search"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32335,
+    "updated_at": "2026-10-15T11:56:59Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
+    "id": "hypercrux/hypercrux",
+    "language": "Go",
+    "name": "hypercrux/hypercrux",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:55:34Z",
+    "url": "https://github.com/hypercrux/hypercrux"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 125,
+    "updated_at": "2026-10-15T11:53:45Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:53:17Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46387,
+    "updated_at": "2026-10-15T11:51:50Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Agentic RAG assistant for research papers: LangGraph + Claude, Qdrant, Tavily, corrective RAG and claim verification.",
+    "id": "heyayush87/SCHOLARAGENT",
+    "language": "Python",
+    "name": "heyayush87/SCHOLARAGENT",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:49:27Z",
+    "url": "https://github.com/heyayush87/SCHOLARAGENT"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13253,
+    "updated_at": "2026-10-15T11:49:18Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-15T11:48:58Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-15T11:46:15Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T11:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "MERGEN: T\u00fcrk\u00e7e morfolojik kalkan, 4 bili\u015fsel faset, Qdrant hibrit arama ve DAG orkestrasyonu ile hedefi \u0131skalamayan kuru",
@@ -18,15 +117,6 @@
     "url": "https://github.com/code-ex/mergen-rag"
   },
   {
-    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
-    "id": "hypercrux/hypercrux",
-    "language": "Go",
-    "name": "hypercrux/hypercrux",
-    "stars": 0,
-    "updated_at": "2026-10-15T11:42:35Z",
-    "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
     "id": "redis/redis-vl-python",
     "language": "Python",
@@ -34,15 +124,6 @@
     "stars": 431,
     "updated_at": "2026-10-15T11:40:57Z",
     "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32334,
-    "updated_at": "2026-10-15T11:38:32Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -54,15 +135,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13253,
-    "updated_at": "2026-10-15T11:36:54Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Portfolio of seven applied AI systems spanning multimodal interaction, local language-model training, RAG and vector-sto",
     "id": "shubham-61291/ai-systems-lab",
     "language": "Python",
@@ -70,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T11:36:49Z",
     "url": "https://github.com/shubham-61291/ai-systems-lab"
-  },
-  {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-15T11:38:50Z",
-    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 39975,
-    "updated_at": "2026-10-15T11:35:02Z",
+    "updated_at": "2026-10-15T11:48:26Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -149,17 +212,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-15T11:44:41Z",
+    "updated_at": "2026-10-15T11:48:00Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T11:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
@@ -175,7 +229,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4770,
+    "stars": 4782,
     "updated_at": "2026-10-15T11:22:42Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -223,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-10-15T11:05:02Z",
     "url": "https://github.com/FrancescoCiannavei/Multimodal-Vector-Search"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46387,
-    "updated_at": "2026-10-15T10:53:54Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T10:29:05Z",
     "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "High-performance approximate nearest neighbor (ANN) vector database built from scratch featuring multi-layer HNSW graph ",
-    "id": "asad-mj/micro-vectordb",
-    "language": "Python",
-    "name": "asad-mj/micro-vectordb",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:23:15Z",
-    "url": "https://github.com/asad-mj/micro-vectordb"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16884,
-    "updated_at": "2026-10-15T11:34:13Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
-    "id": "davidfernxndez/github-repository-rag",
-    "language": "Jupyter Notebook",
-    "name": "davidfernxndez/github-repository-rag",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:22:38Z",
-    "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35083,
-    "updated_at": "2026-10-15T10:18:45Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8373,
-    "updated_at": "2026-10-15T11:40:06Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
