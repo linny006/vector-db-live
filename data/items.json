@@ -1,5 +1,95 @@
 [
   {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-15T12:58:43Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 39981,
+    "updated_at": "2026-10-15T12:59:23Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-15T12:56:17Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
+    "id": "seekwhencer/gitea-qdrant-sync",
+    "language": "JavaScript",
+    "name": "seekwhencer/gitea-qdrant-sync",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:54:06Z",
+    "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
+  },
+  {
+    "description": "Top Text Embeddings Vector Search (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-Text-Embeddings-Vector-Search",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Text-Embeddings-Vector-Search",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:53:59Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Text-Embeddings-Vector-Search"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-15T12:52:04Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7130,
+    "updated_at": "2026-10-15T12:54:21Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Backend to handle Business transaction",
+    "id": "aashutosh-repo/DailyFinanceTracker",
+    "language": "Java",
+    "name": "aashutosh-repo/DailyFinanceTracker",
+    "stars": 1,
+    "updated_at": "2026-10-15T12:48:40Z",
+    "url": "https://github.com/aashutosh-repo/DailyFinanceTracker"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-15T12:47:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T12:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,31 +99,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Backend to handle Business transaction",
-    "id": "aashutosh-repo/DailyFinanceTracker",
-    "language": "Java",
-    "name": "aashutosh-repo/DailyFinanceTracker",
-    "stars": 1,
-    "updated_at": "2026-10-15T12:45:19Z",
-    "url": "https://github.com/aashutosh-repo/DailyFinanceTracker"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-15T12:44:24Z",
+    "updated_at": "2026-10-15T12:52:51Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 39980,
-    "updated_at": "2026-10-15T12:38:02Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -72,24 +144,6 @@
     "url": "https://github.com/code-ex/mergen-rag"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-15T12:33:01Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7130,
-    "updated_at": "2026-10-15T12:43:25Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -97,24 +151,6 @@
     "stars": 5,
     "updated_at": "2026-10-15T12:30:48Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T12:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
-    "id": "seekwhencer/gitea-qdrant-sync",
-    "language": "JavaScript",
-    "name": "seekwhencer/gitea-qdrant-sync",
-    "stars": 0,
-    "updated_at": "2026-10-15T12:29:04Z",
-    "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
   },
   {
     "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
@@ -153,15 +189,6 @@
     "url": "https://github.com/ishandutta2007/Awesome-Vector-Database"
   },
   {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-15T12:18:55Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "Top Vector Database Semantic Search (Opensource)  Star if you like it! ",
     "id": "ishandutta2007/Awesome-Vector-Database-Semantic-Search",
     "language": "\u2014",
@@ -180,21 +207,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-15T12:13:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-15T12:13:11Z",
+    "updated_at": "2026-10-15T12:45:56Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13254,
-    "updated_at": "2026-10-15T12:09:55Z",
+    "updated_at": "2026-10-15T12:56:29Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59574,
-    "updated_at": "2026-10-15T12:35:21Z",
+    "updated_at": "2026-10-15T12:51:38Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -319,7 +337,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39135,
+    "stars": 39134,
     "updated_at": "2026-10-15T11:34:06Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -355,7 +373,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4820,
+    "stars": 4838,
     "updated_at": "2026-10-15T11:22:42Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -410,7 +428,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-15T12:33:59Z",
+    "updated_at": "2026-10-15T12:59:20Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T10:43:42Z",
     "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:43:35Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:43:33Z",
-    "url": "https://github.com/api-evangelist/upstash"
   }
 ]
