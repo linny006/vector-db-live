@@ -1,5 +1,149 @@
 [
   {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 27,
+    "updated_at": "2026-10-15T15:45:09Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T15:44:56Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 5111,
+    "updated_at": "2026-10-15T15:44:48Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-15T15:44:26Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
+    "id": "ry-ops/commit-relay",
+    "language": "Shell",
+    "name": "ry-ops/commit-relay",
+    "stars": 2,
+    "updated_at": "2026-10-15T15:44:01Z",
+    "url": "https://github.com/ry-ops/commit-relay"
+  },
+  {
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-15T15:44:07Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 97,
+    "updated_at": "2026-10-15T15:41:18Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-15T15:39:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "VectorNova is a Python-based project I built to explore how vector databases work, how similarity search can be optimize",
+    "id": "shaurya3000/VectorDB-Python",
+    "language": "HTML",
+    "name": "shaurya3000/VectorDB-Python",
+    "stars": 0,
+    "updated_at": "2026-10-15T15:37:40Z",
+    "url": "https://github.com/shaurya3000/VectorDB-Python"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32348,
+    "updated_at": "2026-10-15T15:40:56Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-10-15T15:36:12Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-15T15:34:20Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
+    "id": "api-evangelist/surrealdb",
+    "language": "\u2014",
+    "name": "api-evangelist/surrealdb",
+    "stars": 0,
+    "updated_at": "2026-10-15T15:33:38Z",
+    "url": "https://github.com/api-evangelist/surrealdb"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59578,
+    "updated_at": "2026-10-15T15:31:56Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-15T15:45:06Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T15:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,6 +162,15 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9466,
+    "updated_at": "2026-10-15T15:45:10Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "MERGEN: Deniz Y\u00fcret Temelli Geli\u015ftirilmi\u015f De-Asciifier & Hermit Dave 50K S\u00f6zl\u00fc\u011f\u00fc, 4 Bili\u015fsel Faset, DAG Orkestrasyonu, Q",
     "id": "code-ex/mergen-rag",
     "language": "Python",
@@ -27,21 +180,12 @@
     "url": "https://github.com/code-ex/mergen-rag"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 4995,
-    "updated_at": "2026-10-15T15:28:14Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9402,
-    "updated_at": "2026-10-15T15:27:20Z",
+    "updated_at": "2026-10-15T15:37:42Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -50,7 +194,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-15T15:30:07Z",
+    "updated_at": "2026-10-15T15:42:42Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -117,15 +261,6 @@
     "url": "https://github.com/oracle/langchain-oracle"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-15T15:26:41Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
     "id": "subrataai-wq/Aether-Manifold",
     "language": "Rust",
@@ -151,24 +286,6 @@
     "stars": 2,
     "updated_at": "2026-10-15T15:15:48Z",
     "url": "https://github.com/FrancescoCiannavei/Multimodal-Vector-Search"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T15:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32348,
-    "updated_at": "2026-10-15T15:27:08Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
@@ -198,15 +315,6 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-15T15:08:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
     "id": "RohannShetty/DocHarvest",
     "language": "Python",
@@ -216,21 +324,12 @@
     "url": "https://github.com/RohannShetty/DocHarvest"
   },
   {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T15:03:12Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
     "description": "OpenEverest provider for Milvus",
     "id": "openeverest/provider-milvus",
     "language": "Go",
     "name": "openeverest/provider-milvus",
     "stars": 0,
-    "updated_at": "2026-10-15T15:01:54Z",
+    "updated_at": "2026-10-15T15:32:13Z",
     "url": "https://github.com/openeverest/provider-milvus"
   },
   {
@@ -243,21 +342,12 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9465,
-    "updated_at": "2026-10-15T15:28:41Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-15T14:47:15Z",
+    "updated_at": "2026-10-15T15:43:43Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -268,6 +358,15 @@
     "stars": 1203,
     "updated_at": "2026-10-15T15:21:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6203,
+    "updated_at": "2026-10-15T14:42:59Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Pragmatic AI Engineering Skills Library for LLMs, RAG, Agents, MCP & Spring AI",
@@ -283,7 +382,7 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6522,
+    "stars": 6523,
     "updated_at": "2026-10-15T14:39:17Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
@@ -304,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T14:27:57Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59578,
-    "updated_at": "2026-10-15T15:01:23Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -358,95 +448,5 @@
     "stars": 35085,
     "updated_at": "2026-10-15T15:24:51Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Redis Vector Library. The AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 431,
-    "updated_at": "2026-10-15T14:12:01Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "GenAI project suite featuring RAG systems, Streamlit chatbots, TNPSC exam retrieval, and price monitoring. Built with La",
-    "id": "dctn/GEN_AI-PROJECTS",
-    "language": "Jupyter Notebook",
-    "name": "dctn/GEN_AI-PROJECTS",
-    "stars": 0,
-    "updated_at": "2026-10-15T14:04:37Z",
-    "url": "https://github.com/dctn/GEN_AI-PROJECTS"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-15T15:26:11Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 97,
-    "updated_at": "2026-10-15T15:13:44Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-15T13:57:15Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-10-15T13:55:47Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-10-15T13:55:37Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-15T13:53:46Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "A RAG (Retrieval-Augmented Generation) chatbot for querying personal project documentation. Built to replace hallucinati",
-    "id": "yildirimemirhan/rag-project-assistant",
-    "language": "Python",
-    "name": "yildirimemirhan/rag-project-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-15T13:49:25Z",
-    "url": "https://github.com/yildirimemirhan/rag-project-assistant"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 39995,
-    "updated_at": "2026-10-15T13:48:36Z",
-    "url": "https://github.com/volcengine/OpenViking"
   }
 ]
