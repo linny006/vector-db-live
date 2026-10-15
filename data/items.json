@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T18:00:24Z",
+    "updated_at": "2026-10-15T18:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
+    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
+    "language": "Python",
+    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:12:51Z",
+    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-15T18:11:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Incremental CDC synchronization engine between operational databases and vector indices using content-hash delta detecti",
+    "id": "alexandrmotologa/vectorsync",
+    "language": "TypeScript",
+    "name": "alexandrmotologa/vectorsync",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:08:27Z",
+    "url": "https://github.com/alexandrmotologa/vectorsync"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-15T18:08:26Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 6,
+    "updated_at": "2026-10-15T18:10:29Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-15T18:06:24Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-15T18:03:24Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32353,
+    "updated_at": "2026-10-15T18:14:19Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Multimodal semantic search across text, images, audio and video using Google's EmbeddingGemma 2, PostgreSQL + pgvector a",
+    "id": "FrancescoCiannavei/Multimodal-Vector-Search",
+    "language": "Python",
+    "name": "FrancescoCiannavei/Multimodal-Vector-Search",
+    "stars": 2,
+    "updated_at": "2026-10-15T18:01:59Z",
+    "url": "https://github.com/FrancescoCiannavei/Multimodal-Vector-Search"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-15T18:00:43Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T18:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7129,
+    "updated_at": "2026-10-15T18:04:11Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Hybrid RAG sales agent (SQL + pgvector) for a real fashion e-commerce brand. n8n, Gemini, Supabase, Telegram.",
+    "id": "YahiaRabbi/hybrid-rag-sales-agent",
+    "language": "PowerShell",
+    "name": "YahiaRabbi/hybrid-rag-sales-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T18:00:08Z",
+    "url": "https://github.com/YahiaRabbi/hybrid-rag-sales-agent"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -18,21 +135,12 @@
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "Incremental CDC synchronization engine between operational databases and vector indices using content-hash delta detecti",
-    "id": "alexandrmotologa/vectorsync",
-    "language": "TypeScript",
-    "name": "alexandrmotologa/vectorsync",
-    "stars": 0,
-    "updated_at": "2026-10-15T17:54:25Z",
-    "url": "https://github.com/alexandrmotologa/vectorsync"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-15T17:57:59Z",
+    "updated_at": "2026-10-15T18:12:52Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -41,7 +149,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-15T18:00:26Z",
+    "updated_at": "2026-10-15T18:00:28Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -81,24 +189,6 @@
     "url": "https://github.com/RishabhMathur06/CASO-RAG"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32352,
-    "updated_at": "2026-10-15T17:46:59Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T17:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
@@ -117,15 +207,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-10-15T17:51:40Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -133,15 +214,6 @@
     "stars": 67159,
     "updated_at": "2026-10-15T17:36:41Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-15T17:35:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -162,15 +234,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 124,
-    "updated_at": "2026-10-15T17:30:01Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
     "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
     "id": "Thisen-Ekanayake/Athena",
     "language": "Python",
@@ -185,7 +248,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9402,
-    "updated_at": "2026-10-15T17:56:46Z",
+    "updated_at": "2026-10-15T18:03:06Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -306,20 +369,11 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7129,
-    "updated_at": "2026-10-15T18:00:21Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 5409,
+    "stars": 5419,
     "updated_at": "2026-10-15T16:22:50Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -331,15 +385,6 @@
     "stars": 36,
     "updated_at": "2026-10-15T16:18:36Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-15T16:17:06Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
@@ -403,50 +448,5 @@
     "stars": 27,
     "updated_at": "2026-10-15T15:45:09Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T15:44:56Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
-    "id": "ry-ops/commit-relay",
-    "language": "Shell",
-    "name": "ry-ops/commit-relay",
-    "stars": 2,
-    "updated_at": "2026-10-15T15:45:46Z",
-    "url": "https://github.com/ry-ops/commit-relay"
-  },
-  {
-    "description": "VectorNova is a Python-based project I built to explore how vector databases work, how similarity search can be optimize",
-    "id": "shaurya3000/VectorDB-Python",
-    "language": "HTML",
-    "name": "shaurya3000/VectorDB-Python",
-    "stars": 0,
-    "updated_at": "2026-10-15T15:37:40Z",
-    "url": "https://github.com/shaurya3000/VectorDB-Python"
-  },
-  {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-10-15T15:36:12Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-15T15:34:20Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   }
 ]
