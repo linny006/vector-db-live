@@ -1,11 +1,83 @@
 [
   {
+    "description": "In-browser vector search, hardware SIMD HNSW indexing, and client-side generative RAG engine running entirely in WebAsse",
+    "id": "alexandrmotologa/vectorlite-wasm",
+    "language": "TypeScript",
+    "name": "alexandrmotologa/vectorlite-wasm",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:28:52Z",
+    "url": "https://github.com/alexandrmotologa/vectorlite-wasm"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "sHolland62505/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "sHolland62505/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:24:25Z",
+    "url": "https://github.com/sHolland62505/rag-interview-system"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67160,
+    "updated_at": "2026-10-15T20:20:13Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-15T20:18:52Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-15T20:22:56Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "HTML",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:18:24Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1203,
+    "updated_at": "2026-10-15T20:29:31Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T20:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T20:15:22Z",
+    "updated_at": "2026-10-15T20:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-15T20:13:48Z",
+    "updated_at": "2026-10-15T20:18:45Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T20:12:42Z",
     "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 124,
-    "updated_at": "2026-10-15T20:12:41Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
@@ -72,15 +135,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1203,
-    "updated_at": "2026-10-15T20:03:42Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -95,7 +149,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8374,
-    "updated_at": "2026-10-15T20:01:51Z",
+    "updated_at": "2026-10-15T20:21:36Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -108,21 +162,12 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T20:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
     "id": "Bessouat40/RAGLight",
     "language": "Python",
     "name": "Bessouat40/RAGLight",
     "stars": 672,
-    "updated_at": "2026-10-15T20:00:37Z",
+    "updated_at": "2026-10-15T20:26:35Z",
     "url": "https://github.com/Bessouat40/RAGLight"
   },
   {
@@ -158,17 +203,8 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1640,
-    "updated_at": "2026-10-15T19:53:56Z",
+    "updated_at": "2026-10-15T20:24:42Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "In-browser vector search, hardware SIMD HNSW indexing, and client-side generative RAG engine running entirely in WebAsse",
-    "id": "alexandrmotologa/vectorlite-wasm",
-    "language": "TypeScript",
-    "name": "alexandrmotologa/vectorlite-wasm",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:52:15Z",
-    "url": "https://github.com/alexandrmotologa/vectorlite-wasm"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9402,
-    "updated_at": "2026-10-15T19:54:47Z",
+    "updated_at": "2026-10-15T20:28:39Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -319,7 +355,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35086,
+    "stars": 35087,
     "updated_at": "2026-10-15T18:59:47Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -349,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T19:25:28Z",
     "url": "https://github.com/openeverest/provider-milvus"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67160,
-    "updated_at": "2026-10-15T19:37:15Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T18:35:02Z",
     "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
-    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "language": "Python",
-    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:31:51Z",
-    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-15T18:29:52Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16885,
-    "updated_at": "2026-10-15T19:10:24Z",
-    "url": "https://github.com/weaviate/weaviate"
   }
 ]
