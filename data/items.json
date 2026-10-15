@@ -1,12 +1,111 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T12:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend to handle Business transaction",
+    "id": "aashutosh-repo/DailyFinanceTracker",
+    "language": "Java",
+    "name": "aashutosh-repo/DailyFinanceTracker",
+    "stars": 1,
+    "updated_at": "2026-10-15T12:45:19Z",
+    "url": "https://github.com/aashutosh-repo/DailyFinanceTracker"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4445,
+    "updated_at": "2026-10-15T12:44:24Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 39980,
+    "updated_at": "2026-10-15T12:38:02Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2051,
+    "updated_at": "2026-10-15T12:36:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:33:57Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Top Vector Similarity Search (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-Vector-Similarity-Search",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Vector-Similarity-Search",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:33:41Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Vector-Similarity-Search"
+  },
+  {
+    "description": "MERGEN: Deniz Y\u00fcret Temelli Geli\u015ftirilmi\u015f De-Asciifier & Hermit Dave 50K S\u00f6zl\u00fc\u011f\u00fc, 4 Bili\u015fsel Faset, DAG Orkestrasyonu, Q",
+    "id": "code-ex/mergen-rag",
+    "language": "Python",
+    "name": "code-ex/mergen-rag",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:33:01Z",
+    "url": "https://github.com/code-ex/mergen-rag"
+  },
+  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-15T12:29:37Z",
+    "updated_at": "2026-10-15T12:33:01Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7130,
+    "updated_at": "2026-10-15T12:43:25Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-15T12:30:48Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T12:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
@@ -31,7 +130,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32336,
+    "stars": 32337,
     "updated_at": "2026-10-15T12:22:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -43,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T12:21:36Z",
     "url": "https://github.com/ishandutta2007/Awesome-Vector-Search-Engine"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 39978,
-    "updated_at": "2026-10-15T12:21:26Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "MERGEN: T\u00fcrk\u00e7e morfolojik kalkan, 4 bili\u015fsel faset, Qdrant hibrit arama ve DAG orkestrasyonu ile hedefi \u0131skalamayan kuru",
-    "id": "code-ex/mergen-rag",
-    "language": "Python",
-    "name": "code-ex/mergen-rag",
-    "stars": 0,
-    "updated_at": "2026-10-15T12:20:40Z",
-    "url": "https://github.com/code-ex/mergen-rag"
   },
   {
     "description": "Top Vector Database (Opensource)  Star if you like it! ",
@@ -88,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T12:18:02Z",
     "url": "https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T12:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T12:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -153,15 +216,6 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "Top Vector Similarity Search (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-Vector-Similarity-Search",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Vector-Similarity-Search",
-    "stars": 0,
-    "updated_at": "2026-10-15T12:05:32Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Vector-Similarity-Search"
-  },
-  {
     "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
     "id": "hypercrux/hypercrux",
     "language": "Go",
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T12:04:32Z",
     "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7130,
-    "updated_at": "2026-10-15T12:27:54Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Agentic RAG assistant for research papers: LangGraph + Claude, Qdrant, Tavily, corrective RAG and claim verification.",
@@ -221,7 +266,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59574,
-    "updated_at": "2026-10-15T11:48:20Z",
+    "updated_at": "2026-10-15T12:35:21Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -274,7 +319,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39134,
+    "stars": 39135,
     "updated_at": "2026-10-15T11:34:06Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -297,15 +342,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4445,
-    "updated_at": "2026-10-15T12:16:50Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
     "id": "ry-ops/commit-relay",
     "language": "Shell",
@@ -319,7 +355,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4805,
+    "stars": 4820,
     "updated_at": "2026-10-15T11:22:42Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -369,21 +405,12 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2051,
-    "updated_at": "2026-10-15T10:48:34Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-15T10:48:22Z",
+    "updated_at": "2026-10-15T12:33:59Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T10:43:33Z",
     "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
-    "id": "api-evangelist/objectbox",
-    "language": "\u2014",
-    "name": "api-evangelist/objectbox",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:42:05Z",
-    "url": "https://github.com/api-evangelist/objectbox"
-  },
-  {
-    "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:41:57Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "MyScale \u2014 independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b",
-    "id": "api-evangelist/myscale",
-    "language": "\u2014",
-    "name": "api-evangelist/myscale",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:41:48Z",
-    "url": "https://github.com/api-evangelist/myscale"
   }
 ]
