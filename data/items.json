@@ -5,24 +5,114 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T07:15:20Z",
+    "updated_at": "2026-10-15T07:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Multimodal semantic search + RAG platform: text, image (CLIP) and audio (Whisper, timestamped) vector search, cross-enco",
-    "id": "sluganesh/omnisearch-ai",
-    "language": "Python",
-    "name": "sluganesh/omnisearch-ai",
+    "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
+    "id": "seekwhencer/gitea-qdrant-sync",
+    "language": "JavaScript",
+    "name": "seekwhencer/gitea-qdrant-sync",
     "stars": 0,
-    "updated_at": "2026-10-15T07:14:28Z",
-    "url": "https://github.com/sluganesh/omnisearch-ai"
+    "updated_at": "2026-10-15T07:29:59Z",
+    "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-15T07:27:25Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2051,
+    "updated_at": "2026-10-15T07:25:44Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 8,
+    "updated_at": "2026-10-15T07:25:54Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
+    "id": "tayyabimam1/awesome-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "tayyabimam1/awesome-ai-agent-stack",
+    "stars": 29,
+    "updated_at": "2026-10-15T07:24:42Z",
+    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
+  },
+  {
+    "description": "Memory infrastructure for AI agents. Type-aware, time-aware, safety-critical. Open source.",
+    "id": "heybeaux/engram",
+    "language": "TypeScript",
+    "name": "heybeaux/engram",
+    "stars": 4,
+    "updated_at": "2026-10-15T07:21:55Z",
+    "url": "https://github.com/heybeaux/engram"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-15T07:22:44Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
+    "id": "2B-4G10/NoLockQS",
+    "language": "Kotlin",
+    "name": "2B-4G10/NoLockQS",
+    "stars": 3,
+    "updated_at": "2026-10-15T07:18:09Z",
+    "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 271,
+    "updated_at": "2026-10-15T07:24:48Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7130,
+    "updated_at": "2026-10-15T07:20:05Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T07:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4619,
+    "stars": 4625,
     "updated_at": "2026-10-15T07:13:52Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -34,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-10-15T07:13:23Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
-    "id": "2B-4G10/NoLockQS",
-    "language": "Kotlin",
-    "name": "2B-4G10/NoLockQS",
-    "stars": 3,
-    "updated_at": "2026-10-15T07:12:54Z",
-    "url": "https://github.com/2B-4G10/NoLockQS"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -59,17 +140,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9465,
-    "updated_at": "2026-10-15T07:11:50Z",
+    "updated_at": "2026-10-15T07:17:07Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 271,
-    "updated_at": "2026-10-15T07:12:49Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -108,29 +180,11 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T07:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 8,
-    "updated_at": "2026-10-15T07:00:19Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 39955,
+    "stars": 39957,
     "updated_at": "2026-10-15T06:46:39Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -194,7 +248,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-15T07:02:14Z",
+    "updated_at": "2026-10-15T07:27:27Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T06:17:30Z",
     "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "Memory infrastructure for AI agents. Type-aware, time-aware, safety-critical. Open source.",
-    "id": "heybeaux/engram",
-    "language": "TypeScript",
-    "name": "heybeaux/engram",
-    "stars": 4,
-    "updated_at": "2026-10-15T06:11:46Z",
-    "url": "https://github.com/heybeaux/engram"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -239,7 +284,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9401,
-    "updated_at": "2026-10-15T07:05:44Z",
+    "updated_at": "2026-10-15T07:28:03Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -310,8 +355,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32321,
-    "updated_at": "2026-10-15T05:49:41Z",
+    "stars": 32322,
+    "updated_at": "2026-10-15T07:27:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2051,
-    "updated_at": "2026-10-15T05:36:25Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
     "id": "kylebrodeur/modal-embedding-server",
     "language": "Python",
@@ -378,15 +414,6 @@
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7130,
-    "updated_at": "2026-10-15T07:15:26Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "working university chatbot ",
     "id": "Arifkhan171/multi-agent-university-assistant",
     "language": "Python",
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-15T05:15:43Z",
+    "updated_at": "2026-10-15T07:22:37Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T05:11:49Z",
     "url": "https://github.com/ballerina-platform/module-ballerinax-ai.milvus"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11678,
-    "updated_at": "2026-10-15T05:09:50Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
-    "id": "Angular2Guy/AIDocumentLibraryChat",
-    "language": "Java",
-    "name": "Angular2Guy/AIDocumentLibraryChat",
-    "stars": 31,
-    "updated_at": "2026-10-15T04:59:28Z",
-    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-15T05:28:41Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   }
 ]
