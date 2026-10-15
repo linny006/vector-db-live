@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T17:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1203,
+    "updated_at": "2026-10-15T17:00:07Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
+    "id": "RohannShetty/DocHarvest",
+    "language": "Python",
+    "name": "RohannShetty/DocHarvest",
+    "stars": 2,
+    "updated_at": "2026-10-15T16:58:53Z",
+    "url": "https://github.com/RohannShetty/DocHarvest"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67154,
+    "updated_at": "2026-10-15T16:58:20Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-15T17:00:21Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9402,
+    "updated_at": "2026-10-15T16:57:33Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-15T16:50:46Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "OpenEverest provider for Milvus",
+    "id": "openeverest/provider-milvus",
+    "language": "Go",
+    "name": "openeverest/provider-milvus",
+    "stars": 0,
+    "updated_at": "2026-10-15T16:47:40Z",
+    "url": "https://github.com/openeverest/provider-milvus"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-15T17:00:04Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-15T16:46:50Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2052,
+    "updated_at": "2026-10-15T16:46:44Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T16:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -27,29 +135,11 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T16:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T16:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
-    "stars": 13018,
+    "stars": 13017,
     "updated_at": "2026-10-15T16:36:51Z",
     "url": "https://github.com/neuml/txtai"
   },
@@ -63,21 +153,12 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2052,
-    "updated_at": "2026-10-15T16:26:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 97,
-    "updated_at": "2026-10-15T16:26:32Z",
+    "updated_at": "2026-10-15T16:54:39Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -112,7 +193,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 5361,
+    "stars": 5370,
     "updated_at": "2026-10-15T16:22:50Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -135,15 +216,6 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-15T16:43:54Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
     "id": "joydeep-07/Lens-LM",
     "language": "JavaScript",
@@ -160,15 +232,6 @@
     "stars": 7,
     "updated_at": "2026-10-15T16:09:34Z",
     "url": "https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9402,
-    "updated_at": "2026-10-15T16:41:26Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "MERGEN: Deniz Y\u00fcret Temelli Geli\u015ftirilmi\u015f De-Asciifier & Hermit Dave 50K S\u00f6zl\u00fc\u011f\u00fc, 4 Bili\u015fsel Faset, DAG Orkestrasyonu, Q",
@@ -198,12 +261,21 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59577,
+    "updated_at": "2026-10-15T15:53:55Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35084,
-    "updated_at": "2026-10-15T16:39:46Z",
+    "updated_at": "2026-10-15T16:51:41Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -232,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-10-15T15:45:46Z",
     "url": "https://github.com/ry-ops/commit-relay"
-  },
-  {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
-    "stars": 0,
-    "updated_at": "2026-10-15T15:44:07Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
     "description": "VectorNova is a Python-based project I built to explore how vector databases work, how similarity search can be optimize",
@@ -279,21 +342,12 @@
     "url": "https://github.com/api-evangelist/surrealdb"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59578,
-    "updated_at": "2026-10-15T15:53:55Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9466,
-    "updated_at": "2026-10-15T16:22:56Z",
+    "updated_at": "2026-10-15T16:49:48Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -356,7 +410,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8373,
-    "updated_at": "2026-10-15T16:28:26Z",
+    "updated_at": "2026-10-15T16:58:38Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 88,
     "updated_at": "2026-10-15T15:10:33Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/DocHarvest",
-    "language": "Python",
-    "name": "RohannShetty/DocHarvest",
-    "stars": 2,
-    "updated_at": "2026-10-15T15:05:16Z",
-    "url": "https://github.com/RohannShetty/DocHarvest"
-  },
-  {
-    "description": "OpenEverest provider for Milvus",
-    "id": "openeverest/provider-milvus",
-    "language": "Go",
-    "name": "openeverest/provider-milvus",
-    "stars": 0,
-    "updated_at": "2026-10-15T16:30:41Z",
-    "url": "https://github.com/openeverest/provider-milvus"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1203,
-    "updated_at": "2026-10-15T15:21:55Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6203,
-    "updated_at": "2026-10-15T14:42:59Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Pragmatic AI Engineering Skills Library for LLMs, RAG, Agents, MCP & Spring AI",
-    "id": "jihedbfr-art/ai-skills",
-    "language": "Python",
-    "name": "jihedbfr-art/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-10-15T14:41:41Z",
-    "url": "https://github.com/jihedbfr-art/ai-skills"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6523,
-    "updated_at": "2026-10-15T14:39:17Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
