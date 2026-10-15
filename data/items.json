@@ -1,5 +1,77 @@
 [
   {
+    "description": "Top AI Agent Memory (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-AI-Agent-Memory",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-AI-Agent-Memory",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:14:27Z",
+    "url": "https://github.com/ishandutta2007/Awesome-AI-Agent-Memory"
+  },
+  {
+    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
+    "id": "tuned-org-uk/arrowspace-rs",
+    "language": "Rust",
+    "name": "tuned-org-uk/arrowspace-rs",
+    "stars": 43,
+    "updated_at": "2026-10-15T03:13:43Z",
+    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 271,
+    "updated_at": "2026-10-15T03:12:15Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
+    "id": "schwabauerbriantomas-gif/splatdb",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/splatdb",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:10:09Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-15T03:10:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-15T03:06:43Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "In-memory vector search engine with event-based co-occurrence tracking",
+    "id": "libraz/nvecd",
+    "language": "C++",
+    "name": "libraz/nvecd",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:10:00Z",
+    "url": "https://github.com/libraz/nvecd"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T03:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -34,24 +106,6 @@
     "stars": 4,
     "updated_at": "2026-10-15T02:46:20Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T02:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-15T02:42:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -90,15 +144,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 271,
-    "updated_at": "2026-10-15T02:36:56Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "API de RAG ag\u00eantico com FastAPI, LangGraph, Qdrant e Langfuse: um agente decide, a cada mensagem, se busca contexto na b",
     "id": "Dev-PPrado/rag-production",
     "language": "Python",
@@ -113,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1202,
-    "updated_at": "2026-10-15T02:12:18Z",
+    "updated_at": "2026-10-15T03:11:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9465,
-    "updated_at": "2026-10-15T02:55:01Z",
+    "updated_at": "2026-10-15T03:15:03Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46384,
-    "updated_at": "2026-10-15T01:57:51Z",
+    "updated_at": "2026-10-15T03:11:54Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2051,
-    "updated_at": "2026-10-15T01:50:45Z",
+    "updated_at": "2026-10-15T03:13:37Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -193,7 +238,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67098,
+    "stars": 67099,
     "updated_at": "2026-10-15T01:37:24Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -211,7 +256,7 @@
     "id": "liliang-cn/cortexdb",
     "language": "Go",
     "name": "liliang-cn/cortexdb",
-    "stars": 413,
+    "stars": 414,
     "updated_at": "2026-10-15T01:35:47Z",
     "url": "https://github.com/liliang-cn/cortexdb"
   },
@@ -223,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T01:15:39Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-15T01:02:52Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -405,48 +441,12 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
-    "id": "schwabauerbriantomas-gif/splatdb",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/splatdb",
-    "stars": 0,
-    "updated_at": "2026-10-14T22:23:38Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32303,
+    "stars": 32305,
     "updated_at": "2026-10-14T22:21:29Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-14T22:48:23Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
-    "id": "hypercrux/hypercrux",
-    "language": "Go",
-    "name": "hypercrux/hypercrux",
-    "stars": 0,
-    "updated_at": "2026-10-14T22:13:09Z",
-    "url": "https://github.com/hypercrux/hypercrux"
-  },
-  {
-    "description": "VectorVoyage is a solution for querying datasets with 100% efficiency using Elasticsearch. During document ingestion, we",
-    "id": "santenova/VectorVoyage",
-    "language": "TypeScript",
-    "name": "santenova/VectorVoyage",
-    "stars": 1,
-    "updated_at": "2026-10-14T22:08:42Z",
-    "url": "https://github.com/santenova/VectorVoyage"
   }
 ]
