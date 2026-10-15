@@ -1,5 +1,104 @@
 [
   {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-15T12:29:37Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
+    "id": "seekwhencer/gitea-qdrant-sync",
+    "language": "JavaScript",
+    "name": "seekwhencer/gitea-qdrant-sync",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:29:04Z",
+    "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 1,
+    "updated_at": "2026-10-15T12:24:22Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32336,
+    "updated_at": "2026-10-15T12:22:42Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Top Vector Search Engine (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-Vector-Search-Engine",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Vector-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:21:36Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Vector-Search-Engine"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 39978,
+    "updated_at": "2026-10-15T12:21:26Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "MERGEN: T\u00fcrk\u00e7e morfolojik kalkan, 4 bili\u015fsel faset, Qdrant hibrit arama ve DAG orkestrasyonu ile hedefi \u0131skalamayan kuru",
+    "id": "code-ex/mergen-rag",
+    "language": "Python",
+    "name": "code-ex/mergen-rag",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:20:40Z",
+    "url": "https://github.com/code-ex/mergen-rag"
+  },
+  {
+    "description": "Top Vector Database (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-Vector-Database",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Vector-Database",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:19:28Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Vector-Database"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-15T12:18:55Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Top Vector Database Semantic Search (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-Vector-Database-Semantic-Search",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Vector-Database-Semantic-Search",
+    "stars": 0,
+    "updated_at": "2026-10-15T12:18:02Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T12:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,15 +126,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Top Vector Database (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-Vector-Database",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Vector-Database",
-    "stars": 0,
-    "updated_at": "2026-10-15T12:12:51Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Vector-Database"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
@@ -45,15 +135,6 @@
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
-    "description": "Top Vector Database Semantic Search (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-Vector-Database-Semantic-Search",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Vector-Database-Semantic-Search",
-    "stars": 0,
-    "updated_at": "2026-10-15T12:12:32Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -61,15 +142,6 @@
     "stars": 13254,
     "updated_at": "2026-10-15T12:09:55Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Top Vector Search Engine (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-Vector-Search-Engine",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Vector-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-10-15T12:08:51Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Vector-Search-Engine"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -104,7 +176,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7130,
-    "updated_at": "2026-10-15T12:13:10Z",
+    "updated_at": "2026-10-15T12:27:54Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -115,33 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T12:00:43Z",
     "url": "https://github.com/heyayush87/SCHOLARAGENT"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T12:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "MERGEN: T\u00fcrk\u00e7e morfolojik kalkan, 4 bili\u015fsel faset, Qdrant hibrit arama ve DAG orkestrasyonu ile hedefi \u0131skalamayan kuru",
-    "id": "code-ex/mergen-rag",
-    "language": "Python",
-    "name": "code-ex/mergen-rag",
-    "stars": 0,
-    "updated_at": "2026-10-15T12:00:25Z",
-    "url": "https://github.com/code-ex/mergen-rag"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32335,
-    "updated_at": "2026-10-15T12:03:55Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -171,13 +216,13 @@
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 39976,
-    "updated_at": "2026-10-15T11:48:26Z",
-    "url": "https://github.com/volcengine/OpenViking"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59574,
+    "updated_at": "2026-10-15T11:48:20Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
@@ -234,15 +279,6 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-15T11:33:27Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "Part of the LangChain.NET project. Has separate abstractions, does not contain dependencies on the main project and can ",
     "id": "tryAGI/LangChain.Databases",
     "language": "C#",
@@ -266,7 +302,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-15T12:13:42Z",
+    "updated_at": "2026-10-15T12:16:50Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -283,18 +319,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 4793,
+    "stars": 4805,
     "updated_at": "2026-10-15T11:22:42Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-15T12:06:40Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T10:41:48Z",
     "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-10-15T10:41:39Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:41:32Z",
-    "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-10-15T10:41:08Z",
-    "url": "https://github.com/api-evangelist/lancedb"
   }
 ]
