@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T06:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
+    "id": "2B-4G10/NoLockQS",
+    "language": "Kotlin",
+    "name": "2B-4G10/NoLockQS",
+    "stars": 3,
+    "updated_at": "2026-10-15T06:44:20Z",
+    "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 4607,
+    "updated_at": "2026-10-15T06:41:49Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-15T06:42:27Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-15T06:37:49Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Lightweight approximate nearest neighbor (ANN) vector search engine and embedding indexing pipeline.",
+    "id": "irtazirfan08-source/VectorCore",
+    "language": "Python",
+    "name": "irtazirfan08-source/VectorCore",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:37:28Z",
+    "url": "https://github.com/irtazirfan08-source/VectorCore"
+  },
+  {
+    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
+    "id": "hypercrux/hypercrux",
+    "language": "Go",
+    "name": "hypercrux/hypercrux",
+    "stars": 0,
+    "updated_at": "2026-10-15T06:33:18Z",
+    "url": "https://github.com/hypercrux/hypercrux"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-15T06:30:04Z",
+    "updated_at": "2026-10-15T06:30:43Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T06:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -14,17 +86,8 @@
     "language": "Python",
     "name": "milvus-io/pymilvus",
     "stars": 1417,
-    "updated_at": "2026-10-15T06:29:42Z",
+    "updated_at": "2026-10-15T06:43:43Z",
     "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 4600,
-    "updated_at": "2026-10-15T06:27:29Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
@@ -45,22 +108,22 @@
     "url": "https://github.com/Cognipeer/console"
   },
   {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 39953,
+    "updated_at": "2026-10-15T06:42:57Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9465,
-    "updated_at": "2026-10-15T06:23:20Z",
+    "updated_at": "2026-10-15T06:44:00Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-15T06:22:37Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -79,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T06:17:30Z",
     "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T06:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T06:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9401,
-    "updated_at": "2026-10-15T06:28:15Z",
+    "updated_at": "2026-10-15T06:43:47Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -220,7 +265,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32319,
+    "stars": 32320,
     "updated_at": "2026-10-15T05:49:41Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -277,15 +322,6 @@
     "stars": 96,
     "updated_at": "2026-10-15T06:07:56Z",
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
-    "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
-    "id": "hypercrux/hypercrux",
-    "language": "Go",
-    "name": "hypercrux/hypercrux",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:32:54Z",
-    "url": "https://github.com/hypercrux/hypercrux"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -365,7 +401,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8371,
-    "updated_at": "2026-10-15T06:24:27Z",
+    "updated_at": "2026-10-15T06:31:46Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 905,
-    "updated_at": "2026-10-15T06:30:12Z",
+    "updated_at": "2026-10-15T06:44:57Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 43,
     "updated_at": "2026-10-15T03:58:16Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
-  },
-  {
-    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
-    "id": "schwabauerbriantomas-gif/splatdb",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/splatdb",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:57:15Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:32:49Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "D.A.R.I.A. \u2014 a domain-specific agentic RAG research assistant for evidence-grounded answers from a curated research-pape",
-    "id": "ruthuraraj-ml/daria-agentic-rag",
-    "language": "Jupyter Notebook",
-    "name": "ruthuraraj-ml/daria-agentic-rag",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:20:12Z",
-    "url": "https://github.com/ruthuraraj-ml/daria-agentic-rag"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-15T03:18:44Z",
-    "url": "https://github.com/monaccode/astromesh"
   }
 ]
