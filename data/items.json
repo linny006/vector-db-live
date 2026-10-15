@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2051,
-    "updated_at": "2026-10-15T07:43:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T08:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1202,
-    "updated_at": "2026-10-15T07:43:46Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 8,
+    "updated_at": "2026-10-15T08:00:17Z",
+    "url": "https://github.com/FraiseHQ/fraise"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -23,8 +23,80 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-15T07:43:38Z",
+    "updated_at": "2026-10-15T07:54:29Z",
     "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1202,
+    "updated_at": "2026-10-15T07:55:57Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 4637,
+    "updated_at": "2026-10-15T07:54:12Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32325,
+    "updated_at": "2026-10-15T07:53:30Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7130,
+    "updated_at": "2026-10-15T07:54:34Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
+    "id": "yashbhosale789/yashbhosale789",
+    "language": "\u2014",
+    "name": "yashbhosale789/yashbhosale789",
+    "stars": 0,
+    "updated_at": "2026-10-15T07:49:55Z",
+    "url": "https://github.com/yashbhosale789/yashbhosale789"
+  },
+  {
+    "description": "A Python-based Retrieval-Augmented Generation (RAG) pipeline for retrieving relevant information and generating context-",
+    "id": "Cybergoul/py-rag-pipeline",
+    "language": "Jupyter Notebook",
+    "name": "Cybergoul/py-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-15T07:48:43Z",
+    "url": "https://github.com/Cybergoul/py-rag-pipeline"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T07:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2051,
+    "updated_at": "2026-10-15T07:43:52Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -40,7 +112,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 39958,
+    "stars": 39960,
     "updated_at": "2026-10-15T07:39:37Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -63,15 +135,6 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 4629,
-    "updated_at": "2026-10-15T07:35:54Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
@@ -81,31 +144,13 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32323,
-    "updated_at": "2026-10-15T07:41:20Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T07:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T07:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4445,
+    "updated_at": "2026-10-15T07:31:09Z",
+    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
@@ -124,15 +169,6 @@
     "stars": 291,
     "updated_at": "2026-10-15T07:27:25Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 8,
-    "updated_at": "2026-10-15T07:41:02Z",
-    "url": "https://github.com/FraiseHQ/fraise"
   },
   {
     "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
@@ -180,15 +216,6 @@
     "url": "https://github.com/codecoradev/uteke"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7130,
-    "updated_at": "2026-10-15T07:20:05Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
     "id": "vicquick/nobrainr",
     "language": "Python",
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9465,
-    "updated_at": "2026-10-15T07:17:07Z",
+    "updated_at": "2026-10-15T07:51:31Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-15T07:07:23Z",
+    "updated_at": "2026-10-15T07:56:16Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9401,
-    "updated_at": "2026-10-15T07:40:29Z",
+    "updated_at": "2026-10-15T07:58:21Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T05:44:07Z",
     "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
-  },
-  {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
-    "stars": 0,
-    "updated_at": "2026-10-15T05:35:11Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
-  },
-  {
-    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
-    "id": "aws-samples/sample-genai-on-eks-starter-kit",
-    "language": "JavaScript",
-    "name": "aws-samples/sample-genai-on-eks-starter-kit",
-    "stars": 96,
-    "updated_at": "2026-10-15T06:07:56Z",
-    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-15T05:29:50Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   }
 ]
