@@ -1,12 +1,84 @@
 [
   {
+    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
+    "id": "schwabauerbriantomas-gif/splatdb",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/splatdb",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:26:57Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-15T03:20:44Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "D.A.R.I.A. \u2014 a domain-specific agentic RAG research assistant for evidence-grounded answers from a curated research-pape",
+    "id": "ruthuraraj-ml/daria-agentic-rag",
+    "language": "Jupyter Notebook",
+    "name": "ruthuraraj-ml/daria-agentic-rag",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:20:12Z",
+    "url": "https://github.com/ruthuraraj-ml/daria-agentic-rag"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:20:04Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 36,
+    "updated_at": "2026-10-15T03:18:44Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-15T03:18:11Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "Top AI Agent Memory (Opensource)  Star if you like it! ",
     "id": "ishandutta2007/Awesome-AI-Agent-Memory",
     "language": "\u2014",
     "name": "ishandutta2007/Awesome-AI-Agent-Memory",
     "stars": 0,
-    "updated_at": "2026-10-15T03:14:27Z",
+    "updated_at": "2026-10-15T03:16:25Z",
     "url": "https://github.com/ishandutta2007/Awesome-AI-Agent-Memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T03:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T03:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
@@ -14,8 +86,17 @@
     "language": "Rust",
     "name": "tuned-org-uk/arrowspace-rs",
     "stars": 43,
-    "updated_at": "2026-10-15T03:13:43Z",
+    "updated_at": "2026-10-15T03:17:00Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46383,
+    "updated_at": "2026-10-15T03:11:54Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -23,17 +104,8 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 271,
-    "updated_at": "2026-10-15T03:12:15Z",
+    "updated_at": "2026-10-15T03:22:51Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
-    "id": "schwabauerbriantomas-gif/splatdb",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/splatdb",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:10:09Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -63,24 +135,6 @@
     "url": "https://github.com/libraz/nvecd"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T03:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T03:00:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T02:47:44Z",
     "url": "https://github.com/redrob-labs/redrob-recall"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-15T02:46:20Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-15T02:22:11Z",
+    "updated_at": "2026-10-15T03:24:14Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1202,
-    "updated_at": "2026-10-15T03:11:50Z",
+    "updated_at": "2026-10-15T03:25:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -185,17 +230,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9465,
-    "updated_at": "2026-10-15T03:15:03Z",
+    "updated_at": "2026-10-15T03:26:34Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46384,
-    "updated_at": "2026-10-15T03:11:54Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
@@ -238,7 +274,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67099,
+    "stars": 67098,
     "updated_at": "2026-10-15T01:37:24Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -405,15 +441,6 @@
     "url": "https://github.com/takurot/Pyrope"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-14T23:41:45Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "RAG copilot for codebases: tree-sitter chunking, test-aware retrieval, LLM query rewriting. Evaluated on 45 questions (R",
     "id": "Mulasreeja15/gitcontext",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T23:29:31Z",
     "url": "https://github.com/Mulasreeja15/gitcontext"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35077,
-    "updated_at": "2026-10-14T23:04:44Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6524,
-    "updated_at": "2026-10-15T02:47:58Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32305,
-    "updated_at": "2026-10-14T22:21:29Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
