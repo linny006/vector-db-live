@@ -1,12 +1,30 @@
 [
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9402,
-    "updated_at": "2026-10-15T20:43:24Z",
-    "url": "https://github.com/paradedb/paradedb"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T21:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "marek961/yu-ai-agent",
+    "language": "Java",
+    "name": "marek961/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:58:30Z",
+    "url": "https://github.com/marek961/yu-ai-agent"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-15T20:55:10Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
@@ -14,8 +32,80 @@
     "language": "Python",
     "name": "Bessouat40/RAGLight",
     "stars": 672,
-    "updated_at": "2026-10-15T20:44:37Z",
+    "updated_at": "2026-10-15T20:59:27Z",
     "url": "https://github.com/Bessouat40/RAGLight"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32359,
+    "updated_at": "2026-10-15T20:59:32Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2052,
+    "updated_at": "2026-10-15T20:52:29Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "In-browser vector search, hardware SIMD HNSW indexing, and client-side generative RAG engine running entirely in WebAsse",
+    "id": "alexandrmotologa/vectorlite-wasm",
+    "language": "TypeScript",
+    "name": "alexandrmotologa/vectorlite-wasm",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:47:49Z",
+    "url": "https://github.com/alexandrmotologa/vectorlite-wasm"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "carlaktas/distill",
+    "language": "Go",
+    "name": "carlaktas/distill",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:46:19Z",
+    "url": "https://github.com/carlaktas/distill"
+  },
+  {
+    "description": "Distributed open-source vector database with persistence, replication, REST/gRPC APIs, and an operations dashboard.",
+    "id": "Bharanipbk/gideondb",
+    "language": "Go",
+    "name": "Bharanipbk/gideondb",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:45:43Z",
+    "url": "https://github.com/Bharanipbk/gideondb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T20:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-15T20:44:33Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9402,
+    "updated_at": "2026-10-15T20:53:59Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -68,35 +158,8 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-15T20:45:02Z",
+    "updated_at": "2026-10-15T20:51:12Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T20:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T20:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "In-browser vector search, hardware SIMD HNSW indexing, and client-side generative RAG engine running entirely in WebAsse",
-    "id": "alexandrmotologa/vectorlite-wasm",
-    "language": "TypeScript",
-    "name": "alexandrmotologa/vectorlite-wasm",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:28:52Z",
-    "url": "https://github.com/alexandrmotologa/vectorlite-wasm"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
@@ -108,12 +171,21 @@
     "url": "https://github.com/sHolland62505/rag-interview-system"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8374,
+    "updated_at": "2026-10-15T20:21:36Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 67161,
-    "updated_at": "2026-10-15T20:20:13Z",
+    "updated_at": "2026-10-15T20:50:06Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -194,17 +266,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-15T20:04:26Z",
+    "updated_at": "2026-10-15T21:00:19Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8374,
-    "updated_at": "2026-10-15T20:21:36Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -250,24 +313,6 @@
     "stars": 1640,
     "updated_at": "2026-10-15T20:24:42Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2052,
-    "updated_at": "2026-10-15T19:49:31Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Distributed open-source vector database with persistence, replication, REST/gRPC APIs, and an operations dashboard.",
-    "id": "Bharanipbk/gideondb",
-    "language": "Go",
-    "name": "Bharanipbk/gideondb",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:50:22Z",
-    "url": "https://github.com/Bharanipbk/gideondb"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -360,15 +405,6 @@
     "url": "https://github.com/SharonTrinh01844/distill"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32358,
-    "updated_at": "2026-10-15T20:41:23Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
     "id": "datris/datris-platform-oss",
     "language": "Scala",
@@ -382,7 +418,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35087,
+    "stars": 35088,
     "updated_at": "2026-10-15T18:59:47Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T19:25:28Z",
     "url": "https://github.com/openeverest/provider-milvus"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1356,
-    "updated_at": "2026-10-15T18:48:37Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Multimodal semantic search across text, images, audio and video using Google's EmbeddingGemma 2, PostgreSQL + pgvector a",
-    "id": "FrancescoCiannavei/Multimodal-Vector-Search",
-    "language": "Python",
-    "name": "FrancescoCiannavei/Multimodal-Vector-Search",
-    "stars": 2,
-    "updated_at": "2026-10-15T18:52:32Z",
-    "url": "https://github.com/FrancescoCiannavei/Multimodal-Vector-Search"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-10-15T18:44:34Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Multi-step LLM research agent in LangGraph: hybrid retrieval with reranking, tool use, self-critique, citation grounding",
-    "id": "CGainsWorks/ml-agentic-research-assistant",
-    "language": "Python",
-    "name": "CGainsWorks/ml-agentic-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-15T18:43:25Z",
-    "url": "https://github.com/CGainsWorks/ml-agentic-research-assistant"
   }
 ]
