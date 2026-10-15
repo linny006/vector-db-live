@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T04:45:19Z",
+    "updated_at": "2026-10-15T05:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
+    "id": "Angular2Guy/AIDocumentLibraryChat",
+    "language": "Java",
+    "name": "Angular2Guy/AIDocumentLibraryChat",
+    "stars": 31,
+    "updated_at": "2026-10-15T04:59:28Z",
+    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-15T04:59:13Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-15T05:00:21Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2051,
+    "updated_at": "2026-10-15T04:53:48Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 905,
+    "updated_at": "2026-10-15T04:59:15Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "This is the source code of the Weaviate vector store implementation for the RAG abstraction in Ballerina",
+    "id": "ballerina-platform/module-ballerinax-ai.weaviate",
+    "language": "Ballerina",
+    "name": "ballerina-platform/module-ballerinax-ai.weaviate",
+    "stars": 0,
+    "updated_at": "2026-10-15T04:48:58Z",
+    "url": "https://github.com/ballerina-platform/module-ballerinax-ai.weaviate"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-15T04:45:53Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T04:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
@@ -23,7 +95,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46383,
-    "updated_at": "2026-10-15T04:43:59Z",
+    "updated_at": "2026-10-15T04:46:16Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -59,26 +131,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-15T04:38:08Z",
+    "updated_at": "2026-10-15T04:50:55Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T04:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-15T04:45:15Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -86,7 +140,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9402,
-    "updated_at": "2026-10-15T04:44:30Z",
+    "updated_at": "2026-10-15T04:53:52Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -104,7 +158,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8370,
-    "updated_at": "2026-10-15T04:06:49Z",
+    "updated_at": "2026-10-15T04:59:12Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 125,
     "updated_at": "2026-10-15T04:02:17Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-15T04:45:24Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "A native hybrid SQL, key-value, graph and vector database in one SQLite file. Embed it in Go or run one small binary. Fr",
@@ -151,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T03:57:15Z",
     "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 905,
-    "updated_at": "2026-10-15T04:42:00Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
@@ -266,7 +302,7 @@
     "language": "Rust",
     "name": "gay00ung/vecnook",
     "stars": 2,
-    "updated_at": "2026-10-15T04:45:11Z",
+    "updated_at": "2026-10-15T04:53:46Z",
     "url": "https://github.com/gay00ung/vecnook"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/datalevin/datalevin"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2051,
-    "updated_at": "2026-10-15T03:13:37Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Reproducible benchmarks of GoVec against Chroma and Qdrant: latency, recall, memory and cold start, on pinned Docker ima",
     "id": "Pradyothsp/govec-bench",
     "language": "Python",
@@ -364,7 +391,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67103,
+    "stars": 67105,
     "updated_at": "2026-10-15T01:37:24Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -382,7 +409,7 @@
     "id": "liliang-cn/cortexdb",
     "language": "Go",
     "name": "liliang-cn/cortexdb",
-    "stars": 414,
+    "stars": 415,
     "updated_at": "2026-10-15T01:35:47Z",
     "url": "https://github.com/liliang-cn/cortexdb"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T00:54:56Z",
     "url": "https://github.com/iksnerd/code-nexus"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1640,
-    "updated_at": "2026-10-15T04:37:15Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-15T00:42:36Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11677,
-    "updated_at": "2026-10-15T00:40:07Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
