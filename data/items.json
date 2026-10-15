@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-15T21:45:20Z",
+    "updated_at": "2026-10-15T22:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-10-15T21:59:42Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-15T21:58:30Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "In-browser vector search, hardware SIMD HNSW indexing, and client-side generative RAG engine running entirely in WebAsse",
+    "id": "alexandrmotologa/vectorlite-wasm",
+    "language": "TypeScript",
+    "name": "alexandrmotologa/vectorlite-wasm",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:58:28Z",
+    "url": "https://github.com/alexandrmotologa/vectorlite-wasm"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-15T21:58:27Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11680,
+    "updated_at": "2026-10-15T21:57:22Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-15T21:56:09Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-15T21:56:09Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
@@ -14,8 +77,44 @@
     "language": "TypeScript",
     "name": "tickernelz/opencode-mem",
     "stars": 1750,
-    "updated_at": "2026-10-15T21:44:54Z",
+    "updated_at": "2026-10-15T21:52:30Z",
     "url": "https://github.com/tickernelz/opencode-mem"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 11,
+    "updated_at": "2026-10-15T21:51:16Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "A python package for developing AI applications with local LLMs.",
+    "id": "Rodrigues50/LLMFlex",
+    "language": "Python",
+    "name": "Rodrigues50/LLMFlex",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:47:26Z",
+    "url": "https://github.com/Rodrigues50/LLMFlex"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2052,
+    "updated_at": "2026-10-15T21:47:19Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T21:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
@@ -25,6 +124,15 @@
     "stars": 4,
     "updated_at": "2026-10-15T21:44:17Z",
     "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "A production-ready Legal AI Assistant built with RAG. Uses Qdrant Cloud, OpenRouter, and Streamlit to accurately answer ",
+    "id": "prashantv04/pdf-rag-system",
+    "language": "Python",
+    "name": "prashantv04/pdf-rag-system",
+    "stars": 0,
+    "updated_at": "2026-10-15T21:42:27Z",
+    "url": "https://github.com/prashantv04/pdf-rag-system"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -68,7 +176,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32361,
-    "updated_at": "2026-10-15T21:43:12Z",
+    "updated_at": "2026-10-15T21:50:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -81,24 +189,6 @@
     "url": "https://github.com/diskerror/ragger.cpp"
   },
   {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 124,
-    "updated_at": "2026-10-15T21:36:38Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T21:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Retrieval-augmented generation, hands on: a local RAG Explorer app and a test-case RAG chatbot in n8n + Pinecone",
     "id": "jayamvishnudeep/RAG",
     "language": "Python",
@@ -106,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T21:30:19Z",
     "url": "https://github.com/jayamvishnudeep/RAG"
-  },
-  {
-    "description": "In-browser vector search, hardware SIMD HNSW indexing, and client-side generative RAG engine running entirely in WebAsse",
-    "id": "alexandrmotologa/vectorlite-wasm",
-    "language": "TypeScript",
-    "name": "alexandrmotologa/vectorlite-wasm",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:26:24Z",
-    "url": "https://github.com/alexandrmotologa/vectorlite-wasm"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -151,6 +232,15 @@
     "stars": 1640,
     "updated_at": "2026-10-15T21:16:20Z",
     "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8374,
+    "updated_at": "2026-10-15T21:05:52Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -196,24 +286,6 @@
     "stars": 672,
     "updated_at": "2026-10-15T21:01:38Z",
     "url": "https://github.com/Bessouat40/RAGLight"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-15T20:55:10Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2052,
-    "updated_at": "2026-10-15T20:52:29Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -297,15 +369,6 @@
     "url": "https://github.com/sHolland62505/rag-interview-system"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8374,
-    "updated_at": "2026-10-15T21:05:52Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -385,68 +448,5 @@
     "stars": 119,
     "updated_at": "2026-10-15T20:01:09Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-10-15T19:55:50Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:53:36Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "Bartosz371/LLMFlex",
-    "language": "Python",
-    "name": "Bartosz371/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:53:28Z",
-    "url": "https://github.com/Bartosz371/LLMFlex"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39138,
-    "updated_at": "2026-10-15T19:46:09Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "KatarzynaJaworski2866/vektori",
-    "language": "Python",
-    "name": "KatarzynaJaworski2866/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:45:25Z",
-    "url": "https://github.com/KatarzynaJaworski2866/vektori"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "maja4620/developers-guide-to-ai",
-    "language": "Python",
-    "name": "maja4620/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:44:56Z",
-    "url": "https://github.com/maja4620/developers-guide-to-ai"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-15T19:43:22Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   }
 ]
