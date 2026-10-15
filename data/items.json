@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-15T03:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-15T03:40:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 4,
+    "updated_at": "2026-10-15T03:36:14Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 271,
+    "updated_at": "2026-10-15T03:32:50Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:32:49Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-15T03:32:21Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-15T03:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
     "id": "schwabauerbriantomas-gif/splatdb",
     "language": "Rust",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T03:20:12Z",
     "url": "https://github.com/ruthuraraj-ml/daria-agentic-rag"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:20:04Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -63,30 +117,12 @@
     "url": "https://github.com/ishandutta2007/Awesome-AI-Agent-Memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-15T03:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-15T03:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
     "id": "tuned-org-uk/arrowspace-rs",
     "language": "Rust",
     "name": "tuned-org-uk/arrowspace-rs",
     "stars": 43,
-    "updated_at": "2026-10-15T03:17:00Z",
+    "updated_at": "2026-10-15T03:33:30Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
   },
   {
@@ -97,24 +133,6 @@
     "stars": 46383,
     "updated_at": "2026-10-15T03:11:54Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 271,
-    "updated_at": "2026-10-15T03:22:51Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-15T03:10:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -203,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1202,
-    "updated_at": "2026-10-15T03:25:43Z",
+    "updated_at": "2026-10-15T03:37:03Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9465,
-    "updated_at": "2026-10-15T03:26:34Z",
+    "updated_at": "2026-10-15T03:37:54Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -274,7 +292,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67098,
+    "stars": 67100,
     "updated_at": "2026-10-15T01:37:24Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -430,23 +448,5 @@
     "stars": 4444,
     "updated_at": "2026-10-15T00:05:00Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Pyrope is a high-performance, adaptive Vector Database built as an extension of Microsoft Garnet. It features a unique d",
-    "id": "takurot/Pyrope",
-    "language": "C#",
-    "name": "takurot/Pyrope",
-    "stars": 0,
-    "updated_at": "2026-10-14T23:41:46Z",
-    "url": "https://github.com/takurot/Pyrope"
-  },
-  {
-    "description": "RAG copilot for codebases: tree-sitter chunking, test-aware retrieval, LLM query rewriting. Evaluated on 45 questions (R",
-    "id": "Mulasreeja15/gitcontext",
-    "language": "Python",
-    "name": "Mulasreeja15/gitcontext",
-    "stars": 0,
-    "updated_at": "2026-10-14T23:29:31Z",
-    "url": "https://github.com/Mulasreeja15/gitcontext"
   }
 ]
