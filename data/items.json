@@ -1,11 +1,83 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T09:38:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T09:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-16T09:38:03Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-16T09:34:29Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Spring AI + DeepSeek \u8bfe\u7a0b\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54",
+    "id": "fangtangj/deepseek-rag-qa",
+    "language": "Java",
+    "name": "fangtangj/deepseek-rag-qa",
+    "stars": 0,
+    "updated_at": "2026-10-16T09:32:37Z",
+    "url": "https://github.com/fangtangj/deepseek-rag-qa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T09:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 6180,
+    "updated_at": "2026-10-16T09:30:08Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) over a student's own documents (resume, transcript, SOP) using embeddings + a vecto",
+    "id": "ansondias/personal-rag-experiment-8",
+    "language": "Python",
+    "name": "ansondias/personal-rag-experiment-8",
+    "stars": 0,
+    "updated_at": "2026-10-16T09:28:31Z",
+    "url": "https://github.com/ansondias/personal-rag-experiment-8"
+  },
+  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1484,
-    "updated_at": "2026-10-16T09:27:57Z",
+    "updated_at": "2026-10-16T09:40:22Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -23,17 +95,8 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-16T09:27:13Z",
+    "updated_at": "2026-10-16T09:33:43Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 6165,
-    "updated_at": "2026-10-16T09:30:08Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "Bessouat40/RAGLight",
     "stars": 672,
-    "updated_at": "2026-10-16T09:22:55Z",
+    "updated_at": "2026-10-16T09:43:55Z",
     "url": "https://github.com/Bessouat40/RAGLight"
   },
   {
@@ -72,33 +135,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T09:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T09:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2053,
-    "updated_at": "2026-10-16T09:14:58Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
     "id": "KonNik88/ml-research-radar",
     "language": "Python",
@@ -115,15 +151,6 @@
     "stars": 13,
     "updated_at": "2026-10-16T09:12:03Z",
     "url": "https://github.com/jaehyeon-kim/odctl"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T09:09:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -148,7 +175,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40065,
+    "stars": 40067,
     "updated_at": "2026-10-16T08:58:06Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -166,7 +193,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32383,
+    "stars": 32381,
     "updated_at": "2026-10-16T08:55:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -205,15 +232,6 @@
     "stars": 2142,
     "updated_at": "2026-10-16T08:44:12Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Spring AI + DeepSeek \u8bfe\u7a0b\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54",
-    "id": "fangtangj/deepseek-rag-qa",
-    "language": "Java",
-    "name": "fangtangj/deepseek-rag-qa",
-    "stars": 0,
-    "updated_at": "2026-10-16T08:41:53Z",
-    "url": "https://github.com/fangtangj/deepseek-rag-qa"
   },
   {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
@@ -383,7 +401,7 @@
     "language": "C++",
     "name": "alibaba/zvec",
     "stars": 16115,
-    "updated_at": "2026-10-16T08:01:19Z",
+    "updated_at": "2026-10-16T09:42:05Z",
     "url": "https://github.com/alibaba/zvec"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9467,
-    "updated_at": "2026-10-16T09:25:03Z",
+    "updated_at": "2026-10-16T09:43:31Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2019,
-    "updated_at": "2026-10-16T07:17:20Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "High-Throughput, Cost-Effective Billion-Scale Vector Search with a Single GPU [SIGMOD'26]",
-    "id": "thustorage/GustANN",
-    "language": "Cuda",
-    "name": "thustorage/GustANN",
-    "stars": 31,
-    "updated_at": "2026-10-16T07:16:07Z",
-    "url": "https://github.com/thustorage/GustANN"
   }
 ]
