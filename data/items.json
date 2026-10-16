@@ -1,5 +1,104 @@
 [
   {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-16T17:28:16Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "Python",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:27:18Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
+  },
+  {
+    "description": "Agentic RAG assistant for research papers: LangGraph + Claude, Qdrant, Tavily, corrective RAG and claim verification.",
+    "id": "heyayush87/SCHOLARAGENT",
+    "language": "Python",
+    "name": "heyayush87/SCHOLARAGENT",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:26:37Z",
+    "url": "https://github.com/heyayush87/SCHOLARAGENT"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 97,
+    "updated_at": "2026-10-16T17:26:22Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7129,
+    "updated_at": "2026-10-16T17:29:41Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-16T17:25:38Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:24:04Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "Applied AI engineering experiments: ML and LLM techniques integrated into real applications",
+    "id": "markintux/ai-product-engineering-lab",
+    "language": "PHP",
+    "name": "markintux/ai-product-engineering-lab",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:17:07Z",
+    "url": "https://github.com/markintux/ai-product-engineering-lab"
+  },
+  {
+    "description": "Persistent memory for LLM agents \u2014 episodic/semantic/procedural memory, auditable forgetting, and a benchmark proving it",
+    "id": "vishalbanwari26/mnemos",
+    "language": "Python",
+    "name": "vishalbanwari26/mnemos",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:16:33Z",
+    "url": "https://github.com/vishalbanwari26/mnemos"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 6694,
+    "updated_at": "2026-10-16T17:16:02Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T17:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,30 +117,12 @@
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:13:23Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "Agentic RAG assistant for research papers: LangGraph + Claude, Qdrant, Tavily, corrective RAG and claim verification.",
-    "id": "heyayush87/SCHOLARAGENT",
-    "language": "Python",
-    "name": "heyayush87/SCHOLARAGENT",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:12:24Z",
-    "url": "https://github.com/heyayush87/SCHOLARAGENT"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9405,
-    "updated_at": "2026-10-16T17:13:11Z",
+    "updated_at": "2026-10-16T17:29:37Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 6683,
-    "updated_at": "2026-10-16T17:07:13Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
     "id": "structured-world/coordinode-python",
     "language": "Python",
@@ -70,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T17:04:14Z",
     "url": "https://github.com/structured-world/coordinode-python"
-  },
-  {
-    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
-    "id": "aldyardnsyh/IntelligenceDocumentSystem",
-    "language": "Python",
-    "name": "aldyardnsyh/IntelligenceDocumentSystem",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:01:07Z",
-    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T17:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -117,21 +171,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-16T17:08:14Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 124,
-    "updated_at": "2026-10-16T17:15:24Z",
+    "updated_at": "2026-10-16T17:23:53Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -158,35 +203,8 @@
     "language": "Python",
     "name": "dhanoliya-ji/DOCMINDS",
     "stars": 0,
-    "updated_at": "2026-10-16T16:44:47Z",
+    "updated_at": "2026-10-16T17:27:03Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 97,
-    "updated_at": "2026-10-16T17:07:31Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Applied AI engineering experiments: ML and LLM techniques integrated into real applications",
-    "id": "markintux/ai-product-engineering-lab",
-    "language": "PHP",
-    "name": "markintux/ai-product-engineering-lab",
-    "stars": 0,
-    "updated_at": "2026-10-16T16:43:14Z",
-    "url": "https://github.com/markintux/ai-product-engineering-lab"
-  },
-  {
-    "description": "Persistent memory for LLM agents \u2014 episodic/semantic/procedural memory, auditable forgetting, and a benchmark proving it",
-    "id": "vishalbanwari26/mnemos",
-    "language": "Python",
-    "name": "vishalbanwari26/mnemos",
-    "stars": 0,
-    "updated_at": "2026-10-16T16:42:42Z",
-    "url": "https://github.com/vishalbanwari26/mnemos"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11684,
-    "updated_at": "2026-10-16T17:14:35Z",
+    "updated_at": "2026-10-16T17:23:20Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -229,7 +247,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40103,
+    "stars": 40104,
     "updated_at": "2026-10-16T16:25:24Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -248,7 +266,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1204,
-    "updated_at": "2026-10-16T16:24:17Z",
+    "updated_at": "2026-10-16T17:30:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -383,7 +401,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8377,
-    "updated_at": "2026-10-16T16:41:40Z",
+    "updated_at": "2026-10-16T17:24:44Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-16T14:36:54Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 904,
-    "updated_at": "2026-10-16T17:03:56Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Multi-step LLM research agent in LangGraph: hybrid retrieval with reranking, tool use, self-critique, citation grounding",
-    "id": "CGainsWorks/ml-agentic-research-assistant",
-    "language": "Python",
-    "name": "CGainsWorks/ml-agentic-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-16T14:27:32Z",
-    "url": "https://github.com/CGainsWorks/ml-agentic-research-assistant"
   }
 ]
