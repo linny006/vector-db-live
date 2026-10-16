@@ -1,21 +1,75 @@
 [
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40030,
-    "updated_at": "2026-10-16T03:29:02Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
     "id": "subrataai-wq/Aether-Manifold",
     "language": "Rust",
     "name": "subrataai-wq/Aether-Manifold",
     "stars": 1,
-    "updated_at": "2026-10-16T03:28:27Z",
+    "updated_at": "2026-10-16T03:44:20Z",
     "url": "https://github.com/subrataai-wq/Aether-Manifold"
+  },
+  {
+    "description": "OpenEverest provider for Milvus",
+    "id": "openeverest/provider-milvus",
+    "language": "Go",
+    "name": "openeverest/provider-milvus",
+    "stars": 0,
+    "updated_at": "2026-10-16T03:42:15Z",
+    "url": "https://github.com/openeverest/provider-milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T03:41:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 2,
+    "updated_at": "2026-10-16T03:35:51Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40030,
+    "updated_at": "2026-10-16T03:38:57Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 5824,
+    "updated_at": "2026-10-16T03:31:33Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T03:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T03:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -25,15 +79,6 @@
     "stars": 2053,
     "updated_at": "2026-10-16T03:25:25Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 5813,
-    "updated_at": "2026-10-16T03:23:06Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -50,26 +95,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1204,
-    "updated_at": "2026-10-16T03:19:52Z",
+    "updated_at": "2026-10-16T03:43:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T03:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T03:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Run Kafka, Flink, Spark, Iceberg, Trino, ClickHouse, Airflow, MLflow, Feast, pgvector and more on your laptop, one comma",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "jaehyeon-kim/odctl",
     "stars": 13,
-    "updated_at": "2026-10-16T03:14:47Z",
+    "updated_at": "2026-10-16T03:32:35Z",
     "url": "https://github.com/jaehyeon-kim/odctl"
   },
   {
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-16T03:28:07Z",
+    "updated_at": "2026-10-16T03:44:48Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-10-16T03:13:23Z",
     "url": "https://github.com/jaehyeon-kim/agentic-analytics-system"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T03:10:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -230,7 +248,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 905,
-    "updated_at": "2026-10-16T02:34:34Z",
+    "updated_at": "2026-10-16T03:33:55Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -261,15 +279,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
-    "id": "nikoma/bicdb",
-    "language": "Rust",
-    "name": "nikoma/bicdb",
-    "stars": 2,
-    "updated_at": "2026-10-16T03:29:01Z",
-    "url": "https://github.com/nikoma/bicdb"
-  },
-  {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
     "id": "kannaka-labs/kannaka-memory",
     "language": "Rust",
@@ -283,7 +292,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46393,
+    "stars": 46395,
     "updated_at": "2026-10-16T01:45:50Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11682,
-    "updated_at": "2026-10-16T01:44:54Z",
+    "updated_at": "2026-10-16T03:31:30Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -346,7 +355,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67173,
+    "stars": 67175,
     "updated_at": "2026-10-16T00:56:38Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -383,7 +392,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6524,
-    "updated_at": "2026-10-16T00:45:31Z",
+    "updated_at": "2026-10-16T03:43:41Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T00:15:08Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-16T00:06:44Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
