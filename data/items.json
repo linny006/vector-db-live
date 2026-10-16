@@ -1,12 +1,75 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T12:12:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "Linaf7862/VectorRAG.Net",
+    "language": "C#",
+    "name": "Linaf7862/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:26:50Z",
+    "url": "https://github.com/Linaf7862/VectorRAG.Net"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "Anurakr60126/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "Anurakr60126/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:26:02Z",
+    "url": "https://github.com/Anurakr60126/rag-interview-system"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "tickernelz/opencode-mem",
+    "language": "TypeScript",
+    "name": "tickernelz/opencode-mem",
+    "stars": 1755,
+    "updated_at": "2026-10-16T12:24:48Z",
+    "url": "https://github.com/tickernelz/opencode-mem"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 6403,
+    "updated_at": "2026-10-16T12:24:24Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32386,
+    "updated_at": "2026-10-16T12:25:25Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Modular RAG service with tenant-aware hybrid retrieval, durable ingestion, pgvector, OpenAI/Ollama and FastAPI/Spring Bo",
+    "id": "BugraCinar/modular-forge-rag-starter",
+    "language": "Python",
+    "name": "BugraCinar/modular-forge-rag-starter",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:23:57Z",
+    "url": "https://github.com/BugraCinar/modular-forge-rag-starter"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-16T12:19:18Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11684,
+    "updated_at": "2026-10-16T12:28:03Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
@@ -14,8 +77,44 @@
     "language": "Python",
     "name": "hbar-systems/brainfoundry-nous",
     "stars": 1,
-    "updated_at": "2026-10-16T12:12:21Z",
+    "updated_at": "2026-10-16T12:17:32Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
+    "id": "Bessouat40/RAGLight",
+    "language": "Python",
+    "name": "Bessouat40/RAGLight",
+    "stars": 673,
+    "updated_at": "2026-10-16T12:17:02Z",
+    "url": "https://github.com/Bessouat40/RAGLight"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T12:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T12:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T12:12:46Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "dhanoliya-ji/DOCMINDS",
     "stars": 0,
-    "updated_at": "2026-10-16T12:08:17Z",
+    "updated_at": "2026-10-16T12:22:02Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
@@ -54,24 +153,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 6383,
-    "updated_at": "2026-10-16T12:05:31Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Modular RAG service with tenant-aware hybrid retrieval, durable ingestion, pgvector, OpenAI/Ollama and FastAPI/Spring Bo",
-    "id": "BugraCinar/modular-forge-rag-starter",
-    "language": "\u2014",
-    "name": "BugraCinar/modular-forge-rag-starter",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:03:19Z",
-    "url": "https://github.com/BugraCinar/modular-forge-rag-starter"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -81,15 +162,6 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T12:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
     "id": "gonicolas12/My_AI",
     "language": "Python",
@@ -97,15 +169,6 @@
     "stars": 11,
     "updated_at": "2026-10-16T12:07:44Z",
     "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T12:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -166,7 +229,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40074,
+    "stars": 40076,
     "updated_at": "2026-10-16T11:48:25Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -176,7 +239,7 @@
     "language": "\u2014",
     "name": "ishandutta2007/Awesome-Vector-Database-Semantic-Search",
     "stars": 0,
-    "updated_at": "2026-10-16T11:46:20Z",
+    "updated_at": "2026-10-16T12:22:46Z",
     "url": "https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T11:45:42Z",
     "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32385,
-    "updated_at": "2026-10-16T12:01:21Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T11:08:42Z",
     "url": "https://github.com/zubairtechai-droi/OpenCallAgent"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "Luciae39733/distill",
-    "language": "Go",
-    "name": "Luciae39733/distill",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:03:55Z",
-    "url": "https://github.com/Luciae39733/distill"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "Harukil00664/yu-ai-agent",
-    "language": "Java",
-    "name": "Harukil00664/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:03:26Z",
-    "url": "https://github.com/Harukil00664/yu-ai-agent"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "Rocha1945/VectorRAG.Net",
-    "language": "C#",
-    "name": "Rocha1945/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:02:19Z",
-    "url": "https://github.com/Rocha1945/VectorRAG.Net"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9404,
-    "updated_at": "2026-10-16T10:58:47Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "AI optimized PostgreSQL Platform as a Service, built on CNPG, Crossplane and Backstage. Teams order production-ready Pos",
-    "id": "bartvanbenthem/tuskpilot",
-    "language": "TypeScript",
-    "name": "bartvanbenthem/tuskpilot",
-    "stars": 1,
-    "updated_at": "2026-10-16T10:58:19Z",
-    "url": "https://github.com/bartvanbenthem/tuskpilot"
-  },
-  {
-    "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
-    "id": "ChromaDotNet/ChromaDB.Local",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Local",
-    "stars": 1,
-    "updated_at": "2026-10-16T10:57:13Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   }
 ]
