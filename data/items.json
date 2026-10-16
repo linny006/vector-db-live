@@ -1,12 +1,75 @@
 [
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T05:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
     "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 5880,
-    "updated_at": "2026-10-16T05:01:07Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-16T05:15:22Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 2,
+    "updated_at": "2026-10-16T05:12:13Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "Official Java client for Qdrant ",
+    "id": "qdrant/java-client",
+    "language": "Java",
+    "name": "qdrant/java-client",
+    "stars": 99,
+    "updated_at": "2026-10-16T05:10:11Z",
+    "url": "https://github.com/qdrant/java-client"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40038,
+    "updated_at": "2026-10-16T05:09:26Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T05:08:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates.",
+    "id": "gay00ung/vecnook",
+    "language": "Rust",
+    "name": "gay00ung/vecnook",
+    "stars": 2,
+    "updated_at": "2026-10-16T05:04:51Z",
+    "url": "https://github.com/gay00ung/vecnook"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 271,
+    "updated_at": "2026-10-16T05:01:56Z",
+    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +77,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-16T05:00:25Z",
+    "updated_at": "2026-10-16T05:01:29Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T05:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 5892,
+    "updated_at": "2026-10-16T05:01:07Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
@@ -45,58 +108,13 @@
     "url": "https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-16T04:58:42Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 271,
-    "updated_at": "2026-10-16T04:51:13Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-16T04:50:22Z",
+    "updated_at": "2026-10-16T05:14:28Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
-    "id": "nikoma/bicdb",
-    "language": "Rust",
-    "name": "nikoma/bicdb",
-    "stars": 2,
-    "updated_at": "2026-10-16T04:45:12Z",
-    "url": "https://github.com/nikoma/bicdb"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40037,
-    "updated_at": "2026-10-16T04:40:32Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T04:39:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -104,7 +122,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-10-16T04:28:27Z",
+    "updated_at": "2026-10-16T05:05:27Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1204,
-    "updated_at": "2026-10-16T05:01:12Z",
+    "updated_at": "2026-10-16T05:04:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 3749,
-    "updated_at": "2026-10-16T02:44:19Z",
+    "updated_at": "2026-10-16T05:15:25Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -292,7 +310,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32374,
+    "stars": 32375,
     "updated_at": "2026-10-16T02:42:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1640,
-    "updated_at": "2026-10-16T04:44:40Z",
+    "updated_at": "2026-10-16T05:14:04Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T01:05:40Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67178,
-    "updated_at": "2026-10-16T00:56:38Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-16T04:34:34Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   }
 ]
