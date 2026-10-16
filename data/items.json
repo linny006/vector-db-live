@@ -5,17 +5,152 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-16T08:15:19Z",
+    "updated_at": "2026-10-16T08:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-16T08:30:05Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6072,
-    "updated_at": "2026-10-16T08:14:48Z",
+    "stars": 6088,
+    "updated_at": "2026-10-16T08:28:56Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2053,
+    "updated_at": "2026-10-16T08:28:02Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
+    "id": "Bessouat40/RAGLight",
+    "language": "Python",
+    "name": "Bessouat40/RAGLight",
+    "stars": 672,
+    "updated_at": "2026-10-16T08:26:52Z",
+    "url": "https://github.com/Bessouat40/RAGLight"
+  },
+  {
+    "description": "Run Kafka, Flink, Spark, Iceberg, Trino, ClickHouse, Airflow, MLflow, Feast, pgvector and more on your laptop, one comma",
+    "id": "jaehyeon-kim/odctl",
+    "language": "Python",
+    "name": "jaehyeon-kim/odctl",
+    "stars": 13,
+    "updated_at": "2026-10-16T08:29:54Z",
+    "url": "https://github.com/jaehyeon-kim/odctl"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-16T08:24:50Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40061,
+    "updated_at": "2026-10-16T08:23:18Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-16T08:22:45Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 27,
+    "updated_at": "2026-10-16T08:22:33Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16886,
+    "updated_at": "2026-10-16T08:22:19Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32379,
+    "updated_at": "2026-10-16T08:21:18Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 2,
+    "updated_at": "2026-10-16T08:21:59Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "An advanced RAG system utililzing text datasets chunked dynamically. Engineered a dual-stage retrieval pipeline using al",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-10-16T08:17:46Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 2,
+    "updated_at": "2026-10-16T08:17:29Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "Redis Vector Library. The AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 432,
+    "updated_at": "2026-10-16T08:17:13Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T08:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -27,15 +162,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "An advanced RAG system utililzing text datasets chunked dynamically. Engineered a dual-stage retrieval pipeline using al",
-    "id": "rahulboby/ChatVeritas",
-    "language": "Python",
-    "name": "rahulboby/ChatVeritas",
-    "stars": 0,
-    "updated_at": "2026-10-16T08:14:05Z",
-    "url": "https://github.com/rahulboby/ChatVeritas"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -43,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-10-16T08:11:39Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2053,
-    "updated_at": "2026-10-16T08:10:58Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
@@ -63,31 +180,13 @@
     "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
-    "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
-    "id": "Bessouat40/RAGLight",
-    "language": "Python",
-    "name": "Bessouat40/RAGLight",
-    "stars": 672,
-    "updated_at": "2026-10-16T08:03:02Z",
-    "url": "https://github.com/Bessouat40/RAGLight"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T08:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
-    "id": "nikoma/bicdb",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
     "language": "Rust",
-    "name": "nikoma/bicdb",
-    "stars": 2,
-    "updated_at": "2026-10-16T07:56:34Z",
-    "url": "https://github.com/nikoma/bicdb"
+    "name": "qdrant/qdrant",
+    "stars": 35094,
+    "updated_at": "2026-10-16T07:57:59Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -99,15 +198,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40059,
-    "updated_at": "2026-10-16T07:49:48Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -115,15 +205,6 @@
     "stars": 13253,
     "updated_at": "2026-10-16T07:47:09Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 2,
-    "updated_at": "2026-10-16T07:47:04Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -142,15 +223,6 @@
     "stars": 1204,
     "updated_at": "2026-10-16T08:13:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35093,
-    "updated_at": "2026-10-16T07:57:59Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
@@ -178,15 +250,6 @@
     "stars": 271,
     "updated_at": "2026-10-16T07:35:39Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-16T07:29:55Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -239,7 +302,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9467,
-    "updated_at": "2026-10-16T08:14:23Z",
+    "updated_at": "2026-10-16T08:26:42Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -284,7 +347,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-16T07:18:07Z",
+    "updated_at": "2026-10-16T08:21:03Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -295,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T07:04:01Z",
     "url": "https://github.com/austin1406/rag-streamflow-assistant"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16886,
-    "updated_at": "2026-10-16T08:00:42Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T05:55:45Z",
     "url": "https://github.com/tryAGI/Milvus"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1640,
-    "updated_at": "2026-10-16T07:37:37Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "A vector database in C++. Building the stuff I'd normally just pip install.",
-    "id": "adityasharmaaaaa/overveckill",
-    "language": "C++",
-    "name": "adityasharmaaaaa/overveckill",
-    "stars": 1,
-    "updated_at": "2026-10-16T05:49:18Z",
-    "url": "https://github.com/adityasharmaaaaa/overveckill"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1484,
-    "updated_at": "2026-10-16T08:11:25Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1508,
-    "updated_at": "2026-10-16T05:45:26Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9403,
-    "updated_at": "2026-10-16T08:13:24Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2370,
-    "updated_at": "2026-10-16T05:43:12Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
