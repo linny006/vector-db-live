@@ -1,11 +1,56 @@
 [
   {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1640,
+    "updated_at": "2026-10-16T02:27:29Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 905,
+    "updated_at": "2026-10-16T02:22:38Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2053,
+    "updated_at": "2026-10-16T02:21:07Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "- ",
+    "id": "Scaibu/llm-observability-platform",
+    "language": "Python",
+    "name": "Scaibu/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-10-16T02:16:36Z",
+    "url": "https://github.com/Scaibu/llm-observability-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T02:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-16T02:15:19Z",
+    "updated_at": "2026-10-16T02:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,21 +81,12 @@
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T02:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 271,
-    "updated_at": "2026-10-16T01:59:06Z",
+    "updated_at": "2026-10-16T02:28:55Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-16T01:57:36Z",
+    "updated_at": "2026-10-16T02:21:31Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Rust",
     "name": "nikoma/bicdb",
     "stars": 2,
-    "updated_at": "2026-10-16T01:54:54Z",
+    "updated_at": "2026-10-16T02:26:38Z",
     "url": "https://github.com/nikoma/bicdb"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32370,
-    "updated_at": "2026-10-16T01:44:07Z",
+    "updated_at": "2026-10-16T02:30:09Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -144,21 +180,12 @@
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2053,
-    "updated_at": "2026-10-16T01:53:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-16T01:23:16Z",
+    "updated_at": "2026-10-16T02:16:26Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -184,7 +211,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67168,
+    "stars": 67170,
     "updated_at": "2026-10-16T00:56:38Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -214,6 +241,15 @@
     "stars": 1508,
     "updated_at": "2026-10-16T00:46:26Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6524,
+    "updated_at": "2026-10-16T00:45:31Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-15T22:03:38Z",
     "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "Rodrigues50/LLMFlex",
-    "language": "Python",
-    "name": "Rodrigues50/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-15T21:47:26Z",
-    "url": "https://github.com/Rodrigues50/LLMFlex"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 4,
-    "updated_at": "2026-10-15T21:44:17Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
-    "id": "xl3v3r/hermes-oracle-memory",
-    "language": "Python",
-    "name": "xl3v3r/hermes-oracle-memory",
-    "stars": 1,
-    "updated_at": "2026-10-15T21:40:41Z",
-    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
-    "id": "diskerror/ragger.cpp",
-    "language": "C++",
-    "name": "diskerror/ragger.cpp",
-    "stars": 1,
-    "updated_at": "2026-10-15T21:35:41Z",
-    "url": "https://github.com/diskerror/ragger.cpp"
   }
 ]
