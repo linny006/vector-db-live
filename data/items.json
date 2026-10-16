@@ -1,5 +1,59 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 6731,
+    "updated_at": "2026-10-16T18:27:52Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-10-16T18:28:04Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-16T18:26:08Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 11,
+    "updated_at": "2026-10-16T18:26:01Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:25:08Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T18:22:17Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
     "id": "RenataBaig/developers-guide-to-ai",
     "language": "Python",
@@ -54,21 +108,12 @@
     "url": "https://github.com/matthias172/yu-ai-agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T18:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-16T18:15:23Z",
+    "updated_at": "2026-10-16T18:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -79,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-10-16T18:13:13Z",
     "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32399,
+    "updated_at": "2026-10-16T18:12:26Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -153,21 +207,12 @@
     "url": "https://github.com/minhow72/vektori"
   },
   {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-16T18:14:25Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 124,
-    "updated_at": "2026-10-16T18:18:49Z",
+    "updated_at": "2026-10-16T18:25:10Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -207,15 +252,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 6724,
-    "updated_at": "2026-10-16T17:36:44Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
@@ -232,15 +268,6 @@
     "stars": 7129,
     "updated_at": "2026-10-16T17:50:56Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-16T17:25:38Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9405,
-    "updated_at": "2026-10-16T18:20:23Z",
+    "updated_at": "2026-10-16T18:27:10Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -293,17 +320,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9468,
-    "updated_at": "2026-10-16T18:12:04Z",
+    "updated_at": "2026-10-16T18:26:44Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32398,
-    "updated_at": "2026-10-16T18:12:26Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -430,23 +448,5 @@
     "stars": 4741,
     "updated_at": "2026-10-16T15:52:16Z",
     "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4444,
-    "updated_at": "2026-10-16T16:55:06Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-16T16:10:25Z",
-    "url": "https://github.com/Yoruxyv/semantix"
   }
 ]
