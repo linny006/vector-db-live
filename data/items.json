@@ -1,5 +1,131 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-16T20:13:40Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:13:01Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "API platform info for machine-learning",
+    "id": "api-evangelist/machine-learning",
+    "language": "HTML",
+    "name": "api-evangelist/machine-learning",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:12:07Z",
+    "url": "https://github.com/api-evangelist/machine-learning"
+  },
+  {
+    "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
+    "id": "api-evangelist/lf-ai-and-data",
+    "language": "\u2014",
+    "name": "api-evangelist/lf-ai-and-data",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:10:01Z",
+    "url": "https://github.com/api-evangelist/lf-ai-and-data"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-16T20:09:13Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:08:55Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32403,
+    "updated_at": "2026-10-16T20:10:03Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T20:07:49Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embedded database for agentic memory \u2014 relational, graph, and vector under unified MVCC transactions",
+    "id": "context-graph-ai/contextdb",
+    "language": "Rust",
+    "name": "context-graph-ai/contextdb",
+    "stars": 24,
+    "updated_at": "2026-10-16T20:07:23Z",
+    "url": "https://github.com/context-graph-ai/contextdb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-16T20:05:24Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-10-16T20:05:05Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
+    "id": "xl3v3r/hermes-oracle-memory",
+    "language": "Python",
+    "name": "xl3v3r/hermes-oracle-memory",
+    "stars": 1,
+    "updated_at": "2026-10-16T20:00:27Z",
+    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T20:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T20:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -23,7 +149,7 @@
     "language": "Python",
     "name": "monaccode/astromesh",
     "stars": 36,
-    "updated_at": "2026-10-16T19:54:31Z",
+    "updated_at": "2026-10-16T20:09:20Z",
     "url": "https://github.com/monaccode/astromesh"
   },
   {
@@ -43,33 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T19:53:07Z",
     "url": "https://github.com/anvi-tandel/enterprise-rag-compliance-copilot"
-  },
-  {
-    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
-    "id": "xl3v3r/hermes-oracle-memory",
-    "language": "Python",
-    "name": "xl3v3r/hermes-oracle-memory",
-    "stars": 1,
-    "updated_at": "2026-10-16T19:46:47Z",
-    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T19:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T20:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
@@ -153,31 +252,13 @@
     "url": "https://github.com/cernica/hadamask"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T19:34:54Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 124,
-    "updated_at": "2026-10-16T19:35:35Z",
+    "updated_at": "2026-10-16T20:11:48Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32403,
-    "updated_at": "2026-10-16T19:34:06Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI-powered Industrial Knowledge Intelligence platform \u2014 unifies engineering manuals, work orders, P&IDs, and regulations",
@@ -275,7 +356,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1204,
-    "updated_at": "2026-10-16T19:48:38Z",
+    "updated_at": "2026-10-16T20:14:56Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -301,7 +382,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6785,
+    "stars": 6791,
     "updated_at": "2026-10-16T18:56:03Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -328,7 +409,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8377,
+    "stars": 8378,
     "updated_at": "2026-10-16T18:41:06Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -367,86 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-16T18:26:01Z",
     "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-16T19:05:13Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "RenataBaig/developers-guide-to-ai",
-    "language": "Python",
-    "name": "RenataBaig/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-16T18:21:55Z",
-    "url": "https://github.com/RenataBaig/developers-guide-to-ai"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "sharma595/VectorRAG.Net",
-    "language": "C#",
-    "name": "sharma595/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-16T18:19:49Z",
-    "url": "https://github.com/sharma595/VectorRAG.Net"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "matthias172/yu-ai-agent",
-    "language": "Java",
-    "name": "matthias172/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T18:17:44Z",
-    "url": "https://github.com/matthias172/yu-ai-agent"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 1,
-    "updated_at": "2026-10-16T18:13:13Z",
-    "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 129,
-    "updated_at": "2026-10-16T19:28:53Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-16T18:10:58Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-16T18:08:54Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "sgonzalez1792/developers-guide-to-ai",
-    "language": "Python",
-    "name": "sgonzalez1792/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-16T18:06:17Z",
-    "url": "https://github.com/sgonzalez1792/developers-guide-to-ai"
   }
 ]
