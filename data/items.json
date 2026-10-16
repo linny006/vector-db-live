@@ -1,11 +1,101 @@
 [
   {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-10-16T13:29:57Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46401,
+    "updated_at": "2026-10-16T13:27:50Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-16T13:26:02Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-16T13:25:36Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI optimized PostgreSQL Platform, built on CNPG, Crossplane and Backstage. Teams order production-ready PostgreSQL clust",
+    "id": "bartvanbenthem/tuskpilot",
+    "language": "TypeScript",
+    "name": "bartvanbenthem/tuskpilot",
+    "stars": 1,
+    "updated_at": "2026-10-16T13:25:03Z",
+    "url": "https://github.com/bartvanbenthem/tuskpilot"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32387,
+    "updated_at": "2026-10-16T13:25:07Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7129,
+    "updated_at": "2026-10-16T13:27:58Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T13:16:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T13:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T13:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-16T13:15:11Z",
+    "updated_at": "2026-10-16T13:27:48Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -18,15 +108,6 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "AI optimized PostgreSQL Platform as a Service, built on CNPG, Crossplane and Backstage. Teams order production-ready Pos",
-    "id": "bartvanbenthem/tuskpilot",
-    "language": "TypeScript",
-    "name": "bartvanbenthem/tuskpilot",
-    "stars": 1,
-    "updated_at": "2026-10-16T13:10:01Z",
-    "url": "https://github.com/bartvanbenthem/tuskpilot"
-  },
-  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
@@ -34,15 +115,6 @@
     "stars": 26,
     "updated_at": "2026-10-16T13:09:57Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T13:09:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -72,29 +144,11 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T13:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T13:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40079,
+    "stars": 40081,
     "updated_at": "2026-10-16T12:59:24Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -135,15 +189,6 @@
     "url": "https://github.com/Hk-owo/stratum-vectordb"
   },
   {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-10-16T12:55:47Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "dhanoliya-ji/DOCMINDS",
     "stars": 0,
-    "updated_at": "2026-10-16T12:44:38Z",
+    "updated_at": "2026-10-16T13:29:57Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
@@ -176,24 +221,15 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2054,
-    "updated_at": "2026-10-16T12:41:00Z",
+    "updated_at": "2026-10-16T13:19:34Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32388,
-    "updated_at": "2026-10-16T12:40:41Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6456,
+    "stars": 6481,
     "updated_at": "2026-10-16T12:35:21Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11684,
-    "updated_at": "2026-10-16T12:39:54Z",
+    "updated_at": "2026-10-16T13:15:35Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35099,
-    "updated_at": "2026-10-16T13:13:41Z",
+    "updated_at": "2026-10-16T13:23:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9467,
-    "updated_at": "2026-10-16T12:53:39Z",
+    "updated_at": "2026-10-16T13:28:00Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T11:20:52Z",
     "url": "https://github.com/Moretti60/developers-guide-to-ai"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "Elena518/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "Elena518/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:19:55Z",
-    "url": "https://github.com/Elena518/rag-interview-system"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "cbmrxptuiz/llmaker",
-    "language": "Go",
-    "name": "cbmrxptuiz/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:19:29Z",
-    "url": "https://github.com/cbmrxptuiz/llmaker"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 387,
-    "updated_at": "2026-10-16T11:17:43Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "An open-source AI voice agent that talks to customers, books appointments and saves every call to a CRM.",
-    "id": "szubairmaqsood/OpenCallAgent",
-    "language": "\u2014",
-    "name": "szubairmaqsood/OpenCallAgent",
-    "stars": 1,
-    "updated_at": "2026-10-16T11:17:33Z",
-    "url": "https://github.com/szubairmaqsood/OpenCallAgent"
   }
 ]
