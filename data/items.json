@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-16T00:32:17Z",
+    "updated_at": "2026-10-16T00:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 423,
+    "updated_at": "2026-10-16T00:42:46Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-16T00:30:28Z",
+    "updated_at": "2026-10-16T00:33:53Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -58,7 +67,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8374,
+    "stars": 8375,
     "updated_at": "2026-10-16T00:20:33Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -77,7 +86,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9402,
-    "updated_at": "2026-10-16T00:33:32Z",
+    "updated_at": "2026-10-16T00:45:05Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-15T23:59:39Z",
+    "updated_at": "2026-10-16T00:37:25Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -167,7 +176,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-16T00:16:20Z",
+    "updated_at": "2026-10-16T00:44:46Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32364,
-    "updated_at": "2026-10-16T00:26:07Z",
+    "updated_at": "2026-10-16T00:38:25Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T20:46:19Z",
     "url": "https://github.com/carlaktas/distill"
-  },
-  {
-    "description": "Distributed open-source vector database with persistence, replication, REST/gRPC APIs, and an operations dashboard.",
-    "id": "Bharanipbk/gideondb",
-    "language": "Go",
-    "name": "Bharanipbk/gideondb",
-    "stars": 0,
-    "updated_at": "2026-10-15T20:45:43Z",
-    "url": "https://github.com/Bharanipbk/gideondb"
   }
 ]
