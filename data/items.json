@@ -1,5 +1,95 @@
 [
   {
+    "description": "Modular RAG service with tenant-aware hybrid retrieval, durable ingestion, pgvector, OpenAI/Ollama and FastAPI/Spring Bo",
+    "id": "BugraCinar/modular-forge-rag-starter",
+    "language": "Python",
+    "name": "BugraCinar/modular-forge-rag-starter",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:44:41Z",
+    "url": "https://github.com/BugraCinar/modular-forge-rag-starter"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:44:38Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-16T12:42:17Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-16T12:41:00Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32388,
+    "updated_at": "2026-10-16T12:40:41Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 6424,
+    "updated_at": "2026-10-16T12:35:21Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-16T12:39:02Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13255,
+    "updated_at": "2026-10-16T12:30:55Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T12:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T12:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
     "id": "Linaf7862/VectorRAG.Net",
     "language": "C#",
@@ -27,39 +117,12 @@
     "url": "https://github.com/tickernelz/opencode-mem"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 6403,
-    "updated_at": "2026-10-16T12:24:24Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32386,
-    "updated_at": "2026-10-16T12:25:25Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Modular RAG service with tenant-aware hybrid retrieval, durable ingestion, pgvector, OpenAI/Ollama and FastAPI/Spring Bo",
-    "id": "BugraCinar/modular-forge-rag-starter",
-    "language": "Python",
-    "name": "BugraCinar/modular-forge-rag-starter",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:23:57Z",
-    "url": "https://github.com/BugraCinar/modular-forge-rag-starter"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-16T12:19:18Z",
+    "updated_at": "2026-10-16T12:35:29Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11684,
-    "updated_at": "2026-10-16T12:28:03Z",
+    "updated_at": "2026-10-16T12:39:54Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -90,24 +153,6 @@
     "url": "https://github.com/Bessouat40/RAGLight"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T12:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T12:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -117,15 +162,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-16T12:11:51Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
     "id": "seekwhencer/gitea-qdrant-sync",
     "language": "JavaScript",
@@ -133,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T12:08:23Z",
     "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:22:02Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-16T12:10:19Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -207,15 +225,6 @@
     "url": "https://github.com/nikoma/bicdb"
   },
   {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:53:58Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -229,7 +238,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40076,
+    "stars": 40077,
     "updated_at": "2026-10-16T11:48:25Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -257,7 +266,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8377,
-    "updated_at": "2026-10-16T12:12:02Z",
+    "updated_at": "2026-10-16T12:44:13Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 46399,
     "updated_at": "2026-10-16T11:09:49Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "An open-source AI voice agent that talks to customers, books appointments and saves every call to a CRM.",
-    "id": "zubairtechai-droi/OpenCallAgent",
-    "language": "\u2014",
-    "name": "zubairtechai-droi/OpenCallAgent",
-    "stars": 1,
-    "updated_at": "2026-10-16T11:08:42Z",
-    "url": "https://github.com/zubairtechai-droi/OpenCallAgent"
   }
 ]
