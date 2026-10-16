@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-16T17:00:22Z",
+    "updated_at": "2026-10-16T17:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,53 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-16T17:00:20Z",
+    "updated_at": "2026-10-16T17:14:54Z",
     "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:13:23Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "Agentic RAG assistant for research papers: LangGraph + Claude, Qdrant, Tavily, corrective RAG and claim verification.",
+    "id": "heyayush87/SCHOLARAGENT",
+    "language": "Python",
+    "name": "heyayush87/SCHOLARAGENT",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:12:24Z",
+    "url": "https://github.com/heyayush87/SCHOLARAGENT"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9405,
+    "updated_at": "2026-10-16T17:13:11Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T17:07:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 6683,
+    "updated_at": "2026-10-16T17:07:13Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
@@ -23,17 +68,26 @@
     "language": "Python",
     "name": "structured-world/coordinode-python",
     "stars": 0,
-    "updated_at": "2026-10-16T16:59:17Z",
+    "updated_at": "2026-10-16T17:04:14Z",
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 6675,
-    "updated_at": "2026-10-16T16:56:54Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "Python",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 0,
+    "updated_at": "2026-10-16T17:01:07Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T17:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -68,7 +122,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-16T16:50:53Z",
+    "updated_at": "2026-10-16T17:08:14Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 124,
-    "updated_at": "2026-10-16T16:51:48Z",
+    "updated_at": "2026-10-16T17:15:24Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/datris/datris-platform-oss"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T16:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
     "id": "dhanoliya-ji/DOCMINDS",
     "language": "Python",
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 97,
-    "updated_at": "2026-10-16T16:43:57Z",
+    "updated_at": "2026-10-16T17:07:31Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -149,26 +194,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11684,
-    "updated_at": "2026-10-16T16:41:30Z",
+    "updated_at": "2026-10-16T17:14:35Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T16:38:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Agentic RAG assistant for research papers: LangGraph + Claude, Qdrant, Tavily, corrective RAG and claim verification.",
-    "id": "heyayush87/SCHOLARAGENT",
-    "language": "Python",
-    "name": "heyayush87/SCHOLARAGENT",
-    "stars": 0,
-    "updated_at": "2026-10-16T16:30:56Z",
-    "url": "https://github.com/heyayush87/SCHOLARAGENT"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35102,
-    "updated_at": "2026-10-16T16:22:08Z",
+    "updated_at": "2026-10-16T17:04:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -337,7 +364,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46401,
+    "stars": 46402,
     "updated_at": "2026-10-16T15:12:52Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -410,7 +437,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 904,
-    "updated_at": "2026-10-16T16:51:21Z",
+    "updated_at": "2026-10-16T17:03:56Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T14:27:32Z",
     "url": "https://github.com/CGainsWorks/ml-agentic-research-assistant"
-  },
-  {
-    "description": "AI assistant that answers company policy questions across HR, Legal, Finance and IT \u2014 automatically figures out which de",
-    "id": "065008gif/enterprise-rag-platform",
-    "language": "Python",
-    "name": "065008gif/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-10-16T14:22:11Z",
-    "url": "https://github.com/065008gif/enterprise-rag-platform"
-  },
-  {
-    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, and Windsurf with temporal decay",
-    "id": "yantrikos/yantrikdb-mcp",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-mcp",
-    "stars": 25,
-    "updated_at": "2026-10-16T14:17:08Z",
-    "url": "https://github.com/yantrikos/yantrikdb-mcp"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 66,
-    "updated_at": "2026-10-16T14:17:02Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   }
 ]
