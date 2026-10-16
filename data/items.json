@@ -1,5 +1,158 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T11:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "Rocha1945/VectorRAG.Net",
+    "language": "C#",
+    "name": "Rocha1945/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:59:41Z",
+    "url": "https://github.com/Rocha1945/VectorRAG.Net"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-16T11:00:22Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9404,
+    "updated_at": "2026-10-16T10:58:47Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI optimized PostgreSQL Platform as a Service, built on CNPG, Crossplane and Backstage. Teams order production-ready Pos",
+    "id": "bartvanbenthem/tuskpilot",
+    "language": "TypeScript",
+    "name": "bartvanbenthem/tuskpilot",
+    "stars": 1,
+    "updated_at": "2026-10-16T10:58:19Z",
+    "url": "https://github.com/bartvanbenthem/tuskpilot"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46399,
+    "updated_at": "2026-10-16T10:57:50Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
+    "id": "ChromaDotNet/ChromaDB.Local",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Local",
+    "stars": 1,
+    "updated_at": "2026-10-16T10:57:13Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:56:01Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2019,
+    "updated_at": "2026-10-16T10:55:39Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-16T10:53:47Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:50:56Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13255,
+    "updated_at": "2026-10-16T10:48:57Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:52:03Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:48:43Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-16T10:57:02Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "antonioz252/llmaker",
+    "language": "Go",
+    "name": "antonioz252/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:45:50Z",
+    "url": "https://github.com/antonioz252/llmaker"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T10:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -14,7 +167,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-16T10:44:38Z",
+    "updated_at": "2026-10-16T11:00:14Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -45,15 +198,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46399,
-    "updated_at": "2026-10-16T10:37:49Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
     "id": "Hk-owo/stratum-vectordb",
     "language": "Go",
@@ -79,24 +223,6 @@
     "stars": 581,
     "updated_at": "2026-10-16T10:36:41Z",
     "url": "https://github.com/hhblaze/DBreeze"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "antonioz252/llmaker",
-    "language": "Go",
-    "name": "antonioz252/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:44:30Z",
-    "url": "https://github.com/antonioz252/llmaker"
-  },
-  {
-    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
-    "id": "YunanJeong/rag-git-docs",
-    "language": "Python",
-    "name": "YunanJeong/rag-git-docs",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:34:51Z",
-    "url": "https://github.com/YunanJeong/rag-git-docs"
   },
   {
     "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
@@ -144,24 +270,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T10:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T10:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
     "id": "HasanYadav0920/yu-ai-agent",
     "language": "Java",
@@ -178,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T10:27:02Z",
     "url": "https://github.com/ajbethsmkj/VectorRAG.Net"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:26:03Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
@@ -216,15 +315,6 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
-    "id": "ChromaDotNet/ChromaDB.Local",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Local",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:22:50Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
-  },
-  {
     "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
     "id": "davidfernxndez/github-repository-rag",
     "language": "Jupyter Notebook",
@@ -232,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T10:18:55Z",
     "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:37:15Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -324,15 +405,6 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-16T10:00:59Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "mcastillo2744/llmaker",
     "language": "Go",
@@ -369,15 +441,6 @@
     "url": "https://github.com/akira8172/distill"
   },
   {
-    "description": "AI optimized PostgreSQL Platform as a Service, built on CNPG, Crossplane and Backstage. Teams order production-ready Pos",
-    "id": "bartvanbenthem/tuskpilot",
-    "language": "TypeScript",
-    "name": "bartvanbenthem/tuskpilot",
-    "stars": 1,
-    "updated_at": "2026-10-16T09:49:37Z",
-    "url": "https://github.com/bartvanbenthem/tuskpilot"
-  },
-  {
     "description": "",
     "id": "vishnarac/scyllavec",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T09:49:36Z",
     "url": "https://github.com/vishnarac/scyllavec"
-  },
-  {
-    "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
-    "id": "Bessouat40/RAGLight",
-    "language": "Python",
-    "name": "Bessouat40/RAGLight",
-    "stars": 673,
-    "updated_at": "2026-10-16T10:38:36Z",
-    "url": "https://github.com/Bessouat40/RAGLight"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-16T09:46:42Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 16116,
-    "updated_at": "2026-10-16T09:42:05Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-10-16T09:38:03Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Spring AI + DeepSeek \u8bfe\u7a0b\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54",
-    "id": "fangtangj/deepseek-rag-qa",
-    "language": "Java",
-    "name": "fangtangj/deepseek-rag-qa",
-    "stars": 0,
-    "updated_at": "2026-10-16T09:32:37Z",
-    "url": "https://github.com/fangtangj/deepseek-rag-qa"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 6244,
-    "updated_at": "2026-10-16T09:30:08Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) over a student's own documents (resume, transcript, SOP) using embeddings + a vecto",
-    "id": "ansondias/personal-rag-experiment-8",
-    "language": "Python",
-    "name": "ansondias/personal-rag-experiment-8",
-    "stars": 0,
-    "updated_at": "2026-10-16T09:28:31Z",
-    "url": "https://github.com/ansondias/personal-rag-experiment-8"
   }
 ]
