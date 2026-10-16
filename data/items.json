@@ -1,12 +1,75 @@
 [
   {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 124,
-    "updated_at": "2026-10-16T17:59:00Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T18:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 1,
+    "updated_at": "2026-10-16T18:13:13Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 129,
+    "updated_at": "2026-10-16T18:11:53Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-16T18:10:58Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T18:10:20Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-16T18:08:54Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "sgonzalez1792/developers-guide-to-ai",
+    "language": "Python",
+    "name": "sgonzalez1792/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:06:17Z",
+    "url": "https://github.com/sgonzalez1792/developers-guide-to-ai"
+  },
+  {
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "Python",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:06:08Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
   },
   {
     "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
@@ -14,8 +77,26 @@
     "language": "PHP",
     "name": "Niccher/Chege-Photos-Platform",
     "stars": 0,
-    "updated_at": "2026-10-16T17:56:57Z",
+    "updated_at": "2026-10-16T18:05:16Z",
     "url": "https://github.com/Niccher/Chege-Photos-Platform"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "minhow72/vektori",
+    "language": "Python",
+    "name": "minhow72/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:03:48Z",
+    "url": "https://github.com/minhow72/vektori"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-16T18:14:25Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -23,8 +104,26 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-16T17:55:00Z",
+    "updated_at": "2026-10-16T18:12:48Z",
     "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T18:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-16T18:12:25Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -54,24 +153,6 @@
     "url": "https://github.com/RishabhMathur06/CASO-RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T17:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T18:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Agentic RAG assistant for research papers: LangGraph + Claude, Qdrant, Tavily, corrective RAG and claim verification.",
     "id": "heyayush87/SCHOLARAGENT",
     "language": "Python",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T17:39:54Z",
     "url": "https://github.com/heyayush87/SCHOLARAGENT"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:55:07Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -103,27 +175,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6711,
+    "stars": 6720,
     "updated_at": "2026-10-16T17:36:44Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T17:34:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
-    "id": "aldyardnsyh/IntelligenceDocumentSystem",
-    "language": "Python",
-    "name": "aldyardnsyh/IntelligenceDocumentSystem",
-    "stars": 0,
-    "updated_at": "2026-10-16T17:27:18Z",
-    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -185,7 +239,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9405,
-    "updated_at": "2026-10-16T17:53:02Z",
+    "updated_at": "2026-10-16T18:10:53Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9468,
-    "updated_at": "2026-10-16T17:03:11Z",
+    "updated_at": "2026-10-16T18:12:04Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32398,
-    "updated_at": "2026-10-16T17:57:50Z",
+    "updated_at": "2026-10-16T18:12:26Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -257,7 +311,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11684,
-    "updated_at": "2026-10-16T17:23:20Z",
+    "updated_at": "2026-10-16T18:06:25Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -292,7 +346,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40107,
+    "stars": 40108,
     "updated_at": "2026-10-16T16:25:24Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -324,15 +378,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-16T16:33:20Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
     "description": "ChironDB is a Rust-native vector database for AI and RAG applications, combining dense, sparse, and hybrid search with r",
     "id": "Gaussian-id/ChironDB",
     "language": "Rust",
@@ -349,15 +394,6 @@
     "stars": 4741,
     "updated_at": "2026-10-16T15:52:16Z",
     "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 129,
-    "updated_at": "2026-10-16T15:39:26Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -392,7 +428,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-16T15:31:22Z",
+    "updated_at": "2026-10-16T18:15:03Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T15:21:31Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-16T15:16:27Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46402,
-    "updated_at": "2026-10-16T15:12:52Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database",
-    "id": "oracle/vecdb-python-sdk",
-    "language": "Python",
-    "name": "oracle/vecdb-python-sdk",
-    "stars": 70,
-    "updated_at": "2026-10-16T15:16:57Z",
-    "url": "https://github.com/oracle/vecdb-python-sdk"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8377,
-    "updated_at": "2026-10-16T17:33:19Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
