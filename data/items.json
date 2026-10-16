@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T08:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6049,
-    "updated_at": "2026-10-16T07:58:16Z",
+    "stars": 6072,
+    "updated_at": "2026-10-16T08:14:48Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-10-16T08:14:36Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "An advanced RAG system utililzing text datasets chunked dynamically. Engineered a dual-stage retrieval pipeline using al",
+    "id": "rahulboby/ChatVeritas",
+    "language": "Python",
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-10-16T08:14:05Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T08:11:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2053,
+    "updated_at": "2026-10-16T08:10:58Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-10-16T08:05:33Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
+    "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
+    "id": "Bessouat40/RAGLight",
+    "language": "Python",
+    "name": "Bessouat40/RAGLight",
+    "stars": 672,
+    "updated_at": "2026-10-16T08:03:02Z",
+    "url": "https://github.com/Bessouat40/RAGLight"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T08:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
@@ -23,24 +95,15 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46398,
-    "updated_at": "2026-10-16T07:55:49Z",
+    "updated_at": "2026-10-16T08:07:50Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
-    "id": "redrob-labs/redrob-recall",
-    "language": "Rust",
-    "name": "redrob-labs/redrob-recall",
-    "stars": 0,
-    "updated_at": "2026-10-16T07:52:29Z",
-    "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40058,
+    "stars": 40059,
     "updated_at": "2026-10-16T07:49:48Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -67,27 +130,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39150,
-    "updated_at": "2026-10-16T07:46:55Z",
+    "stars": 39151,
+    "updated_at": "2026-10-16T08:12:40Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T07:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T08:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -95,7 +140,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1204,
-    "updated_at": "2026-10-16T07:45:11Z",
+    "updated_at": "2026-10-16T08:13:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -126,24 +171,6 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T07:38:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2053,
-    "updated_at": "2026-10-16T07:37:12Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -151,15 +178,6 @@
     "stars": 271,
     "updated_at": "2026-10-16T07:35:39Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
-    "id": "Bessouat40/RAGLight",
-    "language": "Python",
-    "name": "Bessouat40/RAGLight",
-    "stars": 672,
-    "updated_at": "2026-10-16T07:56:54Z",
-    "url": "https://github.com/Bessouat40/RAGLight"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -176,7 +194,7 @@
     "language": "C++",
     "name": "alibaba/zvec",
     "stars": 16115,
-    "updated_at": "2026-10-16T07:27:10Z",
+    "updated_at": "2026-10-16T08:01:19Z",
     "url": "https://github.com/alibaba/zvec"
   },
   {
@@ -207,12 +225,21 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11683,
+    "updated_at": "2026-10-16T07:19:49Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9467,
-    "updated_at": "2026-10-16T07:52:38Z",
+    "updated_at": "2026-10-16T08:14:23Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16886,
-    "updated_at": "2026-10-16T07:56:04Z",
+    "updated_at": "2026-10-16T08:00:42Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1484,
-    "updated_at": "2026-10-16T07:51:07Z",
+    "updated_at": "2026-10-16T08:11:25Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9403,
-    "updated_at": "2026-10-16T07:56:05Z",
+    "updated_at": "2026-10-16T08:13:24Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2370,
     "updated_at": "2026-10-16T05:43:12Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "A production-ready Legal AI Assistant built with RAG. Uses Qdrant Cloud, OpenRouter, and Streamlit to accurately answer ",
-    "id": "prashantv04/pdf-rag-system",
-    "language": "Python",
-    "name": "prashantv04/pdf-rag-system",
-    "stars": 0,
-    "updated_at": "2026-10-16T05:41:07Z",
-    "url": "https://github.com/prashantv04/pdf-rag-system"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-16T05:35:39Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-16T06:13:53Z",
-    "url": "https://github.com/iberi22/xavier"
   }
 ]
