@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-16 20:45 UTC
+> ⏰ Last updated: 2026-10-16 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [FrancescoCiannavei/Multimodal-Vector-Search](https://github.com/FrancescoCiannavei/Multimodal-Vector-Search) | 2 | Python | 2026-10-16 | Multimodal semantic search across text, images, audio and video using Google's EmbeddingGemma 2, PostgreSQL + pgvector a |
-| 2 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11684 | Rust | 2026-10-16 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 3 | [api-evangelist/surrealdb](https://github.com/api-evangelist/surrealdb) | 0 | — | 2026-10-16 | SurrealDB — independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [api-evangelist/sequoiadb](https://github.com/api-evangelist/sequoiadb) | 0 | — | 2026-10-16 | SequoiaDB — independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (巨杉数据库) is a distribut |
-| 6 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 5 | Rust | 2026-10-16 |  Cognitive Memory Architecture for Agents |
-| 7 | [brodewa369/roowet-semantic-vault-search](https://github.com/brodewa369/roowet-semantic-vault-search) | 5 | Python | 2026-10-16 | Local RAG semantic search for Obsidian vaults — Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo |
-| 8 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9405 | Rust | 2026-10-16 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 9 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1640 | Python | 2026-10-16 | The backend agents build with - Multimodal database, orchestration, and serving in one file |
-| 10 | [api-evangelist/ragflow](https://github.com/api-evangelist/ragflow) | 0 | — | 2026-10-16 | RAGFlow — independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev |
-| 11 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 12 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 13 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 5 | Python | 2026-10-16 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
-| 14 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1204 | Java | 2026-10-16 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 15 | [sarumaj/langchain-memvid](https://github.com/sarumaj/langchain-memvid) | 3 | Python | 2026-10-16 | Mirror of https://git.ciepiela.org/dawid/langchain-memvid, where issues and pull requests go. A Langchain implementation |
-| 16 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-16 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 17 | [api-evangelist/objectbox](https://github.com/api-evangelist/objectbox) | 0 | — | 2026-10-16 | ObjectBox — independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance, |
-| 18 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-10-16 | Nomic AI — independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib |
-| 19 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-10-16 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
-| 20 | [api-evangelist/myscale](https://github.com/api-evangelist/myscale) | 0 | — | 2026-10-16 | MyScale — independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b |
-| 21 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 32404 | Python | 2026-10-16 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
-| 22 | [api-evangelist/mixedbread-ai](https://github.com/api-evangelist/mixedbread-ai) | 1 | — | 2026-10-16 | Mixedbread — independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI |
-| 23 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-10-16 | Milvus — independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source |
-| 24 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2054 | Go | 2026-10-16 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 25 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-10-16 | Marqo — independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal  |
-| 26 | [api-evangelist/machine-learning](https://github.com/api-evangelist/machine-learning) | 0 | HTML | 2026-10-16 | API platform info for machine-learning |
-| 27 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-10-16 | LF AI and Data — independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation |
-| 28 | [schmitech/orbit](https://github.com/schmitech/orbit) | 355 | Python | 2026-10-16 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 29 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-10-16 | LanceDB — independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda |
-| 30 | [context-graph-ai/contextdb](https://github.com/context-graph-ai/contextdb) | 24 | Rust | 2026-10-16 | Embedded database for agentic memory — relational, graph, and vector under unified MVCC transactions |
-| 31 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 32 | [api-evangelist/ironcore-labs](https://github.com/api-evangelist/ironcore-labs) | 0 | — | 2026-10-16 | IronCore Labs — independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica |
-| 33 | [xl3v3r/hermes-oracle-memory](https://github.com/xl3v3r/hermes-oracle-memory) | 1 | Python | 2026-10-16 | Oracle AI Database 26ai memory provider plugin for Hermes Agent |
-| 34 | [api-evangelist/gel-data](https://github.com/api-evangelist/gel-data) | 0 | — | 2026-10-16 | Gel Data — independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b |
-| 35 | [monaccode/astromesh](https://github.com/monaccode/astromesh) | 36 | Python | 2026-10-16 | Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla |
-| 36 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-10-16 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
-| 37 | [anvi-tandel/enterprise-rag-compliance-copilot](https://github.com/anvi-tandel/enterprise-rag-compliance-copilot) | 0 | Python | 2026-10-16 | Enterprise-grade RAG system for querying policy documents using FastAPI, Weaviate and Ollama. |
-| 38 | [api-evangelist/datastax](https://github.com/api-evangelist/datastax) | 0 | — | 2026-10-16 | DataStax — independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As |
-| 39 | [api-evangelist/database](https://github.com/api-evangelist/database) | 0 | HTML | 2026-10-16 | API platform info for database |
-| 40 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-16 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 41 | [api-evangelist/crate-io](https://github.com/api-evangelist/crate-io) | 0 | — | 2026-10-16 | Crate Io — independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr |
-| 42 | [api-evangelist/contentstack](https://github.com/api-evangelist/contentstack) | 0 | — | 2026-10-16 | contentstack — independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r |
-| 43 | [api-evangelist/chroma](https://github.com/api-evangelist/chroma) | 0 | — | 2026-10-16 | Chroma — independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc |
-| 44 | [Getty/p5-sqlite-vecdb](https://github.com/Getty/p5-sqlite-vecdb) | 0 | Perl | 2026-10-16 | SQLite as a vector database using sqlite-vec |
-| 45 | [cernica/hadamask](https://github.com/cernica/hadamask) | 0 | Python | 2026-10-16 | Client-side protection for vector databases: keyed orthogonal obfuscation of embeddings + AES-256-GCM metadata. Exact si |
-| 46 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 124 | Python | 2026-10-16 | Self improving agents through iterations |
-| 47 | [DEADEND-47/CogniPlant](https://github.com/DEADEND-47/CogniPlant) | 1 | JavaScript | 2026-10-16 | AI-powered Industrial Knowledge Intelligence platform — unifies engineering manuals, work orders, P&IDs, and regulations |
-| 48 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2371 | JavaScript | 2026-10-16 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 49 | [heyayush87/SCHOLARAGENT](https://github.com/heyayush87/SCHOLARAGENT) | 0 | Python | 2026-10-16 | Agentic RAG assistant for research papers: LangGraph + Claude, Qdrant, Tavily, corrective RAG and claim verification. |
-| 50 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-16 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-10-16 | Zilliz — independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector  |
+| 3 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-10-16 | Weaviate — independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na |
+| 4 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-10-16 | Vespa — independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en |
+| 5 | [api-evangelist/vectorize-io](https://github.com/api-evangelist/vectorize-io) | 0 | — | 2026-10-16 | Vectorize — independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au |
+| 6 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-10-16 | Upstash — independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p |
+| 7 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 5 | Python | 2026-10-16 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
+| 8 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11684 | Rust | 2026-10-16 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 10 | [FrancescoCiannavei/Multimodal-Vector-Search](https://github.com/FrancescoCiannavei/Multimodal-Vector-Search) | 2 | Python | 2026-10-16 | Multimodal semantic search across text, images, audio and video using Google's EmbeddingGemma 2, PostgreSQL + pgvector a |
+| 11 | [api-evangelist/surrealdb](https://github.com/api-evangelist/surrealdb) | 0 | — | 2026-10-16 | SurrealDB — independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab |
+| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 13 | [api-evangelist/sequoiadb](https://github.com/api-evangelist/sequoiadb) | 0 | — | 2026-10-16 | SequoiaDB — independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (巨杉数据库) is a distribut |
+| 14 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 5 | Rust | 2026-10-16 |  Cognitive Memory Architecture for Agents |
+| 15 | [brodewa369/roowet-semantic-vault-search](https://github.com/brodewa369/roowet-semantic-vault-search) | 5 | Python | 2026-10-16 | Local RAG semantic search for Obsidian vaults — Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo |
+| 16 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9405 | Rust | 2026-10-16 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 17 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1640 | Python | 2026-10-16 | The backend agents build with - Multimodal database, orchestration, and serving in one file |
+| 18 | [api-evangelist/ragflow](https://github.com/api-evangelist/ragflow) | 0 | — | 2026-10-16 | RAGFlow — independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev |
+| 19 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1204 | Java | 2026-10-16 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 20 | [sarumaj/langchain-memvid](https://github.com/sarumaj/langchain-memvid) | 3 | Python | 2026-10-16 | Mirror of https://git.ciepiela.org/dawid/langchain-memvid, where issues and pull requests go. A Langchain implementation |
+| 21 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-16 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 22 | [api-evangelist/objectbox](https://github.com/api-evangelist/objectbox) | 0 | — | 2026-10-16 | ObjectBox — independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance, |
+| 23 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-10-16 | Nomic AI — independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib |
+| 24 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-10-16 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
+| 25 | [api-evangelist/myscale](https://github.com/api-evangelist/myscale) | 0 | — | 2026-10-16 | MyScale — independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b |
+| 26 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 32404 | Python | 2026-10-16 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
+| 27 | [api-evangelist/mixedbread-ai](https://github.com/api-evangelist/mixedbread-ai) | 1 | — | 2026-10-16 | Mixedbread — independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI |
+| 28 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-10-16 | Milvus — independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source |
+| 29 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2054 | Go | 2026-10-16 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 30 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-10-16 | Marqo — independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal  |
+| 31 | [api-evangelist/machine-learning](https://github.com/api-evangelist/machine-learning) | 0 | HTML | 2026-10-16 | API platform info for machine-learning |
+| 32 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-10-16 | LF AI and Data — independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation |
+| 33 | [schmitech/orbit](https://github.com/schmitech/orbit) | 355 | Python | 2026-10-16 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 34 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-10-16 | LanceDB — independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda |
+| 35 | [context-graph-ai/contextdb](https://github.com/context-graph-ai/contextdb) | 24 | Rust | 2026-10-16 | Embedded database for agentic memory — relational, graph, and vector under unified MVCC transactions |
+| 36 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 37 | [api-evangelist/ironcore-labs](https://github.com/api-evangelist/ironcore-labs) | 0 | — | 2026-10-16 | IronCore Labs — independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica |
+| 38 | [xl3v3r/hermes-oracle-memory](https://github.com/xl3v3r/hermes-oracle-memory) | 1 | Python | 2026-10-16 | Oracle AI Database 26ai memory provider plugin for Hermes Agent |
+| 39 | [api-evangelist/gel-data](https://github.com/api-evangelist/gel-data) | 0 | — | 2026-10-16 | Gel Data — independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b |
+| 40 | [monaccode/astromesh](https://github.com/monaccode/astromesh) | 36 | Python | 2026-10-16 | Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla |
+| 41 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-10-16 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
+| 42 | [anvi-tandel/enterprise-rag-compliance-copilot](https://github.com/anvi-tandel/enterprise-rag-compliance-copilot) | 0 | Python | 2026-10-16 | Enterprise-grade RAG system for querying policy documents using FastAPI, Weaviate and Ollama. |
+| 43 | [api-evangelist/datastax](https://github.com/api-evangelist/datastax) | 0 | — | 2026-10-16 | DataStax — independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As |
+| 44 | [api-evangelist/database](https://github.com/api-evangelist/database) | 0 | HTML | 2026-10-16 | API platform info for database |
+| 45 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-16 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 46 | [api-evangelist/crate-io](https://github.com/api-evangelist/crate-io) | 0 | — | 2026-10-16 | Crate Io — independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr |
+| 47 | [api-evangelist/contentstack](https://github.com/api-evangelist/contentstack) | 0 | — | 2026-10-16 | contentstack — independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r |
+| 48 | [api-evangelist/chroma](https://github.com/api-evangelist/chroma) | 0 | — | 2026-10-16 | Chroma — independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc |
+| 49 | [Getty/p5-sqlite-vecdb](https://github.com/Getty/p5-sqlite-vecdb) | 0 | Perl | 2026-10-16 | SQLite as a vector database using sqlite-vec |
+| 50 | [cernica/hadamask](https://github.com/cernica/hadamask) | 0 | Python | 2026-10-16 | Client-side protection for vector databases: keyed orthogonal obfuscation of embeddings + AES-256-GCM metadata. Exact si |
 <!-- TRACKER_TABLE_END -->
 
 ---
