@@ -1,5 +1,95 @@
 [
   {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 128,
+    "updated_at": "2026-10-16T12:00:04Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-16T11:58:30Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-16T11:57:02Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 2,
+    "updated_at": "2026-10-16T11:54:03Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:53:58Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 6363,
+    "updated_at": "2026-10-16T11:51:11Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35098,
+    "updated_at": "2026-10-16T11:49:44Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Top Vector Database Semantic Search (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-Vector-Database-Semantic-Search",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Vector-Database-Semantic-Search",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:46:20Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Vector-Database-Semantic-Search"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:45:42Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T11:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,12 +99,21 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32385,
+    "updated_at": "2026-10-16T11:44:35Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-16T11:44:35Z",
+    "updated_at": "2026-10-16T12:00:13Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -23,17 +122,17 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 13020,
-    "updated_at": "2026-10-16T11:42:07Z",
+    "updated_at": "2026-10-16T11:48:51Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
     "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:37:09Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+    "name": "volcengine/OpenViking",
+    "stars": 40073,
+    "updated_at": "2026-10-16T11:48:25Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -81,15 +180,6 @@
     "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T11:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
     "id": "Irina8334/vektori",
     "language": "Python",
@@ -104,17 +194,8 @@
     "language": "Python",
     "name": "dhanoliya-ji/DOCMINDS",
     "stars": 0,
-    "updated_at": "2026-10-16T11:41:19Z",
+    "updated_at": "2026-10-16T11:54:23Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:26:41Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -135,15 +216,6 @@
     "url": "https://github.com/denizkaramanlis35063/vektori"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40072,
-    "updated_at": "2026-10-16T11:40:38Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -158,7 +230,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9467,
-    "updated_at": "2026-10-16T11:25:13Z",
+    "updated_at": "2026-10-16T11:51:17Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -169,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T11:20:52Z",
     "url": "https://github.com/Moretti60/developers-guide-to-ai"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35097,
-    "updated_at": "2026-10-16T11:34:31Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 6347,
-    "updated_at": "2026-10-16T11:20:30Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
@@ -387,15 +441,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-16T11:04:33Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
     "id": "Sinanm15/VectorRAG.Net",
     "language": "C#",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T10:38:27Z",
     "url": "https://github.com/Sinanm15/VectorRAG.Net"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "AmandaAndre902/llmaker",
-    "language": "Go",
-    "name": "AmandaAndre902/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:38:19Z",
-    "url": "https://github.com/AmandaAndre902/llmaker"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3750,
-    "updated_at": "2026-10-16T10:38:00Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
-    "id": "hhblaze/DBreeze",
-    "language": "C#",
-    "name": "hhblaze/DBreeze",
-    "stars": 581,
-    "updated_at": "2026-10-16T10:36:41Z",
-    "url": "https://github.com/hhblaze/DBreeze"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-10-16T10:33:37Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32384,
-    "updated_at": "2026-10-16T11:44:35Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
