@@ -1,12 +1,21 @@
 [
   {
-    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
-    "id": "datris/datris-platform-oss",
-    "language": "Scala",
-    "name": "datris/datris-platform-oss",
-    "stars": 12,
-    "updated_at": "2026-10-16T16:15:10Z",
-    "url": "https://github.com/datris/datris-platform-oss"
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-16T16:29:36Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-16T16:27:53Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -14,17 +23,62 @@
     "language": "Go",
     "name": "23skdu/longbow",
     "stars": 13,
-    "updated_at": "2026-10-16T16:13:15Z",
+    "updated_at": "2026-10-16T16:29:21Z",
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-16T16:11:33Z",
-    "url": "https://github.com/iberi22/xavier"
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40101,
+    "updated_at": "2026-10-16T16:25:24Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-16T16:19:28Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-16T16:25:09Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T16:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T16:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
+    "id": "datris/datris-platform-oss",
+    "language": "Scala",
+    "name": "datris/datris-platform-oss",
+    "stars": 12,
+    "updated_at": "2026-10-16T16:15:10Z",
+    "url": "https://github.com/datris/datris-platform-oss"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,8 +95,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1204,
-    "updated_at": "2026-10-16T16:14:13Z",
+    "updated_at": "2026-10-16T16:24:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32396,
+    "updated_at": "2026-10-16T16:05:57Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -58,7 +121,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6640,
+    "stars": 6653,
     "updated_at": "2026-10-16T16:02:09Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -72,24 +135,6 @@
     "url": "https://github.com/Cognipeer/console"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T16:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T16:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ChironDB is a Rust-native vector database for AI and RAG applications, combining dense, sparse, and hybrid search with r",
     "id": "Gaussian-id/ChironDB",
     "language": "Rust",
@@ -97,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-10-16T15:59:17Z",
     "url": "https://github.com/Gaussian-id/ChironDB"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 124,
-    "updated_at": "2026-10-16T15:59:48Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
     "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
@@ -171,15 +207,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-16T15:50:08Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -205,15 +232,6 @@
     "stars": 46401,
     "updated_at": "2026-10-16T15:12:52Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32393,
-    "updated_at": "2026-10-16T16:05:57Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
@@ -248,7 +266,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8377,
-    "updated_at": "2026-10-16T15:39:08Z",
+    "updated_at": "2026-10-16T16:27:20Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 904,
-    "updated_at": "2026-10-16T16:03:24Z",
+    "updated_at": "2026-10-16T16:19:16Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35101,
-    "updated_at": "2026-10-16T15:45:34Z",
+    "updated_at": "2026-10-16T16:22:08Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/context-graph-ai/contextdb"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-16T15:37:13Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
     "id": "Dream-Pixels-Forge/memorius",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T13:26:02Z",
     "url": "https://github.com/joydeep-07/Lens-LM"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-16T13:25:36Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
