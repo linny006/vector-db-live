@@ -1,11 +1,182 @@
 [
   {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:29:29Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "Irina8334/vektori",
+    "language": "Python",
+    "name": "Irina8334/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:27:48Z",
+    "url": "https://github.com/Irina8334/vektori"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:29:46Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:26:41Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-16T11:26:09Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "denizkaramanlis35063/vektori",
+    "language": "Python",
+    "name": "denizkaramanlis35063/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:25:49Z",
+    "url": "https://github.com/denizkaramanlis35063/vektori"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40072,
+    "updated_at": "2026-10-16T11:25:10Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1204,
+    "updated_at": "2026-10-16T11:24:38Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9467,
+    "updated_at": "2026-10-16T11:25:13Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "Moretti60/developers-guide-to-ai",
+    "language": "Python",
+    "name": "Moretti60/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:20:52Z",
+    "url": "https://github.com/Moretti60/developers-guide-to-ai"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-16T11:24:13Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 6328,
+    "updated_at": "2026-10-16T11:20:30Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "Elena518/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "Elena518/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:19:55Z",
+    "url": "https://github.com/Elena518/rag-interview-system"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "cbmrxptuiz/llmaker",
+    "language": "Go",
+    "name": "cbmrxptuiz/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:19:29Z",
+    "url": "https://github.com/cbmrxptuiz/llmaker"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 387,
+    "updated_at": "2026-10-16T11:17:43Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "An open-source AI voice agent that talks to customers, books appointments and saves every call to a CRM.",
+    "id": "szubairmaqsood/OpenCallAgent",
+    "language": "\u2014",
+    "name": "szubairmaqsood/OpenCallAgent",
+    "stars": 1,
+    "updated_at": "2026-10-16T11:17:33Z",
+    "url": "https://github.com/szubairmaqsood/OpenCallAgent"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "Martha4012/llmaker",
+    "language": "Go",
+    "name": "Martha4012/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:17:15Z",
+    "url": "https://github.com/Martha4012/llmaker"
+  },
+  {
+    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
+    "id": "Hk-owo/stratum-vectordb",
+    "language": "Go",
+    "name": "Hk-owo/stratum-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:17:05Z",
+    "url": "https://github.com/Hk-owo/stratum-vectordb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T11:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-16T11:15:19Z",
+    "updated_at": "2026-10-16T11:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T11:14:44Z",
     "url": "https://github.com/Kellyw611/distill"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 6305,
-    "updated_at": "2026-10-16T11:13:49Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
@@ -49,7 +211,7 @@
     "id": "zubairtechai-droi/OpenCallAgent",
     "language": "\u2014",
     "name": "zubairtechai-droi/OpenCallAgent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-16T11:08:42Z",
     "url": "https://github.com/zubairtechai-droi/OpenCallAgent"
   },
@@ -63,31 +225,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
-    "id": "YunanJeong/rag-git-docs",
-    "language": "Python",
-    "name": "YunanJeong/rag-git-docs",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:07:34Z",
-    "url": "https://github.com/YunanJeong/rag-git-docs"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2054,
-    "updated_at": "2026-10-16T11:11:53Z",
+    "updated_at": "2026-10-16T11:25:57Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:07:05Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -124,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T11:04:41Z",
     "url": "https://github.com/redrob-labs/redrob-recall"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T11:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -184,8 +319,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35095,
-    "updated_at": "2026-10-16T10:51:06Z",
+    "stars": 35096,
+    "updated_at": "2026-10-16T11:20:48Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -196,24 +331,6 @@
     "stars": 13255,
     "updated_at": "2026-10-16T10:48:57Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:11:57Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-16T11:10:31Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
@@ -261,15 +378,6 @@
     "url": "https://github.com/AmandaAndre902/llmaker"
   },
   {
-    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
-    "id": "Hk-owo/stratum-vectordb",
-    "language": "Go",
-    "name": "Hk-owo/stratum-vectordb",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:37:21Z",
-    "url": "https://github.com/Hk-owo/stratum-vectordb"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
@@ -295,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T10:33:37Z",
     "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9467,
-    "updated_at": "2026-10-16T11:12:42Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T10:27:02Z",
     "url": "https://github.com/ajbethsmkj/VectorRAG.Net"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "HasanYadav0920/llmaker",
-    "language": "Go",
-    "name": "HasanYadav0920/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:24:49Z",
-    "url": "https://github.com/HasanYadav0920/llmaker"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "hendriks27117/LLMFlex",
-    "language": "Python",
-    "name": "hendriks27117/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:24:06Z",
-    "url": "https://github.com/hendriks27117/LLMFlex"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39157,
-    "updated_at": "2026-10-16T10:23:22Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
-    "id": "davidfernxndez/github-repository-rag",
-    "language": "Jupyter Notebook",
-    "name": "davidfernxndez/github-repository-rag",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:18:55Z",
-    "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1356,
-    "updated_at": "2026-10-16T10:14:21Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Official repository of the Seismic library.",
-    "id": "TusKANNy/seismic",
-    "language": "Rust",
-    "name": "TusKANNy/seismic",
-    "stars": 139,
-    "updated_at": "2026-10-16T10:12:51Z",
-    "url": "https://github.com/TusKANNy/seismic"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "mendoza185/LLMFlex",
-    "language": "Python",
-    "name": "mendoza185/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:11:32Z",
-    "url": "https://github.com/mendoza185/LLMFlex"
-  },
-  {
-    "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
-    "id": "zilliztech/vector-graph-rag",
-    "language": "Python",
-    "name": "zilliztech/vector-graph-rag",
-    "stars": 260,
-    "updated_at": "2026-10-16T10:09:22Z",
-    "url": "https://github.com/zilliztech/vector-graph-rag"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8378,
-    "updated_at": "2026-10-16T11:04:00Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "Ngoc8765/llmaker",
-    "language": "Go",
-    "name": "Ngoc8765/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:06:09Z",
-    "url": "https://github.com/Ngoc8765/llmaker"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "JonathanPandey/llmaker",
-    "language": "Go",
-    "name": "JonathanPandey/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:05:33Z",
-    "url": "https://github.com/JonathanPandey/llmaker"
   }
 ]
