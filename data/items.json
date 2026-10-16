@@ -1,5 +1,95 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 6049,
+    "updated_at": "2026-10-16T07:58:16Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 2,
+    "updated_at": "2026-10-16T07:56:34Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46398,
+    "updated_at": "2026-10-16T07:55:49Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-10-16T07:52:29Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40058,
+    "updated_at": "2026-10-16T07:49:48Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13253,
+    "updated_at": "2026-10-16T07:47:09Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 2,
+    "updated_at": "2026-10-16T07:47:04Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39150,
+    "updated_at": "2026-10-16T07:46:55Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T07:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T08:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -7,6 +97,15 @@
     "stars": 1204,
     "updated_at": "2026-10-16T07:45:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35093,
+    "updated_at": "2026-10-16T07:57:59Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
@@ -54,49 +153,13 @@
     "url": "https://github.com/codecoradev/uteke"
   },
   {
-    "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 2,
-    "updated_at": "2026-10-16T07:33:47Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
     "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, em",
     "id": "Bessouat40/RAGLight",
     "language": "Python",
     "name": "Bessouat40/RAGLight",
     "stars": 672,
-    "updated_at": "2026-10-16T07:33:17Z",
+    "updated_at": "2026-10-16T07:56:54Z",
     "url": "https://github.com/Bessouat40/RAGLight"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39150,
-    "updated_at": "2026-10-16T07:32:02Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T07:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T07:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -108,15 +171,6 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
-    "id": "nikoma/bicdb",
-    "language": "Rust",
-    "name": "nikoma/bicdb",
-    "stars": 2,
-    "updated_at": "2026-10-16T07:29:46Z",
-    "url": "https://github.com/nikoma/bicdb"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -124,15 +178,6 @@
     "stars": 16115,
     "updated_at": "2026-10-16T07:27:10Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 6035,
-    "updated_at": "2026-10-16T07:23:38Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9467,
-    "updated_at": "2026-10-16T07:40:15Z",
+    "updated_at": "2026-10-16T07:52:38Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 7129,
     "updated_at": "2026-10-16T07:15:07Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40056,
-    "updated_at": "2026-10-16T07:10:11Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "\u57fa\u4e8e AI Agent \u7684\u79d2\u6740\u7cfb\u7edf\u667a\u80fd\u8fd0\u7ef4\u52a9\u624b \u00b7 Go + Eino + Milvus RAG + Prometheus \u00b7 \u652f\u6301\u5411\u91cf\u68c0\u7d22\u3001\u5de5\u5177\u8c03\u7528\u3001SSE \u6d41\u5f0f\u5bf9\u8bdd",
@@ -239,17 +275,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16886,
-    "updated_at": "2026-10-16T06:54:28Z",
+    "updated_at": "2026-10-16T07:56:04Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46397,
-    "updated_at": "2026-10-16T06:53:48Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -293,7 +320,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8377,
-    "updated_at": "2026-10-16T07:16:32Z",
+    "updated_at": "2026-10-16T07:56:20Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T06:01:02Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35092,
-    "updated_at": "2026-10-16T07:41:33Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -374,7 +392,7 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1484,
-    "updated_at": "2026-10-16T07:29:08Z",
+    "updated_at": "2026-10-16T07:51:07Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9403,
-    "updated_at": "2026-10-16T05:44:46Z",
+    "updated_at": "2026-10-16T07:56:05Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T06:13:53Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-16T05:32:28Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-16T05:27:35Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
