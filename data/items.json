@@ -1,12 +1,84 @@
 [
   {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-16T15:00:01Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-16T14:59:39Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database",
+    "id": "oracle/vecdb-python-sdk",
+    "language": "Python",
+    "name": "oracle/vecdb-python-sdk",
+    "stars": 70,
+    "updated_at": "2026-10-16T14:58:56Z",
+    "url": "https://github.com/oracle/vecdb-python-sdk"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8377,
+    "updated_at": "2026-10-16T14:56:58Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
+    "id": "structured-world/coordinode-python",
+    "language": "Python",
+    "name": "structured-world/coordinode-python",
+    "stars": 0,
+    "updated_at": "2026-10-16T14:58:05Z",
+    "url": "https://github.com/structured-world/coordinode-python"
+  },
+  {
     "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
     "id": "dhanoliya-ji/DOCMINDS",
     "language": "Python",
     "name": "dhanoliya-ji/DOCMINDS",
     "stars": 0,
-    "updated_at": "2026-10-16T14:45:15Z",
+    "updated_at": "2026-10-16T15:00:08Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 3,
+    "updated_at": "2026-10-16T14:46:45Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T14:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T15:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-16T14:37:29Z",
+    "updated_at": "2026-10-16T14:58:38Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -68,17 +140,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32390,
-    "updated_at": "2026-10-16T14:45:17Z",
+    "updated_at": "2026-10-16T14:58:07Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T14:32:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -86,24 +149,15 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 904,
-    "updated_at": "2026-10-16T14:30:41Z",
+    "updated_at": "2026-10-16T14:52:11Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T14:30:30Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6566,
+    "stars": 6577,
     "updated_at": "2026-10-16T14:30:21Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -124,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-10-16T14:27:32Z",
     "url": "https://github.com/CGainsWorks/ml-agentic-research-assistant"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35100,
+    "updated_at": "2026-10-16T14:24:45Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI assistant that answers company policy questions across HR, Legal, Finance and IT \u2014 automatically figures out which de",
@@ -216,15 +279,6 @@
     "url": "https://github.com/context-graph-ai/contextdb"
   },
   {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 3,
-    "updated_at": "2026-10-16T14:07:04Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -243,24 +297,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-16T14:37:43Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-16T14:30:39Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
     "id": "Dream-Pixels-Forge/memorius",
     "language": "Python",
@@ -275,7 +311,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-16T14:43:37Z",
+    "updated_at": "2026-10-16T14:47:59Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6523,
-    "updated_at": "2026-10-16T14:18:03Z",
+    "updated_at": "2026-10-16T14:48:17Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -351,15 +387,6 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8377,
-    "updated_at": "2026-10-16T14:14:49Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
     "id": "gyr0byte/Generative-AI",
     "language": "Python",
@@ -373,7 +400,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40091,
+    "stars": 40092,
     "updated_at": "2026-10-16T12:59:24Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -421,32 +448,5 @@
     "stars": 12,
     "updated_at": "2026-10-16T14:13:51Z",
     "url": "https://github.com/datris/datris-platform-oss"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "Linaf7862/VectorRAG.Net",
-    "language": "C#",
-    "name": "Linaf7862/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:26:50Z",
-    "url": "https://github.com/Linaf7862/VectorRAG.Net"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "Anurakr60126/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "Anurakr60126/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:26:02Z",
-    "url": "https://github.com/Anurakr60126/rag-interview-system"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "tickernelz/opencode-mem",
-    "language": "TypeScript",
-    "name": "tickernelz/opencode-mem",
-    "stars": 1755,
-    "updated_at": "2026-10-16T12:24:48Z",
-    "url": "https://github.com/tickernelz/opencode-mem"
   }
 ]
