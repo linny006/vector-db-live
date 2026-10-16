@@ -1,5 +1,95 @@
 [
   {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-16T15:43:50Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-16T15:41:54Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-16T15:39:10Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-16T15:37:45Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T15:36:28Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-16T15:32:10Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1204,
+    "updated_at": "2026-10-16T15:44:47Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-16T15:31:22Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T15:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T15:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
     "id": "dhanoliya-ji/DOCMINDS",
     "language": "Python",
@@ -9,21 +99,12 @@
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-16T15:29:15Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2054,
-    "updated_at": "2026-10-16T15:27:11Z",
+    "updated_at": "2026-10-16T15:44:31Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -50,7 +131,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-16T15:21:50Z",
+    "updated_at": "2026-10-16T15:38:25Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -63,24 +144,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T15:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T15:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -88,15 +151,6 @@
     "stars": 46401,
     "updated_at": "2026-10-16T15:12:52Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-16T15:09:08Z",
-    "url": "https://github.com/23skdu/longbow"
   },
   {
     "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
@@ -108,15 +162,6 @@
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T15:07:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -126,21 +171,12 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-16T15:29:38Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-16T14:59:39Z",
+    "updated_at": "2026-10-16T15:32:50Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -167,8 +203,17 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8377,
-    "updated_at": "2026-10-16T14:56:58Z",
+    "updated_at": "2026-10-16T15:39:08Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6524,
+    "updated_at": "2026-10-16T14:48:17Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -178,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-10-16T14:46:45Z",
     "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1204,
-    "updated_at": "2026-10-16T15:29:34Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -230,7 +266,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 904,
-    "updated_at": "2026-10-16T15:28:44Z",
+    "updated_at": "2026-10-16T15:40:15Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -238,7 +274,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6598,
+    "stars": 6614,
     "updated_at": "2026-10-16T14:30:21Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 128,
-    "updated_at": "2026-10-16T14:27:51Z",
+    "updated_at": "2026-10-16T15:39:26Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35101,
-    "updated_at": "2026-10-16T15:20:33Z",
+    "updated_at": "2026-10-16T15:39:51Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T14:21:51Z",
     "url": "https://github.com/heyayush87/SCHOLARAGENT"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-16T14:18:43Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, and Windsurf with temporal decay",
@@ -342,15 +369,6 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-16T15:06:46Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
     "description": "Embedded database for agentic memory \u2014 relational, graph, and vector under unified MVCC transactions",
     "id": "context-graph-ai/contextdb",
     "language": "Rust",
@@ -365,7 +383,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-16T14:19:54Z",
+    "updated_at": "2026-10-16T15:37:13Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -376,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T13:44:00Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6523,
-    "updated_at": "2026-10-16T14:48:17Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
@@ -428,7 +437,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11684,
-    "updated_at": "2026-10-16T13:15:35Z",
+    "updated_at": "2026-10-16T15:44:48Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 431,
     "updated_at": "2026-10-16T13:11:09Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-16T13:01:30Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   }
 ]
