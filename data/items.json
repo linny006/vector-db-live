@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T11:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-16T11:44:35Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 13020,
+    "updated_at": "2026-10-16T11:42:07Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:37:09Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T11:36:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
     "id": "YunanJeong/rag-git-docs",
     "language": "Python",
     "name": "YunanJeong/rag-git-docs",
     "stars": 0,
-    "updated_at": "2026-10-16T11:29:29Z",
+    "updated_at": "2026-10-16T11:36:41Z",
     "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "A python package for developing AI applications with local LLMs.",
+    "id": "Hanac226/LLMFlex",
+    "language": "Python",
+    "name": "Hanac226/LLMFlex",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:33:58Z",
+    "url": "https://github.com/Hanac226/LLMFlex"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "LisaLeone736/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "LisaLeone736/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:32:29Z",
+    "url": "https://github.com/LisaLeone736/rag-interview-system"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-10-16T11:31:02Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T11:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "dhanoliya-ji/DOCMINDS",
     "stars": 0,
-    "updated_at": "2026-10-16T11:29:46Z",
+    "updated_at": "2026-10-16T11:41:19Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40072,
-    "updated_at": "2026-10-16T11:25:10Z",
+    "updated_at": "2026-10-16T11:40:38Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -90,20 +171,20 @@
     "url": "https://github.com/Moretti60/developers-guide-to-ai"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-16T11:24:13Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35097,
+    "updated_at": "2026-10-16T11:34:31Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6328,
+    "stars": 6347,
     "updated_at": "2026-10-16T11:20:30Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -162,24 +243,6 @@
     "url": "https://github.com/Hk-owo/stratum-vectordb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T11:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T11:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
     "id": "Kellyw611/distill",
     "language": "Go",
@@ -216,15 +279,6 @@
     "url": "https://github.com/zubairtechai-droi/OpenCallAgent"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T11:08:38Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -259,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-16T11:02:19Z",
     "url": "https://github.com/Rocha1945/VectorRAG.Net"
-  },
-  {
-    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
-    "id": "redrob-labs/redrob-recall",
-    "language": "Rust",
-    "name": "redrob-labs/redrob-recall",
-    "stars": 0,
-    "updated_at": "2026-10-16T11:04:41Z",
-    "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -313,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-16T10:53:47Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35096,
-    "updated_at": "2026-10-16T11:20:48Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32384,
-    "updated_at": "2026-10-16T11:03:50Z",
+    "updated_at": "2026-10-16T11:44:35Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
-    "id": "pathwaycom/serviette",
-    "language": "Python",
-    "name": "pathwaycom/serviette",
-    "stars": 58796,
-    "updated_at": "2026-10-16T10:31:14Z",
-    "url": "https://github.com/pathwaycom/serviette"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:30:39Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "HasanYadav0920/yu-ai-agent",
-    "language": "Java",
-    "name": "HasanYadav0920/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:27:10Z",
-    "url": "https://github.com/HasanYadav0920/yu-ai-agent"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "ajbethsmkj/VectorRAG.Net",
-    "language": "C#",
-    "name": "ajbethsmkj/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-16T10:27:02Z",
-    "url": "https://github.com/ajbethsmkj/VectorRAG.Net"
   }
 ]
