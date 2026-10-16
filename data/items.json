@@ -1,5 +1,86 @@
 [
   {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-16T15:30:09Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-16T15:29:15Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-16T15:27:11Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16888,
+    "updated_at": "2026-10-16T15:27:13Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-16T15:21:31Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4445,
+    "updated_at": "2026-10-16T15:21:50Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-16T15:16:27Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T15:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T15:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -27,15 +108,6 @@
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-16T15:07:48Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -45,40 +117,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-16T15:04:31Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13255,
-    "updated_at": "2026-10-16T15:02:59Z",
+    "updated_at": "2026-10-16T15:17:40Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T15:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T15:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -86,7 +131,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-16T15:07:55Z",
+    "updated_at": "2026-10-16T15:29:38Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "oracle/vecdb-python-sdk",
     "stars": 70,
-    "updated_at": "2026-10-16T15:04:43Z",
+    "updated_at": "2026-10-16T15:16:57Z",
     "url": "https://github.com/oracle/vecdb-python-sdk"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1204,
-    "updated_at": "2026-10-16T15:10:56Z",
+    "updated_at": "2026-10-16T15:29:34Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-16T14:58:38Z",
+    "updated_at": "2026-10-16T15:21:13Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 904,
-    "updated_at": "2026-10-16T14:52:11Z",
+    "updated_at": "2026-10-16T15:28:44Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -193,7 +238,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6588,
+    "stars": 6598,
     "updated_at": "2026-10-16T14:30:21Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -221,7 +266,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35101,
-    "updated_at": "2026-10-16T15:13:35Z",
+    "updated_at": "2026-10-16T15:20:33Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -333,15 +378,6 @@
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-16T15:05:22Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T13:01:30Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40092,
-    "updated_at": "2026-10-16T12:59:24Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 13021,
-    "updated_at": "2026-10-16T12:56:27Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Modular RAG service with tenant-aware hybrid retrieval, durable ingestion, pgvector, OpenAI/Ollama and FastAPI/Spring Bo",
-    "id": "BugraCinar/modular-forge-rag-starter",
-    "language": "Python",
-    "name": "BugraCinar/modular-forge-rag-starter",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:56:13Z",
-    "url": "https://github.com/BugraCinar/modular-forge-rag-starter"
-  },
-  {
-    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
-    "id": "Hk-owo/stratum-vectordb",
-    "language": "Go",
-    "name": "Hk-owo/stratum-vectordb",
-    "stars": 0,
-    "updated_at": "2026-10-16T12:52:08Z",
-    "url": "https://github.com/Hk-owo/stratum-vectordb"
   }
 ]
