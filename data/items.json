@@ -1,5 +1,86 @@
 [
   {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 27,
+    "updated_at": "2026-10-16T22:28:11Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-16T22:25:32Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1640,
+    "updated_at": "2026-10-16T22:21:21Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-16T22:17:51Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-16T22:17:20Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1508,
+    "updated_at": "2026-10-16T22:18:29Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T22:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T22:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9404,
+    "updated_at": "2026-10-16T22:15:04Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -32,7 +113,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11684,
-    "updated_at": "2026-10-16T22:05:29Z",
+    "updated_at": "2026-10-16T22:25:32Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -43,33 +124,6 @@
     "stars": 2054,
     "updated_at": "2026-10-16T22:04:12Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T22:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T22:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-16T22:15:01Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "Hybrid RAG sales agent (SQL + pgvector) for a real fashion e-commerce brand. n8n, Gemini, Supabase, Telegram.",
@@ -88,15 +142,6 @@
     "stars": 1356,
     "updated_at": "2026-10-16T21:45:09Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-16T21:41:24Z",
-    "url": "https://github.com/23skdu/longbow"
   },
   {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
@@ -252,24 +297,6 @@
     "url": "https://github.com/brodewa369/roowet-semantic-vault-search"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9405,
-    "updated_at": "2026-10-16T22:15:04Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1640,
-    "updated_at": "2026-10-16T22:10:05Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
     "id": "api-evangelist/ragflow",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-16T20:00:27Z",
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-10-16T19:56:09Z",
-    "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-16T20:09:20Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Enterprise-grade RAG system for querying policy documents using FastAPI, Weaviate and Ollama.",
-    "id": "anvi-tandel/enterprise-rag-compliance-copilot",
-    "language": "Python",
-    "name": "anvi-tandel/enterprise-rag-compliance-copilot",
-    "stars": 0,
-    "updated_at": "2026-10-16T19:53:07Z",
-    "url": "https://github.com/anvi-tandel/enterprise-rag-compliance-copilot"
   }
 ]
