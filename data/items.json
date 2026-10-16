@@ -1,5 +1,167 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-16T10:44:42Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-16T10:44:38Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "Sinanm15/VectorRAG.Net",
+    "language": "C#",
+    "name": "Sinanm15/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:38:27Z",
+    "url": "https://github.com/Sinanm15/VectorRAG.Net"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "AmandaAndre902/llmaker",
+    "language": "Go",
+    "name": "AmandaAndre902/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:38:19Z",
+    "url": "https://github.com/AmandaAndre902/llmaker"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-16T10:38:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46399,
+    "updated_at": "2026-10-16T10:37:49Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
+    "id": "Hk-owo/stratum-vectordb",
+    "language": "Go",
+    "name": "Hk-owo/stratum-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:37:21Z",
+    "url": "https://github.com/Hk-owo/stratum-vectordb"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3750,
+    "updated_at": "2026-10-16T10:38:00Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
+    "id": "hhblaze/DBreeze",
+    "language": "C#",
+    "name": "hhblaze/DBreeze",
+    "stars": 581,
+    "updated_at": "2026-10-16T10:36:41Z",
+    "url": "https://github.com/hhblaze/DBreeze"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "antonioz252/llmaker",
+    "language": "Go",
+    "name": "antonioz252/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:44:30Z",
+    "url": "https://github.com/antonioz252/llmaker"
+  },
+  {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:34:51Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-10-16T10:33:37Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9467,
+    "updated_at": "2026-10-16T10:33:13Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32384,
+    "updated_at": "2026-10-16T10:40:43Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sy",
+    "id": "pathwaycom/serviette",
+    "language": "Python",
+    "name": "pathwaycom/serviette",
+    "stars": 58795,
+    "updated_at": "2026-10-16T10:31:14Z",
+    "url": "https://github.com/pathwaycom/serviette"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-16T10:30:39Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-16T10:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-16T10:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
     "id": "HasanYadav0920/yu-ai-agent",
     "language": "Java",
@@ -49,7 +211,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39155,
+    "stars": 39156,
     "updated_at": "2026-10-16T10:23:22Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -77,26 +239,8 @@
     "language": "Python",
     "name": "dhanoliya-ji/DOCMINDS",
     "stars": 0,
-    "updated_at": "2026-10-16T10:16:23Z",
+    "updated_at": "2026-10-16T10:37:15Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-16T10:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T10:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -126,15 +270,6 @@
     "url": "https://github.com/mendoza185/LLMFlex"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-16T10:09:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.",
     "id": "zilliztech/vector-graph-rag",
     "language": "Python",
@@ -149,7 +284,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8378,
-    "updated_at": "2026-10-16T10:22:46Z",
+    "updated_at": "2026-10-16T10:33:38Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -175,7 +310,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40068,
+    "stars": 40069,
     "updated_at": "2026-10-16T10:02:28Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -257,7 +392,7 @@
     "language": "Python",
     "name": "Bessouat40/RAGLight",
     "stars": 673,
-    "updated_at": "2026-10-16T09:49:19Z",
+    "updated_at": "2026-10-16T10:38:36Z",
     "url": "https://github.com/Bessouat40/RAGLight"
   },
   {
@@ -301,7 +436,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6226,
+    "stars": 6244,
     "updated_at": "2026-10-16T09:30:08Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T09:28:31Z",
     "url": "https://github.com/ansondias/personal-rag-experiment-8"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1484,
-    "updated_at": "2026-10-16T10:16:13Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
-    "id": "tayyabimam1/awesome-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "tayyabimam1/awesome-ai-agent-stack",
-    "stars": 30,
-    "updated_at": "2026-10-16T09:28:12Z",
-    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-16T09:33:43Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Simple full text & vector search engine Python library",
-    "id": "DavidMStraub/sifts",
-    "language": "Python",
-    "name": "DavidMStraub/sifts",
-    "stars": 4,
-    "updated_at": "2026-10-16T09:23:28Z",
-    "url": "https://github.com/DavidMStraub/sifts"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1204,
-    "updated_at": "2026-10-16T10:02:03Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 3,
-    "updated_at": "2026-10-16T09:12:26Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Run Kafka, Flink, Spark, Iceberg, Trino, ClickHouse, Airflow, MLflow, Feast, pgvector and more on your laptop, one comma",
-    "id": "jaehyeon-kim/odctl",
-    "language": "Python",
-    "name": "jaehyeon-kim/odctl",
-    "stars": 13,
-    "updated_at": "2026-10-16T09:12:03Z",
-    "url": "https://github.com/jaehyeon-kim/odctl"
-  },
-  {
-    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
-    "id": "IdoY12/awesome-free-ai-apis",
-    "language": "JavaScript",
-    "name": "IdoY12/awesome-free-ai-apis",
-    "stars": 1,
-    "updated_at": "2026-10-16T09:05:58Z",
-    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13255,
-    "updated_at": "2026-10-16T09:03:35Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
-    "id": "nikoma/bicdb",
-    "language": "Rust",
-    "name": "nikoma/bicdb",
-    "stars": 2,
-    "updated_at": "2026-10-16T08:57:30Z",
-    "url": "https://github.com/nikoma/bicdb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32383,
-    "updated_at": "2026-10-16T08:55:37Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 2,
-    "updated_at": "2026-10-16T08:51:36Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2370,
-    "updated_at": "2026-10-16T08:48:33Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-10-16T08:45:43Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2143,
-    "updated_at": "2026-10-16T08:44:12Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   }
 ]
