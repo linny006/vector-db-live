@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T10:00:19Z",
+    "updated_at": "2026-10-17T10:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7128,
+    "updated_at": "2026-10-17T10:14:25Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "pBos5373/llmaker",
+    "language": "Go",
+    "name": "pBos5373/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:12:53Z",
+    "url": "https://github.com/pBos5373/llmaker"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "salmeida22/yu-ai-agent",
+    "language": "Java",
+    "name": "salmeida22/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:12:32Z",
+    "url": "https://github.com/salmeida22/yu-ai-agent"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "BrunaPalmer/llmaker",
+    "language": "Go",
+    "name": "BrunaPalmer/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:12:24Z",
+    "url": "https://github.com/BrunaPalmer/llmaker"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 1,
+    "updated_at": "2026-10-17T10:10:42Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T10:10:41Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "MihoLebedev088/VectorRAG.Net",
+    "language": "C#",
+    "name": "MihoLebedev088/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:10:26Z",
+    "url": "https://github.com/MihoLebedev088/VectorRAG.Net"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T10:07:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-17T10:03:37Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T10:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "MCP_Agentic_DocuChat: a local-first reading companion for your PDFs. Ask a question and get an answer that names the exa",
+    "id": "MaithreshVaddi-27/MCP_Agentic_DocuChat",
+    "language": "Python",
+    "name": "MaithreshVaddi-27/MCP_Agentic_DocuChat",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:57:43Z",
+    "url": "https://github.com/MaithreshVaddi-27/MCP_Agentic_DocuChat"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -103,18 +202,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7284,
+    "stars": 7294,
     "updated_at": "2026-10-17T09:45:50Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -144,15 +234,6 @@
     "url": "https://github.com/PhamBrouwer/rag-interview-system"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:45:32Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
     "id": "Alvarez868/developers-guide-to-ai",
     "language": "Python",
@@ -160,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:35:57Z",
     "url": "https://github.com/Alvarez868/developers-guide-to-ai"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T09:35:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T08:29:33Z",
     "url": "https://github.com/Asintotoo/FaceSeek"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9468,
-    "updated_at": "2026-10-17T09:45:23Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:56:07Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:07:47Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:00:45Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "3D visualization of embeddings from ChromaDB using UMAP and HDBSCAN",
-    "id": "koprjaa/chromadb-embedding-visualizer",
-    "language": "Python",
-    "name": "koprjaa/chromadb-embedding-visualizer",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:53:53Z",
-    "url": "https://github.com/koprjaa/chromadb-embedding-visualizer"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11689,
-    "updated_at": "2026-10-17T08:57:00Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
-    "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:37:44Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1205,
-    "updated_at": "2026-10-17T07:22:48Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
