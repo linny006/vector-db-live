@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T18:15:19Z",
+    "updated_at": "2026-10-17T18:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u53ef\u8fd0\u884c\u7684 RAG \u540e\u7aef\uff1a\u7ed3\u6784\u611f\u77e5\u5207\u5206 + \u5411\u91cf/BM25 \u6df7\u5408\u68c0\u7d22 + RRF \u878d\u5408 + \u56db\u4fe1\u53f7\u91cd\u6392\uff0c\u670d\u52a1\u7aef\u6821\u9a8c\u5f15\u7528\u8d8a\u754c\uff0c\u68c0\u7d22\u4e3a\u7a7a\u65f6\u4e0d\u8c03\u7528\u5927\u6a21\u578b\u3002FastAPI \u00b7 Chroma \u00b7 BGE \u00b7 Docker \u00b7 30 \u9879\u6d4b\u8bd5\u3002",
+    "id": "zyx4303/autorag",
+    "language": "Python",
+    "name": "zyx4303/autorag",
+    "stars": 0,
+    "updated_at": "2026-10-17T18:29:37Z",
+    "url": "https://github.com/zyx4303/autorag"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-17T18:29:29Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-17T18:19:21Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35116,
+    "updated_at": "2026-10-17T18:28:22Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
+    "id": "gainratio/edgeproc-core",
+    "language": "Python",
+    "name": "gainratio/edgeproc-core",
+    "stars": 0,
+    "updated_at": "2026-10-17T18:17:06Z",
+    "url": "https://github.com/gainratio/edgeproc-core"
+  },
+  {
+    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
+    "id": "Aashutosh31/arc-ai-project",
+    "language": "JavaScript",
+    "name": "Aashutosh31/arc-ai-project",
+    "stars": 2,
+    "updated_at": "2026-10-17T18:16:38Z",
+    "url": "https://github.com/Aashutosh31/arc-ai-project"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T18:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "badhope/spark",
     "stars": 21,
-    "updated_at": "2026-10-17T18:14:36Z",
+    "updated_at": "2026-10-17T18:28:01Z",
     "url": "https://github.com/badhope/spark"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-17T18:09:23Z",
+    "updated_at": "2026-10-17T18:18:03Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -67,7 +130,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7608,
+    "stars": 7617,
     "updated_at": "2026-10-17T18:07:39Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -77,17 +140,8 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-10-17T18:05:28Z",
+    "updated_at": "2026-10-17T18:28:28Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T18:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
@@ -115,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T17:50:01Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:04:40Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -261,15 +306,6 @@
     "url": "https://github.com/prashantv04/pdf-rag-system"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-17T16:02:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 908,
-    "updated_at": "2026-10-17T17:55:16Z",
+    "updated_at": "2026-10-17T18:23:46Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:07:50Z",
     "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-10-17T15:07:01Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1509,
-    "updated_at": "2026-10-17T16:03:54Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:06:17Z",
-    "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:05:04Z",
-    "url": "https://github.com/api-evangelist/lancedb"
   }
 ]
