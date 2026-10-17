@@ -1,11 +1,92 @@
 [
   {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 9,
+    "updated_at": "2026-10-17T18:45:13Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T18:44:00Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "ChronoStream-RAG: Bitemporal Watermark Coalescing and Document-Atomic Vector Consistency for Out-of-Order Streaming Retr",
+    "id": "BryanLim0214/ChronoStream-RAG",
+    "language": "Python",
+    "name": "BryanLim0214/ChronoStream-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-17T18:44:40Z",
+    "url": "https://github.com/BryanLim0214/ChronoStream-RAG"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7625,
+    "updated_at": "2026-10-17T18:43:29Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T18:37:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 1,
+    "updated_at": "2026-10-17T18:36:13Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 35,
+    "updated_at": "2026-10-17T18:35:07Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Secure RAG system for SRE operational knowledge. Features ingestion-time secret redaction, strict tenant isolation, and ",
+    "id": "Brenda-Tavares/lore-rag",
+    "language": "Python",
+    "name": "Brenda-Tavares/lore-rag",
+    "stars": 0,
+    "updated_at": "2026-10-17T18:34:14Z",
+    "url": "https://github.com/Brenda-Tavares/lore-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T18:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T18:30:19Z",
+    "updated_at": "2026-10-17T18:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,12 +108,21 @@
     "url": "https://github.com/fenecdb/fenec"
   },
   {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 130,
+    "updated_at": "2026-10-17T18:25:18Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2054,
-    "updated_at": "2026-10-17T18:19:21Z",
+    "updated_at": "2026-10-17T18:30:47Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -63,15 +153,6 @@
     "url": "https://github.com/Aashutosh31/arc-ai-project"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T18:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -95,26 +176,8 @@
     "language": "Python",
     "name": "badhope/spark",
     "stars": 21,
-    "updated_at": "2026-10-17T18:28:01Z",
+    "updated_at": "2026-10-17T18:35:05Z",
     "url": "https://github.com/badhope/spark"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T18:08:38Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T18:18:03Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -124,15 +187,6 @@
     "stars": 23,
     "updated_at": "2026-10-17T18:08:45Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7617,
-    "updated_at": "2026-10-17T18:07:39Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -266,7 +320,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-17T17:50:25Z",
+    "updated_at": "2026-10-17T18:43:46Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 908,
-    "updated_at": "2026-10-17T18:23:46Z",
+    "updated_at": "2026-10-17T18:38:34Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 29900,
     "updated_at": "2026-10-17T15:16:56Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:16:38Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:16:28Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 4,
-    "updated_at": "2026-10-17T15:32:54Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:16:06Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "LLM + RAG system for querying HPC platform documentation and codebase \u2014 document crawling, chunking, embeddings, vector ",
-    "id": "MSKazemi/AI4HPC",
-    "language": "Python",
-    "name": "MSKazemi/AI4HPC",
-    "stars": 5,
-    "updated_at": "2026-10-17T15:13:11Z",
-    "url": "https://github.com/MSKazemi/AI4HPC"
-  },
-  {
-    "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:07:50Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
   }
 ]
