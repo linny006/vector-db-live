@@ -1,12 +1,129 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T15:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7476,
+    "updated_at": "2026-10-17T14:59:59Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:59:20Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:58:22Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:57:32Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:56:29Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-17T14:44:53Z",
+    "updated_at": "2026-10-17T14:55:57Z",
     "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:54:22Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11692,
+    "updated_at": "2026-10-17T14:53:49Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-17T14:53:08Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
+    "id": "subrataai-wq/Aether-Manifold",
+    "language": "Rust",
+    "name": "subrataai-wq/Aether-Manifold",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:52:27Z",
+    "url": "https://github.com/subrataai-wq/Aether-Manifold"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35115,
+    "updated_at": "2026-10-17T14:51:02Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:49:40Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T14:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
@@ -16,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T14:40:41Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7464,
-    "updated_at": "2026-10-17T14:40:03Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Collects every item in the Steam Points Shop and stores them in a vector database for steam.style",
@@ -43,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T14:39:22Z",
     "url": "https://github.com/hammad986/video-qa-RAG"
-  },
-  {
-    "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
-    "id": "subrataai-wq/Aether-Manifold",
-    "language": "Rust",
-    "name": "subrataai-wq/Aether-Manifold",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:39:19Z",
-    "url": "https://github.com/subrataai-wq/Aether-Manifold"
   },
   {
     "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
@@ -99,24 +198,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T14:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T14:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A low-latency, billion-scale, and updatable graph-based vector store on SSD.",
     "id": "thustorage/PipeANN",
     "language": "C++",
@@ -140,17 +221,8 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-17T14:42:23Z",
+    "updated_at": "2026-10-17T14:58:18Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35115,
-    "updated_at": "2026-10-17T14:42:37Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -203,17 +275,8 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 907,
-    "updated_at": "2026-10-17T14:35:19Z",
+    "updated_at": "2026-10-17T14:55:15Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
-    "id": "Thisen-Ekanayake/Athena",
-    "language": "Python",
-    "name": "Thisen-Ekanayake/Athena",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:00:06Z",
-    "url": "https://github.com/Thisen-Ekanayake/Athena"
   },
   {
     "description": "",
@@ -292,7 +355,7 @@
     "id": "CaviraOSS/LongMemory",
     "language": "TypeScript",
     "name": "CaviraOSS/LongMemory",
-    "stars": 4540,
+    "stars": 4541,
     "updated_at": "2026-10-17T13:22:43Z",
     "url": "https://github.com/CaviraOSS/LongMemory"
   },
@@ -351,15 +414,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-17T14:41:09Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
     "id": "fatma-fendri/PodAI",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 7128,
     "updated_at": "2026-10-17T12:38:33Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Self-hosted Docker Compose microservice for air-gapped PDF ingestion, layout-aware parsing, and local vector search with",
-    "id": "mdaleem07/LocalRAG-Companion",
-    "language": "Python",
-    "name": "mdaleem07/LocalRAG-Companion",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:31:14Z",
-    "url": "https://github.com/mdaleem07/LocalRAG-Companion"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-17T12:22:54Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 7,
-    "updated_at": "2026-10-17T12:22:45Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:20:10Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 35,
-    "updated_at": "2026-10-17T12:19:33Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:13:35Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   }
 ]
