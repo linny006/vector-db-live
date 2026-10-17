@@ -1,12 +1,120 @@
 [
   {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-17T14:44:53Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:40:41Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7464,
+    "updated_at": "2026-10-17T14:40:03Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Collects every item in the Steam Points Shop and stores them in a vector database for steam.style",
+    "id": "Steam-Style/ingestion",
+    "language": "Python",
+    "name": "Steam-Style/ingestion",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:40:01Z",
+    "url": "https://github.com/Steam-Style/ingestion"
+  },
+  {
+    "description": "Evidence-based Video Question Answering using Retrieval Augmented Generation",
+    "id": "hammad986/video-qa-RAG",
+    "language": "Python",
+    "name": "hammad986/video-qa-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:39:22Z",
+    "url": "https://github.com/hammad986/video-qa-RAG"
+  },
+  {
     "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
     "id": "subrataai-wq/Aether-Manifold",
     "language": "Rust",
     "name": "subrataai-wq/Aether-Manifold",
     "stars": 1,
-    "updated_at": "2026-10-17T14:28:00Z",
+    "updated_at": "2026-10-17T14:39:19Z",
     "url": "https://github.com/subrataai-wq/Aether-Manifold"
+  },
+  {
+    "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
+    "id": "seekwhencer/gitea-qdrant-sync",
+    "language": "JavaScript",
+    "name": "seekwhencer/gitea-qdrant-sync",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:38:50Z",
+    "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:37:36Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-17T14:36:20Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "Python",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 0,
+    "updated_at": "2026-10-17T14:34:59Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T14:33:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T14:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T14:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A low-latency, billion-scale, and updatable graph-based vector store on SSD.",
@@ -32,7 +140,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-17T14:23:18Z",
+    "updated_at": "2026-10-17T14:42:23Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -41,17 +149,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35115,
-    "updated_at": "2026-10-17T14:23:17Z",
+    "updated_at": "2026-10-17T14:42:37Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Evidence-based Video Question Answering using Retrieval Augmented Generation",
-    "id": "hammad986/video-qa-RAG",
-    "language": "Python",
-    "name": "hammad986/video-qa-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:22:25Z",
-    "url": "https://github.com/hammad986/video-qa-RAG"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -81,24 +180,6 @@
     "url": "https://github.com/edheltzel/Recall"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T14:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T14:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
     "id": "diskerror/ragger.cpp",
     "language": "C++",
@@ -122,17 +203,8 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 907,
-    "updated_at": "2026-10-17T14:12:21Z",
+    "updated_at": "2026-10-17T14:35:19Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T14:07:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T13:55:55Z",
     "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-17T13:48:53Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -293,7 +356,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-17T14:28:42Z",
+    "updated_at": "2026-10-17T14:41:09Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T12:13:35Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Build a Personal RAG Assistant locally.",
-    "id": "Shreyansh-cloud1/Personal-RAG-Assistant",
-    "language": "Python",
-    "name": "Shreyansh-cloud1/Personal-RAG-Assistant",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:13:12Z",
-    "url": "https://github.com/Shreyansh-cloud1/Personal-RAG-Assistant"
-  },
-  {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:19:25Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
-    "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:05:51Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-17T11:55:04Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Client-side protection for vector databases: keyed orthogonal obfuscation of embeddings + AES-256-GCM metadata. Exact si",
-    "id": "cernica/hadamask",
-    "language": "Python",
-    "name": "cernica/hadamask",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:54:41Z",
-    "url": "https://github.com/cernica/hadamask"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40156,
-    "updated_at": "2026-10-17T11:28:42Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-17T11:26:19Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
