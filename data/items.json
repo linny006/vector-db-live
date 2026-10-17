@@ -1,12 +1,102 @@
 [
   {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "alexisowens537/distill",
+    "language": "Go",
+    "name": "alexisowens537/distill",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:42:47Z",
+    "url": "https://github.com/alexisowens537/distill"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "Yuqiw03289/VectorRAG.Net",
+    "language": "C#",
+    "name": "Yuqiw03289/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:41:44Z",
+    "url": "https://github.com/Yuqiw03289/VectorRAG.Net"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "DennisMartini6350/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "DennisMartini6350/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:39:09Z",
+    "url": "https://github.com/DennisMartini6350/rag-interview-system"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7731,
+    "updated_at": "2026-10-17T21:38:21Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 35,
+    "updated_at": "2026-10-17T21:42:35Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 22,
+    "updated_at": "2026-10-17T21:35:28Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
     "description": "A python package for developing AI applications with local LLMs.",
     "id": "AngelaCook337/LLMFlex",
-    "language": "\u2014",
+    "language": "Python",
     "name": "AngelaCook337/LLMFlex",
     "stars": 0,
-    "updated_at": "2026-10-17T21:30:06Z",
+    "updated_at": "2026-10-17T21:35:13Z",
     "url": "https://github.com/AngelaCook337/LLMFlex"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T21:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T21:33:49Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Production-oriented async RAG service on Python 3.12: hybrid search (vector + BM25/RRF), agentic retrieval & GraphRAG, A",
+    "id": "Pavel14701/rag_service",
+    "language": "Python",
+    "name": "Pavel14701/rag_service",
+    "stars": 0,
+    "updated_at": "2026-10-17T21:30:41Z",
+    "url": "https://github.com/Pavel14701/rag_service"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T21:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:29:04Z",
     "url": "https://github.com/agnieszkajames5973/distill"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7720,
-    "updated_at": "2026-10-17T21:30:07Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -99,24 +180,6 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T21:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T21:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1509,
-    "updated_at": "2026-10-17T21:19:37Z",
+    "updated_at": "2026-10-17T21:38:15Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -189,15 +252,6 @@
     "url": "https://github.com/Matia41/LLMFlex"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T21:06:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
     "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
     "language": "Python",
@@ -214,15 +268,6 @@
     "stars": 2054,
     "updated_at": "2026-10-17T20:55:05Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 22,
-    "updated_at": "2026-10-17T20:49:02Z",
-    "url": "https://github.com/opencrawling/opencrawling"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -248,7 +293,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-17T21:26:41Z",
+    "updated_at": "2026-10-17T21:43:57Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-17T21:26:16Z",
+    "updated_at": "2026-10-17T21:40:11Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-17T21:21:39Z",
+    "updated_at": "2026-10-17T21:41:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-17T19:48:30Z",
+    "updated_at": "2026-10-17T21:35:13Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T18:51:26Z",
     "url": "https://github.com/api-evangelist/machine-learning"
-  },
-  {
-    "description": "API platform info for database",
-    "id": "api-evangelist/database",
-    "language": "HTML",
-    "name": "api-evangelist/database",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:50:52Z",
-    "url": "https://github.com/api-evangelist/database"
-  },
-  {
-    "description": "ChronoStream-RAG: Bitemporal Watermark Coalescing and Document-Atomic Vector Consistency for Out-of-Order Streaming Retr",
-    "id": "BryanLim0214/ChronoStream-RAG",
-    "language": "Python",
-    "name": "BryanLim0214/ChronoStream-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:44:40Z",
-    "url": "https://github.com/BryanLim0214/ChronoStream-RAG"
-  },
-  {
-    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
-    "id": "Thisen-Ekanayake/Athena",
-    "language": "Python",
-    "name": "Thisen-Ekanayake/Athena",
-    "stars": 1,
-    "updated_at": "2026-10-17T18:36:13Z",
-    "url": "https://github.com/Thisen-Ekanayake/Athena"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 35,
-    "updated_at": "2026-10-17T21:28:39Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Secure RAG system for SRE operational knowledge. Features ingestion-time secret redaction, strict tenant isolation, and ",
-    "id": "Brenda-Tavares/lore-rag",
-    "language": "Python",
-    "name": "Brenda-Tavares/lore-rag",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:34:14Z",
-    "url": "https://github.com/Brenda-Tavares/lore-rag"
   }
 ]
