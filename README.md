@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 23:15 UTC
+> ⏰ Last updated: 2026-10-17 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 7761 | Rust | 2026-10-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 2 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-17 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 3 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-17 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP](https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP) | 0 | Python | 2026-10-17 | Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP](https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP) | 0 | Python | 2026-10-17 | Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval |
+| 3 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 7766 | Rust | 2026-10-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-17 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 6 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-17 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 8 | [PatrickWiloak/bedrock-rag-s3-vectors-tutorial](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial) | 4 | TypeScript | 2026-10-17 | AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with |
 | 9 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 11 | JavaScript | 2026-10-17 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
 | 10 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-17 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
