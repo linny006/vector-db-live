@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 20:10 UTC
+> ⏰ Last updated: 2026-10-17 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 5 | Python | 2026-10-17 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
-| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2054 | Go | 2026-10-17 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 3 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-17 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-17 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
-| 6 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 7672 | Rust | 2026-10-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 7 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-17 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1205 | Java | 2026-10-17 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 11 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 39239 | Python | 2026-10-17 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 12 | [theogony-project/theogony](https://github.com/theogony-project/theogony) | 0 | Python | 2026-10-17 | An open, democratic World-Brain — the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one,  |
-| 13 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-17 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 14 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 23 | Python | 2026-10-17 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
-| 15 | [BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP](https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP) | 0 | Python | 2026-10-17 | Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval |
-| 16 | [hbar-systems/brainfoundry-nous](https://github.com/hbar-systems/brainfoundry-nous) | 1 | Python | 2026-10-17 | Self-hosted sovereign AI brain — persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [hbar-systems/brainfoundry-nous](https://github.com/hbar-systems/brainfoundry-nous) | 1 | Python | 2026-10-17 | Self-hosted sovereign AI brain — persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 5 | Python | 2026-10-17 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
+| 5 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2054 | Go | 2026-10-17 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 6 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-17 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 8 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-17 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 9 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 7675 | Rust | 2026-10-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 10 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-17 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 11 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1205 | Java | 2026-10-17 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 12 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 39239 | Python | 2026-10-17 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 13 | [theogony-project/theogony](https://github.com/theogony-project/theogony) | 0 | Python | 2026-10-17 | An open, democratic World-Brain — the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one,  |
+| 14 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-17 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 15 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 23 | Python | 2026-10-17 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
+| 16 | [BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP](https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP) | 0 | Python | 2026-10-17 | Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval |
 | 17 | [iberi22/xavier](https://github.com/iberi22/xavier) | 1 | Rust | 2026-10-17 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
 | 18 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 9 | Go | 2026-10-17 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
 | 19 | [Amruth011/kannada-rag-agent](https://github.com/Amruth011/kannada-rag-agent) | 4 | Python | 2026-10-17 | A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f |
