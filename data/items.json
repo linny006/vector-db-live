@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T08:00:19Z",
+    "updated_at": "2026-10-17T08:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -13,9 +13,72 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7196,
-    "updated_at": "2026-10-17T07:55:58Z",
+    "stars": 7211,
+    "updated_at": "2026-10-17T08:15:23Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
+    "id": "structured-world/coordinode-python",
+    "language": "Python",
+    "name": "structured-world/coordinode-python",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:13:03Z",
+    "url": "https://github.com/structured-world/coordinode-python"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T08:10:14Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T08:09:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:07:47Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-17T08:08:50Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:00:45Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T08:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "3D visualization of embeddings from ChromaDB using UMAP and HDBSCAN",
@@ -36,15 +99,6 @@
     "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-17T07:57:20Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -54,15 +108,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T07:47:08Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "working university chatbot ",
     "id": "Arifkhan171/multi-agent-university-assistant",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:37:44Z",
     "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T07:36:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "zhenkun26/BusinessAgent",
     "stars": 3,
-    "updated_at": "2026-10-17T07:19:43Z",
+    "updated_at": "2026-10-17T08:06:11Z",
     "url": "https://github.com/zhenkun26/BusinessAgent"
   },
   {
@@ -157,7 +193,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40140,
+    "stars": 40141,
     "updated_at": "2026-10-17T07:11:41Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:04:29Z",
     "url": "https://github.com/TorstenSilva0349/yu-ai-agent"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:45:58Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 2021,
-    "updated_at": "2026-10-17T07:16:48Z",
+    "updated_at": "2026-10-17T08:06:00Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "xl3v3r/hermes-oracle-memory",
     "stars": 1,
-    "updated_at": "2026-10-17T06:37:52Z",
+    "updated_at": "2026-10-17T08:12:24Z",
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T05:30:53Z",
     "url": "https://github.com/Demet5292/yu-ai-agent"
-  },
-  {
-    "description": "\u589e\u5f3a\u578b\u68c0\u7d22\u4e0e\u8bed\u4e49\u68c0\u7d22\uff1a\u6587\u6863\u5207\u5206\u5411\u91cf\u5316\uff0c\u6309\u8bed\u4e49\u76f8\u5173\u5ea6\u68c0\u7d22\u5e76\u751f\u6210\u5e26\u51fa\u5904\u7684\u56de\u7b54",
-    "id": "dashayuchixiaoji/enhanced-semantic-retrieval",
-    "language": "Python",
-    "name": "dashayuchixiaoji/enhanced-semantic-retrieval",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:27:07Z",
-    "url": "https://github.com/dashayuchixiaoji/enhanced-semantic-retrieval"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:58:51Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-17T05:20:03Z",
-    "url": "https://github.com/nambok/mentedb"
   }
 ]
