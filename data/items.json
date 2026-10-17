@@ -1,5 +1,68 @@
 [
   {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-17T03:43:24Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T03:40:16Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T03:39:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Fast vector search in PostgreSQL",
+    "id": "purduedb/PostgreSQL-V",
+    "language": "C",
+    "name": "purduedb/PostgreSQL-V",
+    "stars": 25,
+    "updated_at": "2026-10-17T03:38:30Z",
+    "url": "https://github.com/purduedb/PostgreSQL-V"
+  },
+  {
+    "description": "HNSW approximate-nearest-neighbour vector index in Rust from scratch: heuristic neighbour selection, filtered search, de",
+    "id": "HOFFMAN-ALTERNATIVE/hnsw-vector-search",
+    "language": "Rust",
+    "name": "HOFFMAN-ALTERNATIVE/hnsw-vector-search",
+    "stars": 0,
+    "updated_at": "2026-10-17T03:36:47Z",
+    "url": "https://github.com/HOFFMAN-ALTERNATIVE/hnsw-vector-search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T03:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T03:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
     "id": "Yoruxyv/semantix",
     "language": "Python",
@@ -9,6 +72,15 @@
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40127,
+    "updated_at": "2026-10-17T03:40:17Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -16,24 +88,6 @@
     "stars": 5,
     "updated_at": "2026-10-17T03:17:11Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T03:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T03:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-user AI assistant built with LangGraph and Streamlit. Chat with streaming responses, ask questions about your own ",
@@ -52,24 +106,6 @@
     "stars": 119,
     "updated_at": "2026-10-17T03:17:16Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Fast vector search in PostgreSQL",
-    "id": "purduedb/PostgreSQL-V",
-    "language": "PLpgSQL",
-    "name": "purduedb/PostgreSQL-V",
-    "stars": 25,
-    "updated_at": "2026-10-17T03:09:57Z",
-    "url": "https://github.com/purduedb/PostgreSQL-V"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T03:09:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -99,21 +135,12 @@
     "url": "https://github.com/paradedb/paradedb"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T03:29:30Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9468,
-    "updated_at": "2026-10-17T02:52:49Z",
+    "updated_at": "2026-10-17T03:40:42Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 46403,
     "updated_at": "2026-10-17T01:49:49Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "HNSW approximate-nearest-neighbour vector index in Rust from scratch: heuristic neighbour selection, filtered search, de",
-    "id": "HOFFMAN-ALTERNATIVE/hnsw-vector-search",
-    "language": "Rust",
-    "name": "HOFFMAN-ALTERNATIVE/hnsw-vector-search",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:48:36Z",
-    "url": "https://github.com/HOFFMAN-ALTERNATIVE/hnsw-vector-search"
   },
   {
     "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
@@ -346,7 +364,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7037,
+    "stars": 7048,
     "updated_at": "2026-10-16T23:39:19Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-16T21:41:51Z",
     "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1205,
-    "updated_at": "2026-10-16T21:37:07Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-16T21:27:45Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
