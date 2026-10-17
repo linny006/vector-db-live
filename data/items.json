@@ -1,5 +1,41 @@
 [
   {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T02:59:03Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Fast vector search in PostgreSQL",
+    "id": "purduedb/PostgreSQL-V",
+    "language": "PLpgSQL",
+    "name": "purduedb/PostgreSQL-V",
+    "stars": 25,
+    "updated_at": "2026-10-17T02:53:01Z",
+    "url": "https://github.com/purduedb/PostgreSQL-V"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1508,
+    "updated_at": "2026-10-17T02:49:32Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T02:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,24 +54,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Fast vector search in PostgreSQL",
-    "id": "purduedb/PostgreSQL-V",
-    "language": "PLpgSQL",
-    "name": "purduedb/PostgreSQL-V",
-    "stars": 25,
-    "updated_at": "2026-10-17T02:35:41Z",
-    "url": "https://github.com/purduedb/PostgreSQL-V"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T02:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -50,7 +68,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9468,
-    "updated_at": "2026-10-17T02:35:50Z",
+    "updated_at": "2026-10-17T02:52:49Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T02:13:03Z",
     "url": "https://github.com/nehalvaghasiya/agentic-rag"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T02:38:52Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "- ",
@@ -121,7 +130,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46401,
+    "stars": 46402,
     "updated_at": "2026-10-17T01:49:49Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9404,
-    "updated_at": "2026-10-17T02:39:06Z",
+    "updated_at": "2026-10-17T02:54:55Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -328,18 +337,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7007,
+    "stars": 7014,
     "updated_at": "2026-10-16T23:39:19Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1508,
-    "updated_at": "2026-10-17T02:23:47Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
