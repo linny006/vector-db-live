@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u589e\u5f3a\u578b\u68c0\u7d22\u4e0e\u8bed\u4e49\u68c0\u7d22\uff1a\u6587\u6863\u5207\u5206\u5411\u91cf\u5316\uff0c\u6309\u8bed\u4e49\u76f8\u5173\u5ea6\u68c0\u7d22\u5e76\u751f\u6210\u5e26\u51fa\u5904\u7684\u56de\u7b54",
+    "id": "dashayuchixiaoji/enhanced-semantic-retrieval",
+    "language": "Python",
+    "name": "dashayuchixiaoji/enhanced-semantic-retrieval",
+    "stars": 0,
+    "updated_at": "2026-10-17T05:27:07Z",
+    "url": "https://github.com/dashayuchixiaoji/enhanced-semantic-retrieval"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T05:24:24Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2021,
+    "updated_at": "2026-10-17T05:26:46Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 119,
+    "updated_at": "2026-10-17T05:20:03Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T05:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T05:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
     "id": "aldyardnsyh/IntelligenceDocumentSystem",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 13,
     "updated_at": "2026-10-17T05:13:52Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2021,
-    "updated_at": "2026-10-17T05:10:58Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -54,24 +99,6 @@
     "url": "https://github.com/RadcliffBarrett4718/health-document-vector-intake"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T05:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T05:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -88,24 +115,6 @@
     "stars": 1205,
     "updated_at": "2026-10-17T04:49:20Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "\u589e\u5f3a\u578b\u68c0\u7d22\u4e0e\u8bed\u4e49\u68c0\u7d22\uff1a\u6587\u6863\u5207\u5206\u5411\u91cf\u5316\uff0c\u6309\u8bed\u4e49\u76f8\u5173\u5ea6\u68c0\u7d22\u5e76\u751f\u6210\u5e26\u51fa\u5904\u7684\u56de\u7b54",
-    "id": "dashayuchixiaoji/enhanced-semantic-retrieval",
-    "language": "Python",
-    "name": "dashayuchixiaoji/enhanced-semantic-retrieval",
-    "stars": 0,
-    "updated_at": "2026-10-17T04:47:54Z",
-    "url": "https://github.com/dashayuchixiaoji/enhanced-semantic-retrieval"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-17T05:12:54Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
@@ -162,15 +171,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T05:03:54Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "",
     "id": "giuliano0s/ifrs-canoas-rag",
     "language": "Python",
@@ -184,7 +184,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40131,
+    "stars": 40132,
     "updated_at": "2026-10-17T03:40:17Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -212,7 +212,7 @@
     "language": "\u2014",
     "name": "anhle325/rag-finvisor-vn",
     "stars": 0,
-    "updated_at": "2026-10-17T04:26:36Z",
+    "updated_at": "2026-10-17T05:23:08Z",
     "url": "https://github.com/anhle325/rag-finvisor-vn"
   },
   {
@@ -266,7 +266,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9468,
-    "updated_at": "2026-10-17T05:14:27Z",
+    "updated_at": "2026-10-17T05:27:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -328,7 +328,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67223,
+    "stars": 67224,
     "updated_at": "2026-10-17T01:36:42Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
