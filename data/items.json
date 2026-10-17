@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T04:30:19Z",
+    "updated_at": "2026-10-17T04:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u589e\u5f3a\u578b\u68c0\u7d22\u4e0e\u8bed\u4e49\u68c0\u7d22\uff1a\u6587\u6863\u5207\u5206\u5411\u91cf\u5316\uff0c\u6309\u8bed\u4e49\u76f8\u5173\u5ea6\u68c0\u7d22\u5e76\u751f\u6210\u5e26\u51fa\u5904\u7684\u56de\u7b54",
+    "id": "dashayuchixiaoji/enhanced-semantic-retrieval",
+    "language": "\u2014",
+    "name": "dashayuchixiaoji/enhanced-semantic-retrieval",
+    "stars": 0,
+    "updated_at": "2026-10-17T04:45:03Z",
+    "url": "https://github.com/dashayuchixiaoji/enhanced-semantic-retrieval"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-17T04:40:59Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T04:38:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 119,
+    "updated_at": "2026-10-17T04:40:51Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-17T04:32:11Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T04:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
@@ -27,15 +81,6 @@
     "url": "https://github.com/irtazirfan08-source/VectorCore"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T04:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -52,24 +97,6 @@
     "stars": 9,
     "updated_at": "2026-10-17T04:11:28Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-17T04:11:16Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T04:09:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A production-grade, decoupled, and containerized Multimodal Digital Asset Management (DAM) & RAG platform featuring stre",
@@ -97,15 +124,6 @@
     "stars": 8,
     "updated_at": "2026-10-17T03:59:18Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-17T03:58:26Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -162,15 +180,6 @@
     "url": "https://github.com/anhle325/rag-finvisor-vn"
   },
   {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-17T04:19:57Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9404,
-    "updated_at": "2026-10-17T04:29:37Z",
+    "updated_at": "2026-10-17T04:44:17Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -265,7 +274,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46402,
+    "stars": 46403,
     "updated_at": "2026-10-17T01:49:49Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -274,7 +283,7 @@
     "id": "liliang-cn/cortexdb",
     "language": "Go",
     "name": "liliang-cn/cortexdb",
-    "stars": 439,
+    "stars": 440,
     "updated_at": "2026-10-17T01:39:16Z",
     "url": "https://github.com/liliang-cn/cortexdb"
   },
@@ -418,7 +427,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7064,
+    "stars": 7071,
     "updated_at": "2026-10-16T23:39:19Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 1640,
     "updated_at": "2026-10-16T23:14:25Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "HNSW vector index from scratch in C++17: SIMD distance kernels, Python bindings, HTTP service, benchmarked against FAISS",
-    "id": "asp53826/annlite",
-    "language": "C++",
-    "name": "asp53826/annlite",
-    "stars": 0,
-    "updated_at": "2026-10-16T23:10:57Z",
-    "url": "https://github.com/asp53826/annlite"
   }
 ]
