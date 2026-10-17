@@ -1,21 +1,48 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-17T04:58:39Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1205,
+    "updated_at": "2026-10-17T04:49:20Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "\u589e\u5f3a\u578b\u68c0\u7d22\u4e0e\u8bed\u4e49\u68c0\u7d22\uff1a\u6587\u6863\u5207\u5206\u5411\u91cf\u5316\uff0c\u6309\u8bed\u4e49\u76f8\u5173\u5ea6\u68c0\u7d22\u5e76\u751f\u6210\u5e26\u51fa\u5904\u7684\u56de\u7b54",
+    "id": "dashayuchixiaoji/enhanced-semantic-retrieval",
+    "language": "Python",
+    "name": "dashayuchixiaoji/enhanced-semantic-retrieval",
+    "stars": 0,
+    "updated_at": "2026-10-17T04:47:54Z",
+    "url": "https://github.com/dashayuchixiaoji/enhanced-semantic-retrieval"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T04:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T04:45:18Z",
+    "updated_at": "2026-10-17T05:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\u589e\u5f3a\u578b\u68c0\u7d22\u4e0e\u8bed\u4e49\u68c0\u7d22\uff1a\u6587\u6863\u5207\u5206\u5411\u91cf\u5316\uff0c\u6309\u8bed\u4e49\u76f8\u5173\u5ea6\u68c0\u7d22\u5e76\u751f\u6210\u5e26\u51fa\u5904\u7684\u56de\u7b54",
-    "id": "dashayuchixiaoji/enhanced-semantic-retrieval",
-    "language": "\u2014",
-    "name": "dashayuchixiaoji/enhanced-semantic-retrieval",
-    "stars": 0,
-    "updated_at": "2026-10-17T04:45:03Z",
-    "url": "https://github.com/dashayuchixiaoji/enhanced-semantic-retrieval"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -54,15 +81,6 @@
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T04:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
     "id": "xl3v3r/hermes-oracle-memory",
     "language": "Python",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T04:17:12Z",
     "url": "https://github.com/irtazirfan08-source/VectorCore"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-17T04:11:29Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-17T03:17:11Z",
+    "updated_at": "2026-10-17T04:53:32Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9404,
-    "updated_at": "2026-10-17T04:44:17Z",
+    "updated_at": "2026-10-17T04:47:17Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -292,7 +301,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67220,
+    "stars": 67222,
     "updated_at": "2026-10-17T01:36:42Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -427,7 +436,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7071,
+    "stars": 7078,
     "updated_at": "2026-10-16T23:39:19Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 8378,
     "updated_at": "2026-10-16T23:16:43Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1640,
-    "updated_at": "2026-10-16T23:14:25Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   }
 ]
