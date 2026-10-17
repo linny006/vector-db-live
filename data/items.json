@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T03:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-17T03:24:22Z",
+    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-17T03:15:13Z",
+    "updated_at": "2026-10-17T03:17:11Z",
     "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T03:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T03:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-user AI assistant built with LangGraph and Streamlit. Chat with streaming responses, ask questions about your own ",
@@ -32,7 +50,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 119,
-    "updated_at": "2026-10-17T03:12:54Z",
+    "updated_at": "2026-10-17T03:17:16Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -63,21 +81,12 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T03:06:40Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1508,
-    "updated_at": "2026-10-17T03:04:02Z",
+    "updated_at": "2026-10-17T03:17:00Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -86,7 +95,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9404,
-    "updated_at": "2026-10-17T03:13:49Z",
+    "updated_at": "2026-10-17T03:21:36Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -95,7 +104,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-17T02:59:03Z",
+    "updated_at": "2026-10-17T03:29:30Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -187,15 +196,6 @@
     "stars": 67221,
     "updated_at": "2026-10-17T01:36:42Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-17T02:02:04Z",
-    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -346,7 +346,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7026,
+    "stars": 7037,
     "updated_at": "2026-10-16T23:39:19Z",
     "url": "https://github.com/xerj-org/xerj"
   },
