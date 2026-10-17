@@ -1,12 +1,39 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "nAshikaga15073/llmaker",
+    "language": "\u2014",
+    "name": "nAshikaga15073/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:30:08Z",
+    "url": "https://github.com/nAshikaga15073/llmaker"
+  },
+  {
+    "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
+    "id": "subrataai-wq/Aether-Manifold",
+    "language": "Rust",
+    "name": "subrataai-wq/Aether-Manifold",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:29:28Z",
+    "url": "https://github.com/subrataai-wq/Aether-Manifold"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "valerie807/vektori",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "valerie807/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:28:56Z",
+    "url": "https://github.com/valerie807/vektori"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:27:24Z",
+    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -14,8 +41,80 @@
     "language": "Python",
     "name": "Dream-Pixels-Forge/memorius",
     "stars": 1,
-    "updated_at": "2026-10-17T09:11:45Z",
+    "updated_at": "2026-10-17T09:27:07Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "erik83326/developers-guide-to-ai",
+    "language": "Python",
+    "name": "erik83326/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:25:23Z",
+    "url": "https://github.com/erik83326/developers-guide-to-ai"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "Tomasz1504/distill",
+    "language": "Go",
+    "name": "Tomasz1504/distill",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:23:56Z",
+    "url": "https://github.com/Tomasz1504/distill"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "Victoria8226/developers-guide-to-ai",
+    "language": "Python",
+    "name": "Victoria8226/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:23:45Z",
+    "url": "https://github.com/Victoria8226/developers-guide-to-ai"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "Michel98769/llmaker",
+    "language": "Go",
+    "name": "Michel98769/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:23:40Z",
+    "url": "https://github.com/Michel98769/llmaker"
+  },
+  {
+    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
+    "id": "diskerror/ragger.cpp",
+    "language": "C++",
+    "name": "diskerror/ragger.cpp",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:22:49Z",
+    "url": "https://github.com/diskerror/ragger.cpp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T09:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T09:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7264,
+    "updated_at": "2026-10-17T09:14:25Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
@@ -25,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:11:59Z",
     "url": "https://github.com/structured-world/coordinode-python"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7256,
-    "updated_at": "2026-10-17T09:14:25Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -52,24 +142,6 @@
     "stars": 7,
     "updated_at": "2026-10-17T09:07:42Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
-    "id": "subrataai-wq/Aether-Manifold",
-    "language": "Rust",
-    "name": "subrataai-wq/Aether-Manifold",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:04:02Z",
-    "url": "https://github.com/subrataai-wq/Aether-Manifold"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-oriented async RAG service on Python 3.12: hybrid search (vector + BM25/RRF), agentic retrieval & GraphRAG, A",
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-17T08:48:57Z",
+    "updated_at": "2026-10-17T09:23:13Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 2054,
     "updated_at": "2026-10-17T08:42:20Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:11:24Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "zhenkun26/BusinessAgent",
     "stars": 3,
-    "updated_at": "2026-10-17T08:30:09Z",
+    "updated_at": "2026-10-17T09:21:04Z",
     "url": "https://github.com/zhenkun26/BusinessAgent"
   },
   {
@@ -328,7 +391,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40143,
+    "stars": 40144,
     "updated_at": "2026-10-17T07:11:41Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T06:59:08Z",
     "url": "https://github.com/KatherineRezende6310/vektori"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "Thiago87283/llmaker",
-    "language": "Go",
-    "name": "Thiago87283/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:58:35Z",
-    "url": "https://github.com/Thiago87283/llmaker"
-  },
-  {
-    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
-    "id": "Angular2Guy/AIDocumentLibraryChat",
-    "language": "Java",
-    "name": "Angular2Guy/AIDocumentLibraryChat",
-    "stars": 31,
-    "updated_at": "2026-10-17T06:57:37Z",
-    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "can89686/yu-ai-agent",
-    "language": "Java",
-    "name": "can89686/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:55:58Z",
-    "url": "https://github.com/can89686/yu-ai-agent"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 7,
-    "updated_at": "2026-10-17T06:46:20Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-17T06:40:03Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\u26a1 In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantizat",
-    "id": "ronitgupta138/Vectra-Core",
-    "language": "Java",
-    "name": "ronitgupta138/Vectra-Core",
-    "stars": 41,
-    "updated_at": "2026-10-17T06:40:00Z",
-    "url": "https://github.com/ronitgupta138/Vectra-Core"
-  },
-  {
-    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
-    "id": "xl3v3r/hermes-oracle-memory",
-    "language": "Python",
-    "name": "xl3v3r/hermes-oracle-memory",
-    "stars": 1,
-    "updated_at": "2026-10-17T08:21:30Z",
-    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
   }
 ]
