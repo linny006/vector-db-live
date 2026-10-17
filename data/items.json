@@ -1,21 +1,192 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T22:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Vector search at SIMD speed. One Rust engine, phone to cloud. AI-native, vector-first, multimodal database.",
     "id": "sshbrian/kestrel",
     "language": "Rust",
     "name": "sshbrian/kestrel",
     "stars": 0,
-    "updated_at": "2026-10-17T22:00:16Z",
+    "updated_at": "2026-10-17T22:13:00Z",
     "url": "https://github.com/sshbrian/kestrel"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "trang7633/developers-guide-to-ai",
+    "language": "Python",
+    "name": "trang7633/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:12:42Z",
+    "url": "https://github.com/trang7633/developers-guide-to-ai"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7740,
+    "updated_at": "2026-10-17T22:14:59Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "kamil038/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "kamil038/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:12:23Z",
+    "url": "https://github.com/kamil038/rag-interview-system"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "MariaGarcia99920/developers-guide-to-ai",
+    "language": "Python",
+    "name": "MariaGarcia99920/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:12:01Z",
+    "url": "https://github.com/MariaGarcia99920/developers-guide-to-ai"
+  },
+  {
+    "description": "LoLA: Privacy-first desktop AI with RAG. Chat offline with your docs using Ollama models. React+Electron UI, FastAPI bac",
+    "id": "24kr/Local_LLM_Assistant",
+    "language": "JavaScript",
+    "name": "24kr/Local_LLM_Assistant",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:11:49Z",
+    "url": "https://github.com/24kr/Local_LLM_Assistant"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:08:41Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1205,
+    "updated_at": "2026-10-17T22:08:04Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T22:07:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "rivera3560/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "rivera3560/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:06:24Z",
+    "url": "https://github.com/rivera3560/rag-interview-system"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 35,
+    "updated_at": "2026-10-17T22:06:23Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "eharris10/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "eharris10/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:05:27Z",
+    "url": "https://github.com/eharris10/rag-interview-system"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "Ana88340/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "Ana88340/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:05:16Z",
+    "url": "https://github.com/Ana88340/rag-interview-system"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "meganrobert3108/llmaker",
+    "language": "Go",
+    "name": "meganrobert3108/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:04:02Z",
+    "url": "https://github.com/meganrobert3108/llmaker"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 6,
+    "updated_at": "2026-10-17T22:13:12Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-17T22:02:12Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "burakyou/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "burakyou/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:02:01Z",
+    "url": "https://github.com/burakyou/rag-interview-system"
+  },
+  {
+    "description": "Secure RAG system for SRE operational knowledge. Features ingestion-time secret redaction, strict tenant isolation, and ",
+    "id": "Brenda-Tavares/lore-rag",
+    "language": "Python",
+    "name": "Brenda-Tavares/lore-rag",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:01:34Z",
+    "url": "https://github.com/Brenda-Tavares/lore-rag"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "Amira38499/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "Amira38499/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:00:35Z",
+    "url": "https://github.com/Amira38499/rag-interview-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T22:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T22:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -27,15 +198,6 @@
     "url": "https://github.com/rYildirim9205/distill"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7736,
-    "updated_at": "2026-10-17T21:58:49Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "A python package for developing AI applications with local LLMs.",
     "id": "Chiarac767/LLMFlex",
     "language": "Python",
@@ -43,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:58:47Z",
     "url": "https://github.com/Chiarac767/LLMFlex"
-  },
-  {
-    "description": "Secure RAG system for SRE operational knowledge. Features ingestion-time secret redaction, strict tenant isolation, and ",
-    "id": "Brenda-Tavares/lore-rag",
-    "language": "Python",
-    "name": "Brenda-Tavares/lore-rag",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:58:19Z",
-    "url": "https://github.com/Brenda-Tavares/lore-rag"
   },
   {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
@@ -126,15 +279,6 @@
     "url": "https://github.com/fenecdb/fenec"
   },
   {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 35,
-    "updated_at": "2026-10-17T21:49:00Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
     "id": "miniaxolotl/grove",
     "language": "TypeScript",
@@ -151,15 +295,6 @@
     "stars": 2054,
     "updated_at": "2026-10-17T21:45:43Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T21:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -207,15 +342,6 @@
     "url": "https://github.com/AngelaCook337/LLMFlex"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T21:33:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Production-oriented async RAG service on Python 3.12: hybrid search (vector + BM25/RRF), agentic retrieval & GraphRAG, A",
     "id": "Pavel14701/rag_service",
     "language": "Python",
@@ -259,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:20:51Z",
     "url": "https://github.com/Karan-1108/NoteGenie"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-10-17T21:20:06Z",
-    "url": "https://github.com/Yasou13/MESA"
   },
   {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:08:16Z",
     "url": "https://github.com/JosephLeclerc935/developers-guide-to-ai"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "Volkan55277/LLMFlex",
-    "language": "Python",
-    "name": "Volkan55277/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:08:11Z",
-    "url": "https://github.com/Volkan55277/LLMFlex"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-17T21:08:08Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "kaplan19155/yu-ai-agent",
-    "language": "Java",
-    "name": "kaplan19155/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:07:39Z",
-    "url": "https://github.com/kaplan19155/yu-ai-agent"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "Matia41/LLMFlex",
-    "language": "Python",
-    "name": "Matia41/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:07:21Z",
-    "url": "https://github.com/Matia41/LLMFlex"
-  },
-  {
-    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
-    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "language": "Python",
-    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "stars": 0,
-    "updated_at": "2026-10-17T20:57:26Z",
-    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-10-17T20:43:16Z",
-    "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "\"Solace AI: Your Empathetic Digital Confidant\": Solace AI is an empathetic mental health companion that understands your",
-    "id": "Rayyan9477/Solace-AI",
-    "language": "Python",
-    "name": "Rayyan9477/Solace-AI",
-    "stars": 21,
-    "updated_at": "2026-10-17T20:42:16Z",
-    "url": "https://github.com/Rayyan9477/Solace-AI"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-17T21:55:46Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39239,
-    "updated_at": "2026-10-17T21:27:29Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-17T20:34:32Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
-    "id": "davidfernxndez/github-repository-rag",
-    "language": "Jupyter Notebook",
-    "name": "davidfernxndez/github-repository-rag",
-    "stars": 0,
-    "updated_at": "2026-10-17T20:31:28Z",
-    "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-17T20:25:08Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35117,
-    "updated_at": "2026-10-17T21:29:33Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
