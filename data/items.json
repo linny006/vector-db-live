@@ -1,5 +1,68 @@
 [
   {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-17T03:59:18Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "AI-Powered Support Intelligence & RAG Platform with Citation Verification built with FastAPI, LangChain, Vector DB, and ",
+    "id": "Obieda-aldarrabsih/InsightDesk-AI",
+    "language": "TypeScript",
+    "name": "Obieda-aldarrabsih/InsightDesk-AI",
+    "stars": 0,
+    "updated_at": "2026-10-17T03:57:37Z",
+    "url": "https://github.com/Obieda-aldarrabsih/InsightDesk-AI"
+  },
+  {
+    "description": "A production-grade, decoupled, and containerized Multimodal Digital Asset Management (DAM) & RAG platform featuring stre",
+    "id": "vipin-mo/multimodal-dam-rag-platform",
+    "language": "Python",
+    "name": "vipin-mo/multimodal-dam-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-10-17T03:55:41Z",
+    "url": "https://github.com/vipin-mo/multimodal-dam-rag-platform"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 119,
+    "updated_at": "2026-10-17T03:58:26Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T03:46:50Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T03:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T04:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "",
     "id": "giuliano0s/ifrs-canoas-rag",
     "language": "Python",
@@ -9,13 +72,13 @@
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T03:40:16Z",
-    "url": "https://github.com/iberi22/xavier"
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40129,
+    "updated_at": "2026-10-17T03:40:17Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -45,22 +108,13 @@
     "url": "https://github.com/HOFFMAN-ALTERNATIVE/hnsw-vector-search"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T03:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T03:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "AI-powered financial assistant using RAG to search, parse, and analyze financial statements for Vietnamese listed stocks",
+    "id": "anhle325/rag-finvisor-vn",
+    "language": "\u2014",
+    "name": "anhle325/rag-finvisor-vn",
+    "stars": 0,
+    "updated_at": "2026-10-17T03:36:37Z",
+    "url": "https://github.com/anhle325/rag-finvisor-vn"
   },
   {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T03:24:22Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40127,
-    "updated_at": "2026-10-17T03:40:17Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -99,15 +144,6 @@
     "url": "https://github.com/visheshbpatel/synapse-ai"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-17T03:17:16Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -115,6 +151,15 @@
     "stars": 13,
     "updated_at": "2026-10-17T03:08:16Z",
     "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11687,
+    "updated_at": "2026-10-17T03:08:09Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9404,
-    "updated_at": "2026-10-17T03:21:36Z",
+    "updated_at": "2026-10-17T03:49:56Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9468,
-    "updated_at": "2026-10-17T03:40:42Z",
+    "updated_at": "2026-10-17T03:48:32Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -193,7 +238,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46403,
+    "stars": 46402,
     "updated_at": "2026-10-17T01:49:49Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -211,18 +256,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67221,
+    "stars": 67220,
     "updated_at": "2026-10-17T01:36:42Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-17T01:27:15Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
@@ -324,15 +360,6 @@
     "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11686,
-    "updated_at": "2026-10-17T03:08:09Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Local RAG semantic search for Obsidian vaults \u2014 Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo",
     "id": "brodewa369/roowet-semantic-vault-search",
     "language": "Python",
@@ -364,7 +391,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7048,
+    "stars": 7054,
     "updated_at": "2026-10-16T23:39:19Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -421,32 +448,5 @@
     "stars": 22,
     "updated_at": "2026-10-16T22:12:48Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Hybrid RAG sales agent (SQL + pgvector) for a real fashion e-commerce brand. n8n, Gemini, Supabase, Telegram.",
-    "id": "YahiaRabbi/hybrid-rag-sales-agent",
-    "language": "JSON",
-    "name": "YahiaRabbi/hybrid-rag-sales-agent",
-    "stars": 0,
-    "updated_at": "2026-10-16T21:46:57Z",
-    "url": "https://github.com/YahiaRabbi/hybrid-rag-sales-agent"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1356,
-    "updated_at": "2026-10-16T21:45:09Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Sovereign, local-first personal AI desktop OS. Zero-egress multi-agent intelligence powered by Ollama, continuous episte",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 2,
-    "updated_at": "2026-10-16T21:41:51Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
   }
 ]
