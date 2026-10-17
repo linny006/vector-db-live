@@ -1,11 +1,83 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-17T13:14:13Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 129,
+    "updated_at": "2026-10-17T13:14:05Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T13:13:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-17T13:14:42Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-17T13:08:30Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2021,
+    "updated_at": "2026-10-17T13:05:44Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-17T13:00:41Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T13:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T13:00:20Z",
+    "updated_at": "2026-10-17T13:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,15 +99,6 @@
     "url": "https://github.com/bosekarmegam/vecforge"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T12:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
     "id": "diskerror/ragger.cpp",
     "language": "C++",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T12:43:46Z",
     "url": "https://github.com/diskerror/ragger.cpp"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T12:40:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Vector database built from scratch with five search algorithms, quantization, and RAG integration",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-17T12:33:31Z",
+    "updated_at": "2026-10-17T13:10:26Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T11:54:41Z",
     "url": "https://github.com/cernica/hadamask"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-17T12:23:31Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "MERGEN: Deniz Y\u00fcret Temelli Geli\u015ftirilmi\u015f De-Asciifier & Hermit Dave 50K S\u00f6zl\u00fc\u011f\u00fc, 4 Bili\u015fsel Faset, DAG Orkestrasyonu, Q",
@@ -319,7 +364,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7389,
+    "stars": 7399,
     "updated_at": "2026-10-17T10:37:40Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -358,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T10:29:57Z",
     "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2021,
-    "updated_at": "2026-10-17T12:19:22Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T10:26:06Z",
     "url": "https://github.com/ramirez6568/llmaker"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "prawits156/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "prawits156/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:25:15Z",
-    "url": "https://github.com/prawits156/rag-interview-system"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "AxelCatalano/vektori",
-    "language": "Python",
-    "name": "AxelCatalano/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:24:16Z",
-    "url": "https://github.com/AxelCatalano/vektori"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "Momokah54135/LLMFlex",
-    "language": "Python",
-    "name": "Momokah54135/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:23:26Z",
-    "url": "https://github.com/Momokah54135/LLMFlex"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "torstenpham/VectorRAG.Net",
-    "language": "C#",
-    "name": "torstenpham/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:23:18Z",
-    "url": "https://github.com/torstenpham/VectorRAG.Net"
   }
 ]
