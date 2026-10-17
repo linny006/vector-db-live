@@ -1,5 +1,41 @@
 [
   {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-17T17:59:10Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7598,
+    "updated_at": "2026-10-17T17:56:59Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
+    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
+    "language": "Python",
+    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
+    "stars": 0,
+    "updated_at": "2026-10-17T17:54:55Z",
+    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T17:53:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
     "id": "fatma-fendri/PodAI",
     "language": "Python",
@@ -36,31 +72,13 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T17:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T17:45:19Z",
+    "updated_at": "2026-10-17T18:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7594,
-    "updated_at": "2026-10-17T17:44:36Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
@@ -95,7 +113,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-17T17:35:46Z",
+    "updated_at": "2026-10-17T17:59:03Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-10-17T17:25:35Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-17T17:22:53Z",
-    "url": "https://github.com/badhope/spark"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -257,7 +266,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 908,
-    "updated_at": "2026-10-17T17:51:00Z",
+    "updated_at": "2026-10-17T17:55:16Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:03:08Z",
     "url": "https://github.com/hammad986/video-qa-RAG"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 1,
-    "updated_at": "2026-10-17T15:02:25Z",
-    "url": "https://github.com/vicquick/nobrainr"
   }
 ]
