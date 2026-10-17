@@ -1,5 +1,95 @@
 [
   {
+    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
+    "id": "Niccher/Chege-Photos-Platform",
+    "language": "PHP",
+    "name": "Niccher/Chege-Photos-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:14:44Z",
+    "url": "https://github.com/Niccher/Chege-Photos-Platform"
+  },
+  {
+    "description": "VecForge is a universal, local-first Python vector database with enterprise security, multimodal ingestion, and optional",
+    "id": "bosekarmegam/vecforge",
+    "language": "Python",
+    "name": "bosekarmegam/vecforge",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:13:37Z",
+    "url": "https://github.com/bosekarmegam/vecforge"
+  },
+  {
+    "description": "\u26a1 In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantizat",
+    "id": "ronitgupta138/Vectra-Core",
+    "language": "Java",
+    "name": "ronitgupta138/Vectra-Core",
+    "stars": 41,
+    "updated_at": "2026-10-17T11:12:07Z",
+    "url": "https://github.com/ronitgupta138/Vectra-Core"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T11:07:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:04:45Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "Self-hosted Docker Compose microservice for air-gapped PDF ingestion, layout-aware parsing, and local vector search with",
+    "id": "mdaleem07/LocalRAG-Companion",
+    "language": "Python",
+    "name": "mdaleem07/LocalRAG-Companion",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:04:13Z",
+    "url": "https://github.com/mdaleem07/LocalRAG-Companion"
+  },
+  {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-17T11:01:58Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Face search engine: find a subject inside folders or a PostgreSQL gallery",
+    "id": "Asintotoo/FaceSeek",
+    "language": "Python",
+    "name": "Asintotoo/FaceSeek",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:01:42Z",
+    "url": "https://github.com/Asintotoo/FaceSeek"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T11:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T11:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Client-side protection for vector databases: keyed orthogonal obfuscation of embeddings + AES-256-GCM metadata. Exact si",
     "id": "cernica/hadamask",
     "language": "Python",
@@ -27,15 +117,6 @@
     "url": "https://github.com/Shreyansh-cloud1/Personal-RAG-Assistant"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T11:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
     "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T10:46:14Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T10:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embeddable Vector DB",
@@ -72,31 +144,13 @@
     "url": "https://github.com/christophhakansson50/distill"
   },
   {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
-    "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:37:58Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7321,
+    "stars": 7329,
     "updated_at": "2026-10-17T10:37:40Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T10:34:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
@@ -135,15 +189,6 @@
     "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
-    "description": "Face search engine: find a subject inside folders or a PostgreSQL gallery",
-    "id": "Asintotoo/FaceSeek",
-    "language": "Python",
-    "name": "Asintotoo/FaceSeek",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:30:18Z",
-    "url": "https://github.com/Asintotoo/FaceSeek"
-  },
-  {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
     "id": "DevAnimecx/free-ai-agent-stack",
     "language": "TypeScript",
@@ -160,15 +205,6 @@
     "stars": 2021,
     "updated_at": "2026-10-17T10:51:28Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "VecForge is a universal, local-first Python vector database with enterprise security, multimodal ingestion, and optional",
-    "id": "bosekarmegam/vecforge",
-    "language": "Python",
-    "name": "bosekarmegam/vecforge",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:29:37Z",
-    "url": "https://github.com/bosekarmegam/vecforge"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -297,15 +333,6 @@
     "url": "https://github.com/salmeida22/yu-ai-agent"
   },
   {
-    "description": "Self-hosted Docker Compose microservice for air-gapped PDF ingestion, layout-aware parsing, and local vector search with",
-    "id": "mdaleem07/LocalRAG-Companion",
-    "language": "Python",
-    "name": "mdaleem07/LocalRAG-Companion",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:17:30Z",
-    "url": "https://github.com/mdaleem07/LocalRAG-Companion"
-  },
-  {
     "description": "MCP_Agentic_DocuChat: a local-first reading companion for your PDFs. Ask a question and get an answer that names the exa",
     "id": "MaithreshVaddi-27/MCP_Agentic_DocuChat",
     "language": "Python",
@@ -414,15 +441,6 @@
     "url": "https://github.com/ingrid19217/vektori"
   },
   {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-17T10:46:24Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
     "id": "VirginieKaneko02/VectorRAG.Net",
     "language": "C#",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:50:43Z",
     "url": "https://github.com/VirginieKaneko02/VectorRAG.Net"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "NayeonMakarov37726/distill",
-    "language": "Go",
-    "name": "NayeonMakarov37726/distill",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:50:37Z",
-    "url": "https://github.com/NayeonMakarov37726/distill"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-17T09:49:51Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
