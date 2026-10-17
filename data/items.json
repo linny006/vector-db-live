@@ -1,12 +1,111 @@
 [
   {
+    "description": "Self-hosted Docker Compose microservice for air-gapped PDF ingestion, layout-aware parsing, and local vector search with",
+    "id": "mdaleem07/LocalRAG-Companion",
+    "language": "Python",
+    "name": "mdaleem07/LocalRAG-Companion",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:20:56Z",
+    "url": "https://github.com/mdaleem07/LocalRAG-Companion"
+  },
+  {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 4,
+    "updated_at": "2026-10-17T15:22:44Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "Python",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:18:57Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
+  },
+  {
+    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:17:13Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
+    "id": "NirDiamant/Agent_Memory_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/Agent_Memory_Techniques",
+    "stars": 1107,
+    "updated_at": "2026-10-17T15:17:03Z",
+    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
+  },
+  {
     "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
     "stars": 29899,
-    "updated_at": "2026-10-17T15:15:11Z",
+    "updated_at": "2026-10-17T15:16:56Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
+    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
+    "id": "api-evangelist/vespa-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:16:38Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
+  },
+  {
+    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
+    "id": "api-evangelist/vectorize-io",
+    "language": "\u2014",
+    "name": "api-evangelist/vectorize-io",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:16:28Z",
+    "url": "https://github.com/api-evangelist/vectorize-io"
+  },
+  {
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 4,
+    "updated_at": "2026-10-17T15:16:24Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
+    "id": "api-evangelist/upstash",
+    "language": "\u2014",
+    "name": "api-evangelist/upstash",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:16:06Z",
+    "url": "https://github.com/api-evangelist/upstash"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T15:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T15:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LLM + RAG system for querying HPC platform documentation and codebase \u2014 document crawling, chunking, embeddings, vector ",
@@ -22,18 +121,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7487,
+    "stars": 7489,
     "updated_at": "2026-10-17T15:12:07Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 4,
-    "updated_at": "2026-10-17T15:10:38Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
@@ -144,24 +234,6 @@
     "url": "https://github.com/Cognipeer/console"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T15:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T15:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -239,7 +311,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35115,
-    "updated_at": "2026-10-17T15:05:44Z",
+    "updated_at": "2026-10-17T15:22:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -295,15 +367,6 @@
     "stars": 355,
     "updated_at": "2026-10-17T14:36:20Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
-    "id": "aldyardnsyh/IntelligenceDocumentSystem",
-    "language": "Python",
-    "name": "aldyardnsyh/IntelligenceDocumentSystem",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:34:59Z",
-    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
   },
   {
     "description": "A low-latency, billion-scale, and updatable graph-based vector store on SSD.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T13:59:54Z",
     "url": "https://github.com/ChromiaProject/vector-db-extension"
-  },
-  {
-    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
-    "id": "Shahzain-Ali/agentive-solutions-book",
-    "language": "Python",
-    "name": "Shahzain-Ali/agentive-solutions-book",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:55:55Z",
-    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:43:52Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "VecForge is a universal, local-first Python vector database with enterprise security, multimodal ingestion, and optional",
-    "id": "bosekarmegam/vecforge",
-    "language": "Python",
-    "name": "bosekarmegam/vecforge",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:22:41Z",
-    "url": "https://github.com/bosekarmegam/vecforge"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-17T13:41:19Z",
-    "url": "https://github.com/badhope/spark"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-17T13:39:31Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46405,
-    "updated_at": "2026-10-17T13:37:49Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-10-17T13:28:56Z",
-    "url": "https://github.com/Yasou13/MESA"
   }
 ]
