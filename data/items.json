@@ -1,5 +1,59 @@
 [
   {
+    "description": "Client-side protection for vector databases: keyed orthogonal obfuscation of embeddings + AES-256-GCM metadata. Exact si",
+    "id": "cernica/hadamask",
+    "language": "Python",
+    "name": "cernica/hadamask",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:50:50Z",
+    "url": "https://github.com/cernica/hadamask"
+  },
+  {
+    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
+    "id": "structured-world/coordinode-python",
+    "language": "Python",
+    "name": "structured-world/coordinode-python",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:54:48Z",
+    "url": "https://github.com/structured-world/coordinode-python"
+  },
+  {
+    "description": "Build a Personal RAG Assistant locally.",
+    "id": "Shreyansh-cloud1/Personal-RAG-Assistant",
+    "language": "Python",
+    "name": "Shreyansh-cloud1/Personal-RAG-Assistant",
+    "stars": 0,
+    "updated_at": "2026-10-17T10:46:31Z",
+    "url": "https://github.com/Shreyansh-cloud1/Personal-RAG-Assistant"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T11:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-17T10:46:14Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T10:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Embeddable Vector DB",
     "id": "SiLeader/emvedb",
     "language": "Rust",
@@ -31,7 +85,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7310,
+    "stars": 7321,
     "updated_at": "2026-10-17T10:37:40Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -81,24 +135,6 @@
     "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T10:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T10:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Face search engine: find a subject inside folders or a PostgreSQL gallery",
     "id": "Asintotoo/FaceSeek",
     "language": "Python",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 2021,
-    "updated_at": "2026-10-17T10:34:21Z",
+    "updated_at": "2026-10-17T10:51:28Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-17T10:28:19Z",
+    "updated_at": "2026-10-17T10:51:47Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-17T10:38:09Z",
+    "updated_at": "2026-10-17T10:46:24Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-17T09:49:51Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
-    "id": "Niccher/Chege-Photos-Platform",
-    "language": "PHP",
-    "name": "Niccher/Chege-Photos-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:47:27Z",
-    "url": "https://github.com/Niccher/Chege-Photos-Platform"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "Mustafa67548/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "Mustafa67548/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:47:03Z",
-    "url": "https://github.com/Mustafa67548/rag-interview-system"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "charlottea043/vektori",
-    "language": "Python",
-    "name": "charlottea043/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:46:45Z",
-    "url": "https://github.com/charlottea043/vektori"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-17T09:41:21Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
