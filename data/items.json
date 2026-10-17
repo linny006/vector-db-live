@@ -5,26 +5,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T16:00:20Z",
+    "updated_at": "2026-10-17T16:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7517,
-    "updated_at": "2026-10-17T15:57:47Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1205,
-    "updated_at": "2026-10-17T15:56:42Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A production-ready Legal AI Assistant built with RAG. Uses Qdrant Cloud, OpenRouter, and Streamlit to accurately answer ",
@@ -32,8 +14,53 @@
     "language": "Python",
     "name": "prashantv04/pdf-rag-system",
     "stars": 0,
-    "updated_at": "2026-10-17T15:55:26Z",
+    "updated_at": "2026-10-17T16:14:31Z",
     "url": "https://github.com/prashantv04/pdf-rag-system"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7522,
+    "updated_at": "2026-10-17T16:12:31Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T16:08:26Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-17T16:02:52Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T16:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1205,
+    "updated_at": "2026-10-17T16:12:21Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-17T15:54:34Z",
+    "updated_at": "2026-10-17T16:15:11Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -72,24 +99,6 @@
     "url": "https://github.com/badhope/spark"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-17T15:48:50Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T15:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-17T15:57:11Z",
+    "updated_at": "2026-10-17T16:08:21Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -122,17 +131,8 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 908,
-    "updated_at": "2026-10-17T15:52:11Z",
+    "updated_at": "2026-10-17T16:11:47Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T15:33:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
@@ -293,7 +293,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1509,
-    "updated_at": "2026-10-17T15:28:27Z",
+    "updated_at": "2026-10-17T16:03:54Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -410,7 +410,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-17T14:53:08Z",
+    "updated_at": "2026-10-17T16:14:53Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -419,7 +419,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35115,
-    "updated_at": "2026-10-17T15:22:59Z",
+    "updated_at": "2026-10-17T16:09:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {

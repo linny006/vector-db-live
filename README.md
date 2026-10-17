@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-17 16:00 UTC
+> ⏰ Last updated: 2026-10-17 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,20 +43,20 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 7517 | Rust | 2026-10-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 3 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1205 | Java | 2026-10-17 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 4 | [prashantv04/pdf-rag-system](https://github.com/prashantv04/pdf-rag-system) | 0 | Python | 2026-10-17 | A production-ready Legal AI Assistant built with RAG. Uses Qdrant Cloud, OpenRouter, and Streamlit to accurately answer  |
-| 5 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 5 | Python | 2026-10-17 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
-| 6 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2021 | Python | 2026-10-17 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
-| 7 | [bosekarmegam/vecforge](https://github.com/bosekarmegam/vecforge) | 0 | Python | 2026-10-17 | VecForge is a universal, local-first Python vector database with enterprise security, multimodal ingestion, and optional |
-| 8 | [badhope/spark](https://github.com/badhope/spark) | 21 | Python | 2026-10-17 | Spark — local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel |
-| 9 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2054 | Go | 2026-10-17 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [hbar-systems/brainfoundry-nous](https://github.com/hbar-systems/brainfoundry-nous) | 1 | Python | 2026-10-17 | Self-hosted sovereign AI brain — persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL |
-| 12 | [subrataai-wq/Aether-Manifold](https://github.com/subrataai-wq/Aether-Manifold) | 1 | Rust | 2026-10-17 | A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro |
-| 13 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-17 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
-| 14 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 908 | Go | 2026-10-17 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 15 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 2 | [prashantv04/pdf-rag-system](https://github.com/prashantv04/pdf-rag-system) | 0 | Python | 2026-10-17 | A production-ready Legal AI Assistant built with RAG. Uses Qdrant Cloud, OpenRouter, and Streamlit to accurately answer  |
+| 3 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 7522 | Rust | 2026-10-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 5 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2054 | Go | 2026-10-17 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1205 | Java | 2026-10-17 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 8 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 5 | Python | 2026-10-17 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
+| 9 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2021 | Python | 2026-10-17 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 10 | [bosekarmegam/vecforge](https://github.com/bosekarmegam/vecforge) | 0 | Python | 2026-10-17 | VecForge is a universal, local-first Python vector database with enterprise security, multimodal ingestion, and optional |
+| 11 | [badhope/spark](https://github.com/badhope/spark) | 21 | Python | 2026-10-17 | Spark — local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel |
+| 12 | [hbar-systems/brainfoundry-nous](https://github.com/hbar-systems/brainfoundry-nous) | 1 | Python | 2026-10-17 | Self-hosted sovereign AI brain — persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL |
+| 13 | [subrataai-wq/Aether-Manifold](https://github.com/subrataai-wq/Aether-Manifold) | 1 | Rust | 2026-10-17 | A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro |
+| 14 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-17 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 15 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 908 | Go | 2026-10-17 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
 | 16 | [ashraful2871/Salon-Management-Frontend](https://github.com/ashraful2871/Salon-Management-Frontend) | 0 | TypeScript | 2026-10-17 | The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl |
 | 17 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | Java | 2026-10-17 | Identity and Authorization Service with Vector and AI Integration |
 | 18 | [Oyabure-Zakari/ai-agent-practice](https://github.com/Oyabure-Zakari/ai-agent-practice) | 0 | TypeScript | 2026-10-17 | A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows |
