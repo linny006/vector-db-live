@@ -1,12 +1,93 @@
 [
   {
+    "description": "Build a Personal RAG Assistant locally.",
+    "id": "Shreyansh-cloud1/Personal-RAG-Assistant",
+    "language": "Python",
+    "name": "Shreyansh-cloud1/Personal-RAG-Assistant",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:45:09Z",
+    "url": "https://github.com/Shreyansh-cloud1/Personal-RAG-Assistant"
+  },
+  {
+    "description": "Client-side protection for vector databases: keyed orthogonal obfuscation of embeddings + AES-256-GCM metadata. Exact si",
+    "id": "cernica/hadamask",
+    "language": "Python",
+    "name": "cernica/hadamask",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:44:28Z",
+    "url": "https://github.com/cernica/hadamask"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 1,
+    "updated_at": "2026-10-17T11:44:24Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
     "description": "VecForge is a universal, local-first Python vector database with enterprise security, multimodal ingestion, and optional",
     "id": "bosekarmegam/vecforge",
     "language": "Python",
     "name": "bosekarmegam/vecforge",
     "stars": 0,
-    "updated_at": "2026-10-17T11:29:59Z",
+    "updated_at": "2026-10-17T11:44:06Z",
     "url": "https://github.com/bosekarmegam/vecforge"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-10-17T11:41:04Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "MERGEN: Deniz Y\u00fcret Temelli Geli\u015ftirilmi\u015f De-Asciifier & Hermit Dave 50K S\u00f6zl\u00fc\u011f\u00fc, 4 Bili\u015fsel Faset, DAG Orkestrasyonu, Q",
+    "id": "code-ex/mergen-rag",
+    "language": "Python",
+    "name": "code-ex/mergen-rag",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:40:36Z",
+    "url": "https://github.com/code-ex/mergen-rag"
+  },
+  {
+    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
+    "id": "Niccher/Chege-Photos-Platform",
+    "language": "PHP",
+    "name": "Niccher/Chege-Photos-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:34:44Z",
+    "url": "https://github.com/Niccher/Chege-Photos-Platform"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T11:33:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T11:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T11:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -16,15 +97,6 @@
     "stars": 40148,
     "updated_at": "2026-10-17T11:28:42Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Build a Personal RAG Assistant locally.",
-    "id": "Shreyansh-cloud1/Personal-RAG-Assistant",
-    "language": "Python",
-    "name": "Shreyansh-cloud1/Personal-RAG-Assistant",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:27:52Z",
-    "url": "https://github.com/Shreyansh-cloud1/Personal-RAG-Assistant"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -54,15 +126,6 @@
     "url": "https://github.com/edheltzel/Recall"
   },
   {
-    "description": "MERGEN: Deniz Y\u00fcret Temelli Geli\u015ftirilmi\u015f De-Asciifier & Hermit Dave 50K S\u00f6zl\u00fc\u011f\u00fc, 4 Bili\u015fsel Faset, DAG Orkestrasyonu, Q",
-    "id": "code-ex/mergen-rag",
-    "language": "Python",
-    "name": "code-ex/mergen-rag",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:23:02Z",
-    "url": "https://github.com/code-ex/mergen-rag"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -90,33 +153,6 @@
     "url": "https://github.com/diskerror/ragger.cpp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T11:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T11:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
-    "id": "Niccher/Chege-Photos-Platform",
-    "language": "PHP",
-    "name": "Niccher/Chege-Photos-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:14:44Z",
-    "url": "https://github.com/Niccher/Chege-Photos-Platform"
-  },
-  {
     "description": "\u26a1 In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantizat",
     "id": "ronitgupta138/Vectra-Core",
     "language": "Java",
@@ -124,15 +160,6 @@
     "stars": 41,
     "updated_at": "2026-10-17T11:12:07Z",
     "url": "https://github.com/ronitgupta138/Vectra-Core"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T11:07:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "working university chatbot ",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-17T11:23:32Z",
+    "updated_at": "2026-10-17T11:37:54Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T11:01:42Z",
     "url": "https://github.com/Asintotoo/FaceSeek"
-  },
-  {
-    "description": "Client-side protection for vector databases: keyed orthogonal obfuscation of embeddings + AES-256-GCM metadata. Exact si",
-    "id": "cernica/hadamask",
-    "language": "Python",
-    "name": "cernica/hadamask",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:50:50Z",
-    "url": "https://github.com/cernica/hadamask"
   },
   {
     "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
@@ -220,7 +238,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7335,
+    "stars": 7346,
     "updated_at": "2026-10-17T10:37:40Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T10:12:53Z",
     "url": "https://github.com/pBos5373/llmaker"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "BrunaPalmer/llmaker",
-    "language": "Go",
-    "name": "BrunaPalmer/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:12:24Z",
-    "url": "https://github.com/BrunaPalmer/llmaker"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 1,
-    "updated_at": "2026-10-17T10:10:42Z",
-    "url": "https://github.com/vicquick/nobrainr"
   }
 ]
