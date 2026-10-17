@@ -1,12 +1,84 @@
 [
   {
+    "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
+    "id": "subrataai-wq/Aether-Manifold",
+    "language": "Rust",
+    "name": "subrataai-wq/Aether-Manifold",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:14:48Z",
+    "url": "https://github.com/subrataai-wq/Aether-Manifold"
+  },
+  {
+    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
+    "id": "diskerror/ragger.cpp",
+    "language": "C++",
+    "name": "diskerror/ragger.cpp",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:14:42Z",
+    "url": "https://github.com/diskerror/ragger.cpp"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-17T14:12:42Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 4,
+    "updated_at": "2026-10-17T14:12:04Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-17T14:11:53Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T14:07:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T14:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Evidence-based Video Question Answering using Retrieval Augmented Generation",
     "id": "hammad986/video-qa-RAG",
     "language": "Python",
     "name": "hammad986/video-qa-RAG",
     "stars": 0,
-    "updated_at": "2026-10-17T14:00:17Z",
+    "updated_at": "2026-10-17T14:02:12Z",
     "url": "https://github.com/hammad986/video-qa-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T14:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
@@ -54,24 +126,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T13:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T14:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -115,15 +169,6 @@
     "stars": 46405,
     "updated_at": "2026-10-17T13:37:49Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T13:33:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -176,17 +221,8 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-17T13:56:17Z",
+    "updated_at": "2026-10-17T14:13:28Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-17T13:47:49Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 2021,
-    "updated_at": "2026-10-17T13:05:44Z",
+    "updated_at": "2026-10-17T14:14:04Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 39235,
     "updated_at": "2026-10-17T13:45:28Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
-    "id": "diskerror/ragger.cpp",
-    "language": "C++",
-    "name": "diskerror/ragger.cpp",
-    "stars": 1,
-    "updated_at": "2026-10-17T12:43:46Z",
-    "url": "https://github.com/diskerror/ragger.cpp"
   },
   {
     "description": "Vector database built from scratch with five search algorithms, quantization, and RAG integration",
@@ -360,15 +387,6 @@
     "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
   },
   {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 4,
-    "updated_at": "2026-10-17T12:42:53Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -391,7 +409,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40153,
+    "stars": 40155,
     "updated_at": "2026-10-17T11:28:42Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -430,23 +448,5 @@
     "stars": 42,
     "updated_at": "2026-10-17T11:12:07Z",
     "url": "https://github.com/ronitgupta138/Vectra-Core"
-  },
-  {
-    "description": "Face search engine: find a subject inside folders or a PostgreSQL gallery",
-    "id": "Asintotoo/FaceSeek",
-    "language": "Python",
-    "name": "Asintotoo/FaceSeek",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:01:42Z",
-    "url": "https://github.com/Asintotoo/FaceSeek"
-  },
-  {
-    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
-    "id": "structured-world/coordinode-python",
-    "language": "Python",
-    "name": "structured-world/coordinode-python",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:54:48Z",
-    "url": "https://github.com/structured-world/coordinode-python"
   }
 ]
