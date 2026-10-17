@@ -1,5 +1,68 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1205,
+    "updated_at": "2026-10-17T16:30:12Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-17T16:28:58Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "VecForge is a universal, local-first Python vector database with enterprise security, multimodal ingestion, and optional",
+    "id": "bosekarmegam/vecforge",
+    "language": "Python",
+    "name": "bosekarmegam/vecforge",
+    "stars": 0,
+    "updated_at": "2026-10-17T16:25:32Z",
+    "url": "https://github.com/bosekarmegam/vecforge"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-17T16:27:49Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7532,
+    "updated_at": "2026-10-17T16:22:44Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Memory infrastructure for AI agents. Type-aware, time-aware, safety-critical. Open source.",
+    "id": "heybeaux/engram",
+    "language": "TypeScript",
+    "name": "heybeaux/engram",
+    "stars": 4,
+    "updated_at": "2026-10-17T16:16:25Z",
+    "url": "https://github.com/heybeaux/engram"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T16:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T16:14:31Z",
     "url": "https://github.com/prashantv04/pdf-rag-system"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7522,
-    "updated_at": "2026-10-17T16:12:31Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -45,33 +99,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T16:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1205,
-    "updated_at": "2026-10-17T16:12:21Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-17T16:15:11Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 2021,
     "updated_at": "2026-10-17T15:54:31Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "VecForge is a universal, local-first Python vector database with enterprise security, multimodal ingestion, and optional",
-    "id": "bosekarmegam/vecforge",
-    "language": "Python",
-    "name": "bosekarmegam/vecforge",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:52:12Z",
-    "url": "https://github.com/bosekarmegam/vecforge"
   },
   {
     "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
@@ -131,7 +149,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 908,
-    "updated_at": "2026-10-17T16:11:47Z",
+    "updated_at": "2026-10-17T16:28:52Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "ashraful2871/Salon-Management-Frontend",
     "stars": 0,
-    "updated_at": "2026-10-17T15:31:02Z",
+    "updated_at": "2026-10-17T16:27:23Z",
     "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
   },
   {
@@ -410,7 +428,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-17T16:14:53Z",
+    "updated_at": "2026-10-17T16:21:54Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T14:40:41Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Collects every item in the Steam Points Shop and stores them in a vector database for steam.style",
-    "id": "Steam-Style/ingestion",
-    "language": "Python",
-    "name": "Steam-Style/ingestion",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:40:01Z",
-    "url": "https://github.com/Steam-Style/ingestion"
-  },
-  {
-    "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
-    "id": "seekwhencer/gitea-qdrant-sync",
-    "language": "JavaScript",
-    "name": "seekwhencer/gitea-qdrant-sync",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:38:50Z",
-    "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
   }
 ]
