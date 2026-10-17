@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T02:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 119,
+    "updated_at": "2026-10-17T01:59:54Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-17T01:51:24Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46400,
+    "updated_at": "2026-10-17T01:49:49Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "HNSW approximate-nearest-neighbour vector index in Rust from scratch: heuristic neighbour selection, filtered search, de",
+    "id": "HOFFMAN-ALTERNATIVE/hnsw-vector-search",
+    "language": "Rust",
+    "name": "HOFFMAN-ALTERNATIVE/hnsw-vector-search",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:48:36Z",
+    "url": "https://github.com/HOFFMAN-ALTERNATIVE/hnsw-vector-search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T01:45:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -27,15 +81,6 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T01:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
     "id": "Yoruxyv/semantix",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T01:31:00Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T01:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -68,7 +104,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-17T01:44:57Z",
+    "updated_at": "2026-10-17T01:59:54Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9404,
-    "updated_at": "2026-10-17T01:43:46Z",
+    "updated_at": "2026-10-17T01:55:53Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -135,15 +171,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46400,
-    "updated_at": "2026-10-17T00:59:27Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -153,7 +180,7 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Self-hosted memory for AI agents. A developer tool by Bramble Labs Inc.",
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
     "id": "miniaxolotl/grove",
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
@@ -207,15 +234,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-17T00:55:24Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -232,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-10-17T00:30:54Z",
     "url": "https://github.com/brodewa369/roowet-semantic-vault-search"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-17T00:33:44Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "Collects every item in the Steam Points Shop and stores them in a vector database for steam.style",
@@ -274,7 +283,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6968,
+    "stars": 6973,
     "updated_at": "2026-10-16T23:39:19Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-16T20:51:06Z",
     "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1485,
-    "updated_at": "2026-10-17T01:37:20Z",
-    "url": "https://github.com/datalevin/datalevin"
   }
 ]
