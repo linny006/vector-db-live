@@ -1,5 +1,95 @@
 [
   {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:29:26Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:29:12Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 35,
+    "updated_at": "2026-10-17T22:29:07Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7747,
+    "updated_at": "2026-10-17T22:27:14Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1509,
+    "updated_at": "2026-10-17T22:25:55Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "",
+    "id": "piotrwozn/multidb",
+    "language": "Rust",
+    "name": "piotrwozn/multidb",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:23:40Z",
+    "url": "https://github.com/piotrwozn/multidb"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "Flores60/developers-guide-to-ai",
+    "language": "Python",
+    "name": "Flores60/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:20:37Z",
+    "url": "https://github.com/Flores60/developers-guide-to-ai"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:22:28Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:22:20Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T22:17:50Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "riccardoaksoy/llmaker",
     "language": "Go",
@@ -9,24 +99,6 @@
     "url": "https://github.com/riccardoaksoy/llmaker"
   },
   {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "Flores60/developers-guide-to-ai",
-    "language": "\u2014",
-    "name": "Flores60/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:17:21Z",
-    "url": "https://github.com/Flores60/developers-guide-to-ai"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7741,
-    "updated_at": "2026-10-17T22:17:19Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -34,15 +106,6 @@
     "stars": 1205,
     "updated_at": "2026-10-17T22:16:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T22:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -99,15 +162,6 @@
     "url": "https://github.com/24kr/Local_LLM_Assistant"
   },
   {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:08:41Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:06:24Z",
     "url": "https://github.com/rivera3560/rag-interview-system"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 35,
-    "updated_at": "2026-10-17T22:06:23Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
@@ -234,15 +279,6 @@
     "url": "https://github.com/vittoriak17083/yu-ai-agent"
   },
   {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1509,
-    "updated_at": "2026-10-17T21:55:26Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
     "id": "AshleyMirza7984/developers-guide-to-ai",
     "language": "Python",
@@ -270,15 +306,6 @@
     "url": "https://github.com/riteshgamer7725-blip/RAG-SYSTEM-"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T21:56:22Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "A python package for developing AI applications with local LLMs.",
     "id": "AsliLopes/LLMFlex",
     "language": "Python",
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-17T21:50:49Z",
+    "updated_at": "2026-10-17T22:22:12Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-17T21:22:12Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
     "description": "An AI-powered study assistant built with Next.js, Node.js, and OpenAI/Gemini. Features a RAG pipeline for context-aware ",
     "id": "Karan-1108/NoteGenie",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:16:13Z",
     "url": "https://github.com/auqhvabdmt/vektori"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 583,
-    "updated_at": "2026-10-17T21:15:42Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-17T21:14:52Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
