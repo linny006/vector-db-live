@@ -1,12 +1,48 @@
 [
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7273,
-    "updated_at": "2026-10-17T09:45:00Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T10:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:56:32Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "Fernanda88374/VectorRAG.Net",
+    "language": "C#",
+    "name": "Fernanda88374/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:56:10Z",
+    "url": "https://github.com/Fernanda88374/VectorRAG.Net"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "ingrid19217/vektori",
+    "language": "Python",
+    "name": "ingrid19217/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:52:23Z",
+    "url": "https://github.com/ingrid19217/vektori"
+  },
+  {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:52:11Z",
+    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
@@ -14,8 +50,71 @@
     "language": "C#",
     "name": "VirginieKaneko02/VectorRAG.Net",
     "stars": 0,
-    "updated_at": "2026-10-17T09:43:20Z",
+    "updated_at": "2026-10-17T09:50:43Z",
     "url": "https://github.com/VirginieKaneko02/VectorRAG.Net"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "NayeonMakarov37726/distill",
+    "language": "Go",
+    "name": "NayeonMakarov37726/distill",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:50:37Z",
+    "url": "https://github.com/NayeonMakarov37726/distill"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-17T09:49:51Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
+    "id": "Niccher/Chege-Photos-Platform",
+    "language": "PHP",
+    "name": "Niccher/Chege-Photos-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:47:27Z",
+    "url": "https://github.com/Niccher/Chege-Photos-Platform"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "Mustafa67548/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "Mustafa67548/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:47:03Z",
+    "url": "https://github.com/Mustafa67548/rag-interview-system"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "charlottea043/vektori",
+    "language": "Python",
+    "name": "charlottea043/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:46:45Z",
+    "url": "https://github.com/charlottea043/vektori"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7284,
+    "updated_at": "2026-10-17T09:45:50Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T09:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -32,17 +131,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2054,
-    "updated_at": "2026-10-17T09:41:04Z",
+    "updated_at": "2026-10-17T09:59:11Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "charlottea043/vektori",
-    "language": "Python",
-    "name": "charlottea043/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:39:24Z",
-    "url": "https://github.com/charlottea043/vektori"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
@@ -59,17 +149,8 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-17T09:36:49Z",
+    "updated_at": "2026-10-17T09:45:32Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
-    "id": "Niccher/Chege-Photos-Platform",
-    "language": "PHP",
-    "name": "Niccher/Chege-Photos-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-17T09:36:20Z",
-    "url": "https://github.com/Niccher/Chege-Photos-Platform"
   },
   {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
@@ -117,24 +198,6 @@
     "url": "https://github.com/PhamBrouwer/developers-guide-to-ai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "nAshikaga15073/llmaker",
     "language": "Go",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:28:56Z",
     "url": "https://github.com/valerie807/vektori"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:27:07Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
   },
   {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
@@ -279,15 +333,6 @@
     "url": "https://github.com/Aashutosh31/arc-ai-project"
   },
   {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:34:03Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
     "id": "IdoY12/awesome-free-ai-apis",
     "language": "JavaScript",
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9468,
-    "updated_at": "2026-10-17T09:45:15Z",
+    "updated_at": "2026-10-17T09:45:23Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-17T08:54:55Z",
+    "updated_at": "2026-10-17T09:56:07Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1205,
     "updated_at": "2026-10-17T07:22:48Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
-    "id": "Soumiya-33/Rag-core",
-    "language": "Python",
-    "name": "Soumiya-33/Rag-core",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:21:14Z",
-    "url": "https://github.com/Soumiya-33/Rag-core"
-  },
-  {
-    "description": "\u667a\u591a\u661f \u00b7 \u4f01\u4e1a\u7ea7\u591a Agent \u5e73\u53f0 \u2014 \u81ea\u7136\u8bed\u8a00\u9a71\u52a8\u77e5\u8bc6\u95ee\u7b54\u3001\u6570\u636e\u5206\u6790\u4e0e\u4e1a\u52a1\u6267\u884c\uff0cRBAC + \u5ba1\u6279 + Saga \u62a4\u680f | Enterprise multi-agent platform: RAG, data analysis & b",
-    "id": "zhenkun26/BusinessAgent",
-    "language": "Python",
-    "name": "zhenkun26/BusinessAgent",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:21:04Z",
-    "url": "https://github.com/zhenkun26/BusinessAgent"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "lorilemoine50021/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "lorilemoine50021/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:17:48Z",
-    "url": "https://github.com/lorilemoine50021/rag-interview-system"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "sylvielacroix/developers-guide-to-ai",
-    "language": "Python",
-    "name": "sylvielacroix/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:15:52Z",
-    "url": "https://github.com/sylvielacroix/developers-guide-to-ai"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "NitaButt/distill",
-    "language": "Go",
-    "name": "NitaButt/distill",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:15:12Z",
-    "url": "https://github.com/NitaButt/distill"
   }
 ]
