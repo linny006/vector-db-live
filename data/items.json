@@ -1,21 +1,165 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
+    "id": "NirDiamant/RAG_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/RAG_Techniques",
+    "stars": 29899,
+    "updated_at": "2026-10-17T15:15:11Z",
+    "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
+    "description": "LLM + RAG system for querying HPC platform documentation and codebase \u2014 document crawling, chunking, embeddings, vector ",
+    "id": "MSKazemi/AI4HPC",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T15:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "MSKazemi/AI4HPC",
+    "stars": 5,
+    "updated_at": "2026-10-17T15:13:11Z",
+    "url": "https://github.com/MSKazemi/AI4HPC"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7476,
-    "updated_at": "2026-10-17T14:59:59Z",
+    "stars": 7487,
+    "updated_at": "2026-10-17T15:12:07Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 4,
+    "updated_at": "2026-10-17T15:10:38Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
+    "id": "Oyabure-Zakari/ai-agent-practice",
+    "language": "TypeScript",
+    "name": "Oyabure-Zakari/ai-agent-practice",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:10:16Z",
+    "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:07:50Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:07:50Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T15:07:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:07:01Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1509,
+    "updated_at": "2026-10-17T15:06:34Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:06:17Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:05:04Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:04:10Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "Evidence-based Video Question Answering using Retrieval Augmented Generation",
+    "id": "hammad986/video-qa-RAG",
+    "language": "Python",
+    "name": "hammad986/video-qa-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:03:08Z",
+    "url": "https://github.com/hammad986/video-qa-RAG"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:02:25Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-17T15:00:34Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T15:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T15:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -52,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T14:56:29Z",
     "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-17T14:55:57Z",
-    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
@@ -104,7 +239,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35115,
-    "updated_at": "2026-10-17T14:51:02Z",
+    "updated_at": "2026-10-17T15:05:44Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -115,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T14:49:40Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T14:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
@@ -144,15 +270,6 @@
     "url": "https://github.com/Steam-Style/ingestion"
   },
   {
-    "description": "Evidence-based Video Question Answering using Retrieval Augmented Generation",
-    "id": "hammad986/video-qa-RAG",
-    "language": "Python",
-    "name": "hammad986/video-qa-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:39:22Z",
-    "url": "https://github.com/hammad986/video-qa-RAG"
-  },
-  {
     "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
     "id": "seekwhencer/gitea-qdrant-sync",
     "language": "JavaScript",
@@ -167,7 +284,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-17T14:37:36Z",
+    "updated_at": "2026-10-17T15:09:41Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -187,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T14:34:59Z",
     "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T14:33:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A low-latency, billion-scale, and updatable graph-based vector store on SSD.",
@@ -221,7 +329,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-17T14:58:18Z",
+    "updated_at": "2026-10-17T15:14:58Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -241,15 +349,6 @@
     "stars": 39236,
     "updated_at": "2026-10-17T14:17:28Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 4,
-    "updated_at": "2026-10-17T14:15:57Z",
-    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
@@ -275,7 +374,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 907,
-    "updated_at": "2026-10-17T14:55:15Z",
+    "updated_at": "2026-10-17T15:09:00Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-17T13:28:56Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
-    "id": "CaviraOSS/LongMemory",
-    "language": "TypeScript",
-    "name": "CaviraOSS/LongMemory",
-    "stars": 4541,
-    "updated_at": "2026-10-17T13:22:43Z",
-    "url": "https://github.com/CaviraOSS/LongMemory"
-  },
-  {
-    "description": "FastAPI-based Investment Portfolio Tracker with an agentic AI assistant. Includes layered backend architecture,         ",
-    "id": "jyothi-basu/investment-portfolio-tracker",
-    "language": "Python",
-    "name": "jyothi-basu/investment-portfolio-tracker",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:22:21Z",
-    "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
-  },
-  {
-    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
-    "id": "Niccher/Chege-Photos-Platform",
-    "language": "PHP",
-    "name": "Niccher/Chege-Photos-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:21:48Z",
-    "url": "https://github.com/Niccher/Chege-Photos-Platform"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-17T13:19:42Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-17T14:13:28Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-17T13:14:13Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 129,
-    "updated_at": "2026-10-17T13:14:05Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-17T13:08:30Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 1,
-    "updated_at": "2026-10-17T12:59:27Z",
-    "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Vector database built from scratch with five search algorithms, quantization, and RAG integration",
-    "id": "PeterP22/vector-db-from-scratch",
-    "language": "Python",
-    "name": "PeterP22/vector-db-from-scratch",
-    "stars": 2,
-    "updated_at": "2026-10-17T12:34:50Z",
-    "url": "https://github.com/PeterP22/vector-db-from-scratch"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7128,
-    "updated_at": "2026-10-17T12:38:33Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
