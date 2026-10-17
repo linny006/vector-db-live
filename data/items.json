@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T19:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-17T19:14:18Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-17T19:14:50Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
+    "id": "Amruth011/kannada-rag-agent",
+    "language": "Python",
+    "name": "Amruth011/kannada-rag-agent",
+    "stars": 4,
+    "updated_at": "2026-10-17T19:13:20Z",
+    "url": "https://github.com/Amruth011/kannada-rag-agent"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-17T19:11:39Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7641,
+    "updated_at": "2026-10-17T19:10:37Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1509,
+    "updated_at": "2026-10-17T19:09:38Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-17T19:07:56Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
+    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
+    "language": "Python",
+    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
+    "stars": 0,
+    "updated_at": "2026-10-17T19:15:20Z",
+    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T19:06:13Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-10-17T19:05:47Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T19:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
     "id": "diskerror/ragger.cpp",
     "language": "C++",
@@ -14,7 +122,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-17T18:58:07Z",
+    "updated_at": "2026-10-17T19:11:16Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -23,7 +131,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-17T18:59:05Z",
+    "updated_at": "2026-10-17T19:08:56Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -63,15 +171,6 @@
     "url": "https://github.com/api-evangelist/database"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7634,
-    "updated_at": "2026-10-17T18:46:30Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -90,24 +189,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T18:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T19:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ChronoStream-RAG: Bitemporal Watermark Coalescing and Document-Atomic Vector Consistency for Out-of-Order Streaming Retr",
     "id": "BryanLim0214/ChronoStream-RAG",
     "language": "Python",
@@ -115,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T18:44:40Z",
     "url": "https://github.com/BryanLim0214/ChronoStream-RAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T18:37:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
@@ -162,15 +234,6 @@
     "url": "https://github.com/zyx4303/autorag"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-17T18:53:18Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -180,21 +243,12 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-17T18:30:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35116,
-    "updated_at": "2026-10-17T19:00:16Z",
+    "updated_at": "2026-10-17T19:14:19Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -250,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-10-17T18:28:28Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
-    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "language": "Python",
-    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "stars": 0,
-    "updated_at": "2026-10-17T17:54:55Z",
-    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
   },
   {
     "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
@@ -324,15 +369,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-17T16:56:33Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "Hands-on experiments with LLMs, LangChain, RAG and LangGraph agents",
     "id": "esra-yasar/llm-rag-lab",
     "language": "Python",
@@ -351,21 +387,12 @@
     "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-17T16:48:32Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-17T19:00:14Z",
+    "updated_at": "2026-10-17T19:14:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T15:39:06Z",
     "url": "https://github.com/subrataai-wq/Aether-Manifold"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 908,
-    "updated_at": "2026-10-17T18:58:41Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-17T15:26:37Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
-    "id": "Oyabure-Zakari/ai-agent-practice",
-    "language": "TypeScript",
-    "name": "Oyabure-Zakari/ai-agent-practice",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:26:23Z",
-    "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
   }
 ]
