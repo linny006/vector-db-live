@@ -1,5 +1,77 @@
 [
   {
+    "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
+    "id": "subrataai-wq/Aether-Manifold",
+    "language": "Rust",
+    "name": "subrataai-wq/Aether-Manifold",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:39:06Z",
+    "url": "https://github.com/subrataai-wq/Aether-Manifold"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:38:31Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-17T15:36:46Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 908,
+    "updated_at": "2026-10-17T15:38:49Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T15:33:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
+    "id": "ashraful2871/Salon-Management-Frontend",
+    "language": "TypeScript",
+    "name": "ashraful2871/Salon-Management-Frontend",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:31:02Z",
+    "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T15:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T15:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Identity and Authorization Service with Vector and AI Integration",
     "id": "StephenCote/AccountManager7",
     "language": "Java",
@@ -18,15 +90,6 @@
     "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T15:24:52Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted Docker Compose microservice for air-gapped PDF ingestion, layout-aware parsing, and local vector search with",
     "id": "mdaleem07/LocalRAG-Companion",
     "language": "Python",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "chyinan/AegisRAG",
     "stars": 4,
-    "updated_at": "2026-10-17T15:22:44Z",
+    "updated_at": "2026-10-17T15:41:02Z",
     "url": "https://github.com/chyinan/AegisRAG"
   },
   {
@@ -104,7 +167,7 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 4,
-    "updated_at": "2026-10-17T15:16:24Z",
+    "updated_at": "2026-10-17T15:32:54Z",
     "url": "https://github.com/edheltzel/Recall"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:16:06Z",
     "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T15:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LLM + RAG system for querying HPC platform documentation and codebase \u2014 document crawling, chunking, embeddings, vector ",
@@ -139,7 +193,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7491,
+    "stars": 7502,
     "updated_at": "2026-10-17T15:12:07Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:07:50Z",
     "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T15:07:03Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
@@ -306,15 +351,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "A bare-metal Rust unified vector & graph database engine modeling data as a Dynamic Cellular Sheaf over a Riemannian Pro",
-    "id": "subrataai-wq/Aether-Manifold",
-    "language": "Rust",
-    "name": "subrataai-wq/Aether-Manifold",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:52:27Z",
-    "url": "https://github.com/subrataai-wq/Aether-Manifold"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "hbar-systems/brainfoundry-nous",
     "stars": 1,
-    "updated_at": "2026-10-17T14:49:40Z",
+    "updated_at": "2026-10-17T15:45:16Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2021,
     "updated_at": "2026-10-17T14:21:22Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39236,
-    "updated_at": "2026-10-17T14:17:28Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
-    "id": "diskerror/ragger.cpp",
-    "language": "C++",
-    "name": "diskerror/ragger.cpp",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:14:42Z",
-    "url": "https://github.com/diskerror/ragger.cpp"
-  },
-  {
-    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
-    "id": "joydeep-07/Lens-LM",
-    "language": "JavaScript",
-    "name": "joydeep-07/Lens-LM",
-    "stars": 1,
-    "updated_at": "2026-10-17T14:12:42Z",
-    "url": "https://github.com/joydeep-07/Lens-LM"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 907,
-    "updated_at": "2026-10-17T15:27:17Z",
-    "url": "https://github.com/orneryd/NornicDB"
   }
 ]
