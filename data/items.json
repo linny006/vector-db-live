@@ -1,8 +1,143 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7273,
+    "updated_at": "2026-10-17T09:45:00Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "VirginieKaneko02/VectorRAG.Net",
+    "language": "C#",
+    "name": "VirginieKaneko02/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:43:20Z",
+    "url": "https://github.com/VirginieKaneko02/VectorRAG.Net"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-17T09:41:21Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-17T09:41:04Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "charlottea043/vektori",
+    "language": "Python",
+    "name": "charlottea043/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:39:24Z",
+    "url": "https://github.com/charlottea043/vektori"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "PhamBrouwer/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "PhamBrouwer/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:38:22Z",
+    "url": "https://github.com/PhamBrouwer/rag-interview-system"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-17T09:36:49Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
+    "id": "Niccher/Chege-Photos-Platform",
+    "language": "PHP",
+    "name": "Niccher/Chege-Photos-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:36:20Z",
+    "url": "https://github.com/Niccher/Chege-Photos-Platform"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "Alvarez868/developers-guide-to-ai",
+    "language": "Python",
+    "name": "Alvarez868/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:35:57Z",
+    "url": "https://github.com/Alvarez868/developers-guide-to-ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T09:35:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "Sital32634/developers-guide-to-ai",
+    "language": "Python",
+    "name": "Sital32634/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:34:16Z",
+    "url": "https://github.com/Sital32634/developers-guide-to-ai"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "tranghartmann10/developers-guide-to-ai",
+    "language": "Python",
+    "name": "tranghartmann10/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:32:17Z",
+    "url": "https://github.com/tranghartmann10/developers-guide-to-ai"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "PhamBrouwer/developers-guide-to-ai",
+    "language": "Python",
+    "name": "PhamBrouwer/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-17T09:31:12Z",
+    "url": "https://github.com/PhamBrouwer/developers-guide-to-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T09:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-17T09:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "nAshikaga15073/llmaker",
-    "language": "\u2014",
+    "language": "Go",
     "name": "nAshikaga15073/llmaker",
     "stars": 0,
     "updated_at": "2026-10-17T09:30:08Z",
@@ -25,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:28:56Z",
     "url": "https://github.com/valerie807/vektori"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T09:27:24Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -90,33 +216,6 @@
     "url": "https://github.com/diskerror/ragger.cpp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-17T09:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7264,
-    "updated_at": "2026-10-17T09:14:25Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
     "id": "structured-world/coordinode-python",
     "language": "Python",
@@ -124,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T09:11:59Z",
     "url": "https://github.com/structured-world/coordinode-python"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T09:08:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "",
@@ -194,17 +284,8 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-17T09:23:13Z",
+    "updated_at": "2026-10-17T09:34:03Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-17T08:42:20Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -257,7 +338,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9468,
-    "updated_at": "2026-10-17T09:11:13Z",
+    "updated_at": "2026-10-17T09:45:15Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:15:12Z",
     "url": "https://github.com/NitaButt/distill"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "pRodrigues50685/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "pRodrigues50685/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:14:36Z",
-    "url": "https://github.com/pRodrigues50685/rag-interview-system"
-  },
-  {
-    "description": "Client-side protection for vector databases: keyed orthogonal obfuscation of embeddings + AES-256-GCM metadata. Exact si",
-    "id": "cernica/hadamask",
-    "language": "Python",
-    "name": "cernica/hadamask",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:11:47Z",
-    "url": "https://github.com/cernica/hadamask"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40144,
-    "updated_at": "2026-10-17T07:11:41Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "Ma69742/LLMFlex",
-    "language": "Python",
-    "name": "Ma69742/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:06:30Z",
-    "url": "https://github.com/Ma69742/LLMFlex"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "somchai490/distill",
-    "language": "Go",
-    "name": "somchai490/distill",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:06:13Z",
-    "url": "https://github.com/somchai490/distill"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "TorstenSilva0349/yu-ai-agent",
-    "language": "Java",
-    "name": "TorstenSilva0349/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:04:29Z",
-    "url": "https://github.com/TorstenSilva0349/yu-ai-agent"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-17T07:20:33Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "BrigitteFoster/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "BrigitteFoster/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:00:46Z",
-    "url": "https://github.com/BrigitteFoster/rag-interview-system"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "KatherineRezende6310/vektori",
-    "language": "Python",
-    "name": "KatherineRezende6310/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-17T06:59:08Z",
-    "url": "https://github.com/KatherineRezende6310/vektori"
   }
 ]
