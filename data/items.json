@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-17T02:30:18Z",
+    "updated_at": "2026-10-17T02:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-17T02:40:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Fast vector search in PostgreSQL",
+    "id": "purduedb/PostgreSQL-V",
+    "language": "PLpgSQL",
+    "name": "purduedb/PostgreSQL-V",
+    "stars": 25,
+    "updated_at": "2026-10-17T02:35:41Z",
+    "url": "https://github.com/purduedb/PostgreSQL-V"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-17T02:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-17T02:27:11Z",
+    "updated_at": "2026-10-17T02:33:14Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -23,17 +50,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9468,
-    "updated_at": "2026-10-17T02:24:02Z",
+    "updated_at": "2026-10-17T02:35:50Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-17T02:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and",
@@ -45,21 +63,12 @@
     "url": "https://github.com/nehalvaghasiya/agentic-rag"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-17T02:11:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-17T02:10:42Z",
+    "updated_at": "2026-10-17T02:38:52Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -112,7 +121,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46400,
+    "stars": 46401,
     "updated_at": "2026-10-17T01:49:49Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -130,7 +139,7 @@
     "id": "liliang-cn/cortexdb",
     "language": "Go",
     "name": "liliang-cn/cortexdb",
-    "stars": 438,
+    "stars": 439,
     "updated_at": "2026-10-17T01:39:16Z",
     "url": "https://github.com/liliang-cn/cortexdb"
   },
@@ -148,7 +157,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67220,
+    "stars": 67221,
     "updated_at": "2026-10-17T01:36:42Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -185,7 +194,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9404,
-    "updated_at": "2026-10-17T01:55:53Z",
+    "updated_at": "2026-10-17T02:39:06Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11686,
-    "updated_at": "2026-10-17T00:44:02Z",
+    "updated_at": "2026-10-17T02:41:25Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -319,7 +328,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 6999,
+    "stars": 7007,
     "updated_at": "2026-10-16T23:39:19Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-16T21:03:22Z",
     "url": "https://github.com/FrancescoCiannavei/Multimodal-Vector-Search"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-10-16T20:56:40Z",
-    "url": "https://github.com/api-evangelist/zilliz"
   }
 ]
