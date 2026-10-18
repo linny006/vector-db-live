@@ -1,21 +1,84 @@
 [
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1206,
-    "updated_at": "2026-10-18T14:29:29Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-18T14:45:13Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-18T14:37:08Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8210,
-    "updated_at": "2026-10-18T14:28:50Z",
+    "stars": 8216,
+    "updated_at": "2026-10-18T14:43:51Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T14:34:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-18T14:34:02Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35123,
+    "updated_at": "2026-10-18T14:30:44Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1206,
+    "updated_at": "2026-10-18T14:30:39Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T14:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T14:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Postgres MCP Server",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "devopam/MCPg",
     "stars": 13,
-    "updated_at": "2026-10-18T14:27:13Z",
+    "updated_at": "2026-10-18T14:39:00Z",
     "url": "https://github.com/devopam/MCPg"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Shell",
     "name": "ry-ops/commit-relay",
     "stars": 2,
-    "updated_at": "2026-10-18T14:24:47Z",
+    "updated_at": "2026-10-18T14:33:45Z",
     "url": "https://github.com/ry-ops/commit-relay"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-18T14:18:17Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "FastAPI-based Investment Portfolio Tracker with an agentic AI assistant. Includes layered backend architecture,         ",
     "id": "jyothi-basu/investment-portfolio-tracker",
     "language": "Python",
@@ -88,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T14:16:37Z",
     "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T14:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T14:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
@@ -126,15 +162,6 @@
     "url": "https://github.com/ricmed/zettel_app"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T14:07:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40237,
-    "updated_at": "2026-10-18T14:20:07Z",
+    "updated_at": "2026-10-18T14:34:07Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T14:15:02Z",
+    "updated_at": "2026-10-18T14:42:27Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -229,7 +256,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39255,
+    "stars": 39256,
     "updated_at": "2026-10-18T13:49:52Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T13:46:20Z",
     "url": "https://github.com/fazliddin-hamdam/faceidf.ai"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35122,
-    "updated_at": "2026-10-18T13:44:57Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-18T13:25:45Z",
+    "updated_at": "2026-10-18T14:44:30Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -337,7 +355,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16887,
+    "stars": 16888,
     "updated_at": "2026-10-18T13:25:05Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "yunaremaia/memwatch",
     "stars": 1,
-    "updated_at": "2026-10-18T13:51:57Z",
+    "updated_at": "2026-10-18T14:42:00Z",
     "url": "https://github.com/yunaremaia/memwatch"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/RobertoDeLaCamara/Research-Agent"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2055,
-    "updated_at": "2026-10-18T13:48:14Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
     "id": "diskerror/ragger.cpp",
     "language": "C++",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T12:42:58Z",
     "url": "https://github.com/Yourstandby/Material-Mind-Engine"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 2,
-    "updated_at": "2026-10-18T12:42:58Z",
-    "url": "https://github.com/TAIPANBOX/engram"
   }
 ]
