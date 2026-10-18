@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 07:00 UTC
+> ⏰ Last updated: 2026-10-18 07:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,23 +43,23 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [AnnMoreau61/developers-guide-to-ai](https://github.com/AnnMoreau61/developers-guide-to-ai) | 0 | — | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 3 | [bhavana-sanal/go-vecdb](https://github.com/bhavana-sanal/go-vecdb) | 0 | Go | 2026-10-18 | In-memory vector database in Go with exact and LSH approximate cosine search |
-| 4 | [susanne38/LLMFlex](https://github.com/susanne38/LLMFlex) | 0 | Python | 2026-10-18 | A python package for developing AI applications with local LLMs. |
-| 5 | [Juhimishra01/genai-assignment](https://github.com/Juhimishra01/genai-assignment) | 0 | Python | 2026-10-18 | Applied AI/ML take-home: (1) cost-efficient RAG service on ChromaDB with retrieval and answer evaluation and a cost comp |
-| 6 | [carolynbrito64/developers-guide-to-ai](https://github.com/carolynbrito64/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 7 | [ompatel3158/ULTSQL](https://github.com/ompatel3158/ULTSQL) | 2 | Dart | 2026-10-18 | UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C  |
-| 8 | [adrianbailey84/rag-interview-system](https://github.com/adrianbailey84/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
-| 9 | [Evans0081/rag-interview-system](https://github.com/Evans0081/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
-| 10 | [ApichatVieira485/VectorRAG.Net](https://github.com/ApichatVieira485/VectorRAG.Net) | 0 | C# | 2026-10-18 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
-| 11 | [adams30165/llmaker](https://github.com/adams30165/llmaker) | 0 | Go | 2026-10-18 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
-| 12 | [djleamen/doc-reader](https://github.com/djleamen/doc-reader) | 3 | Python | 2026-10-18 | Large document Q&A agent using RAG |
-| 13 | [siripornl5976/rag-interview-system](https://github.com/siripornl5976/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
-| 14 | [dianep2423/developers-guide-to-ai](https://github.com/dianep2423/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 15 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 16 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 39248 | Python | 2026-10-18 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 17 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 18 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 8013 | Rust | 2026-10-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 2 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 8018 | Rust | 2026-10-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [ompatel3158/ULTSQL](https://github.com/ompatel3158/ULTSQL) | 2 | Dart | 2026-10-18 | UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C  |
+| 5 | [francesriccardi32/VectorRAG.Net](https://github.com/francesriccardi32/VectorRAG.Net) | 0 | C# | 2026-10-18 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [AnnMoreau61/developers-guide-to-ai](https://github.com/AnnMoreau61/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 8 | [bhavana-sanal/go-vecdb](https://github.com/bhavana-sanal/go-vecdb) | 0 | Go | 2026-10-18 | In-memory vector database in Go with exact and LSH approximate cosine search |
+| 9 | [susanne38/LLMFlex](https://github.com/susanne38/LLMFlex) | 0 | Python | 2026-10-18 | A python package for developing AI applications with local LLMs. |
+| 10 | [carolynbrito64/developers-guide-to-ai](https://github.com/carolynbrito64/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 11 | [adrianbailey84/rag-interview-system](https://github.com/adrianbailey84/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
+| 12 | [Evans0081/rag-interview-system](https://github.com/Evans0081/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
+| 13 | [ApichatVieira485/VectorRAG.Net](https://github.com/ApichatVieira485/VectorRAG.Net) | 0 | C# | 2026-10-18 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
+| 14 | [adams30165/llmaker](https://github.com/adams30165/llmaker) | 0 | Go | 2026-10-18 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
+| 15 | [djleamen/doc-reader](https://github.com/djleamen/doc-reader) | 3 | Python | 2026-10-18 | Large document Q&A agent using RAG |
+| 16 | [siripornl5976/rag-interview-system](https://github.com/siripornl5976/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
+| 17 | [dianep2423/developers-guide-to-ai](https://github.com/dianep2423/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 18 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 39248 | Python | 2026-10-18 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 | 19 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 20 | [pauld47/llmaker](https://github.com/pauld47/llmaker) | 0 | Go | 2026-10-18 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
 | 21 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 35 | Python | 2026-10-18 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
@@ -77,7 +77,7 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 11 | JavaScript | 2026-10-18 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
 | 34 | [Bhanu-danda/Enterprise_Knowledge_Assistant](https://github.com/Bhanu-danda/Enterprise_Knowledge_Assistant) | 2 | Jupyter Notebook | 2026-10-18 | A from-scratch Traditional RAG pipeline for document question answering using PDF ingestion, text cleaning, semantic chu |
 | 35 | [Thisen-Ekanayake/Athena](https://github.com/Thisen-Ekanayake/Athena) | 1 | Python | 2026-10-18 | Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a |
-| 36 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40207 | Python | 2026-10-18 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| 36 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40210 | Python | 2026-10-18 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
 | 37 | [kGonzalez03878/LLMFlex](https://github.com/kGonzalez03878/LLMFlex) | 0 | Python | 2026-10-18 | A python package for developing AI applications with local LLMs. |
 | 38 | [ewap93521/vektori](https://github.com/ewap93521/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
 | 39 | [LindaPastore/VectorRAG.Net](https://github.com/LindaPastore/VectorRAG.Net) | 0 | C# | 2026-10-18 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
