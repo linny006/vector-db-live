@@ -1,12 +1,75 @@
 [
   {
+    "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
+    "id": "Oyabure-Zakari/ai-agent-practice",
+    "language": "TypeScript",
+    "name": "Oyabure-Zakari/ai-agent-practice",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:29:47Z",
+    "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-18T10:28:16Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:27:43Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8104,
-    "updated_at": "2026-10-18T10:14:48Z",
+    "stars": 8112,
+    "updated_at": "2026-10-18T10:26:51Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T10:26:03Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T10:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T10:30:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u96f6 API Key\u3001\u65ad\u7f51\u53ef\u7528\u7684\u4f01\u4e1a\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54\u7cfb\u7edf\uff08LangChain + Chroma + llama.cpp \u5168\u672c\u5730\u90e8\u7f72\uff09",
+    "id": "samjafe/rag-enterprise-knowledge-base",
+    "language": "Python",
+    "name": "samjafe/rag-enterprise-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:14:27Z",
+    "url": "https://github.com/samjafe/rag-enterprise-knowledge-base"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-18T10:12:35Z",
+    "updated_at": "2026-10-18T10:24:01Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39253,
+    "updated_at": "2026-10-18T10:09:25Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T10:08:23Z",
+    "updated_at": "2026-10-18T10:25:48Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -41,26 +113,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-18T10:09:45Z",
+    "updated_at": "2026-10-18T10:18:29Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T10:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T10:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -81,15 +135,6 @@
     "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
   },
   {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:51:01Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
     "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
     "id": "PunGrumpy/vecstore-sdk",
     "language": "TypeScript",
@@ -97,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-10-18T09:55:01Z",
     "url": "https://github.com/PunGrumpy/vecstore-sdk"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35122,
+    "updated_at": "2026-10-18T09:40:00Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-18T09:35:58Z",
+    "updated_at": "2026-10-18T10:17:34Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -284,7 +338,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2372,
-    "updated_at": "2026-10-18T09:59:27Z",
+    "updated_at": "2026-10-18T10:28:35Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -320,17 +374,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T10:13:38Z",
+    "updated_at": "2026-10-18T10:20:32Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35123,
-    "updated_at": "2026-10-18T09:40:00Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
@@ -369,24 +414,6 @@
     "url": "https://github.com/piotrwozn/multidb"
   },
   {
-    "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
-    "id": "Oyabure-Zakari/ai-agent-practice",
-    "language": "TypeScript",
-    "name": "Oyabure-Zakari/ai-agent-practice",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:44:26Z",
-    "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39252,
-    "updated_at": "2026-10-18T10:09:25Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
     "id": "francesriccardi32/VectorRAG.Net",
     "language": "C#",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T06:57:46Z",
     "url": "https://github.com/susanne38/LLMFlex"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "carolynbrito64/developers-guide-to-ai",
-    "language": "Python",
-    "name": "carolynbrito64/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:57:17Z",
-    "url": "https://github.com/carolynbrito64/developers-guide-to-ai"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "adrianbailey84/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "adrianbailey84/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:54:55Z",
-    "url": "https://github.com/adrianbailey84/rag-interview-system"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "Evans0081/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "Evans0081/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:54:15Z",
-    "url": "https://github.com/Evans0081/rag-interview-system"
   }
 ]
