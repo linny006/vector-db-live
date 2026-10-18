@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T17:45:19Z",
+    "updated_at": "2026-10-18T18:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-18T18:00:01Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:59:50Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-18T17:57:04Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-18T17:55:57Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:55:07Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-18T17:52:07Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "Python",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:51:06Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:50:04Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:47:05Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T17:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
@@ -36,15 +126,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-18T17:38:25Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
     "id": "badhope/spark",
     "language": "Python",
@@ -54,20 +135,11 @@
     "url": "https://github.com/badhope/spark"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-18T17:42:09Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8277,
+    "stars": 8282,
     "updated_at": "2026-10-18T17:33:51Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -79,6 +151,15 @@
     "stars": 5,
     "updated_at": "2026-10-18T17:33:46Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 133,
+    "updated_at": "2026-10-18T17:32:28Z",
+    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
@@ -94,18 +175,9 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40244,
+    "stars": 40245,
     "updated_at": "2026-10-18T17:30:33Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T17:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -144,21 +216,12 @@
     "url": "https://github.com/ishandutta2007/Awesome-RAG-LLM-Data-Frameworks"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 132,
-    "updated_at": "2026-10-18T17:32:28Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-18T17:24:25Z",
+    "updated_at": "2026-10-18T17:58:59Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -212,7 +275,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T17:32:18Z",
+    "updated_at": "2026-10-18T17:45:59Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -266,7 +329,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1206,
-    "updated_at": "2026-10-18T17:29:30Z",
+    "updated_at": "2026-10-18T17:54:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -315,15 +378,6 @@
     "url": "https://github.com/dehyabi/dehyabi.com"
   },
   {
-    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
-    "id": "aldyardnsyh/IntelligenceDocumentSystem",
-    "language": "Python",
-    "name": "aldyardnsyh/IntelligenceDocumentSystem",
-    "stars": 0,
-    "updated_at": "2026-10-18T16:29:11Z",
-    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
-  },
-  {
     "description": "Noise-tolerant VLSI fault localization on the Endee vector database \u2014 retrieving nearest fault behaviours so diagnosis s",
     "id": "pavannithin224-abcd/endee-vlsi-fault-localizer",
     "language": "Python",
@@ -340,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T16:22:14Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 1,
-    "updated_at": "2026-10-18T16:17:34Z",
-    "url": "https://github.com/vicquick/nobrainr"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -374,7 +419,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35126,
-    "updated_at": "2026-10-18T16:07:36Z",
+    "updated_at": "2026-10-18T17:46:44Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T16:03:20Z",
     "url": "https://github.com/Hk-owo/stratum-vectordb"
-  },
-  {
-    "description": "",
-    "id": "piotrwozn/multidb",
-    "language": "Rust",
-    "name": "piotrwozn/multidb",
-    "stars": 0,
-    "updated_at": "2026-10-18T16:13:22Z",
-    "url": "https://github.com/piotrwozn/multidb"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "miyeonjeong/llmaker",
-    "language": "Go",
-    "name": "miyeonjeong/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-18T16:00:08Z",
-    "url": "https://github.com/miyeonjeong/llmaker"
-  },
-  {
-    "description": "RAG over company documents with a first-class evaluation pipeline: 6-config matrix (3 chunkers \u00d7 2 embedders), claim-lev",
-    "id": "Vickkywhyte/doc-intelligence-platform",
-    "language": "Python",
-    "name": "Vickkywhyte/doc-intelligence-platform",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:57:28Z",
-    "url": "https://github.com/Vickkywhyte/doc-intelligence-platform"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 13,
-    "updated_at": "2026-10-18T15:56:37Z",
-    "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
-    "id": "Nayjest/ai-microcore",
-    "language": "Python",
-    "name": "Nayjest/ai-microcore",
-    "stars": 108,
-    "updated_at": "2026-10-18T16:33:03Z",
-    "url": "https://github.com/Nayjest/ai-microcore"
   }
 ]
