@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T05:15:18Z",
+    "updated_at": "2026-10-18T05:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7957,
+    "updated_at": "2026-10-18T05:27:15Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T05:26:25Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-18T05:29:19Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:25:17Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "A from-scratch Traditional RAG pipeline for document question answering using PDF ingestion, text cleaning, semantic chu",
+    "id": "Bhanu-danda/Enterprise_Knowledge_Assistant",
+    "language": "Jupyter Notebook",
+    "name": "Bhanu-danda/Enterprise_Knowledge_Assistant",
+    "stars": 2,
+    "updated_at": "2026-10-18T05:23:05Z",
+    "url": "https://github.com/Bhanu-danda/Enterprise_Knowledge_Assistant"
+  },
+  {
+    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 1,
+    "updated_at": "2026-10-18T05:19:03Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40205,
+    "updated_at": "2026-10-18T05:17:32Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T05:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A python package for developing AI applications with local LLMs.",
@@ -36,15 +108,6 @@
     "url": "https://github.com/LindaPastore/VectorRAG.Net"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7950,
-    "updated_at": "2026-10-18T05:12:04Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
     "id": "Yoruxyv/semantix",
     "language": "Python",
@@ -72,15 +135,6 @@
     "url": "https://github.com/Carlosp1434/yu-ai-agent"
   },
   {
-    "description": "A from-scratch Traditional RAG pipeline for document question answering using PDF ingestion, text cleaning, semantic chu",
-    "id": "Bhanu-danda/Enterprise_Knowledge_Assistant",
-    "language": "Jupyter Notebook",
-    "name": "Bhanu-danda/Enterprise_Knowledge_Assistant",
-    "stars": 2,
-    "updated_at": "2026-10-18T05:05:51Z",
-    "url": "https://github.com/Bhanu-danda/Enterprise_Knowledge_Assistant"
-  },
-  {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
     "id": "frankkorkmaz/developers-guide-to-ai",
     "language": "Python",
@@ -95,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T05:10:20Z",
+    "updated_at": "2026-10-18T05:29:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T05:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "irenef19684/llmaker",
     "language": "Go",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T04:59:16Z",
     "url": "https://github.com/irenef19684/llmaker"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-18T05:04:57Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
@@ -178,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T04:48:41Z",
     "url": "https://github.com/diskerror/ragger.cpp"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-18T04:40:25Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T01:45:01Z",
     "url": "https://github.com/gainratio/edgeproc-core"
-  },
-  {
-    "description": "Parse, chunk, embed, and index course documents with typed delivery and reporting context.",
-    "id": "yaobaoda111/edtech-course-vector-ingest",
-    "language": "TypeScript",
-    "name": "yaobaoda111/edtech-course-vector-ingest",
-    "stars": 0,
-    "updated_at": "2026-10-18T01:34:40Z",
-    "url": "https://github.com/yaobaoda111/edtech-course-vector-ingest"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1640,
-    "updated_at": "2026-10-18T01:30:46Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
-    "id": "wickra-lib/wickra-genome",
-    "language": "Rust",
-    "name": "wickra-lib/wickra-genome",
-    "stars": 1,
-    "updated_at": "2026-10-18T01:49:12Z",
-    "url": "https://github.com/wickra-lib/wickra-genome"
   }
 ]
