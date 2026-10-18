@@ -1,11 +1,20 @@
 [
   {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-18T11:00:20Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T10:45:20Z",
+    "updated_at": "2026-10-18T11:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -13,9 +22,63 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8116,
-    "updated_at": "2026-10-18T10:44:50Z",
+    "stars": 8121,
+    "updated_at": "2026-10-18T10:59:38Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-18T10:56:59Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-18T10:56:07Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "A production-ready RAG (Retrieval-Augmented Generation) API. Combines local sentence-transformers for fast, free vector ",
+    "id": "codingbetas/rag-knowledge-base",
+    "language": "Python",
+    "name": "codingbetas/rag-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:54:41Z",
+    "url": "https://github.com/codingbetas/rag-knowledge-base"
+  },
+  {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-10-18T10:50:28Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
+    "description": "A vector store in pure, safe Rust: flat and Vamana graph search, int8 and binary codes with exact rescoring, filters, in",
+    "id": "mesa-hills-research/caprock",
+    "language": "Rust",
+    "name": "mesa-hills-research/caprock",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:50:28Z",
+    "url": "https://github.com/mesa-hills-research/caprock"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T10:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -23,7 +86,7 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 8,
-    "updated_at": "2026-10-18T10:44:29Z",
+    "updated_at": "2026-10-18T10:59:25Z",
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-18T10:42:21Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
@@ -86,7 +140,7 @@
     "language": "Java",
     "name": "musabbozkurt/oauth2-authorization-server",
     "stars": 6,
-    "updated_at": "2026-10-18T10:33:19Z",
+    "updated_at": "2026-10-18T10:59:50Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T10:31:51Z",
     "url": "https://github.com/samjafe/rag-enterprise-knowledge-base"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T10:30:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:36:11Z",
     "url": "https://github.com/Gabriel30101/rag-interview-system"
-  },
-  {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-18T10:17:34Z",
-    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T08:11:41Z",
     "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
-    "id": "ompatel3158/ULTSQL",
-    "language": "Dart",
-    "name": "ompatel3158/ULTSQL",
-    "stars": 2,
-    "updated_at": "2026-10-18T08:03:47Z",
-    "url": "https://github.com/ompatel3158/ULTSQL"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:57:56Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "",
-    "id": "piotrwozn/multidb",
-    "language": "Rust",
-    "name": "piotrwozn/multidb",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:15:38Z",
-    "url": "https://github.com/piotrwozn/multidb"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "francesriccardi32/VectorRAG.Net",
-    "language": "C#",
-    "name": "francesriccardi32/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:05:31Z",
-    "url": "https://github.com/francesriccardi32/VectorRAG.Net"
   }
 ]
