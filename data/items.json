@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T20:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "luciagray00/rag-interview-system",
+    "language": "\u2014",
+    "name": "luciagray00/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:00:03Z",
+    "url": "https://github.com/luciagray00/rag-interview-system"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "AnneYang54064/llmaker",
+    "language": "Go",
+    "name": "AnneYang54064/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:58:16Z",
+    "url": "https://github.com/AnneYang54064/llmaker"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35127,
+    "updated_at": "2026-10-18T19:55:54Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "evgenykhan70431/vektori",
+    "language": "Python",
+    "name": "evgenykhan70431/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:55:17Z",
+    "url": "https://github.com/evgenykhan70431/vektori"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8315,
+    "updated_at": "2026-10-18T20:00:06Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "dflores7327/llmaker",
+    "language": "Go",
+    "name": "dflores7327/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:52:54Z",
+    "url": "https://github.com/dflores7327/llmaker"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:52:43Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Streaming RAG chatbot over personal documents - live at ask.danieltrindade.dev (Next.js, Vercel AI SDK, Supabase pgvecto",
+    "id": "DanielTrindade/ask-me-rag",
+    "language": "TypeScript",
+    "name": "DanielTrindade/ask-me-rag",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:53:19Z",
+    "url": "https://github.com/DanielTrindade/ask-me-rag"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "nAlekseev85/developers-guide-to-ai",
+    "language": "Python",
+    "name": "nAlekseev85/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:51:02Z",
+    "url": "https://github.com/nAlekseev85/developers-guide-to-ai"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-18T19:47:37Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T19:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "API platform info for machine-learning",
     "id": "api-evangelist/machine-learning",
     "language": "HTML",
@@ -34,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-10-18T19:42:20Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8314,
-    "updated_at": "2026-10-18T19:42:40Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
@@ -113,26 +212,8 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T19:43:35Z",
+    "updated_at": "2026-10-18T19:49:44Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T19:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T19:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
@@ -239,7 +320,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1206,
-    "updated_at": "2026-10-18T19:04:08Z",
+    "updated_at": "2026-10-18T19:59:16Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -256,7 +337,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 105,
+    "stars": 106,
     "updated_at": "2026-10-18T18:57:26Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T18:32:24Z",
     "url": "https://github.com/sshbrian/kestrel"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-10-18T18:32:28Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:24:38Z",
-    "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-18T18:23:53Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11695,
-    "updated_at": "2026-10-18T18:28:54Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
-    "id": "api-evangelist/chroma",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:15:26Z",
-    "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-18T18:16:07Z",
-    "url": "https://github.com/badhope/spark"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9470,
-    "updated_at": "2026-10-18T18:13:45Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:13:19Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 23,
-    "updated_at": "2026-10-18T18:11:43Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
   }
 ]
