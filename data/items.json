@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T01:00:17Z",
+    "updated_at": "2026-10-18T01:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-18T01:14:10Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Open-source Rust multimodal vector database & RAG platform: one unified space for text, image, audio, video & docs - hyb",
+    "id": "kshitij2605/Veda",
+    "language": "Rust",
+    "name": "kshitij2605/Veda",
+    "stars": 0,
+    "updated_at": "2026-10-18T01:11:18Z",
+    "url": "https://github.com/kshitij2605/Veda"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T01:09:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
+    "id": "diskerror/ragger.cpp",
+    "language": "C++",
+    "name": "diskerror/ragger.cpp",
+    "stars": 1,
+    "updated_at": "2026-10-18T01:08:59Z",
+    "url": "https://github.com/diskerror/ragger.cpp"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-18T01:03:55Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-18T00:45:23Z",
+    "updated_at": "2026-10-18T01:00:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -36,29 +81,11 @@
     "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
   },
   {
-    "description": "Open-source Rust multimodal vector database & RAG platform: one unified space for text, image, audio, video & docs - hyb",
-    "id": "kshitij2605/Veda",
-    "language": "Rust",
-    "name": "kshitij2605/Veda",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:34:49Z",
-    "url": "https://github.com/kshitij2605/Veda"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:59:47Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7803,
+    "stars": 7812,
     "updated_at": "2026-10-18T00:31:47Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T00:25:34Z",
     "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T00:24:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
@@ -169,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-10-17T23:34:37Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-17T23:11:36Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with",
@@ -284,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T00:52:24Z",
+    "updated_at": "2026-10-18T01:09:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:55:02Z",
     "url": "https://github.com/AshleyMirza7984/developers-guide-to-ai"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "ivank720/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "ivank720/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:54:22Z",
-    "url": "https://github.com/ivank720/rag-interview-system"
   }
 ]
