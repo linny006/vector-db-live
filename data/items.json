@@ -1,5 +1,131 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T05:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A python package for developing AI applications with local LLMs.",
+    "id": "kGonzalez03878/LLMFlex",
+    "language": "Python",
+    "name": "kGonzalez03878/LLMFlex",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:14:46Z",
+    "url": "https://github.com/kGonzalez03878/LLMFlex"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "ewap93521/vektori",
+    "language": "Python",
+    "name": "ewap93521/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:13:31Z",
+    "url": "https://github.com/ewap93521/vektori"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "LindaPastore/VectorRAG.Net",
+    "language": "C#",
+    "name": "LindaPastore/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:12:30Z",
+    "url": "https://github.com/LindaPastore/VectorRAG.Net"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7950,
+    "updated_at": "2026-10-18T05:12:04Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-18T05:08:35Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T05:07:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "Carlosp1434/yu-ai-agent",
+    "language": "Java",
+    "name": "Carlosp1434/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:06:31Z",
+    "url": "https://github.com/Carlosp1434/yu-ai-agent"
+  },
+  {
+    "description": "A from-scratch Traditional RAG pipeline for document question answering using PDF ingestion, text cleaning, semantic chu",
+    "id": "Bhanu-danda/Enterprise_Knowledge_Assistant",
+    "language": "Jupyter Notebook",
+    "name": "Bhanu-danda/Enterprise_Knowledge_Assistant",
+    "stars": 2,
+    "updated_at": "2026-10-18T05:05:51Z",
+    "url": "https://github.com/Bhanu-danda/Enterprise_Knowledge_Assistant"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "frankkorkmaz/developers-guide-to-ai",
+    "language": "Python",
+    "name": "frankkorkmaz/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:05:32Z",
+    "url": "https://github.com/frankkorkmaz/developers-guide-to-ai"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1205,
+    "updated_at": "2026-10-18T05:10:20Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "Yamada0379/VectorRAG.Net",
+    "language": "C#",
+    "name": "Yamada0379/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:03:21Z",
+    "url": "https://github.com/Yamada0379/VectorRAG.Net"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2054,
+    "updated_at": "2026-10-18T05:01:59Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T05:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "irenef19684/llmaker",
     "language": "Go",
@@ -14,7 +140,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-18T04:57:57Z",
+    "updated_at": "2026-10-18T05:04:57Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -23,7 +149,7 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 3,
-    "updated_at": "2026-10-18T04:57:31Z",
+    "updated_at": "2026-10-18T05:00:50Z",
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
@@ -54,24 +180,6 @@
     "url": "https://github.com/diskerror/ragger.cpp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T04:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T05:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
     "id": "PersonalClaw/PersonalClawApps",
     "language": "Python",
@@ -88,15 +196,6 @@
     "stars": 6,
     "updated_at": "2026-10-18T04:58:07Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T04:39:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -117,15 +216,6 @@
     "url": "https://github.com/ihrimon/ai-engineering-journey"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7937,
-    "updated_at": "2026-10-18T04:32:56Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "An end-to-end multi-source educational RAG platform for curriculum-grounded and personalized learning.",
     "id": "chirag876/EduLens-AI",
     "language": "Python",
@@ -144,15 +234,6 @@
     "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
   },
   {
-    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-18T04:47:51Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -160,15 +241,6 @@
     "stars": 9,
     "updated_at": "2026-10-18T04:10:39Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2054,
-    "updated_at": "2026-10-18T04:07:17Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Chat with your PDFs: a small Streamlit + LangChain RAG app with a FAISS index and OpenAI models.",
@@ -223,15 +295,6 @@
     "stars": 9405,
     "updated_at": "2026-10-18T04:35:25Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1205,
-    "updated_at": "2026-10-18T04:53:50Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T01:49:12Z",
     "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-18T01:03:55Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-18T00:39:07Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Demo project. Semantic audio search for journalists",
-    "id": "hordiales/audio-semantic-search-for-journalists",
-    "language": "Python",
-    "name": "hordiales/audio-semantic-search-for-journalists",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:35:45Z",
-    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
-  },
-  {
-    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
-    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "language": "Python",
-    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:25:34Z",
-    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
-  },
-  {
-    "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
-    "id": "sajid-nazir/Papyrus",
-    "language": "TypeScript",
-    "name": "sajid-nazir/Papyrus",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:21:27Z",
-    "url": "https://github.com/sajid-nazir/Papyrus"
-  },
-  {
-    "description": "Desktop GUI client for Turbopuffer vector database",
-    "id": "MrPeker/turbopuffer-gui",
-    "language": "TypeScript",
-    "name": "MrPeker/turbopuffer-gui",
-    "stars": 23,
-    "updated_at": "2026-10-18T00:12:48Z",
-    "url": "https://github.com/MrPeker/turbopuffer-gui"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-17T23:36:21Z",
-    "url": "https://github.com/iberi22/xavier"
   }
 ]
