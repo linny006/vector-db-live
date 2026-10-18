@@ -1,11 +1,119 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T17:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
+    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
+    "language": "Python",
+    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
+    "stars": 0,
+    "updated_at": "2026-10-18T17:40:15Z",
+    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-18T17:40:47Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:37:54Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-18T17:38:25Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-18T17:39:53Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-18T17:42:09Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8277,
+    "updated_at": "2026-10-18T17:33:51Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T17:33:46Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
+    "id": "xl3v3r/hermes-oracle-memory",
+    "language": "Python",
+    "name": "xl3v3r/hermes-oracle-memory",
+    "stars": 1,
+    "updated_at": "2026-10-18T17:32:35Z",
+    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40244,
+    "updated_at": "2026-10-18T17:30:33Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T17:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 119,
-    "updated_at": "2026-10-18T17:27:42Z",
+    "updated_at": "2026-10-18T17:30:29Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -16,15 +124,6 @@
     "stars": 9,
     "updated_at": "2026-10-18T17:30:06Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-18T17:28:53Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -50,7 +149,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 132,
-    "updated_at": "2026-10-18T17:26:18Z",
+    "updated_at": "2026-10-18T17:32:28Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -72,15 +171,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
-    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "language": "Python",
-    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:20:10Z",
-    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -88,24 +178,6 @@
     "stars": 2056,
     "updated_at": "2026-10-18T17:17:54Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T17:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T17:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
@@ -126,15 +198,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T17:06:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -149,17 +212,8 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T17:03:07Z",
+    "updated_at": "2026-10-18T17:32:18Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-18T17:00:57Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Production-grade semantic search engine with custom vector indexing algorithms, REST API, and web UI. Python + FastAPI +",
@@ -261,15 +315,6 @@
     "url": "https://github.com/dehyabi/dehyabi.com"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-18T17:19:27Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
     "id": "aldyardnsyh/IntelligenceDocumentSystem",
     "language": "Python",
@@ -331,15 +376,6 @@
     "stars": 35126,
     "updated_at": "2026-10-18T16:07:36Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8275,
-    "updated_at": "2026-10-18T16:07:29Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -412,41 +448,5 @@
     "stars": 108,
     "updated_at": "2026-10-18T16:33:03Z",
     "url": "https://github.com/Nayjest/ai-microcore"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "AnnaNam38955/developers-guide-to-ai",
-    "language": "Python",
-    "name": "AnnaNam38955/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:54:25Z",
-    "url": "https://github.com/AnnaNam38955/developers-guide-to-ai"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-18T15:51:40Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "cox849/vektori",
-    "language": "Python",
-    "name": "cox849/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:49:16Z",
-    "url": "https://github.com/cox849/vektori"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "aleksandrakonig55/vektori",
-    "language": "Python",
-    "name": "aleksandrakonig55/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:49:14Z",
-    "url": "https://github.com/aleksandrakonig55/vektori"
   }
 ]
