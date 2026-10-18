@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T00:39:07Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Demo project. Semantic audio search for journalists",
+    "id": "hordiales/audio-semantic-search-for-journalists",
+    "language": "Python",
+    "name": "hordiales/audio-semantic-search-for-journalists",
+    "stars": 0,
+    "updated_at": "2026-10-18T00:35:45Z",
+    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
+  },
+  {
+    "description": "Open-source Rust multimodal vector database & RAG platform: one unified space for text, image, audio, video & docs - hyb",
+    "id": "kshitij2605/Veda",
+    "language": "Rust",
+    "name": "kshitij2605/Veda",
+    "stars": 0,
+    "updated_at": "2026-10-18T00:34:49Z",
+    "url": "https://github.com/kshitij2605/Veda"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-18T00:33:51Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7790,
-    "updated_at": "2026-10-18T00:29:47Z",
+    "stars": 7796,
+    "updated_at": "2026-10-18T00:31:47Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T00:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T00:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -16,15 +70,6 @@
     "stars": 8,
     "updated_at": "2026-10-18T00:27:23Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Open-source Rust multimodal vector database & RAG platform: one unified space for text, image, audio, video & docs - hyb",
-    "id": "kshitij2605/Veda",
-    "language": "Rust",
-    "name": "kshitij2605/Veda",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:26:55Z",
-    "url": "https://github.com/kshitij2605/Veda"
   },
   {
     "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
@@ -54,24 +99,6 @@
     "url": "https://github.com/sajid-nazir/Papyrus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T00:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T00:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Desktop GUI client for Turbopuffer vector database",
     "id": "MrPeker/turbopuffer-gui",
     "language": "TypeScript",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T00:05:10Z",
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:24:24Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -131,7 +149,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-18T00:06:05Z",
+    "updated_at": "2026-10-18T00:32:07Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-10-17T22:56:49Z",
     "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-17T22:53:38Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -275,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T00:29:59Z",
+    "updated_at": "2026-10-18T00:35:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T21:54:22Z",
     "url": "https://github.com/ivank720/rag-interview-system"
-  },
-  {
-    "description": "A production ready Retrieval-Augmented Generation (RAG) agent framework featuring multi-agent orchestration, Docker depl",
-    "id": "riteshgamer7725-blip/RAG-SYSTEM-",
-    "language": "Python",
-    "name": "riteshgamer7725-blip/RAG-SYSTEM-",
-    "stars": 1,
-    "updated_at": "2026-10-17T21:54:25Z",
-    "url": "https://github.com/riteshgamer7725-blip/RAG-SYSTEM-"
   }
 ]
