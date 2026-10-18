@@ -1,5 +1,104 @@
 [
   {
+    "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
+    "id": "PunGrumpy/vecstore-sdk",
+    "language": "TypeScript",
+    "name": "PunGrumpy/vecstore-sdk",
+    "stars": 2,
+    "updated_at": "2026-10-18T09:45:04Z",
+    "url": "https://github.com/PunGrumpy/vecstore-sdk"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8090,
+    "updated_at": "2026-10-18T09:42:11Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "gomez595/developers-guide-to-ai",
+    "language": "Python",
+    "name": "gomez595/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:38:17Z",
+    "url": "https://github.com/gomez595/developers-guide-to-ai"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2055,
+    "updated_at": "2026-10-18T09:37:29Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:36:35Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "SpyrosBradley99/developers-guide-to-ai",
+    "language": "Python",
+    "name": "SpyrosBradley99/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:36:22Z",
+    "url": "https://github.com/SpyrosBradley99/developers-guide-to-ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T09:36:20Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "Wichai14349/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "Wichai14349/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:36:19Z",
+    "url": "https://github.com/Wichai14349/rag-interview-system"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "Gabriel30101/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "Gabriel30101/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:36:11Z",
+    "url": "https://github.com/Gabriel30101/rag-interview-system"
+  },
+  {
+    "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-18T09:35:58Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T09:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T09:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8083,
-    "updated_at": "2026-10-18T09:29:53Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -95,7 +185,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T09:24:02Z",
+    "updated_at": "2026-10-18T09:41:33Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -106,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:19:18Z",
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T09:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T09:08:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
@@ -221,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35123,
-    "updated_at": "2026-10-18T08:21:32Z",
+    "updated_at": "2026-10-18T09:40:00Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-10-18T08:40:14Z",
+    "updated_at": "2026-10-18T09:40:12Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -277,24 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T07:44:26Z",
     "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:42:55Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2055,
-    "updated_at": "2026-10-18T07:22:15Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-18T06:50:29Z",
     "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "siripornl5976/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "siripornl5976/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:49:53Z",
-    "url": "https://github.com/siripornl5976/rag-interview-system"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "dianep2423/developers-guide-to-ai",
-    "language": "Python",
-    "name": "dianep2423/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:49:45Z",
-    "url": "https://github.com/dianep2423/developers-guide-to-ai"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-18T06:44:13Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "pauld47/llmaker",
-    "language": "Go",
-    "name": "pauld47/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:43:10Z",
-    "url": "https://github.com/pauld47/llmaker"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 35,
-    "updated_at": "2026-10-18T06:40:08Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
-    "id": "gxc02529-jpg/KnowLoop",
-    "language": "Python",
-    "name": "gxc02529-jpg/KnowLoop",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:26:58Z",
-    "url": "https://github.com/gxc02529-jpg/KnowLoop"
   }
 ]
