@@ -1,11 +1,74 @@
 [
   {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "irenef19684/llmaker",
+    "language": "Go",
+    "name": "irenef19684/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-18T04:59:16Z",
+    "url": "https://github.com/irenef19684/llmaker"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-18T04:57:57Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 3,
+    "updated_at": "2026-10-18T04:57:31Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "AnnaButt9058/distill",
+    "language": "Go",
+    "name": "AnnaButt9058/distill",
+    "stars": 0,
+    "updated_at": "2026-10-18T04:57:22Z",
+    "url": "https://github.com/AnnaButt9058/distill"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "jMoreira3513/developers-guide-to-ai",
+    "language": "Python",
+    "name": "jMoreira3513/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T04:54:15Z",
+    "url": "https://github.com/jMoreira3513/developers-guide-to-ai"
+  },
+  {
+    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
+    "id": "diskerror/ragger.cpp",
+    "language": "C++",
+    "name": "diskerror/ragger.cpp",
+    "stars": 1,
+    "updated_at": "2026-10-18T04:48:41Z",
+    "url": "https://github.com/diskerror/ragger.cpp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T04:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T04:45:20Z",
+    "updated_at": "2026-10-18T05:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-18T04:40:21Z",
+    "updated_at": "2026-10-18T04:58:07Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-10-18T04:39:32Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
-    "id": "diskerror/ragger.cpp",
-    "language": "C++",
-    "name": "diskerror/ragger.cpp",
-    "stars": 1,
-    "updated_at": "2026-10-18T04:37:39Z",
-    "url": "https://github.com/diskerror/ragger.cpp"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -67,18 +121,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7931,
+    "stars": 7937,
     "updated_at": "2026-10-18T04:32:56Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T04:32:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An end-to-end multi-source educational RAG platform for curriculum-grounded and personalized learning.",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-18T04:11:44Z",
+    "updated_at": "2026-10-18T04:47:51Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -126,7 +171,7 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "A RAG-based AI Research Assistant that enables natural language querying of PDF documents using OpenAI GPT-4 and FAISS v",
+    "description": "Chat with your PDFs: a small Streamlit + LangChain RAG app with a FAISS index and OpenAI models.",
     "id": "elchibek5/DocuMind",
     "language": "Python",
     "name": "elchibek5/DocuMind",
@@ -142,15 +187,6 @@
     "stars": 124,
     "updated_at": "2026-10-18T03:51:59Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-18T04:39:44Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "Multi-Agent Autonomous LLM Execution Mesh with DAG Scheduling & Persistent Vector Consensus",
@@ -194,7 +230,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T04:43:31Z",
+    "updated_at": "2026-10-18T04:53:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T23:36:21Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with",
-    "id": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
-    "language": "TypeScript",
-    "name": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
-    "stars": 4,
-    "updated_at": "2026-10-17T22:56:49Z",
-    "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-17T22:46:50Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:38:57Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-17T22:29:26Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
   }
 ]
