@@ -5,15 +5,69 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T06:30:19Z",
+    "updated_at": "2026-10-18T06:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-18T06:44:13Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "pauld47/llmaker",
+    "language": "Go",
+    "name": "pauld47/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:43:10Z",
+    "url": "https://github.com/pauld47/llmaker"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "siripornl5976/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "siripornl5976/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:42:53Z",
+    "url": "https://github.com/siripornl5976/rag-interview-system"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-10-18T06:40:16Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 35,
+    "updated_at": "2026-10-18T06:40:08Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T06:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7995,
+    "stars": 8003,
     "updated_at": "2026-10-18T06:30:18Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -36,15 +90,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
-    "language": "Python",
-    "name": "djleamen/doc-reader",
-    "stars": 3,
-    "updated_at": "2026-10-18T06:27:28Z",
-    "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
     "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
     "id": "RishabhMathur06/CASO-RAG",
     "language": "Python",
@@ -59,17 +104,8 @@
     "language": "Python",
     "name": "PersonalClaw/PersonalClawApps",
     "stars": 0,
-    "updated_at": "2026-10-18T06:19:01Z",
+    "updated_at": "2026-10-18T06:44:32Z",
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T06:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Portable semantic memory layer for LLM agents over MCP",
@@ -131,7 +167,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T06:25:50Z",
+    "updated_at": "2026-10-18T06:44:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -149,7 +185,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-18T06:05:09Z",
+    "updated_at": "2026-10-18T06:44:49Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -175,7 +211,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40206,
+    "stars": 40207,
     "updated_at": "2026-10-18T05:17:32Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -338,7 +374,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-18T04:10:39Z",
+    "updated_at": "2026-10-18T06:42:32Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T02:55:25Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:39:26Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-10-18T02:38:06Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:42:09Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-18T02:11:48Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   }
 ]
