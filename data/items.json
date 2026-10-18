@@ -1,11 +1,101 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T01:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source Rust multimodal vector database & RAG platform: one unified space for text, image, audio, video & docs - hyb",
+    "id": "kshitij2605/Veda",
+    "language": "Rust",
+    "name": "kshitij2605/Veda",
+    "stars": 0,
+    "updated_at": "2026-10-18T01:45:14Z",
+    "url": "https://github.com/kshitij2605/Veda"
+  },
+  {
+    "description": "A Python library that keeps each customer's search results separate in a shared index, and gives errors stable codes.",
+    "id": "gainratio/edgeproc-core",
+    "language": "Python",
+    "name": "gainratio/edgeproc-core",
+    "stars": 0,
+    "updated_at": "2026-10-18T01:45:01Z",
+    "url": "https://github.com/gainratio/edgeproc-core"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-18T01:43:28Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 20,
+    "updated_at": "2026-10-18T01:35:42Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "Parse, chunk, embed, and index course documents with typed delivery and reporting context.",
+    "id": "yaobaoda111/edtech-course-vector-ingest",
+    "language": "TypeScript",
+    "name": "yaobaoda111/edtech-course-vector-ingest",
+    "stars": 0,
+    "updated_at": "2026-10-18T01:34:40Z",
+    "url": "https://github.com/yaobaoda111/edtech-course-vector-ingest"
+  },
+  {
+    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
+    "id": "diskerror/ragger.cpp",
+    "language": "C++",
+    "name": "diskerror/ragger.cpp",
+    "stars": 1,
+    "updated_at": "2026-10-18T01:33:08Z",
+    "url": "https://github.com/diskerror/ragger.cpp"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1640,
+    "updated_at": "2026-10-18T01:30:46Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T01:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7830,
+    "updated_at": "2026-10-18T01:30:20Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
     "id": "Dream-Pixels-Forge/memorius",
     "language": "Python",
     "name": "Dream-Pixels-Forge/memorius",
     "stars": 1,
-    "updated_at": "2026-10-18T01:29:42Z",
+    "updated_at": "2026-10-18T01:39:25Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
   },
   {
@@ -18,33 +108,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "Open-source Rust multimodal vector database & RAG platform: one unified space for text, image, audio, video & docs - hyb",
-    "id": "kshitij2605/Veda",
-    "language": "Rust",
-    "name": "kshitij2605/Veda",
-    "stars": 0,
-    "updated_at": "2026-10-18T01:28:13Z",
-    "url": "https://github.com/kshitij2605/Veda"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7821,
-    "updated_at": "2026-10-18T01:30:20Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 20,
-    "updated_at": "2026-10-18T01:24:45Z",
-    "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -52,15 +115,6 @@
     "stars": 11,
     "updated_at": "2026-10-18T01:23:53Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T01:21:49Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
@@ -72,24 +126,6 @@
     "url": "https://github.com/wickra-lib/wickra-genome"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T01:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-18T01:28:34Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -97,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-10-18T01:09:16Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
-    "id": "diskerror/ragger.cpp",
-    "language": "C++",
-    "name": "diskerror/ragger.cpp",
-    "stars": 1,
-    "updated_at": "2026-10-18T01:08:59Z",
-    "url": "https://github.com/diskerror/ragger.cpp"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T22:01:34Z",
     "url": "https://github.com/Brenda-Tavares/lore-rag"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "Amira38499/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "Amira38499/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:00:35Z",
-    "url": "https://github.com/Amira38499/rag-interview-system"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "rYildirim9205/distill",
-    "language": "Go",
-    "name": "rYildirim9205/distill",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:59:52Z",
-    "url": "https://github.com/rYildirim9205/distill"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "Chiarac767/LLMFlex",
-    "language": "Python",
-    "name": "Chiarac767/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-17T21:58:47Z",
-    "url": "https://github.com/Chiarac767/LLMFlex"
   }
 ]
