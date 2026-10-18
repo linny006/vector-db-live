@@ -1,12 +1,48 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8075,
+    "updated_at": "2026-10-18T09:14:25Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T09:08:10Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-18T09:00:24Z",
+    "updated_at": "2026-10-18T09:06:07Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
+    "id": "Angular2Guy/AIDocumentLibraryChat",
+    "language": "Java",
+    "name": "Angular2Guy/AIDocumentLibraryChat",
+    "stars": 31,
+    "updated_at": "2026-10-18T09:06:04Z",
+    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6211,
+    "updated_at": "2026-10-18T09:00:41Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -14,17 +50,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T09:00:19Z",
+    "updated_at": "2026-10-18T09:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8070,
-    "updated_at": "2026-10-18T08:59:39Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "RAG \u77e5\u8bc6\u5e93\u95ee\u7b54 + \u5de5\u5177\u8c03\u7528 Agent\uff1a\u6df7\u5408\u68c0\u7d22(BM25+\u5411\u91cf+RRF) + Cross-Encoder \u91cd\u6392 + \u7ae0\u8282\u7ea7\u5f15\u7528 + \u4e3b\u52a8\u62d2\u7b54\uff1b169 \u4e2a\u79bb\u7ebf\u5355\u6d4b\u3002Hit@1 0.657 / MRR 0.806\uff0c\u5fe0\u5b9e\u5ea6\u4e0e\u5f15\u7528\u6b63\u786e\u6027 5",
@@ -63,15 +90,6 @@
     "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T08:38:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -104,7 +122,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T09:05:48Z",
+    "updated_at": "2026-10-18T09:06:40Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T08:11:41Z",
     "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
-    "id": "Angular2Guy/AIDocumentLibraryChat",
-    "language": "Java",
-    "name": "Angular2Guy/AIDocumentLibraryChat",
-    "stars": 31,
-    "updated_at": "2026-10-18T09:06:04Z",
-    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-18T09:03:00Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "A from-scratch Traditional RAG pipeline for document question answering using PDF ingestion, text cleaning, semantic chu",
-    "id": "Bhanu-danda/Enterprise_Knowledge_Assistant",
-    "language": "Jupyter Notebook",
-    "name": "Bhanu-danda/Enterprise_Knowledge_Assistant",
-    "stars": 2,
-    "updated_at": "2026-10-18T05:23:05Z",
-    "url": "https://github.com/Bhanu-danda/Enterprise_Knowledge_Assistant"
   }
 ]
