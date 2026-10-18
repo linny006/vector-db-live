@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T02:00:18Z",
+    "updated_at": "2026-10-18T02:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-18T02:11:48Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T02:11:28Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
+    "id": "xl3v3r/hermes-oracle-memory",
+    "language": "Python",
+    "name": "xl3v3r/hermes-oracle-memory",
+    "stars": 1,
+    "updated_at": "2026-10-18T02:11:29Z",
+    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-18T02:11:08Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "- ",
+    "id": "Scaibu/llm-observability-platform",
+    "language": "Python",
+    "name": "Scaibu/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-10-18T02:09:00Z",
+    "url": "https://github.com/Scaibu/llm-observability-platform"
+  },
+  {
+    "description": "ADR-style TypeScript service that parses property PDFs, chunks them, embeds them, and upserts vectors for maintenance an",
+    "id": "RobertMiller8705/property-document-vector-adr",
+    "language": "TypeScript",
+    "name": "RobertMiller8705/property-document-vector-adr",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:04:17Z",
+    "url": "https://github.com/RobertMiller8705/property-document-vector-adr"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T02:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and",
@@ -22,8 +85,8 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7834,
-    "updated_at": "2026-10-18T01:56:23Z",
+    "stars": 7842,
+    "updated_at": "2026-10-18T02:13:07Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "Dream-Pixels-Forge/memorius",
     "stars": 1,
-    "updated_at": "2026-10-18T01:53:24Z",
+    "updated_at": "2026-10-18T02:01:04Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
   },
   {
@@ -61,24 +124,6 @@
     "stars": 20,
     "updated_at": "2026-10-18T01:47:46Z",
     "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T01:45:35Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T01:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source Rust multimodal vector database & RAG platform: one unified space for text, image, audio, video & docs - hyb",
@@ -135,21 +180,12 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-18T01:28:24Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-18T01:23:53Z",
+    "updated_at": "2026-10-18T02:14:21Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1509,
-    "updated_at": "2026-10-17T22:25:55Z",
+    "updated_at": "2026-10-18T02:10:06Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:05:27Z",
     "url": "https://github.com/eharris10/rag-interview-system"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "Ana88340/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "Ana88340/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:05:16Z",
-    "url": "https://github.com/Ana88340/rag-interview-system"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "meganrobert3108/llmaker",
-    "language": "Go",
-    "name": "meganrobert3108/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:04:02Z",
-    "url": "https://github.com/meganrobert3108/llmaker"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-10-17T22:13:12Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "burakyou/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "burakyou/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:02:01Z",
-    "url": "https://github.com/burakyou/rag-interview-system"
   }
 ]
