@@ -1,11 +1,29 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:30:07Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8045,
-    "updated_at": "2026-10-18T08:14:50Z",
+    "stars": 8057,
+    "updated_at": "2026-10-18T08:29:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -14,8 +32,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T08:14:21Z",
+    "updated_at": "2026-10-18T08:27:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
@@ -76,27 +103,9 @@
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
-    "stars": 9468,
+    "stars": 9469,
     "updated_at": "2026-10-18T08:01:52Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "piotrwozn/multidb",
     "stars": 0,
-    "updated_at": "2026-10-18T08:02:01Z",
+    "updated_at": "2026-10-18T08:15:38Z",
     "url": "https://github.com/piotrwozn/multidb"
   },
   {
@@ -157,7 +166,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39249,
+    "stars": 39250,
     "updated_at": "2026-10-18T07:07:51Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T05:08:35Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "Carlosp1434/yu-ai-agent",
-    "language": "Java",
-    "name": "Carlosp1434/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:06:31Z",
-    "url": "https://github.com/Carlosp1434/yu-ai-agent"
   }
 ]
