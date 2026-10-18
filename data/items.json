@@ -1,12 +1,57 @@
 [
   {
+    "description": "A RAG-based AI Research Assistant that enables natural language querying of PDF documents using OpenAI GPT-4 and FAISS v",
+    "id": "elchibek5/DocuMind",
+    "language": "Python",
+    "name": "elchibek5/DocuMind",
+    "stars": 0,
+    "updated_at": "2026-10-18T03:59:17Z",
+    "url": "https://github.com/elchibek5/DocuMind"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-18T03:51:59Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-18T03:49:55Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
     "description": "working university chatbot ",
     "id": "Arifkhan171/multi-agent-university-assistant",
     "language": "Python",
     "name": "Arifkhan171/multi-agent-university-assistant",
     "stars": 0,
-    "updated_at": "2026-10-18T03:43:26Z",
+    "updated_at": "2026-10-18T03:46:04Z",
     "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T03:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T04:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent Autonomous LLM Execution Mesh with DAG Scheduling & Persistent Vector Consensus",
@@ -22,7 +67,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7895,
+    "stars": 7903,
     "updated_at": "2026-10-18T03:41:20Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -45,24 +90,6 @@
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T03:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T03:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T03:28:00Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-18T03:25:03Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
@@ -113,7 +131,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T03:42:50Z",
+    "updated_at": "2026-10-18T03:59:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:17:24Z",
     "url": "https://github.com/riccardoaksoy/llmaker"
-  },
-  {
-    "description": "Vector search at SIMD speed. One Rust engine, phone to cloud. AI-native, vector-first, multimodal database.",
-    "id": "sshbrian/kestrel",
-    "language": "Rust",
-    "name": "sshbrian/kestrel",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:13:00Z",
-    "url": "https://github.com/sshbrian/kestrel"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "trang7633/developers-guide-to-ai",
-    "language": "Python",
-    "name": "trang7633/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:12:42Z",
-    "url": "https://github.com/trang7633/developers-guide-to-ai"
   }
 ]
