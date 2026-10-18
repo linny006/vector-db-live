@@ -1,5 +1,104 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8186,
+    "updated_at": "2026-10-18T13:29:28Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-18T13:29:04Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-18T13:25:45Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-18T13:25:43Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1205,
+    "updated_at": "2026-10-18T13:22:53Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-18T13:23:34Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
+    "id": "yunaremaia/memwatch",
+    "language": "Python",
+    "name": "yunaremaia/memwatch",
+    "stars": 1,
+    "updated_at": "2026-10-18T13:21:54Z",
+    "url": "https://github.com/yunaremaia/memwatch"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:25:13Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "ZAAFPulse: local-first AI command center. Observability for Claude Code and Codex (usage, cost, quality incl. relevance ",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-18T13:19:08Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 13,
+    "updated_at": "2026-10-18T13:19:30Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T13:17:16Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
     "id": "seekwhencer/gitea-qdrant-sync",
     "language": "JavaScript",
@@ -9,49 +108,13 @@
     "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
   },
   {
-    "description": "ZAAFPulse: local-first AI command center. Observability for Claude Code and Codex (usage, cost, quality incl. relevance ",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-18T13:17:09Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T13:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T13:15:19Z",
+    "updated_at": "2026-10-18T13:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8180,
-    "updated_at": "2026-10-18T13:14:43Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-18T13:15:40Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -61,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-10-18T13:13:46Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1205,
-    "updated_at": "2026-10-18T13:14:33Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
@@ -99,21 +153,12 @@
     "url": "https://github.com/Cognipeer/console"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-18T13:08:59Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2372,
-    "updated_at": "2026-10-18T13:02:35Z",
+    "updated_at": "2026-10-18T13:25:04Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2055,
-    "updated_at": "2026-10-18T12:51:51Z",
+    "updated_at": "2026-10-18T13:29:59Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39254,
-    "updated_at": "2026-10-18T12:52:27Z",
+    "updated_at": "2026-10-18T13:20:46Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35121,
-    "updated_at": "2026-10-18T12:24:49Z",
+    "updated_at": "2026-10-18T13:21:11Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -355,7 +400,7 @@
     "id": "tickernelz/opencode-mem",
     "language": "TypeScript",
     "name": "tickernelz/opencode-mem",
-    "stars": 1762,
+    "stars": 1761,
     "updated_at": "2026-10-18T11:21:05Z",
     "url": "https://github.com/tickernelz/opencode-mem"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T10:50:28Z",
     "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "A vector store in pure, safe Rust: flat and Vamana graph search, int8 and binary codes with exact rescoring, filters, in",
-    "id": "mesa-hills-research/caprock",
-    "language": "Rust",
-    "name": "mesa-hills-research/caprock",
-    "stars": 0,
-    "updated_at": "2026-10-18T10:50:28Z",
-    "url": "https://github.com/mesa-hills-research/caprock"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 35,
-    "updated_at": "2026-10-18T10:40:28Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:16:13Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
-    "id": "musabbozkurt/oauth2-authorization-server",
-    "language": "Java",
-    "name": "musabbozkurt/oauth2-authorization-server",
-    "stars": 6,
-    "updated_at": "2026-10-18T10:59:50Z",
-    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "\u96f6 API Key\u3001\u65ad\u7f51\u53ef\u7528\u7684\u4f01\u4e1a\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54\u7cfb\u7edf\uff08LangChain + Chroma + llama.cpp \u5168\u672c\u5730\u90e8\u7f72\uff09",
-    "id": "samjafe/rag-enterprise-knowledge-base",
-    "language": "Python",
-    "name": "samjafe/rag-enterprise-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-10-18T10:31:51Z",
-    "url": "https://github.com/samjafe/rag-enterprise-knowledge-base"
   }
 ]
