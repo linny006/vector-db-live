@@ -1,11 +1,20 @@
 [
   {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 119,
+    "updated_at": "2026-10-18T21:13:01Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8322,
-    "updated_at": "2026-10-18T20:57:58Z",
+    "stars": 8329,
+    "updated_at": "2026-10-18T21:12:55Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -14,17 +23,8 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 7,
-    "updated_at": "2026-10-18T20:55:49Z",
+    "updated_at": "2026-10-18T21:11:22Z",
     "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-18T20:59:40Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -32,8 +32,71 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T20:59:02Z",
+    "updated_at": "2026-10-18T21:10:11Z",
     "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T21:06:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 6,
+    "updated_at": "2026-10-18T21:06:51Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7129,
+    "updated_at": "2026-10-18T21:03:33Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
+    "id": "api-evangelist/lf-ai-and-data",
+    "language": "\u2014",
+    "name": "api-evangelist/lf-ai-and-data",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:01:39Z",
+    "url": "https://github.com/api-evangelist/lf-ai-and-data"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-18T21:03:42Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T21:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T21:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
@@ -72,15 +135,6 @@
     "url": "https://github.com/MariaFlores8721/LLMFlex"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T20:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
     "id": "Stephanie9690/vektori",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:45:21Z",
     "url": "https://github.com/Stephanie9690/vektori"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T20:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Text chunking library for splitting strings into size-limited segments with overlap.",
@@ -153,15 +198,6 @@
     "url": "https://github.com/GregoryMendes576/llmaker"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T20:35:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python +",
     "id": "Polign/recall",
     "language": "Go",
@@ -169,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T20:35:46Z",
     "url": "https://github.com/Polign/recall"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-18T20:56:47Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T19:43:21Z",
     "url": "https://github.com/Halam200/developers-guide-to-ai"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "Amyr352/VectorRAG.Net",
-    "language": "C#",
-    "name": "Amyr352/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:36:34Z",
-    "url": "https://github.com/Amyr352/VectorRAG.Net"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "CedricLee53908/developers-guide-to-ai",
-    "language": "Python",
-    "name": "CedricLee53908/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:35:36Z",
-    "url": "https://github.com/CedricLee53908/developers-guide-to-ai"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "Hiroshia97/VectorRAG.Net",
-    "language": "C#",
-    "name": "Hiroshia97/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:34:07Z",
-    "url": "https://github.com/Hiroshia97/VectorRAG.Net"
   }
 ]
