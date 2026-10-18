@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-18 21:21 UTC
+> ⏰ Last updated: 2026-10-18 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [api-evangelist/azure-cosmos-db](https://github.com/api-evangelist/azure-cosmos-db) | 0 | — | 2026-10-18 | Azure Cosmos DB — independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully |
-| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 4 | [nambok/mentedb](https://github.com/nambok/mentedb) | 119 | Rust | 2026-10-18 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
-| 5 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 8332 | Rust | 2026-10-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 6 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 7 | Python | 2026-10-18 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
-| 7 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-18 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
-| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 9 | [Yasou13/MESA](https://github.com/Yasou13/MESA) | 6 | Python | 2026-10-18 | An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus |
-| 10 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7129 | Java | 2026-10-18 | The AI search platform |
-| 11 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-10-18 | LF AI and Data — independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation |
-| 12 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 5 | Python | 2026-10-18 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
-| 13 | [sebasholland141/rag-interview-system](https://github.com/sebasholland141/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
-| 14 | [NathalieRorato/rag-interview-system](https://github.com/NathalieRorato/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
-| 15 | [horstreyes6736/developers-guide-to-ai](https://github.com/horstreyes6736/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 16 | [MariaFlores8721/LLMFlex](https://github.com/MariaFlores8721/LLMFlex) | 0 | Python | 2026-10-18 | A python package for developing AI applications with local LLMs. |
-| 17 | [Stephanie9690/vektori](https://github.com/Stephanie9690/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
-| 18 | [gurre/chunker](https://github.com/gurre/chunker) | 0 | Go | 2026-10-18 | Text chunking library for splitting strings into size-limited segments with overlap. |
-| 19 | [yklein9666/developers-guide-to-ai](https://github.com/yklein9666/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 20 | [fatma-fendri/PodAI](https://github.com/fatma-fendri/PodAI) | 0 | Python | 2026-10-18 | Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources. |
-| 21 | [sOkada04534/rag-interview-system](https://github.com/sOkada04534/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
-| 22 | [ry-ops/commit-relay](https://github.com/ry-ops/commit-relay) | 2 | Shell | 2026-10-18 | Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me |
-| 23 | [GregoryMendes576/llmaker](https://github.com/GregoryMendes576/llmaker) | 0 | Go | 2026-10-18 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
-| 24 | [Polign/recall](https://github.com/Polign/recall) | 2 | Go | 2026-10-18 | Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python + |
-| 25 | [sajid-nazir/Papyrus](https://github.com/sajid-nazir/Papyrus) | 0 | TypeScript | 2026-10-18 | In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a |
-| 26 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-18 |  Cognitive Memory Architecture for Agents |
-| 27 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-10-18 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
-| 28 | [RomanLima/vektori](https://github.com/RomanLima/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
-| 29 | [danieltokugawa4939/vektori](https://github.com/danieltokugawa4939/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
-| 30 | [api-evangelist/contentstack](https://github.com/api-evangelist/contentstack) | 0 | — | 2026-10-18 | contentstack — independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r |
-| 31 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-10-18 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
-| 32 | [kazisola/TaxxQ](https://github.com/kazisola/TaxxQ) | 0 | Python | 2026-10-18 | Retrieval-Augmented Generation (RAG) based AI-powered tax question-answering application |
-| 33 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-10-18 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 34 | [schmitech/orbit](https://github.com/schmitech/orbit) | 355 | Python | 2026-10-18 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 35 | [UrsulaLacroix/VectorRAG.Net](https://github.com/UrsulaLacroix/VectorRAG.Net) | 0 | C# | 2026-10-18 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
-| 36 | [Carlos3218/VectorRAG.Net](https://github.com/Carlos3218/VectorRAG.Net) | 0 | C# | 2026-10-18 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
-| 37 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-18 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 38 | [DangChristou/vektori](https://github.com/DangChristou/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
-| 39 | [DanielTrindade/ask-me-rag](https://github.com/DanielTrindade/ask-me-rag) | 0 | TypeScript | 2026-10-18 | Streaming RAG chatbot over personal documents - live at ask.danieltrindade.dev (Next.js, Vercel AI SDK, Supabase pgvecto |
-| 40 | [Jans35190/developers-guide-to-ai](https://github.com/Jans35190/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 41 | [luciagray00/rag-interview-system](https://github.com/luciagray00/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
-| 42 | [AnneYang54064/llmaker](https://github.com/AnneYang54064/llmaker) | 0 | Go | 2026-10-18 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
-| 43 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35128 | Rust | 2026-10-18 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 44 | [evgenykhan70431/vektori](https://github.com/evgenykhan70431/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
-| 45 | [dflores7327/llmaker](https://github.com/dflores7327/llmaker) | 0 | Go | 2026-10-18 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
-| 46 | [nAlekseev85/developers-guide-to-ai](https://github.com/nAlekseev85/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 47 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 48 | [api-evangelist/machine-learning](https://github.com/api-evangelist/machine-learning) | 0 | HTML | 2026-10-18 | API platform info for machine-learning |
-| 49 | [api-evangelist/database](https://github.com/api-evangelist/database) | 0 | HTML | 2026-10-18 | API platform info for database |
-| 50 | [Halam200/developers-guide-to-ai](https://github.com/Halam200/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 8333 | Rust | 2026-10-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 3 | [1nc0gn30/vector-search-engine](https://github.com/1nc0gn30/vector-search-engine) | 0 | Python | 2026-10-18 | Vector Search Studio — In-Browser HNSW Cosine Similarity Workbench, Chunking Optimizer & RAG Cost Calculator ($19 Pro) |
+| 4 | [kdraggoo/chatbot](https://github.com/kdraggoo/chatbot) | 0 | Python | 2026-10-18 | Self-hosted RAG chatbot that answers questions about my career. FastAPI, Qdrant, Ollama. No third-party LLM APIs. |
+| 5 | [api-evangelist/chroma](https://github.com/api-evangelist/chroma) | 0 | — | 2026-10-18 | Chroma — independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc |
+| 6 | [nambok/mentedb](https://github.com/nambok/mentedb) | 119 | Rust | 2026-10-18 | A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu |
+| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 8 | [api-evangelist/azure-cosmos-db](https://github.com/api-evangelist/azure-cosmos-db) | 0 | — | 2026-10-18 | Azure Cosmos DB — independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully |
+| 9 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 7 | Python | 2026-10-18 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
+| 10 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-18 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 12 | [Yasou13/MESA](https://github.com/Yasou13/MESA) | 6 | Python | 2026-10-18 | An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus |
+| 13 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7129 | Java | 2026-10-18 | The AI search platform |
+| 14 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-10-18 | LF AI and Data — independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation |
+| 15 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 5 | Python | 2026-10-18 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
+| 16 | [sebasholland141/rag-interview-system](https://github.com/sebasholland141/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
+| 17 | [NathalieRorato/rag-interview-system](https://github.com/NathalieRorato/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
+| 18 | [horstreyes6736/developers-guide-to-ai](https://github.com/horstreyes6736/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 19 | [MariaFlores8721/LLMFlex](https://github.com/MariaFlores8721/LLMFlex) | 0 | Python | 2026-10-18 | A python package for developing AI applications with local LLMs. |
+| 20 | [Stephanie9690/vektori](https://github.com/Stephanie9690/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
+| 21 | [gurre/chunker](https://github.com/gurre/chunker) | 0 | Go | 2026-10-18 | Text chunking library for splitting strings into size-limited segments with overlap. |
+| 22 | [yklein9666/developers-guide-to-ai](https://github.com/yklein9666/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 23 | [fatma-fendri/PodAI](https://github.com/fatma-fendri/PodAI) | 0 | Python | 2026-10-18 | Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources. |
+| 24 | [sOkada04534/rag-interview-system](https://github.com/sOkada04534/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
+| 25 | [ry-ops/commit-relay](https://github.com/ry-ops/commit-relay) | 2 | Shell | 2026-10-18 | Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me |
+| 26 | [GregoryMendes576/llmaker](https://github.com/GregoryMendes576/llmaker) | 0 | Go | 2026-10-18 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
+| 27 | [Polign/recall](https://github.com/Polign/recall) | 2 | Go | 2026-10-18 | Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python + |
+| 28 | [sajid-nazir/Papyrus](https://github.com/sajid-nazir/Papyrus) | 0 | TypeScript | 2026-10-18 | In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a |
+| 29 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-18 |  Cognitive Memory Architecture for Agents |
+| 30 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-10-18 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
+| 31 | [RomanLima/vektori](https://github.com/RomanLima/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
+| 32 | [danieltokugawa4939/vektori](https://github.com/danieltokugawa4939/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
+| 33 | [api-evangelist/contentstack](https://github.com/api-evangelist/contentstack) | 0 | — | 2026-10-18 | contentstack — independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r |
+| 34 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-10-18 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
+| 35 | [kazisola/TaxxQ](https://github.com/kazisola/TaxxQ) | 0 | Python | 2026-10-18 | Retrieval-Augmented Generation (RAG) based AI-powered tax question-answering application |
+| 36 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-10-18 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 37 | [schmitech/orbit](https://github.com/schmitech/orbit) | 355 | Python | 2026-10-18 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 38 | [UrsulaLacroix/VectorRAG.Net](https://github.com/UrsulaLacroix/VectorRAG.Net) | 0 | C# | 2026-10-18 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
+| 39 | [Carlos3218/VectorRAG.Net](https://github.com/Carlos3218/VectorRAG.Net) | 0 | C# | 2026-10-18 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
+| 40 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-18 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 41 | [DangChristou/vektori](https://github.com/DangChristou/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
+| 42 | [DanielTrindade/ask-me-rag](https://github.com/DanielTrindade/ask-me-rag) | 0 | TypeScript | 2026-10-18 | Streaming RAG chatbot over personal documents - live at ask.danieltrindade.dev (Next.js, Vercel AI SDK, Supabase pgvecto |
+| 43 | [Jans35190/developers-guide-to-ai](https://github.com/Jans35190/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 44 | [luciagray00/rag-interview-system](https://github.com/luciagray00/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-18 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
+| 45 | [AnneYang54064/llmaker](https://github.com/AnneYang54064/llmaker) | 0 | Go | 2026-10-18 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
+| 46 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35128 | Rust | 2026-10-18 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 47 | [evgenykhan70431/vektori](https://github.com/evgenykhan70431/vektori) | 0 | Python | 2026-10-18 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
+| 48 | [dflores7327/llmaker](https://github.com/dflores7327/llmaker) | 0 | Go | 2026-10-18 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
+| 49 | [nAlekseev85/developers-guide-to-ai](https://github.com/nAlekseev85/developers-guide-to-ai) | 0 | Python | 2026-10-18 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 50 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 <!-- TRACKER_TABLE_END -->
 
 ---

@@ -1,30 +1,48 @@
 [
   {
-    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:21:07Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T21:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T21:15:21Z",
+    "updated_at": "2026-10-18T21:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8333,
+    "updated_at": "2026-10-18T21:30:03Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Vector Search Studio \u2014 In-Browser HNSW Cosine Similarity Workbench, Chunking Optimizer & RAG Cost Calculator ($19 Pro)",
+    "id": "1nc0gn30/vector-search-engine",
+    "language": "Python",
+    "name": "1nc0gn30/vector-search-engine",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:27:27Z",
+    "url": "https://github.com/1nc0gn30/vector-search-engine"
+  },
+  {
+    "description": "Self-hosted RAG chatbot that answers questions about my career. FastAPI, Qdrant, Ollama. No third-party LLM APIs.",
+    "id": "kdraggoo/chatbot",
+    "language": "Python",
+    "name": "kdraggoo/chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:26:07Z",
+    "url": "https://github.com/kdraggoo/chatbot"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:25:46Z",
+    "url": "https://github.com/api-evangelist/chroma"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -32,17 +50,26 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 119,
-    "updated_at": "2026-10-18T21:20:24Z",
+    "updated_at": "2026-10-18T21:24:43Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8332,
-    "updated_at": "2026-10-18T21:12:55Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T21:21:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:21:07Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
   },
   {
     "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
@@ -59,7 +86,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T21:10:11Z",
+    "updated_at": "2026-10-18T21:21:26Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "PersonalClaw/PersonalClawApps",
     "stars": 0,
-    "updated_at": "2026-10-18T20:17:47Z",
+    "updated_at": "2026-10-18T21:25:56Z",
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35128,
-    "updated_at": "2026-10-18T21:20:55Z",
+    "updated_at": "2026-10-18T21:30:13Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-18T19:47:37Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "API platform info for machine-learning",
-    "id": "api-evangelist/machine-learning",
-    "language": "HTML",
-    "name": "api-evangelist/machine-learning",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:45:13Z",
-    "url": "https://github.com/api-evangelist/machine-learning"
-  },
-  {
-    "description": "API platform info for database",
-    "id": "api-evangelist/database",
-    "language": "HTML",
-    "name": "api-evangelist/database",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:44:00Z",
-    "url": "https://github.com/api-evangelist/database"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "Halam200/developers-guide-to-ai",
-    "language": "Python",
-    "name": "Halam200/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:43:21Z",
-    "url": "https://github.com/Halam200/developers-guide-to-ai"
   }
 ]
