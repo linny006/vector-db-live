@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T06:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-18T05:53:47Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Hands-on RAG course with 18 Jupyter notebooks covering text, multimodal, GraphRAG, and structured data using Claude, Lan",
+    "id": "hareramray/RAG-Tutorial",
+    "language": "Python",
+    "name": "hareramray/RAG-Tutorial",
+    "stars": 0,
+    "updated_at": "2026-10-18T05:50:53Z",
+    "url": "https://github.com/hareramray/RAG-Tutorial"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T05:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
     "id": "Oyabure-Zakari/ai-agent-practice",
     "language": "TypeScript",
@@ -45,30 +81,12 @@
     "url": "https://github.com/RishabhMathur06/CASO-RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T05:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T05:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7965,
-    "updated_at": "2026-10-18T05:27:15Z",
+    "stars": 7980,
+    "updated_at": "2026-10-18T05:59:47Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -86,7 +104,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-18T05:30:52Z",
+    "updated_at": "2026-10-18T05:52:53Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T02:19:24Z",
     "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-18T01:51:49Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 20,
-    "updated_at": "2026-10-18T01:47:46Z",
-    "url": "https://github.com/waynewbishop/quiver"
   }
 ]
