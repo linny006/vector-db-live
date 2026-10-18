@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T16:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-18T16:13:04Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "The code behind dehyabi.com",
+    "id": "dehyabi/dehyabi.com",
+    "language": "TypeScript",
+    "name": "dehyabi/dehyabi.com",
+    "stars": 1,
+    "updated_at": "2026-10-18T16:11:56Z",
+    "url": "https://github.com/dehyabi/dehyabi.com"
+  },
+  {
+    "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
+    "id": "seekwhencer/gitea-qdrant-sync",
+    "language": "JavaScript",
+    "name": "seekwhencer/gitea-qdrant-sync",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:11:15Z",
+    "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-18T16:11:47Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T16:08:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 21,
+    "updated_at": "2026-10-18T16:07:53Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8258,
+    "updated_at": "2026-10-18T16:07:29Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "The missing developer tool for working with vector databases. A comprehensive desktop app for visualizing, querying, and",
+    "id": "anthonypdawson/vector-inspector",
+    "language": "Python",
+    "name": "anthonypdawson/vector-inspector",
+    "stars": 6,
+    "updated_at": "2026-10-18T16:05:44Z",
+    "url": "https://github.com/anthonypdawson/vector-inspector"
+  },
+  {
+    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
+    "id": "Hk-owo/stratum-vectordb",
+    "language": "Go",
+    "name": "Hk-owo/stratum-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:03:20Z",
+    "url": "https://github.com/Hk-owo/stratum-vectordb"
+  },
+  {
+    "description": "",
+    "id": "piotrwozn/multidb",
+    "language": "Rust",
+    "name": "piotrwozn/multidb",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:13:22Z",
+    "url": "https://github.com/piotrwozn/multidb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T16:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T16:00:08Z",
     "url": "https://github.com/miyeonjeong/llmaker"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-18T15:58:58Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "RAG over company documents with a first-class evaluation pipeline: 6-config matrix (3 chunkers \u00d7 2 embedders), claim-lev",
@@ -45,21 +144,12 @@
     "url": "https://github.com/devopam/MCPg"
   },
   {
-    "description": "Semantic RAG Search over Markdown Files in Gitea via Webhook.",
-    "id": "seekwhencer/gitea-qdrant-sync",
-    "language": "JavaScript",
-    "name": "seekwhencer/gitea-qdrant-sync",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:56:21Z",
-    "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
-  },
-  {
     "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
     "id": "Nayjest/ai-microcore",
     "language": "Python",
     "name": "Nayjest/ai-microcore",
     "stars": 108,
-    "updated_at": "2026-10-18T15:55:01Z",
+    "updated_at": "2026-10-18T16:03:20Z",
     "url": "https://github.com/Nayjest/ai-microcore"
   },
   {
@@ -106,24 +196,6 @@
     "stars": 22,
     "updated_at": "2026-10-18T15:47:22Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T15:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T15:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
@@ -180,15 +252,6 @@
     "url": "https://github.com/Watanabe28798/distill"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8252,
-    "updated_at": "2026-10-18T15:35:53Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
     "id": "aldyardnsyh/IntelligenceDocumentSystem",
     "language": "Python",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T15:35:48Z",
     "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T15:34:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
@@ -261,6 +315,15 @@
     "url": "https://github.com/ry-ops/commit-relay"
   },
   {
+    "description": "Noise-tolerant VLSI fault localization on the Endee vector database \u2014 retrieving nearest fault behaviours so diagnosis s",
+    "id": "pavannithin224-abcd/endee-vlsi-fault-localizer",
+    "language": "\u2014",
+    "name": "pavannithin224-abcd/endee-vlsi-fault-localizer",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:25:23Z",
+    "url": "https://github.com/pavannithin224-abcd/endee-vlsi-fault-localizer"
+  },
+  {
     "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
     "id": "elchemista/vettore",
     "language": "Elixir",
@@ -286,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T15:20:33Z",
     "url": "https://github.com/Aashutosh31/arc-ai-project"
-  },
-  {
-    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
-    "id": "Hk-owo/stratum-vectordb",
-    "language": "Go",
-    "name": "Hk-owo/stratum-vectordb",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:18:57Z",
-    "url": "https://github.com/Hk-owo/stratum-vectordb"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -338,7 +392,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35125,
-    "updated_at": "2026-10-18T15:04:08Z",
+    "updated_at": "2026-10-18T16:07:36Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-18T14:45:45Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
-    "id": "sajid-nazir/Papyrus",
-    "language": "TypeScript",
-    "name": "sajid-nazir/Papyrus",
-    "stars": 0,
-    "updated_at": "2026-10-18T14:45:35Z",
-    "url": "https://github.com/sajid-nazir/Papyrus"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40241,
-    "updated_at": "2026-10-18T14:34:07Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1206,
-    "updated_at": "2026-10-18T14:30:39Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-18T15:34:13Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 455,
-    "updated_at": "2026-10-18T14:23:54Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-18T14:18:10Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
