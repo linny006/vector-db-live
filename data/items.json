@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T06:15:19Z",
+    "updated_at": "2026-10-18T06:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7995,
+    "updated_at": "2026-10-18T06:30:18Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
+    "id": "gxc02529-jpg/KnowLoop",
+    "language": "Python",
+    "name": "gxc02529-jpg/KnowLoop",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:26:58Z",
+    "url": "https://github.com/gxc02529-jpg/KnowLoop"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -14,8 +32,44 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 5,
-    "updated_at": "2026-10-18T06:13:03Z",
+    "updated_at": "2026-10-18T06:25:42Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-10-18T06:27:28Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
+    "id": "RishabhMathur06/CASO-RAG",
+    "language": "Python",
+    "name": "RishabhMathur06/CASO-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:20:25Z",
+    "url": "https://github.com/RishabhMathur06/CASO-RAG"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-18T06:19:01Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T06:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Portable semantic memory layer for LLM agents over MCP",
@@ -36,15 +90,6 @@
     "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
   },
   {
-    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
-    "id": "RishabhMathur06/CASO-RAG",
-    "language": "Python",
-    "name": "RishabhMathur06/CASO-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:07:33Z",
-    "url": "https://github.com/RishabhMathur06/CASO-RAG"
-  },
-  {
     "description": "Vector search at SIMD speed. One Rust engine, phone to cloud. AI-native, vector-first, multimodal database.",
     "id": "sshbrian/kestrel",
     "language": "Rust",
@@ -52,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T06:05:49Z",
     "url": "https://github.com/sshbrian/kestrel"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T06:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7989,
-    "updated_at": "2026-10-18T05:59:47Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -104,17 +131,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T06:09:52Z",
+    "updated_at": "2026-10-18T06:25:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:39:01Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-18T02:11:48Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "- ",
-    "id": "Scaibu/llm-observability-platform",
-    "language": "Python",
-    "name": "Scaibu/llm-observability-platform",
-    "stars": 6,
-    "updated_at": "2026-10-18T02:09:00Z",
-    "url": "https://github.com/Scaibu/llm-observability-platform"
-  },
-  {
-    "description": "ADR-style TypeScript service that parses property PDFs, chunks them, embeds them, and upserts vectors for maintenance an",
-    "id": "RobertMiller8705/property-document-vector-adr",
-    "language": "TypeScript",
-    "name": "RobertMiller8705/property-document-vector-adr",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:04:17Z",
-    "url": "https://github.com/RobertMiller8705/property-document-vector-adr"
   }
 ]
