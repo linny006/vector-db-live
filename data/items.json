@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T01:45:17Z",
+    "updated_at": "2026-10-18T02:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and",
+    "id": "nehalvaghasiya/agentic-rag",
+    "language": "Python",
+    "name": "nehalvaghasiya/agentic-rag",
+    "stars": 1,
+    "updated_at": "2026-10-18T01:57:22Z",
+    "url": "https://github.com/nehalvaghasiya/agentic-rag"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 7834,
+    "updated_at": "2026-10-18T01:56:23Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-10-18T01:53:24Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-18T01:51:49Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-18T01:50:41Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 20,
+    "updated_at": "2026-10-18T01:47:46Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T01:45:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T01:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source Rust multimodal vector database & RAG platform: one unified space for text, image, audio, video & docs - hyb",
@@ -32,17 +104,8 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T01:43:28Z",
+    "updated_at": "2026-10-18T01:59:28Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 20,
-    "updated_at": "2026-10-18T01:35:42Z",
-    "url": "https://github.com/waynewbishop/quiver"
   },
   {
     "description": "Parse, chunk, embed, and index course documents with typed delivery and reporting context.",
@@ -72,33 +135,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T01:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 7830,
-    "updated_at": "2026-10-18T01:30:20Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-10-18T01:39:25Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -122,17 +158,8 @@
     "language": "Rust",
     "name": "wickra-lib/wickra-genome",
     "stars": 1,
-    "updated_at": "2026-10-18T01:17:07Z",
+    "updated_at": "2026-10-18T01:49:12Z",
     "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T01:09:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -189,15 +216,6 @@
     "url": "https://github.com/MrPeker/turbopuffer-gui"
   },
   {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-18T00:05:10Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -232,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T23:36:21Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-17T23:34:37Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:02:01Z",
     "url": "https://github.com/burakyou/rag-interview-system"
-  },
-  {
-    "description": "Secure RAG system for SRE operational knowledge. Features ingestion-time secret redaction, strict tenant isolation, and ",
-    "id": "Brenda-Tavares/lore-rag",
-    "language": "Python",
-    "name": "Brenda-Tavares/lore-rag",
-    "stars": 1,
-    "updated_at": "2026-10-17T22:01:34Z",
-    "url": "https://github.com/Brenda-Tavares/lore-rag"
   }
 ]
