@@ -1,5 +1,59 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8104,
+    "updated_at": "2026-10-18T10:14:48Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-18T10:12:35Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T10:07:55Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-18T10:08:23Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-18T10:09:45Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T10:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T10:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8096,
-    "updated_at": "2026-10-18T09:59:41Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -36,15 +81,6 @@
     "url": "https://github.com/seekwhencer/gitea-qdrant-sync"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-18T09:54:54Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
     "id": "gyr0byte/Generative-AI",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T09:55:01Z",
     "url": "https://github.com/PunGrumpy/vecstore-sdk"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T09:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T09:36:22Z",
     "url": "https://github.com/SpyrosBradley99/developers-guide-to-ai"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T09:36:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
@@ -302,7 +320,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T09:06:40Z",
+    "updated_at": "2026-10-18T10:13:38Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39252,
-    "updated_at": "2026-10-18T09:47:38Z",
+    "updated_at": "2026-10-18T10:09:25Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T06:54:15Z",
     "url": "https://github.com/Evans0081/rag-interview-system"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "ApichatVieira485/VectorRAG.Net",
-    "language": "C#",
-    "name": "ApichatVieira485/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:52:29Z",
-    "url": "https://github.com/ApichatVieira485/VectorRAG.Net"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "adams30165/llmaker",
-    "language": "Go",
-    "name": "adams30165/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-18T06:52:22Z",
-    "url": "https://github.com/adams30165/llmaker"
   }
 ]
