@@ -1,5 +1,104 @@
 [
   {
+    "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
+    "id": "sajid-nazir/Papyrus",
+    "language": "TypeScript",
+    "name": "sajid-nazir/Papyrus",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:29:41Z",
+    "url": "https://github.com/sajid-nazir/Papyrus"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "Hiroshia97/VectorRAG.Net",
+    "language": "C#",
+    "name": "Hiroshia97/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:29:21Z",
+    "url": "https://github.com/Hiroshia97/VectorRAG.Net"
+  },
+  {
+    "description": "Enterprise RAG framework on Azure AI Search with Cognitive Skillsets & GPT-4o for travel intelligence synthesis",
+    "id": "valluri-anand/enterprise-travel-rag-assistant",
+    "language": "Python",
+    "name": "valluri-anand/enterprise-travel-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:26:30Z",
+    "url": "https://github.com/valluri-anand/enterprise-travel-rag-assistant"
+  },
+  {
+    "description": "A python package for developing AI applications with local LLMs.",
+    "id": "jianmoon56/LLMFlex",
+    "language": "Python",
+    "name": "jianmoon56/LLMFlex",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:25:23Z",
+    "url": "https://github.com/jianmoon56/LLMFlex"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 103,
+    "updated_at": "2026-10-18T19:25:17Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:22:03Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:18:34Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:15:38Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-18T19:15:32Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T19:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T19:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
     "id": "mirkobozzetto/flowflow",
     "language": "Rust",
@@ -16,24 +115,6 @@
     "stars": 5,
     "updated_at": "2026-10-18T19:10:33Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 103,
-    "updated_at": "2026-10-18T19:11:12Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-18T19:07:54Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
@@ -76,18 +157,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8305,
+    "stars": 8311,
     "updated_at": "2026-10-18T19:02:42Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:10:25Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -99,24 +171,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T19:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T19:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
@@ -124,6 +178,15 @@
     "stars": 105,
     "updated_at": "2026-10-18T18:57:26Z",
     "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9410,
+    "updated_at": "2026-10-18T18:54:05Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "IntelliQA is a production-oriented Retrieval Augmented Generation (RAG) backend for grounded question answering over pri",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T17:47:05Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Timestamp-grounded knowledge base for code-switched Urdu/English lectures, ASR + knowledge-graph/vector hybrid retrieval",
-    "id": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "language": "Python",
-    "name": "BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:40:15Z",
-    "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 133,
-    "updated_at": "2026-10-18T19:10:04Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
-    "id": "xl3v3r/hermes-oracle-memory",
-    "language": "Python",
-    "name": "xl3v3r/hermes-oracle-memory",
-    "stars": 1,
-    "updated_at": "2026-10-18T17:32:35Z",
-    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40246,
-    "updated_at": "2026-10-18T17:30:33Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-18T17:30:29Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6242,
-    "updated_at": "2026-10-18T18:21:34Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Top RAG LLM Data Frameworks (Opensource)  Star if you like it! ",
-    "id": "ishandutta2007/Awesome-RAG-LLM-Data-Frameworks",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-RAG-LLM-Data-Frameworks",
-    "stars": 1,
-    "updated_at": "2026-10-18T17:27:08Z",
-    "url": "https://github.com/ishandutta2007/Awesome-RAG-LLM-Data-Frameworks"
   }
 ]
