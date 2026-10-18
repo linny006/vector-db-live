@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T04:15:17Z",
+    "updated_at": "2026-10-18T04:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -13,9 +13,27 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7910,
-    "updated_at": "2026-10-18T04:14:52Z",
+    "stars": 7920,
+    "updated_at": "2026-10-18T04:25:33Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-18T04:21:22Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T04:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
@@ -54,15 +72,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T04:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A RAG-based AI Research Assistant that enables natural language querying of PDF documents using OpenAI GPT-4 and FAISS v",
     "id": "elchibek5/DocuMind",
     "language": "Python",
@@ -86,17 +95,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-18T04:12:48Z",
+    "updated_at": "2026-10-18T04:23:09Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
-    "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-18T03:46:04Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
   },
   {
     "description": "Multi-Agent Autonomous LLM Execution Mesh with DAG Scheduling & Persistent Vector Consensus",
@@ -149,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1205,
-    "updated_at": "2026-10-18T04:12:16Z",
+    "updated_at": "2026-10-18T04:30:10Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -437,7 +437,7 @@
     "language": "Rust",
     "name": "piotrwozn/multidb",
     "stars": 0,
-    "updated_at": "2026-10-18T03:09:21Z",
+    "updated_at": "2026-10-18T04:24:56Z",
     "url": "https://github.com/piotrwozn/multidb"
   },
   {
