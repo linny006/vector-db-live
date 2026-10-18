@@ -1,12 +1,66 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 172,
+    "updated_at": "2026-10-18T19:14:26Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T19:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-18T19:10:33Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 103,
+    "updated_at": "2026-10-18T19:11:12Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-18T19:07:54Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
+    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "language": "Python",
+    "name": "ankush-poonia007/STARTUP-AI-AGENT",
+    "stars": 5,
+    "updated_at": "2026-10-18T19:08:33Z",
+    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T19:06:23Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Hands-on experiments with LLMs, LangChain, RAG and LangGraph agents",
+    "id": "esra-yasar/llm-rag-lab",
+    "language": "Python",
+    "name": "esra-yasar/llm-rag-lab",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:05:04Z",
+    "url": "https://github.com/esra-yasar/llm-rag-lab"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +68,35 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1206,
-    "updated_at": "2026-10-18T18:59:12Z",
+    "updated_at": "2026-10-18T19:04:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8305,
+    "updated_at": "2026-10-18T19:02:42Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:10:25Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-18T19:00:36Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,15 +104,24 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-18T18:57:58Z",
+    "updated_at": "2026-10-18T19:00:24Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T19:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 104,
+    "stars": 105,
     "updated_at": "2026-10-18T18:57:26Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -70,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T18:43:27Z",
     "url": "https://github.com/yousefkhaled2005/distributed-vector-engine"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-18T18:39:01Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T18:38:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Scala client for Pinecone vector database",
@@ -176,7 +248,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39256,
-    "updated_at": "2026-10-18T18:21:30Z",
+    "updated_at": "2026-10-18T19:14:41Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -232,15 +304,6 @@
     "stars": 23,
     "updated_at": "2026-10-18T18:11:43Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-18T18:10:21Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
@@ -333,21 +396,12 @@
     "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8303,
-    "updated_at": "2026-10-18T17:33:51Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 133,
-    "updated_at": "2026-10-18T17:32:28Z",
+    "updated_at": "2026-10-18T19:10:04Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/nambok/mentedb"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-18T17:30:06Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T17:27:08Z",
     "url": "https://github.com/ishandutta2007/Awesome-RAG-LLM-Data-Frameworks"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-18T17:23:15Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-18T17:12:38Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-18T17:06:34Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-18T17:26:12Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:52:11Z",
-    "url": "https://github.com/fenecdb/fenec"
   }
 ]
