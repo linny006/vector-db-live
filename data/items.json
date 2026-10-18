@@ -1,12 +1,30 @@
 [
   {
-    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
-    "id": "Nayjest/ai-microcore",
+    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
+    "id": "CaviraOSS/LongMemory",
+    "language": "TypeScript",
+    "name": "CaviraOSS/LongMemory",
+    "stars": 4541,
+    "updated_at": "2026-10-18T15:42:48Z",
+    "url": "https://github.com/CaviraOSS/LongMemory"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "Beverlyl589/developers-guide-to-ai",
     "language": "Python",
-    "name": "Nayjest/ai-microcore",
-    "stars": 108,
-    "updated_at": "2026-10-18T15:29:29Z",
-    "url": "https://github.com/Nayjest/ai-microcore"
+    "name": "Beverlyl589/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:42:09Z",
+    "url": "https://github.com/Beverlyl589/developers-guide-to-ai"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "daniel09368/developers-guide-to-ai",
+    "language": "Python",
+    "name": "daniel09368/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:41:14Z",
+    "url": "https://github.com/daniel09368/developers-guide-to-ai"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -14,8 +32,125 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-18T15:29:00Z",
+    "updated_at": "2026-10-18T15:41:48Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:38:06Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 2,
+    "updated_at": "2026-10-18T15:39:53Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "Watanabe28798/distill",
+    "language": "Go",
+    "name": "Watanabe28798/distill",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:35:53Z",
+    "url": "https://github.com/Watanabe28798/distill"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8247,
+    "updated_at": "2026-10-18T15:35:53Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "Python",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:35:48Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T15:34:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "aanderson33/vektori",
+    "language": "Python",
+    "name": "aanderson33/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:33:42Z",
+    "url": "https://github.com/aanderson33/vektori"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "mehmetlombardo/llmaker",
+    "language": "Go",
+    "name": "mehmetlombardo/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:32:55Z",
+    "url": "https://github.com/mehmetlombardo/llmaker"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "Donald693/llmaker",
+    "language": "Go",
+    "name": "Donald693/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:32:31Z",
+    "url": "https://github.com/Donald693/llmaker"
+  },
+  {
+    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
+    "id": "maniesh-lab/ragdocs",
+    "language": "Python",
+    "name": "maniesh-lab/ragdocs",
+    "stars": 0,
+    "updated_at": "2026-10-18T15:31:36Z",
+    "url": "https://github.com/maniesh-lab/ragdocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T15:30:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T15:30:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 108,
+    "updated_at": "2026-10-18T15:38:41Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
   },
   {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
@@ -50,7 +185,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T15:26:59Z",
+    "updated_at": "2026-10-18T15:44:02Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -81,33 +216,6 @@
     "url": "https://github.com/Hk-owo/stratum-vectordb"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8240,
-    "updated_at": "2026-10-18T15:17:52Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T15:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T15:30:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
@@ -135,24 +243,6 @@
     "url": "https://github.com/remenis-memory/remenis"
   },
   {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:10:41Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T15:07:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -160,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-10-18T15:06:57Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
-    "id": "aldyardnsyh/IntelligenceDocumentSystem",
-    "language": "Python",
-    "name": "aldyardnsyh/IntelligenceDocumentSystem",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:03:15Z",
-    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -205,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T14:54:28Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
-    "id": "maniesh-lab/ragdocs",
-    "language": "Python",
-    "name": "maniesh-lab/ragdocs",
-    "stars": 0,
-    "updated_at": "2026-10-18T14:53:09Z",
-    "url": "https://github.com/maniesh-lab/ragdocs"
   },
   {
     "description": "AI Enabled python FastApi project which analyzes the uploaded PDF using RAG and answers the questions asked. For the vec",
@@ -293,7 +365,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 119,
-    "updated_at": "2026-10-18T14:28:15Z",
+    "updated_at": "2026-10-18T15:34:13Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -301,7 +373,7 @@
     "id": "liliang-cn/cortexdb",
     "language": "Go",
     "name": "liliang-cn/cortexdb",
-    "stars": 453,
+    "stars": 454,
     "updated_at": "2026-10-18T14:23:54Z",
     "url": "https://github.com/liliang-cn/cortexdb"
   },
@@ -376,77 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-18T13:57:39Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-18T13:54:13Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "Production-grade RAG knowledge base system in Rust: hybrid retrieval (vector + full-text + knowledge graph), pluggable s",
-    "id": "haibingzhao/easyrag",
-    "language": "Rust",
-    "name": "haibingzhao/easyrag",
-    "stars": 2,
-    "updated_at": "2026-10-18T13:53:48Z",
-    "url": "https://github.com/haibingzhao/easyrag"
-  },
-  {
-    "description": "A Kafka-powered data pipeline that ingests The Movie Database daily exports, enriches them via the TMDB API, normalizes ",
-    "id": "teyfix/the-movie-pipeline",
-    "language": "CUE",
-    "name": "teyfix/the-movie-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:50:08Z",
-    "url": "https://github.com/teyfix/the-movie-pipeline"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39257,
-    "updated_at": "2026-10-18T15:24:57Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "T\u00fcrk\u00e7e fiziksel tarifle y\u00fcz arama: Gemini ile \u00e7eviri, CLIP + Qdrant anlamsal arama, FastAPI backend ve Telegram Mini App",
-    "id": "fazliddin-hamdam/faceidf.ai",
-    "language": "Python",
-    "name": "fazliddin-hamdam/faceidf.ai",
-    "stars": 0,
-    "updated_at": "2026-10-18T13:46:20Z",
-    "url": "https://github.com/fazliddin-hamdam/faceidf.ai"
-  },
-  {
-    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
-    "id": "joydeep-07/Lens-LM",
-    "language": "JavaScript",
-    "name": "joydeep-07/Lens-LM",
-    "stars": 1,
-    "updated_at": "2026-10-18T13:40:26Z",
-    "url": "https://github.com/joydeep-07/Lens-LM"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents and audio or video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 371,
-    "updated_at": "2026-10-18T13:40:25Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-18T13:36:40Z",
-    "url": "https://github.com/Cognipeer/console"
   }
 ]
