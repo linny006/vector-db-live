@@ -5,13 +5,157 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T20:00:19Z",
+    "updated_at": "2026-10-18T20:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 7,
+    "updated_at": "2026-10-18T20:14:57Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) based AI-powered tax question-answering application",
+    "id": "kazisola/TaxxQ",
+    "language": "Python",
+    "name": "kazisola/TaxxQ",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:14:36Z",
+    "url": "https://github.com/kazisola/TaxxQ"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8316,
+    "updated_at": "2026-10-18T20:13:46Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:13:27Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-18T20:10:38Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "UrsulaLacroix/VectorRAG.Net",
+    "language": "C#",
+    "name": "UrsulaLacroix/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:09:21Z",
+    "url": "https://github.com/UrsulaLacroix/VectorRAG.Net"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "Carlos3218/VectorRAG.Net",
+    "language": "C#",
+    "name": "Carlos3218/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:09:11Z",
+    "url": "https://github.com/Carlos3218/VectorRAG.Net"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T20:07:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-18T20:07:35Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-18T20:07:24Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "DangChristou/vektori",
+    "language": "Python",
+    "name": "DangChristou/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:03:20Z",
+    "url": "https://github.com/DangChristou/vektori"
+  },
+  {
+    "description": "Text chunking library for splitting strings into size-limited segments with overlap.",
+    "id": "gurre/chunker",
+    "language": "Go",
+    "name": "gurre/chunker",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:02:58Z",
+    "url": "https://github.com/gurre/chunker"
+  },
+  {
+    "description": "Streaming RAG chatbot over personal documents - live at ask.danieltrindade.dev (Next.js, Vercel AI SDK, Supabase pgvecto",
+    "id": "DanielTrindade/ask-me-rag",
+    "language": "TypeScript",
+    "name": "DanielTrindade/ask-me-rag",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:02:23Z",
+    "url": "https://github.com/DanielTrindade/ask-me-rag"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "Jans35190/developers-guide-to-ai",
+    "language": "Python",
+    "name": "Jans35190/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:01:17Z",
+    "url": "https://github.com/Jans35190/developers-guide-to-ai"
+  },
+  {
+    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-10-18T20:00:38Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T20:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
     "id": "luciagray00/rag-interview-system",
-    "language": "\u2014",
+    "language": "Jupyter Notebook",
     "name": "luciagray00/rag-interview-system",
     "stars": 0,
     "updated_at": "2026-10-18T20:00:03Z",
@@ -31,7 +175,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35127,
+    "stars": 35128,
     "updated_at": "2026-10-18T19:55:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -43,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T19:55:17Z",
     "url": "https://github.com/evgenykhan70431/vektori"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8315,
-    "updated_at": "2026-10-18T20:00:06Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
@@ -72,15 +207,6 @@
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
   },
   {
-    "description": "Streaming RAG chatbot over personal documents - live at ask.danieltrindade.dev (Next.js, Vercel AI SDK, Supabase pgvecto",
-    "id": "DanielTrindade/ask-me-rag",
-    "language": "TypeScript",
-    "name": "DanielTrindade/ask-me-rag",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:53:19Z",
-    "url": "https://github.com/DanielTrindade/ask-me-rag"
-  },
-  {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
     "id": "nAlekseev85/developers-guide-to-ai",
     "language": "Python",
@@ -97,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T19:47:37Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T19:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "API platform info for machine-learning",
@@ -171,15 +288,6 @@
     "url": "https://github.com/Hiroshia97/VectorRAG.Net"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T19:33:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "mricci5585/llmaker",
     "language": "Go",
@@ -212,7 +320,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T19:49:44Z",
+    "updated_at": "2026-10-18T20:09:17Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -283,7 +391,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39257,
+    "stars": 39258,
     "updated_at": "2026-10-18T19:14:41Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -320,7 +428,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1206,
-    "updated_at": "2026-10-18T19:59:16Z",
+    "updated_at": "2026-10-18T20:13:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 106,
     "updated_at": "2026-10-18T18:57:26Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9410,
-    "updated_at": "2026-10-18T18:54:05Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "IntelliQA is a production-oriented Retrieval Augmented Generation (RAG) backend for grounded question answering over pri",
-    "id": "abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence",
-    "language": "HTML",
-    "name": "abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence",
-    "stars": 2,
-    "updated_at": "2026-10-18T18:52:39Z",
-    "url": "https://github.com/abhijitdeshpande83/IntelliQA-RAG-Powered-Document-Intelligence"
-  },
-  {
-    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:49:00Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8388,
-    "updated_at": "2026-10-18T18:46:08Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-18T18:43:30Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "High-performance distributed vector database & embedding search engine in Rust, Python, TypeScript, and Go with SIMD HNS",
-    "id": "yousefkhaled2005/distributed-vector-engine",
-    "language": "Rust",
-    "name": "yousefkhaled2005/distributed-vector-engine",
-    "stars": 1,
-    "updated_at": "2026-10-18T18:43:27Z",
-    "url": "https://github.com/yousefkhaled2005/distributed-vector-engine"
-  },
-  {
-    "description": "Scala client for Pinecone vector database",
-    "id": "cequence-io/pinecone-scala",
-    "language": "Scala",
-    "name": "cequence-io/pinecone-scala",
-    "stars": 19,
-    "updated_at": "2026-10-18T18:38:15Z",
-    "url": "https://github.com/cequence-io/pinecone-scala"
-  },
-  {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
-    "language": "Rust",
-    "name": "Mid-D-Man/msx",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:35:48Z",
-    "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-10-18T18:34:31Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Local RAG prototype for restaurant review Q&A using Python, LangChain, Ollama, Llama 3.2, and Chroma vector search.",
-    "id": "waistarek/Local_AI_Agent_01",
-    "language": "Python",
-    "name": "waistarek/Local_AI_Agent_01",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:33:44Z",
-    "url": "https://github.com/waistarek/Local_AI_Agent_01"
-  },
-  {
-    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:32:26Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "Vector search at SIMD speed. One Rust engine, phone to cloud. AI-native, vector-first, multimodal database.",
-    "id": "sshbrian/kestrel",
-    "language": "Rust",
-    "name": "sshbrian/kestrel",
-    "stars": 0,
-    "updated_at": "2026-10-18T18:32:24Z",
-    "url": "https://github.com/sshbrian/kestrel"
   }
 ]
