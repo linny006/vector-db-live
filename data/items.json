@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T16:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1206,
+    "updated_at": "2026-10-18T16:45:00Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-18T16:44:40Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-18T16:43:40Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T16:41:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\u53ef\u8fd0\u884c\u7684 RAG \u540e\u7aef\uff1a\u7ed3\u6784\u611f\u77e5\u5207\u5206 + \u5411\u91cf/BM25 \u6df7\u5408\u68c0\u7d22 + RRF \u878d\u5408 + \u56db\u4fe1\u53f7\u91cd\u6392\uff0c\u670d\u52a1\u7aef\u6821\u9a8c\u5f15\u7528\u8d8a\u754c\uff0c\u68c0\u7d22\u4e3a\u7a7a\u65f6\u4e0d\u8c03\u7528\u5927\u6a21\u578b\u3002FastAPI \u00b7 Chroma \u00b7 BGE \u00b7 Docker \u00b7 30 \u9879\u6d4b\u8bd5\u3002",
     "id": "zyx4303/autorag",
     "language": "Python",
@@ -72,33 +117,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-18T16:33:56Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T16:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T16:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
     "id": "aldyardnsyh/IntelligenceDocumentSystem",
     "language": "Python",
@@ -126,15 +144,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1206,
-    "updated_at": "2026-10-18T16:20:00Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
     "id": "vicquick/nobrainr",
     "language": "Python",
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-10-18T16:13:04Z",
+    "updated_at": "2026-10-18T16:44:41Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -184,7 +193,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8266,
+    "stars": 8267,
     "updated_at": "2026-10-18T16:07:29Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -331,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T15:41:14Z",
     "url": "https://github.com/daniel09368/developers-guide-to-ai"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-18T15:38:06Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
   },
   {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
