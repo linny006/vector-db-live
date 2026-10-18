@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-18T09:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8061,
-    "updated_at": "2026-10-18T08:44:35Z",
+    "stars": 8068,
+    "updated_at": "2026-10-18T08:59:39Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "RAG \u77e5\u8bc6\u5e93\u95ee\u7b54 + \u5de5\u5177\u8c03\u7528 Agent\uff1a\u6df7\u5408\u68c0\u7d22(BM25+\u5411\u91cf+RRF) + Cross-Encoder \u91cd\u6392 + \u7ae0\u8282\u7ea7\u5f15\u7528 + \u4e3b\u52a8\u62d2\u7b54\uff1b169 \u4e2a\u79bb\u7ebf\u5355\u6d4b\u3002Hit@1 0.657 / MRR 0.806\uff0c\u5fe0\u5b9e\u5ea6\u4e0e\u5f15\u7528\u6b63\u786e\u6027 5",
+    "id": "kanochan1224/ai-app-lab",
+    "language": "Python",
+    "name": "kanochan1224/ai-app-lab",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:58:51Z",
+    "url": "https://github.com/kanochan1224/ai-app-lab"
+  },
+  {
+    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
+    "id": "IdoY12/awesome-free-ai-apis",
+    "language": "JavaScript",
+    "name": "IdoY12/awesome-free-ai-apis",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:55:14Z",
+    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-18T08:52:10Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
@@ -43,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T08:43:46Z",
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -193,7 +220,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39251,
+    "stars": 39252,
     "updated_at": "2026-10-18T07:07:51Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-18T05:23:05Z",
     "url": "https://github.com/Bhanu-danda/Enterprise_Knowledge_Assistant"
-  },
-  {
-    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
-    "id": "Thisen-Ekanayake/Athena",
-    "language": "Python",
-    "name": "Thisen-Ekanayake/Athena",
-    "stars": 1,
-    "updated_at": "2026-10-18T05:19:03Z",
-    "url": "https://github.com/Thisen-Ekanayake/Athena"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40211,
-    "updated_at": "2026-10-18T05:17:32Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "kGonzalez03878/LLMFlex",
-    "language": "Python",
-    "name": "kGonzalez03878/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-18T05:14:46Z",
-    "url": "https://github.com/kGonzalez03878/LLMFlex"
   }
 ]
