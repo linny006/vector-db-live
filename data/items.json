@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-18T02:30:19Z",
+    "updated_at": "2026-10-18T02:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -13,9 +13,45 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 7852,
-    "updated_at": "2026-10-18T02:30:15Z",
+    "stars": 7858,
+    "updated_at": "2026-10-18T02:44:58Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-18T02:40:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-18T02:39:26Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-18T02:38:06Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-18T02:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Semantic caching playground with AI providers, embeddings, benchmarking, and explainable cache retrieval.",
@@ -32,17 +68,8 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-18T02:23:53Z",
+    "updated_at": "2026-10-18T02:31:33Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T02:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -54,15 +81,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-18T02:11:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
     "id": "xl3v3r/hermes-oracle-memory",
     "language": "Python",
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T02:11:29Z",
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-10-18T02:11:08Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
     "description": "- ",
@@ -194,7 +203,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-18T02:14:21Z",
+    "updated_at": "2026-10-18T02:36:41Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -279,15 +288,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-17T23:46:30Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -365,7 +365,7 @@
     "language": "Rust",
     "name": "piotrwozn/multidb",
     "stars": 0,
-    "updated_at": "2026-10-18T02:27:45Z",
+    "updated_at": "2026-10-18T02:43:00Z",
     "url": "https://github.com/piotrwozn/multidb"
   },
   {
