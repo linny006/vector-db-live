@@ -1,5 +1,86 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-19T08:45:07Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6242,
+    "updated_at": "2026-10-19T08:43:45Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40311,
+    "updated_at": "2026-10-19T08:42:07Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-19T08:41:44Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
+    "id": "ompatel3158/ULTSQL",
+    "language": "Dart",
+    "name": "ompatel3158/ULTSQL",
+    "stars": 2,
+    "updated_at": "2026-10-19T08:40:33Z",
+    "url": "https://github.com/ompatel3158/ULTSQL"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 119,
+    "updated_at": "2026-10-19T08:39:46Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-19T08:34:40Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T08:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T08:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
     "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
@@ -18,22 +99,13 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-19T08:25:56Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-19T08:25:19Z",
-    "url": "https://github.com/nambok/mentedb"
+    "name": "topoteretes/cognee",
+    "stars": 32521,
+    "updated_at": "2026-10-19T08:28:04Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -41,7 +113,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-19T08:23:08Z",
+    "updated_at": "2026-10-19T08:41:16Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -90,42 +162,6 @@
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T08:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T08:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-19T08:16:35Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40308,
-    "updated_at": "2026-10-19T08:11:42Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -149,17 +185,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-19T08:26:11Z",
+    "updated_at": "2026-10-19T08:42:34Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-19T08:04:55Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
     "description": "Arabic and English RAG question answering API with FastAPI, MongoDB, Qdrant and a chat UI",
@@ -212,7 +239,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2056,
-    "updated_at": "2026-10-19T07:48:47Z",
+    "updated_at": "2026-10-19T08:41:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -220,18 +247,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8698,
+    "stars": 8705,
     "updated_at": "2026-10-19T07:40:12Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
-    "id": "ompatel3158/ULTSQL",
-    "language": "Dart",
-    "name": "ompatel3158/ULTSQL",
-    "stars": 2,
-    "updated_at": "2026-10-19T07:39:33Z",
-    "url": "https://github.com/ompatel3158/ULTSQL"
   },
   {
     "description": "The AI search platform",
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35134,
-    "updated_at": "2026-10-19T08:25:54Z",
+    "updated_at": "2026-10-19T08:39:31Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T06:16:08Z",
     "url": "https://github.com/camila67027/distill"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "maas0200/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "maas0200/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:14:02Z",
-    "url": "https://github.com/maas0200/rag-interview-system"
-  },
-  {
-    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
-    "id": "Aashutosh31/arc-ai-project",
-    "language": "JavaScript",
-    "name": "Aashutosh31/arc-ai-project",
-    "stars": 2,
-    "updated_at": "2026-10-19T06:07:54Z",
-    "url": "https://github.com/Aashutosh31/arc-ai-project"
   }
 ]
