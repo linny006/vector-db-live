@@ -1,11 +1,38 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T23:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-19T22:59:30Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-19T22:58:35Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
     "description": "Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python +",
     "id": "Polign/recall",
     "language": "Go",
     "name": "Polign/recall",
     "stars": 2,
-    "updated_at": "2026-10-19T22:45:17Z",
+    "updated_at": "2026-10-19T22:57:46Z",
     "url": "https://github.com/Polign/recall"
   },
   {
@@ -13,9 +40,45 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 10480,
-    "updated_at": "2026-10-19T22:44:21Z",
+    "stars": 10486,
+    "updated_at": "2026-10-19T22:55:58Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9416,
+    "updated_at": "2026-10-19T22:54:56Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-19T22:49:55Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 65,
+    "updated_at": "2026-10-19T22:50:16Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T22:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -36,15 +99,6 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-19T22:43:56Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -63,31 +117,13 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T22:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T22:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 65,
-    "updated_at": "2026-10-19T22:22:36Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8392,
+    "updated_at": "2026-10-19T22:58:39Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "100% on-device private AI & multimodal studio for Android. Run up to 8B LLMs, Latent Diffusion, Vector RAG & Whisper loc",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35141,
-    "updated_at": "2026-10-19T21:28:03Z",
+    "updated_at": "2026-10-19T22:52:58Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11706,
-    "updated_at": "2026-10-19T22:36:27Z",
+    "updated_at": "2026-10-19T22:54:28Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T21:21:50Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8392,
-    "updated_at": "2026-10-19T22:14:28Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
@@ -261,15 +288,6 @@
     "url": "https://github.com/Thao3698/llmaker"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9416,
-    "updated_at": "2026-10-19T22:33:18Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-19T22:44:49Z",
+    "updated_at": "2026-10-19T22:58:45Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-19T20:05:24Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
     "id": "diegoglozano/revector",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-19T20:01:31Z",
     "url": "https://github.com/diegoglozano/revector"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-19T19:58:40Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   }
 ]
