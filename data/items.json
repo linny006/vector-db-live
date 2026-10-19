@@ -5,15 +5,69 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T14:30:22Z",
+    "updated_at": "2026-10-19T14:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T14:38:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35139,
+    "updated_at": "2026-10-19T14:37:55Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-19T14:37:06Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6242,
+    "updated_at": "2026-10-19T14:35:26Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-19T14:31:28Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T14:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
     "id": "kldhsh123/Afterglow",
     "language": "Python",
     "name": "kldhsh123/Afterglow",
-    "stars": 317,
+    "stars": 316,
     "updated_at": "2026-10-19T14:25:31Z",
     "url": "https://github.com/kldhsh123/Afterglow"
   },
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-19T14:24:51Z",
+    "updated_at": "2026-10-19T14:39:27Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -63,30 +117,12 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T14:21:02Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35138,
-    "updated_at": "2026-10-19T14:20:46Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32538,
-    "updated_at": "2026-10-19T14:17:15Z",
+    "updated_at": "2026-10-19T14:37:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -112,7 +148,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8854,
+    "stars": 8864,
     "updated_at": "2026-10-19T14:14:03Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -153,15 +189,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T14:09:27Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI-RECON is a specialized reconnaissance tool designed to identify, fingerprint, and enumerate AI/ML infrastructure. It ",
     "id": "giriaryan694-a11y/ai-recon",
     "language": "Python",
@@ -187,6 +214,15 @@
     "stars": 355,
     "updated_at": "2026-10-19T14:01:17Z",
     "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59610,
+    "updated_at": "2026-10-19T13:57:40Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Learn basic to advance concept  and also understand the Production grade Concept and build Production Grade Product not ",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 124,
-    "updated_at": "2026-10-19T13:44:08Z",
+    "updated_at": "2026-10-19T14:35:36Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T13:29:51Z",
     "url": "https://github.com/ry-ops/commit-relay"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "Python",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-19T13:29:08Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "A full-stack Retrieval-Augmented Generation (RAG) AI System for Vietnamese Traffic Laws featuring Hybrid Search (BM25 + ",
@@ -311,26 +338,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4443,
-    "updated_at": "2026-10-19T14:16:58Z",
+    "updated_at": "2026-10-19T14:42:12Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6242,
-    "updated_at": "2026-10-19T14:27:56Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59609,
-    "updated_at": "2026-10-19T13:57:40Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "AI optimized PostgreSQL Platform, built on CNPG, Crossplane and Backstage. Teams order production-ready PostgreSQL clust",
@@ -383,7 +392,7 @@
     "language": "JavaScript",
     "name": "Aashutosh31/arc-ai-project",
     "stars": 2,
-    "updated_at": "2026-10-19T12:30:15Z",
+    "updated_at": "2026-10-19T14:42:17Z",
     "url": "https://github.com/Aashutosh31/arc-ai-project"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T12:17:35Z",
     "url": "https://github.com/maniesh-lab/ragdocs"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 16127,
-    "updated_at": "2026-10-19T12:16:05Z",
-    "url": "https://github.com/alibaba/zvec"
   }
 ]
