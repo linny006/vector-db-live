@@ -1,12 +1,57 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13266,
+    "updated_at": "2026-10-19T14:17:02Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-19T14:16:08Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-19T14:15:18Z",
+    "updated_at": "2026-10-19T14:17:09Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T14:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T14:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8850,
+    "updated_at": "2026-10-19T14:14:03Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 119,
-    "updated_at": "2026-10-19T14:13:53Z",
+    "updated_at": "2026-10-19T14:20:59Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1207,
-    "updated_at": "2026-10-19T14:03:27Z",
+    "updated_at": "2026-10-19T14:17:54Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -97,42 +142,6 @@
     "stars": 355,
     "updated_at": "2026-10-19T14:01:17Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-19T14:09:46Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T14:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T14:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8848,
-    "updated_at": "2026-10-19T14:14:03Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Learn basic to advance concept  and also understand the Production grade Concept and build Production Grade Product not ",
@@ -203,7 +212,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35137,
-    "updated_at": "2026-10-19T14:11:06Z",
+    "updated_at": "2026-10-19T14:20:46Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4443,
-    "updated_at": "2026-10-19T13:43:20Z",
+    "updated_at": "2026-10-19T14:16:58Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-19T14:15:05Z",
+    "updated_at": "2026-10-19T14:20:40Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32536,
-    "updated_at": "2026-10-19T12:16:02Z",
+    "updated_at": "2026-10-19T14:17:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 26,
     "updated_at": "2026-10-19T12:45:35Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 388,
-    "updated_at": "2026-10-19T12:11:45Z",
-    "url": "https://github.com/zilliztech/knowhere"
   }
 ]
