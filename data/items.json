@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-19T10:14:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8747,
+    "updated_at": "2026-10-19T10:14:53Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
+    "id": "eminsk/nanovector",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T10:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "eminsk/nanovector",
+    "stars": 7,
+    "updated_at": "2026-10-19T10:14:49Z",
+    "url": "https://github.com/eminsk/nanovector"
   },
   {
     "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
@@ -14,15 +32,78 @@
     "language": "Python",
     "name": "AliZahiri/ai-rag-platform-blueprint",
     "stars": 0,
-    "updated_at": "2026-10-19T09:59:23Z",
+    "updated_at": "2026-10-19T10:14:32Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T10:08:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-19T10:08:00Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2021,
+    "updated_at": "2026-10-19T10:02:42Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40321,
+    "updated_at": "2026-10-19T10:01:24Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
+    "id": "IdoY12/awesome-free-ai-apis",
+    "language": "JavaScript",
+    "name": "IdoY12/awesome-free-ai-apis",
+    "stars": 1,
+    "updated_at": "2026-10-19T10:01:17Z",
+    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T10:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T10:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46426,
+    "stars": 46427,
     "updated_at": "2026-10-19T09:57:51Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -36,39 +117,12 @@
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8737,
-    "updated_at": "2026-10-19T10:00:05Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2021,
-    "updated_at": "2026-10-19T09:54:02Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40320,
-    "updated_at": "2026-10-19T09:51:41Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8389,
-    "updated_at": "2026-10-19T09:50:58Z",
+    "updated_at": "2026-10-19T10:00:55Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -97,24 +151,6 @@
     "stars": 1765,
     "updated_at": "2026-10-19T09:46:37Z",
     "url": "https://github.com/tickernelz/opencode-mem"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T09:45:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T09:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
@@ -153,21 +189,12 @@
     "url": "https://github.com/AgvanTsydypov/RAG-agent"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-19T09:31:00Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35135,
-    "updated_at": "2026-10-19T09:44:31Z",
+    "updated_at": "2026-10-19T10:12:48Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32525,
-    "updated_at": "2026-10-19T08:28:04Z",
+    "updated_at": "2026-10-19T10:09:56Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-19T08:41:09Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T07:28:48Z",
     "url": "https://github.com/Uditp11/vectordb-from-scratch"
-  },
-  {
-    "description": "Production-ready RAG framework for Python \u2014 multi-tenant chatbots with streaming, tool calling, agent mode (LangGraph), ",
-    "id": "ENDEVSOLS/Long-Trainer",
-    "language": "Python",
-    "name": "ENDEVSOLS/Long-Trainer",
-    "stars": 30,
-    "updated_at": "2026-10-19T07:19:34Z",
-    "url": "https://github.com/ENDEVSOLS/Long-Trainer"
-  },
-  {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Mojo",
-    "name": "pavelhorak/pion",
-    "stars": 1,
-    "updated_at": "2026-10-19T07:19:10Z",
-    "url": "https://github.com/pavelhorak/pion"
   }
 ]
