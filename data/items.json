@@ -1,5 +1,104 @@
 [
   {
+    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
+    "id": "ompatel3158/ULTSQL",
+    "language": "Dart",
+    "name": "ompatel3158/ULTSQL",
+    "stars": 2,
+    "updated_at": "2026-10-19T07:15:16Z",
+    "url": "https://github.com/ompatel3158/ULTSQL"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 119,
+    "updated_at": "2026-10-19T07:15:02Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46424,
+    "updated_at": "2026-10-19T07:11:51Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-19T07:15:10Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-19T07:09:41Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13261,
+    "updated_at": "2026-10-19T07:06:52Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:06:58Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T07:06:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-19T07:13:30Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 867,
+    "updated_at": "2026-10-19T07:00:55Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T07:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,31 +117,13 @@
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-19T06:57:57Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8655,
+    "stars": 8662,
     "updated_at": "2026-10-19T06:57:39Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-19T06:57:04Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -52,33 +133,6 @@
     "stars": 40295,
     "updated_at": "2026-10-19T06:54:42Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46423,
-    "updated_at": "2026-10-19T06:51:51Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T06:51:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-19T06:47:20Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
@@ -104,17 +158,8 @@
     "language": "Rust",
     "name": "piotrwozn/multidb",
     "stars": 0,
-    "updated_at": "2026-10-19T06:51:50Z",
+    "updated_at": "2026-10-19T07:15:03Z",
     "url": "https://github.com/piotrwozn/multidb"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 867,
-    "updated_at": "2026-10-19T06:54:41Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
     "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
@@ -178,15 +223,6 @@
     "stars": 35133,
     "updated_at": "2026-10-19T06:57:57Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T06:19:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
@@ -387,15 +423,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-19T05:31:31Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
     "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
     "id": "ry-ops/commit-relay",
     "language": "Shell",
@@ -421,32 +448,5 @@
     "stars": 11699,
     "updated_at": "2026-10-19T06:47:44Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32513,
-    "updated_at": "2026-10-19T05:14:14Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-19T05:12:48Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-19T05:08:07Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   }
 ]
