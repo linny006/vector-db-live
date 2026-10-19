@@ -5,17 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T02:30:19Z",
+    "updated_at": "2026-10-19T02:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46420,
+    "updated_at": "2026-10-19T02:41:51Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-19T02:40:08Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16123,
+    "updated_at": "2026-10-19T02:36:44Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
     "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8503,
-    "updated_at": "2026-10-19T02:28:51Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "name": "databendlabs/databend",
+    "stars": 9471,
+    "updated_at": "2026-10-19T02:36:31Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-10-19T02:31:37Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40268,
+    "updated_at": "2026-10-19T02:30:55Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-19T02:15:25Z",
+    "updated_at": "2026-10-19T02:30:24Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8517,
+    "updated_at": "2026-10-19T02:44:50Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -34,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-10-19T02:14:53Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9471,
-    "updated_at": "2026-10-19T02:26:48Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T01:42:17Z",
     "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
-  },
-  {
-    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
-    "id": "LuisinTheLegend/ConciergeGraph",
-    "language": "Python",
-    "name": "LuisinTheLegend/ConciergeGraph",
-    "stars": 1,
-    "updated_at": "2026-10-19T01:35:51Z",
-    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -158,17 +194,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-19T00:44:40Z",
+    "updated_at": "2026-10-19T02:38:25Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40268,
-    "updated_at": "2026-10-19T00:44:03Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -216,15 +243,6 @@
     "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-18T23:56:45Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -266,7 +284,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 911,
-    "updated_at": "2026-10-19T02:28:16Z",
+    "updated_at": "2026-10-19T02:44:48Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -274,7 +292,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32503,
+    "stars": 32504,
     "updated_at": "2026-10-18T23:23:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -400,7 +418,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35130,
+    "stars": 35131,
     "updated_at": "2026-10-18T21:48:47Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T21:27:27Z",
     "url": "https://github.com/1nc0gn30/vector-search-engine"
-  },
-  {
-    "description": "Self-hosted RAG chatbot that answers questions about my career. FastAPI, Qdrant, Ollama. No third-party LLM APIs.",
-    "id": "kdraggoo/chatbot",
-    "language": "Python",
-    "name": "kdraggoo/chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:26:07Z",
-    "url": "https://github.com/kdraggoo/chatbot"
-  },
-  {
-    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
-    "id": "api-evangelist/chroma",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:25:46Z",
-    "url": "https://github.com/api-evangelist/chroma"
   }
 ]
