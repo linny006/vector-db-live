@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T00:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "GenAI-powered conversational fashion outfit generator. Social trends meet 44k+ products. Elevate style with personalized",
+    "id": "Devang-Shah-49/flipchat-fabric",
+    "language": "Jupyter Notebook",
+    "name": "Devang-Shah-49/flipchat-fabric",
+    "stars": 0,
+    "updated_at": "2026-10-19T00:12:15Z",
+    "url": "https://github.com/Devang-Shah-49/flipchat-fabric"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8389,
+    "updated_at": "2026-10-19T00:08:33Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-10-19T00:00:46Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T00:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T23:58:38Z",
     "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8376,
-    "updated_at": "2026-10-18T23:57:27Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -59,7 +95,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-18T23:52:27Z",
+    "updated_at": "2026-10-19T00:08:34Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -68,35 +104,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-18T23:54:51Z",
+    "updated_at": "2026-10-19T00:06:09Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-18T23:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T00:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:56:49Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
   },
   {
     "description": "",
@@ -131,7 +140,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 911,
-    "updated_at": "2026-10-18T23:57:29Z",
+    "updated_at": "2026-10-19T00:12:53Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T20:47:46Z",
     "url": "https://github.com/MariaFlores8721/LLMFlex"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "Stephanie9690/vektori",
-    "language": "Python",
-    "name": "Stephanie9690/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:45:21Z",
-    "url": "https://github.com/Stephanie9690/vektori"
   }
 ]
