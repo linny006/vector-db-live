@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T13:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-19T13:44:08Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T13:43:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1207,
+    "updated_at": "2026-10-19T13:33:36Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8834,
+    "updated_at": "2026-10-19T13:31:47Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T13:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
     "id": "ry-ops/commit-relay",
     "language": "Shell",
@@ -18,12 +72,21 @@
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35137,
+    "updated_at": "2026-10-19T13:24:52Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 119,
-    "updated_at": "2026-10-19T13:24:32Z",
+    "updated_at": "2026-10-19T13:31:43Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -45,21 +108,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T13:20:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-19T13:22:05Z",
+    "updated_at": "2026-10-19T13:42:37Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -81,40 +135,13 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T13:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T13:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40331,
-    "updated_at": "2026-10-19T13:13:33Z",
+    "stars": 40332,
+    "updated_at": "2026-10-19T13:41:39Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8824,
-    "updated_at": "2026-10-19T13:26:48Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
@@ -153,15 +180,6 @@
     "url": "https://github.com/wawanwidiantara/local-docker-stacks"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1207,
-    "updated_at": "2026-10-19T13:01:32Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
     "id": "davidfernxndez/github-repository-rag",
     "language": "Jupyter Notebook",
@@ -176,7 +194,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4443,
-    "updated_at": "2026-10-19T13:04:59Z",
+    "updated_at": "2026-10-19T13:43:20Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -185,8 +203,17 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-19T13:10:43Z",
+    "updated_at": "2026-10-19T13:42:52Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59608,
+    "updated_at": "2026-10-19T12:55:12Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "AI optimized PostgreSQL Platform, built on CNPG, Crossplane and Backstage. Teams order production-ready PostgreSQL clust",
@@ -239,7 +266,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8390,
-    "updated_at": "2026-10-19T13:22:41Z",
+    "updated_at": "2026-10-19T13:37:50Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -248,7 +275,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-19T13:24:50Z",
+    "updated_at": "2026-10-19T13:44:31Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T12:30:15Z",
     "url": "https://github.com/Aashutosh31/arc-ai-project"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35136,
-    "updated_at": "2026-10-19T13:24:52Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
@@ -337,7 +355,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32535,
+    "stars": 32536,
     "updated_at": "2026-10-19T12:16:02Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 13,
     "updated_at": "2026-10-19T11:56:33Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 4,
-    "updated_at": "2026-10-19T11:53:39Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "CAE is an enterprise-grade RAG system for software architecture exploration and knowledge management. It pairs local LLM",
-    "id": "D-WhiteDevil29/CAE_Conversational-Architecture-Explorer",
-    "language": "JavaScript",
-    "name": "D-WhiteDevil29/CAE_Conversational-Architecture-Explorer",
-    "stars": 1,
-    "updated_at": "2026-10-19T11:53:30Z",
-    "url": "https://github.com/D-WhiteDevil29/CAE_Conversational-Architecture-Explorer"
   }
 ]
