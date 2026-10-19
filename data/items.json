@@ -1,11 +1,128 @@
 [
   {
+    "description": "100% on-device private AI & multimodal studio for Android. Run up to 8B LLMs, Latent Diffusion, Vector RAG & Whisper loc",
+    "id": "Jaykumar122/ThinkpocketAI",
+    "language": "HTML",
+    "name": "Jaykumar122/ThinkpocketAI",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:45:14Z",
+    "url": "https://github.com/Jaykumar122/ThinkpocketAI"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2376,
+    "updated_at": "2026-10-19T20:42:00Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67325,
+    "updated_at": "2026-10-19T20:41:06Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-10-19T20:40:27Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T20:38:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7133,
+    "updated_at": "2026-10-19T20:42:39Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "SomjaiWagner/llmaker",
+    "language": "Go",
+    "name": "SomjaiWagner/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:35:49Z",
+    "url": "https://github.com/SomjaiWagner/llmaker"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:35:31Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
+    "id": "verygoodplugins/automem",
+    "language": "Python",
+    "name": "verygoodplugins/automem",
+    "stars": 821,
+    "updated_at": "2026-10-19T20:35:20Z",
+    "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11706,
+    "updated_at": "2026-10-19T20:39:07Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 10438,
+    "updated_at": "2026-10-19T20:35:04Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-19T20:42:00Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T20:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T20:30:21Z",
+    "updated_at": "2026-10-19T20:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,15 +153,6 @@
     "url": "https://github.com/ricmed/zettel_app"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-19T20:26:18Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -72,15 +180,6 @@
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 10430,
-    "updated_at": "2026-10-19T20:23:12Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
     "id": "ChromaDotNet/ChromaDB.Local",
     "language": "C#",
@@ -99,31 +198,13 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T20:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1209,
-    "updated_at": "2026-10-19T20:27:21Z",
+    "updated_at": "2026-10-19T20:41:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67323,
-    "updated_at": "2026-10-19T20:12:46Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -135,21 +216,12 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T20:09:01Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
     "id": "pixeltable/pixeltable",
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1641,
-    "updated_at": "2026-10-19T20:07:38Z",
+    "updated_at": "2026-10-19T20:44:51Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -158,7 +230,7 @@
     "language": "TypeScript",
     "name": "sajid-nazir/Papyrus",
     "stars": 0,
-    "updated_at": "2026-10-19T20:06:03Z",
+    "updated_at": "2026-10-19T20:38:31Z",
     "url": "https://github.com/sajid-nazir/Papyrus"
   },
   {
@@ -216,15 +288,6 @@
     "url": "https://github.com/Kric123/rag-eval-harness"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11706,
-    "updated_at": "2026-10-19T19:47:34Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -266,7 +329,7 @@
     "language": "Go",
     "name": "genkit-ai/genkit",
     "stars": 6532,
-    "updated_at": "2026-10-19T19:25:01Z",
+    "updated_at": "2026-10-19T20:33:48Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -279,21 +342,12 @@
     "url": "https://github.com/datris/datris-platform-oss"
   },
   {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:14:28Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9415,
-    "updated_at": "2026-10-19T20:11:43Z",
+    "updated_at": "2026-10-19T20:44:07Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -340,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T19:01:07Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2376,
-    "updated_at": "2026-10-19T18:59:44Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T18:17:36Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:15:47Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39305,
-    "updated_at": "2026-10-19T18:14:08Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "An AI-powered study assistant built with Next.js, Node.js, and OpenAI/Gemini. Features a RAG pipeline for context-aware ",
-    "id": "Karan-1108/NoteGenie",
-    "language": "TypeScript",
-    "name": "Karan-1108/NoteGenie",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:11:10Z",
-    "url": "https://github.com/Karan-1108/NoteGenie"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-19T18:09:03Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-10-19T18:08:20Z",
-    "url": "https://github.com/theogony-project/theogony"
   }
 ]
