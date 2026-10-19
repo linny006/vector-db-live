@@ -1,11 +1,110 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-19T21:14:57Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-19T21:14:01Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 10451,
+    "updated_at": "2026-10-19T21:12:44Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
+    "id": "sajid-nazir/Papyrus",
+    "language": "TypeScript",
+    "name": "sajid-nazir/Papyrus",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:11:40Z",
+    "url": "https://github.com/sajid-nazir/Papyrus"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "ValerieKaramanlis/developers-guide-to-ai",
+    "language": "Python",
+    "name": "ValerieKaramanlis/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:11:29Z",
+    "url": "https://github.com/ValerieKaramanlis/developers-guide-to-ai"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "Thao3698/llmaker",
+    "language": "Go",
+    "name": "Thao3698/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:10:23Z",
+    "url": "https://github.com/Thao3698/llmaker"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T21:07:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9416,
+    "updated_at": "2026-10-19T21:03:53Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-19T21:03:09Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
+    "id": "ness-e/Vantadb",
+    "language": "Rust",
+    "name": "ness-e/Vantadb",
+    "stars": 2,
+    "updated_at": "2026-10-19T21:07:48Z",
+    "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T21:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T21:00:19Z",
+    "updated_at": "2026-10-19T21:15:26Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +113,7 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 65,
-    "updated_at": "2026-10-19T20:59:42Z",
+    "updated_at": "2026-10-19T21:01:32Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
@@ -22,36 +121,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67325,
+    "stars": 67326,
     "updated_at": "2026-10-19T20:58:20Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 10443,
-    "updated_at": "2026-10-19T21:00:16Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-19T20:54:52Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9416,
-    "updated_at": "2026-10-19T20:52:45Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
@@ -70,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T20:49:59Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-19T20:53:45Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
@@ -108,15 +171,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T20:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "100% on-device private AI & multimodal studio for Android. Run up to 8B LLMs, Latent Diffusion, Vector RAG & Whisper loc",
     "id": "Jaykumar122/ThinkpocketAI",
     "language": "HTML",
@@ -142,15 +196,6 @@
     "stars": 17,
     "updated_at": "2026-10-19T20:40:27Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T20:38:51Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The AI search platform",
@@ -248,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1209,
-    "updated_at": "2026-10-19T20:59:19Z",
+    "updated_at": "2026-10-19T21:07:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -259,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T20:11:34Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
-    "id": "sajid-nazir/Papyrus",
-    "language": "TypeScript",
-    "name": "sajid-nazir/Papyrus",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:59:14Z",
-    "url": "https://github.com/sajid-nazir/Papyrus"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -283,8 +319,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32549,
-    "updated_at": "2026-10-19T20:04:17Z",
+    "stars": 32550,
+    "updated_at": "2026-10-19T21:11:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-19T19:03:34Z",
     "url": "https://github.com/design-gurus/grokking-ai-system-design"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-19T19:01:07Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4444,
-    "updated_at": "2026-10-19T20:29:16Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "The Kubernetes Operator of Milvus. ",
-    "id": "zilliztech/milvus-operator",
-    "language": "Go",
-    "name": "zilliztech/milvus-operator",
-    "stars": 135,
-    "updated_at": "2026-10-19T18:59:31Z",
-    "url": "https://github.com/zilliztech/milvus-operator"
-  },
-  {
-    "description": "Modular Python AI system featuring FastAPI, Ollama, persistent memory (SQLite/ChromaDB), RAG, n8n automation, and 187 pa",
-    "id": "KenBoller/Snowball",
-    "language": "Python",
-    "name": "KenBoller/Snowball",
-    "stars": 1,
-    "updated_at": "2026-10-19T18:51:15Z",
-    "url": "https://github.com/KenBoller/Snowball"
   }
 ]
