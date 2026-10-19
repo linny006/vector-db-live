@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T18:00:21Z",
+    "updated_at": "2026-10-19T18:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:15:02Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T18:11:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An AI-powered study assistant built with Next.js, Node.js, and OpenAI/Gemini. Features a RAG pipeline for context-aware ",
+    "id": "Karan-1108/NoteGenie",
+    "language": "TypeScript",
+    "name": "Karan-1108/NoteGenie",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:11:10Z",
+    "url": "https://github.com/Karan-1108/NoteGenie"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-19T18:10:01Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11706,
+    "updated_at": "2026-10-19T18:09:27Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-19T18:09:03Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:08:20Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-19T18:06:15Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 371,
+    "updated_at": "2026-10-19T18:05:55Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
+    "id": "RishabhMathur06/CASO-RAG",
+    "language": "Python",
+    "name": "RishabhMathur06/CASO-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-19T18:03:40Z",
+    "url": "https://github.com/RishabhMathur06/CASO-RAG"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-10-19T18:03:01Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
     "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
@@ -14,8 +113,17 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 65,
-    "updated_at": "2026-10-19T18:00:06Z",
+    "updated_at": "2026-10-19T18:14:45Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T18:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -41,7 +149,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-19T17:59:08Z",
+    "updated_at": "2026-10-19T18:07:56Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -50,7 +158,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9415,
-    "updated_at": "2026-10-19T17:59:17Z",
+    "updated_at": "2026-10-19T18:12:41Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -59,24 +167,15 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1641,
-    "updated_at": "2026-10-19T17:58:01Z",
+    "updated_at": "2026-10-19T18:15:20Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
-    "id": "LuisinTheLegend/ConciergeGraph",
-    "language": "Python",
-    "name": "LuisinTheLegend/ConciergeGraph",
-    "stars": 1,
-    "updated_at": "2026-10-19T17:57:31Z",
-    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 9350,
+    "stars": 9497,
     "updated_at": "2026-10-19T17:56:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T17:54:38Z",
     "url": "https://github.com/aryantakawane/docmind"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-19T17:53:15Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
@@ -117,30 +207,12 @@
     "url": "https://github.com/piotrwozn/multidb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T17:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-19T17:40:58Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-19T17:57:57Z",
+    "updated_at": "2026-10-19T18:13:37Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T17:39:02Z",
     "url": "https://github.com/robcox2910/pyvecdb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T17:36:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
@@ -212,7 +275,7 @@
     "language": "Python",
     "name": "lancedb/docs",
     "stars": 11,
-    "updated_at": "2026-10-19T17:56:31Z",
+    "updated_at": "2026-10-19T18:09:22Z",
     "url": "https://github.com/lancedb/docs"
   },
   {
@@ -230,7 +293,7 @@
     "language": "Go",
     "name": "genkit-ai/genkit",
     "stars": 6532,
-    "updated_at": "2026-10-19T17:21:29Z",
+    "updated_at": "2026-10-19T18:15:02Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -238,7 +301,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46433,
+    "stars": 46434,
     "updated_at": "2026-10-19T17:17:51Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -257,7 +320,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1209,
-    "updated_at": "2026-10-19T17:46:14Z",
+    "updated_at": "2026-10-19T18:15:03Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -283,7 +346,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32545,
+    "stars": 32546,
     "updated_at": "2026-10-19T17:05:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -329,7 +392,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 124,
-    "updated_at": "2026-10-19T17:32:48Z",
+    "updated_at": "2026-10-19T18:03:06Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -340,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T16:35:13Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11706,
-    "updated_at": "2026-10-19T16:52:25Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
@@ -394,59 +448,5 @@
     "stars": 762,
     "updated_at": "2026-10-19T15:42:31Z",
     "url": "https://github.com/meme-search/meme-search"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8391,
-    "updated_at": "2026-10-19T15:40:12Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 388,
-    "updated_at": "2026-10-19T15:37:45Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1916,
-    "updated_at": "2026-10-19T15:31:33Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "The Kubernetes operator for K8ssandra",
-    "id": "k8ssandra/k8ssandra-operator",
-    "language": "Go",
-    "name": "k8ssandra/k8ssandra-operator",
-    "stars": 243,
-    "updated_at": "2026-10-19T15:31:14Z",
-    "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-10-19T15:25:47Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "Cook52491/VectorRAG.Net",
-    "language": "C#",
-    "name": "Cook52491/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-19T15:22:13Z",
-    "url": "https://github.com/Cook52491/VectorRAG.Net"
   }
 ]
