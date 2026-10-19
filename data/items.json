@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T15:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 388,
+    "updated_at": "2026-10-19T15:29:45Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-19T15:28:02Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1916,
+    "updated_at": "2026-10-19T15:27:45Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-10-19T15:25:47Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "Cook52491/VectorRAG.Net",
+    "language": "C#",
+    "name": "Cook52491/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:22:13Z",
+    "url": "https://github.com/Cook52491/VectorRAG.Net"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-19T15:21:58Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59611,
+    "updated_at": "2026-10-19T15:19:08Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46431,
+    "updated_at": "2026-10-19T15:17:51Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9415,
+    "updated_at": "2026-10-19T15:30:46Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-19T15:16:16Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T15:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The Kubernetes operator for K8ssandra",
     "id": "k8ssandra/k8ssandra-operator",
     "language": "Go",
@@ -25,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-10-19T15:11:59Z",
     "url": "https://github.com/24kr/Local_LLM_Assistant"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40335,
+    "updated_at": "2026-10-19T15:10:27Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -81,15 +198,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40333,
-    "updated_at": "2026-10-19T15:10:27Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -117,15 +225,6 @@
     "url": "https://github.com/Kerstink2871/VectorRAG.Net"
   },
   {
-    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-10-19T15:02:01Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
     "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
     "id": "hoangdinhlong/nhe_o",
     "language": "Ada",
@@ -133,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T15:01:18Z",
     "url": "https://github.com/hoangdinhlong/nhe_o"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T15:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T15:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
@@ -176,26 +257,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-19T15:05:53Z",
+    "updated_at": "2026-10-19T15:15:30Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46431,
-    "updated_at": "2026-10-19T14:54:49Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-19T14:59:27Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "By combining chat histories from social media with a vector database, AI can more convincingly recreate someone\u2019s person",
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "kldhsh123/Afterglow",
     "stars": 316,
-    "updated_at": "2026-10-19T14:54:00Z",
+    "updated_at": "2026-10-19T15:16:11Z",
     "url": "https://github.com/kldhsh123/Afterglow"
   },
   {
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32538,
-    "updated_at": "2026-10-19T14:48:45Z",
+    "updated_at": "2026-10-19T15:24:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35139,
-    "updated_at": "2026-10-19T15:12:51Z",
+    "updated_at": "2026-10-19T15:24:04Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -319,18 +382,9 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11703,
+    "stars": 11704,
     "updated_at": "2026-10-19T14:23:39Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-19T14:30:17Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -346,7 +400,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8882,
+    "stars": 8890,
     "updated_at": "2026-10-19T14:14:03Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-19T14:08:51Z",
     "url": "https://github.com/giriaryan694-a11y/ai-recon"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-19T14:01:17Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59610,
-    "updated_at": "2026-10-19T15:10:07Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Learn basic to advance concept  and also understand the Production grade Concept and build Production Grade Product not ",
-    "id": "sheshpalsingh01/langchain_vectordb_in_production",
-    "language": "Jupyter Notebook",
-    "name": "sheshpalsingh01/langchain_vectordb_in_production",
-    "stars": 0,
-    "updated_at": "2026-10-19T13:49:07Z",
-    "url": "https://github.com/sheshpalsingh01/langchain_vectordb_in_production"
-  },
-  {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-19T13:48:43Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 124,
-    "updated_at": "2026-10-19T14:35:36Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16892,
-    "updated_at": "2026-10-19T13:41:06Z",
-    "url": "https://github.com/weaviate/weaviate"
   }
 ]
