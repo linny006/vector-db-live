@@ -1,5 +1,104 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8784,
+    "updated_at": "2026-10-19T11:44:59Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40327,
+    "updated_at": "2026-10-19T11:44:33Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 133,
+    "updated_at": "2026-10-19T11:42:03Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
+    "id": "maniesh-lab/ragdocs",
+    "language": "Python",
+    "name": "maniesh-lab/ragdocs",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:40:38Z",
+    "url": "https://github.com/maniesh-lab/ragdocs"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:40:33Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "T\u00fcrk\u00e7e fiziksel tarifle y\u00fcz arama: Gemini ile \u00e7eviri, CLIP + Qdrant anlamsal arama, FastAPI backend ve Telegram Mini App",
+    "id": "fazliddin-hamdam/faceidf.ai",
+    "language": "Python",
+    "name": "fazliddin-hamdam/faceidf.ai",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:40:21Z",
+    "url": "https://github.com/fazliddin-hamdam/faceidf.ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T11:38:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:35:57Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:34:01Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-19T11:32:21Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T11:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T11:29:19Z",
     "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
-    "id": "maniesh-lab/ragdocs",
-    "language": "Python",
-    "name": "maniesh-lab/ragdocs",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:28:07Z",
-    "url": "https://github.com/maniesh-lab/ragdocs"
   },
   {
     "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
@@ -81,15 +171,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
-    "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:18:48Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
@@ -97,15 +178,6 @@
     "stars": 97,
     "updated_at": "2026-10-19T11:17:40Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T11:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
@@ -126,13 +198,13 @@
     "url": "https://github.com/api-evangelist/datastax"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40327,
-    "updated_at": "2026-10-19T11:30:14Z",
-    "url": "https://github.com/volcengine/OpenViking"
+    "description": "AI optimized PostgreSQL Platform, built on CNPG, Crossplane and Backstage. Teams order production-ready PostgreSQL clust",
+    "id": "bartvanbenthem/tuskpilot",
+    "language": "TypeScript",
+    "name": "bartvanbenthem/tuskpilot",
+    "stars": 1,
+    "updated_at": "2026-10-19T11:33:03Z",
+    "url": "https://github.com/bartvanbenthem/tuskpilot"
   },
   {
     "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
@@ -144,31 +216,13 @@
     "url": "https://github.com/api-evangelist/contentstack"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8779,
-    "updated_at": "2026-10-19T11:11:43Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7132,
-    "updated_at": "2026-10-19T11:13:12Z",
+    "updated_at": "2026-10-19T11:42:48Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T11:08:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -176,7 +230,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-19T11:07:31Z",
+    "updated_at": "2026-10-19T11:30:32Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32532,
-    "updated_at": "2026-10-19T10:58:22Z",
+    "updated_at": "2026-10-19T11:39:40Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -211,7 +265,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39277,
+    "stars": 39279,
     "updated_at": "2026-10-19T10:51:42Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -223,15 +277,6 @@
     "stars": 23,
     "updated_at": "2026-10-19T10:47:50Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 133,
-    "updated_at": "2026-10-19T10:47:42Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
@@ -293,7 +338,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35136,
-    "updated_at": "2026-10-19T11:30:23Z",
+    "updated_at": "2026-10-19T11:34:44Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -310,7 +355,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46428,
+    "stars": 46429,
     "updated_at": "2026-10-19T09:57:51Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-19T09:19:29Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-19T09:17:24Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1207,
-    "updated_at": "2026-10-19T09:16:14Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
-    "id": "aldyardnsyh/IntelligenceDocumentSystem",
-    "language": "Python",
-    "name": "aldyardnsyh/IntelligenceDocumentSystem",
-    "stars": 0,
-    "updated_at": "2026-10-19T09:15:02Z",
-    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-19T09:03:58Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-19T11:28:46Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   }
 ]
