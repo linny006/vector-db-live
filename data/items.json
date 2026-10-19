@@ -1,5 +1,77 @@
 [
   {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-19T15:59:45Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-19T15:57:24Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-19T15:56:49Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1208,
+    "updated_at": "2026-10-19T15:54:35Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "Python",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:54:28Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T15:48:51Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "By combining chat histories from social media with a vector database, AI can more convincingly recreate someone\u2019s person",
+    "id": "kldhsh123/Afterglow",
+    "language": "Python",
+    "name": "kldhsh123/Afterglow",
+    "stars": 316,
+    "updated_at": "2026-10-19T15:50:39Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T15:45:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -41,7 +113,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-19T15:42:00Z",
+    "updated_at": "2026-10-19T15:54:29Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -49,7 +121,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32540,
+    "stars": 32541,
     "updated_at": "2026-10-19T15:33:19Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -59,7 +131,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9415,
-    "updated_at": "2026-10-19T15:39:24Z",
+    "updated_at": "2026-10-19T16:00:17Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6531,
-    "updated_at": "2026-10-19T15:41:57Z",
+    "updated_at": "2026-10-19T15:50:50Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -88,33 +160,6 @@
     "stars": 243,
     "updated_at": "2026-10-19T15:31:14Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T15:30:51Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T15:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-19T15:28:02Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59611,
-    "updated_at": "2026-10-19T15:19:08Z",
+    "updated_at": "2026-10-19T15:57:58Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 46431,
     "updated_at": "2026-10-19T15:17:51Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-19T15:16:16Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "A RAG chatbot that answers questions about any PDF you upload, using only what\u2019s in the document, and shows the page eac",
@@ -184,7 +220,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40335,
+    "stars": 40336,
     "updated_at": "2026-10-19T15:10:27Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -297,15 +333,6 @@
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "By combining chat histories from social media with a vector database, AI can more convincingly recreate someone\u2019s person",
-    "id": "kldhsh123/Afterglow",
-    "language": "Python",
-    "name": "kldhsh123/Afterglow",
-    "stars": 316,
-    "updated_at": "2026-10-19T15:16:11Z",
-    "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
     "id": "maximilien/weave-cli",
     "language": "Go",
@@ -387,15 +414,6 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1208,
-    "updated_at": "2026-10-19T14:25:18Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
     "id": "miniaxolotl/grove",
     "language": "TypeScript",
@@ -427,26 +445,8 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8892,
+    "stars": 8899,
     "updated_at": "2026-10-19T14:14:03Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:13:51Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-19T14:20:59Z",
-    "url": "https://github.com/nambok/mentedb"
   }
 ]
