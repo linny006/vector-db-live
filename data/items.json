@@ -1,12 +1,93 @@
 [
   {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-19T19:58:40Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 65,
+    "updated_at": "2026-10-19T19:58:25Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 10346,
-    "updated_at": "2026-10-19T19:44:20Z",
+    "stars": 10411,
+    "updated_at": "2026-10-19T20:00:09Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67324,
+    "updated_at": "2026-10-19T19:55:57Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
+    "id": "ChromaDotNet/ChromaDB.Local",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Local",
+    "stars": 1,
+    "updated_at": "2026-10-19T19:54:37Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
+  },
+  {
+    "description": "RAG over an ML knowledge base, built from primitives (no LangChain), with an evaluation harness. The harness surfaced tw",
+    "id": "Kric123/rag-eval-harness",
+    "language": "Python",
+    "name": "Kric123/rag-eval-harness",
+    "stars": 0,
+    "updated_at": "2026-10-19T19:54:22Z",
+    "url": "https://github.com/Kric123/rag-eval-harness"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-19T19:52:36Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11706,
+    "updated_at": "2026-10-19T19:47:34Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T20:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T19:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35140,
-    "updated_at": "2026-10-19T19:36:52Z",
+    "updated_at": "2026-10-19T19:59:42Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -50,26 +131,8 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-19T19:36:50Z",
+    "updated_at": "2026-10-19T19:53:09Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T19:30:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T19:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1641,
-    "updated_at": "2026-10-19T19:20:43Z",
+    "updated_at": "2026-10-19T19:45:54Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -126,15 +189,6 @@
     "url": "https://github.com/fatma-fendri/PodAI"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11706,
-    "updated_at": "2026-10-19T19:31:09Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9415,
-    "updated_at": "2026-10-19T19:44:58Z",
+    "updated_at": "2026-10-19T20:00:03Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 4,
     "updated_at": "2026-10-19T19:05:29Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
-    "id": "ChromaDotNet/ChromaDB.Local",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Local",
-    "stars": 1,
-    "updated_at": "2026-10-19T19:04:54Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -225,24 +270,6 @@
     "url": "https://github.com/zilliztech/milvus-operator"
   },
   {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 65,
-    "updated_at": "2026-10-19T19:37:30Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-19T19:43:29Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "Modular Python AI system featuring FastAPI, Ollama, persistent memory (SQLite/ChromaDB), RAG, n8n automation, and 187 pa",
     "id": "KenBoller/Snowball",
     "language": "Python",
@@ -293,7 +320,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1209,
-    "updated_at": "2026-10-19T19:43:38Z",
+    "updated_at": "2026-10-19T19:56:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-19T17:26:51Z",
     "url": "https://github.com/KenBoller/snowball-knowledge-assistant"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-19T17:26:25Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 11,
-    "updated_at": "2026-10-19T18:09:22Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "OpenEverest provider for Milvus",
-    "id": "openeverest/provider-milvus",
-    "language": "Go",
-    "name": "openeverest/provider-milvus",
-    "stars": 0,
-    "updated_at": "2026-10-19T17:20:40Z",
-    "url": "https://github.com/openeverest/provider-milvus"
   }
 ]
