@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T04:43:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T05:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
+    "id": "Angular2Guy/AIDocumentLibraryChat",
+    "language": "Java",
+    "name": "Angular2Guy/AIDocumentLibraryChat",
+    "stars": 31,
+    "updated_at": "2026-10-19T04:56:28Z",
+    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -14,8 +23,44 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-19T04:43:43Z",
+    "updated_at": "2026-10-19T04:55:50Z",
     "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-19T04:54:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
+    "id": "codelined-ag/Extracto",
+    "language": "TypeScript",
+    "name": "codelined-ag/Extracto",
+    "stars": 5,
+    "updated_at": "2026-10-19T04:54:35Z",
+    "url": "https://github.com/codelined-ag/Extracto"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T04:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T04:43:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40281,
-    "updated_at": "2026-10-19T04:35:42Z",
+    "updated_at": "2026-10-19T04:56:34Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -58,27 +103,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8597,
+    "stars": 8604,
     "updated_at": "2026-10-19T04:31:49Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T04:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T04:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 912,
-    "updated_at": "2026-10-19T04:36:01Z",
+    "updated_at": "2026-10-19T04:59:44Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -221,7 +248,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-19T03:25:28Z",
+    "updated_at": "2026-10-19T04:57:43Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 119,
-    "updated_at": "2026-10-19T04:41:11Z",
+    "updated_at": "2026-10-19T04:58:44Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 36,
     "updated_at": "2026-10-19T03:05:18Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-19T03:40:35Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -333,15 +351,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
-    "id": "codelined-ag/Extracto",
-    "language": "TypeScript",
-    "name": "codelined-ag/Extracto",
-    "stars": 5,
-    "updated_at": "2026-10-19T00:59:58Z",
-    "url": "https://github.com/codelined-ag/Extracto"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -374,7 +383,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9411,
-    "updated_at": "2026-10-19T04:39:28Z",
+    "updated_at": "2026-10-19T04:55:12Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32509,
-    "updated_at": "2026-10-19T04:45:02Z",
+    "updated_at": "2026-10-19T04:59:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T23:16:12Z",
     "url": "https://github.com/sshbrian/kestrel"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11697,
-    "updated_at": "2026-10-18T22:30:24Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
