@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-19T15:44:15Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "meme-search/meme-search",
+    "language": "Ruby",
+    "name": "meme-search/meme-search",
+    "stars": 762,
+    "updated_at": "2026-10-19T15:42:31Z",
+    "url": "https://github.com/meme-search/meme-search"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 388,
+    "updated_at": "2026-10-19T15:37:45Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T15:37:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-19T15:42:00Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32540,
+    "updated_at": "2026-10-19T15:33:19Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9415,
+    "updated_at": "2026-10-19T15:39:24Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6531,
+    "updated_at": "2026-10-19T15:41:57Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1916,
+    "updated_at": "2026-10-19T15:31:33Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "The Kubernetes operator for K8ssandra",
+    "id": "k8ssandra/k8ssandra-operator",
+    "language": "Go",
+    "name": "k8ssandra/k8ssandra-operator",
+    "stars": 243,
+    "updated_at": "2026-10-19T15:31:14Z",
+    "url": "https://github.com/k8ssandra/k8ssandra-operator"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T15:30:51Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,15 +108,6 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 388,
-    "updated_at": "2026-10-19T15:29:45Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
@@ -25,15 +115,6 @@
     "stars": 61,
     "updated_at": "2026-10-19T15:28:02Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1916,
-    "updated_at": "2026-10-19T15:27:45Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -54,15 +135,6 @@
     "url": "https://github.com/Cook52491/VectorRAG.Net"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-19T15:21:58Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -81,15 +153,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9415,
-    "updated_at": "2026-10-19T15:30:46Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -97,24 +160,6 @@
     "stars": 355,
     "updated_at": "2026-10-19T15:16:16Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T15:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "The Kubernetes operator for K8ssandra",
-    "id": "k8ssandra/k8ssandra-operator",
-    "language": "Go",
-    "name": "k8ssandra/k8ssandra-operator",
-    "stars": 243,
-    "updated_at": "2026-10-19T15:13:08Z",
-    "url": "https://github.com/k8ssandra/k8ssandra-operator"
   },
   {
     "description": "A RAG chatbot that answers questions about any PDF you upload, using only what\u2019s in the document, and shows the page eac",
@@ -142,15 +187,6 @@
     "stars": 40335,
     "updated_at": "2026-10-19T15:10:27Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T15:09:03Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-19T15:02:31Z",
+    "updated_at": "2026-10-19T15:40:01Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -306,15 +342,6 @@
     "url": "https://github.com/davidfernxndez/github-repository-rag"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32538,
-    "updated_at": "2026-10-19T15:24:59Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
     "id": "Aashutosh31/arc-ai-project",
     "language": "JavaScript",
@@ -400,7 +427,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8890,
+    "stars": 8892,
     "updated_at": "2026-10-19T14:14:03Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -421,32 +448,5 @@
     "stars": 119,
     "updated_at": "2026-10-19T14:20:59Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:12:26Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7133,
-    "updated_at": "2026-10-19T14:12:00Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI-RECON is a specialized reconnaissance tool designed to identify, fingerprint, and enumerate AI/ML infrastructure. It ",
-    "id": "giriaryan694-a11y/ai-recon",
-    "language": "Python",
-    "name": "giriaryan694-a11y/ai-recon",
-    "stars": 4,
-    "updated_at": "2026-10-19T14:08:51Z",
-    "url": "https://github.com/giriaryan694-a11y/ai-recon"
   }
 ]
