@@ -1,11 +1,92 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-19T07:44:25Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-19T07:44:23Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46424,
+    "updated_at": "2026-10-19T07:41:51Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8676,
+    "updated_at": "2026-10-19T07:40:12Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
+    "id": "ompatel3158/ULTSQL",
+    "language": "Dart",
+    "name": "ompatel3158/ULTSQL",
+    "stars": 2,
+    "updated_at": "2026-10-19T07:39:33Z",
+    "url": "https://github.com/ompatel3158/ULTSQL"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7132,
+    "updated_at": "2026-10-19T07:34:13Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T07:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T07:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector search from scratch in Python: HNSW, KD-Tree and brute force, with tests, a recall benchmark and local RAG.",
+    "id": "Uditp11/vectordb-from-scratch",
+    "language": "Python",
+    "name": "Uditp11/vectordb-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:28:48Z",
+    "url": "https://github.com/Uditp11/vectordb-from-scratch"
+  },
+  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
     "stars": 16126,
-    "updated_at": "2026-10-19T07:28:03Z",
+    "updated_at": "2026-10-19T07:33:11Z",
     "url": "https://github.com/alibaba/zvec"
   },
   {
@@ -13,9 +94,18 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40296,
+    "stars": 40298,
     "updated_at": "2026-10-19T07:26:26Z",
     "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35134,
+    "updated_at": "2026-10-19T07:22:45Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Production-ready RAG framework for Python \u2014 multi-tenant chatbots with streaming, tool calling, agent mode (LangGraph), ",
@@ -45,6 +135,15 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11700,
+    "updated_at": "2026-10-19T07:17:34Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "",
     "id": "piotrwozn/multidb",
     "language": "Rust",
@@ -52,33 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T07:20:37Z",
     "url": "https://github.com/piotrwozn/multidb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T07:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T07:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
-    "id": "ompatel3158/ULTSQL",
-    "language": "Dart",
-    "name": "ompatel3158/ULTSQL",
-    "stars": 2,
-    "updated_at": "2026-10-19T07:15:16Z",
-    "url": "https://github.com/ompatel3158/ULTSQL"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -90,15 +162,6 @@
     "url": "https://github.com/nambok/mentedb"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46424,
-    "updated_at": "2026-10-19T07:27:51Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
     "id": "rifqifitriady/ZAAFPulse",
     "language": "JavaScript",
@@ -106,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T07:15:10Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-19T07:15:28Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T06:59:02Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8667,
-    "updated_at": "2026-10-19T06:57:39Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T06:22:10Z",
     "url": "https://github.com/TaichiMarchetti4638/vektori"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35133,
-    "updated_at": "2026-10-19T07:22:45Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T05:47:07Z",
     "url": "https://github.com/silvestri74/vektori"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "konstantin2928/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "konstantin2928/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-19T05:46:43Z",
-    "url": "https://github.com/konstantin2928/rag-interview-system"
-  },
-  {
-    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
-    "id": "tayyabimam1/awesome-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "tayyabimam1/awesome-ai-agent-stack",
-    "stars": 31,
-    "updated_at": "2026-10-19T05:45:01Z",
-    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-19T05:44:12Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1207,
-    "updated_at": "2026-10-19T05:33:08Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
