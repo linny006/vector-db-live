@@ -1,21 +1,75 @@
 [
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40295,
-    "updated_at": "2026-10-19T06:49:16Z",
-    "url": "https://github.com/volcengine/OpenViking"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T07:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-19T06:59:02Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 119,
+    "updated_at": "2026-10-19T06:57:57Z",
+    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8652,
-    "updated_at": "2026-10-19T06:49:59Z",
+    "stars": 8655,
+    "updated_at": "2026-10-19T06:57:39Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-19T06:57:04Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40295,
+    "updated_at": "2026-10-19T06:54:42Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46423,
+    "updated_at": "2026-10-19T06:51:51Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T06:51:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -36,24 +90,6 @@
     "url": "https://github.com/maniesh-lab/ragdocs"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T06:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T06:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -68,7 +104,7 @@
     "language": "Rust",
     "name": "piotrwozn/multidb",
     "stars": 0,
-    "updated_at": "2026-10-19T06:51:00Z",
+    "updated_at": "2026-10-19T06:51:50Z",
     "url": "https://github.com/piotrwozn/multidb"
   },
   {
@@ -77,7 +113,7 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 867,
-    "updated_at": "2026-10-19T06:41:51Z",
+    "updated_at": "2026-10-19T06:54:41Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
@@ -88,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T06:38:26Z",
     "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-19T06:50:37Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-19T06:32:02Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
@@ -158,7 +176,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35133,
-    "updated_at": "2026-10-19T06:43:00Z",
+    "updated_at": "2026-10-19T06:57:57Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -207,15 +225,6 @@
     "url": "https://github.com/maas0200/rag-interview-system"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46423,
-    "updated_at": "2026-10-19T06:09:18Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
     "id": "Aashutosh31/arc-ai-project",
     "language": "JavaScript",
@@ -250,6 +259,15 @@
     "stars": 0,
     "updated_at": "2026-10-19T06:04:56Z",
     "url": "https://github.com/gerhard09407/VectorRAG.Net"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16891,
+    "updated_at": "2026-10-19T06:04:09Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
@@ -430,23 +448,5 @@
     "stars": 121,
     "updated_at": "2026-10-19T05:08:07Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Agentic RAG that diagnoses macOS problems \u2014 LangGraph + Llama-3.3-70B over a curated knowledge base. FastAPI, Docker.",
-    "id": "Harichandra1/macos-agent",
-    "language": "Python",
-    "name": "Harichandra1/macos-agent",
-    "stars": 0,
-    "updated_at": "2026-10-19T05:03:45Z",
-    "url": "https://github.com/Harichandra1/macos-agent"
-  },
-  {
-    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
-    "id": "Angular2Guy/AIDocumentLibraryChat",
-    "language": "Java",
-    "name": "Angular2Guy/AIDocumentLibraryChat",
-    "stars": 31,
-    "updated_at": "2026-10-19T04:56:28Z",
-    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
   }
 ]
