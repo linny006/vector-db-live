@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T10:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Benchmark vector databases (FAISS, Chroma, Milvus, Pinecone) for RAG: recall@k, latency percentiles, QPS and build time.",
+    "id": "jasbir101/rag-benchmark",
+    "language": "Python",
+    "name": "jasbir101/rag-benchmark",
+    "stars": 0,
+    "updated_at": "2026-10-19T10:22:51Z",
+    "url": "https://github.com/jasbir101/rag-benchmark"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40323,
+    "updated_at": "2026-10-19T10:21:36Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32527,
+    "updated_at": "2026-10-19T10:21:06Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8755,
+    "updated_at": "2026-10-19T10:18:14Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T10:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -7,15 +61,6 @@
     "stars": 2056,
     "updated_at": "2026-10-19T10:14:54Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8747,
-    "updated_at": "2026-10-19T10:14:53Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
@@ -34,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-10-19T10:14:32Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35136,
+    "updated_at": "2026-10-19T10:20:11Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -58,18 +112,9 @@
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
-    "stars": 2021,
+    "stars": 2023,
     "updated_at": "2026-10-19T10:02:42Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40321,
-    "updated_at": "2026-10-19T10:01:24Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -79,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T10:01:17Z",
     "url": "https://github.com/IdoY12/awesome-free-ai-apis"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T10:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T10:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T09:27:01Z",
     "url": "https://github.com/AgvanTsydypov/RAG-agent"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35135,
-    "updated_at": "2026-10-19T10:12:48Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
@@ -302,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-19T09:57:02Z",
+    "updated_at": "2026-10-19T10:18:37Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T08:34:40Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32525,
-    "updated_at": "2026-10-19T10:09:56Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -418,7 +427,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59605,
+    "stars": 59606,
     "updated_at": "2026-10-19T07:55:36Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -436,17 +445,8 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 16125,
+    "stars": 16126,
     "updated_at": "2026-10-19T07:33:11Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Vector search from scratch in Python: HNSW, KD-Tree and brute force, with tests, a recall benchmark and local RAG.",
-    "id": "Uditp11/vectordb-from-scratch",
-    "language": "Python",
-    "name": "Uditp11/vectordb-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-10-19T07:28:48Z",
-    "url": "https://github.com/Uditp11/vectordb-from-scratch"
   }
 ]
