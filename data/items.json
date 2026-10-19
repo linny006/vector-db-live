@@ -1,11 +1,83 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1207,
+    "updated_at": "2026-10-19T14:00:00Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
+    "id": "Hk-owo/stratum-vectordb",
+    "language": "Go",
+    "name": "Hk-owo/stratum-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-19T13:59:40Z",
+    "url": "https://github.com/Hk-owo/stratum-vectordb"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 119,
+    "updated_at": "2026-10-19T13:57:55Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8842,
+    "updated_at": "2026-10-19T13:53:53Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Learn basic to advance concept  and also understand the Production grade Concept and build Production Grade Product not ",
+    "id": "sheshpalsingh01/langchain_vectordb_in_production",
+    "language": "Jupyter Notebook",
+    "name": "sheshpalsingh01/langchain_vectordb_in_production",
+    "stars": 0,
+    "updated_at": "2026-10-19T13:49:07Z",
+    "url": "https://github.com/sheshpalsingh01/langchain_vectordb_in_production"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-19T13:48:43Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-19T13:54:37Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T13:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T13:45:22Z",
+    "updated_at": "2026-10-19T14:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,31 +99,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1207,
-    "updated_at": "2026-10-19T13:33:36Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8834,
-    "updated_at": "2026-10-19T13:31:47Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T13:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16891,
+    "updated_at": "2026-10-19T13:41:06Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
@@ -81,15 +135,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-19T13:31:43Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "A full-stack Retrieval-Augmented Generation (RAG) AI System for Vietnamese Traffic Laws featuring Hybrid Search (BM25 + ",
     "id": "huynoob1312/vietnamese_traffic_law_RAG",
     "language": "Jupyter Notebook",
@@ -106,15 +151,6 @@
     "stars": 2056,
     "updated_at": "2026-10-19T13:22:00Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-19T13:42:37Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -140,17 +176,8 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40332,
-    "updated_at": "2026-10-19T13:41:39Z",
+    "updated_at": "2026-10-19T13:49:01Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-19T13:09:49Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-19T13:42:52Z",
+    "updated_at": "2026-10-19T13:57:22Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -211,8 +238,8 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59608,
-    "updated_at": "2026-10-19T12:55:12Z",
+    "stars": 59609,
+    "updated_at": "2026-10-19T13:57:40Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T12:52:31Z",
     "url": "https://github.com/bartvanbenthem/tuskpilot"
-  },
-  {
-    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
-    "id": "Hk-owo/stratum-vectordb",
-    "language": "Go",
-    "name": "Hk-owo/stratum-vectordb",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:51:52Z",
-    "url": "https://github.com/Hk-owo/stratum-vectordb"
   },
   {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-19T12:02:26Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 97,
-    "updated_at": "2026-10-19T12:36:44Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-19T11:56:33Z",
-    "url": "https://github.com/23skdu/longbow"
   }
 ]
