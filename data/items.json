@@ -5,16 +5,70 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T02:45:18Z",
+    "updated_at": "2026-10-19T03:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40271,
+    "updated_at": "2026-10-19T02:53:35Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8539,
+    "updated_at": "2026-10-19T03:00:18Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-19T02:53:15Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-19T02:49:46Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T02:45:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T02:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46420,
-    "updated_at": "2026-10-19T02:41:51Z",
+    "stars": 46421,
+    "updated_at": "2026-10-19T02:55:52Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -32,7 +86,7 @@
     "language": "C++",
     "name": "alibaba/zvec",
     "stars": 16123,
-    "updated_at": "2026-10-19T02:36:44Z",
+    "updated_at": "2026-10-19T02:49:13Z",
     "url": "https://github.com/alibaba/zvec"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9471,
-    "updated_at": "2026-10-19T02:36:31Z",
+    "updated_at": "2026-10-19T02:58:37Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -52,42 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T02:31:37Z",
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40268,
-    "updated_at": "2026-10-19T02:30:55Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T02:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8517,
-    "updated_at": "2026-10-19T02:44:50Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T02:14:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -122,7 +140,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 119,
-    "updated_at": "2026-10-19T02:01:38Z",
+    "updated_at": "2026-10-19T02:57:03Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -189,15 +207,6 @@
     "url": "https://github.com/frozenheart123/bit7-facility-escape"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-19T02:38:25Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
@@ -205,15 +214,6 @@
     "stars": 9411,
     "updated_at": "2026-10-19T00:24:05Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-19T02:18:33Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
@@ -284,7 +284,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 911,
-    "updated_at": "2026-10-19T02:44:48Z",
+    "updated_at": "2026-10-19T02:59:33Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
