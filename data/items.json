@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T02:15:19Z",
+    "updated_at": "2026-10-19T02:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8503,
+    "updated_at": "2026-10-19T02:28:51Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T02:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -18,13 +36,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
     "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8495,
-    "updated_at": "2026-10-19T02:15:03Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "name": "databendlabs/databend",
+    "stars": 9471,
+    "updated_at": "2026-10-19T02:26:48Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
@@ -45,15 +63,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T02:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
     "id": "liliang-cn/cortexdb",
     "language": "Go",
@@ -61,15 +70,6 @@
     "stars": 459,
     "updated_at": "2026-10-19T01:52:10Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9470,
-    "updated_at": "2026-10-19T02:06:56Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
@@ -166,7 +166,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40265,
+    "stars": 40268,
     "updated_at": "2026-10-19T00:44:03Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -185,7 +185,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-19T00:53:11Z",
+    "updated_at": "2026-10-19T02:18:33Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -266,7 +266,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 911,
-    "updated_at": "2026-10-19T01:47:07Z",
+    "updated_at": "2026-10-19T02:28:16Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -292,7 +292,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11696,
+    "stars": 11697,
     "updated_at": "2026-10-18T22:30:24Z",
     "url": "https://github.com/lancedb/lancedb"
   },
