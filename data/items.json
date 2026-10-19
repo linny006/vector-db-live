@@ -1,12 +1,111 @@
 [
   {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-19T08:30:06Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1207,
+    "updated_at": "2026-10-19T08:28:27Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-19T08:25:56Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 119,
+    "updated_at": "2026-10-19T08:25:19Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-19T08:23:08Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 12,
+    "updated_at": "2026-10-19T08:19:32Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 532,
+    "updated_at": "2026-10-19T08:16:24Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T08:16:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
+    "id": "yashbhosale789/yashbhosale789",
+    "language": "\u2014",
+    "name": "yashbhosale789/yashbhosale789",
+    "stars": 0,
+    "updated_at": "2026-10-19T08:16:06Z",
+    "url": "https://github.com/yashbhosale789/yashbhosale789"
+  },
+  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-10-19T08:15:11Z",
+    "updated_at": "2026-10-19T08:15:39Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T08:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T08:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -14,8 +113,17 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-19T08:11:47Z",
+    "updated_at": "2026-10-19T08:16:35Z",
     "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40308,
+    "updated_at": "2026-10-19T08:11:42Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -41,17 +149,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-19T08:09:38Z",
+    "updated_at": "2026-10-19T08:26:11Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1207,
-    "updated_at": "2026-10-19T08:06:49Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
@@ -81,33 +180,6 @@
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40300,
-    "updated_at": "2026-10-19T08:11:42Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T08:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T08:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
@@ -117,29 +189,20 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-19T08:11:53Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T07:53:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59604,
+    "updated_at": "2026-10-19T07:55:36Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46424,
+    "stars": 46425,
     "updated_at": "2026-10-19T07:53:50Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -157,7 +220,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8690,
+    "stars": 8698,
     "updated_at": "2026-10-19T07:40:12Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -176,7 +239,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7132,
-    "updated_at": "2026-10-19T07:34:13Z",
+    "updated_at": "2026-10-19T08:29:48Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35134,
-    "updated_at": "2026-10-19T08:10:08Z",
+    "updated_at": "2026-10-19T08:25:54Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -252,15 +315,6 @@
     "url": "https://github.com/piotrwozn/multidb"
   },
   {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-19T07:22:35Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
     "description": "RAG-based PDF Question-Answering chatbot using FAISS, sentence-transformers and Google Gemini, with page-level source ci",
     "id": "faizanjutt473/AskMyPDF-RAG-Chatbot",
     "language": "Python",
@@ -274,7 +328,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13261,
+    "stars": 13262,
     "updated_at": "2026-10-19T07:06:52Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -378,15 +432,6 @@
     "url": "https://github.com/camila67027/distill"
   },
   {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-19T06:15:49Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
     "id": "maas0200/rag-interview-system",
     "language": "Jupyter Notebook",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-19T06:07:54Z",
     "url": "https://github.com/Aashutosh31/arc-ai-project"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "Verhoeven282/developers-guide-to-ai",
-    "language": "Python",
-    "name": "Verhoeven282/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:06:23Z",
-    "url": "https://github.com/Verhoeven282/developers-guide-to-ai"
-  },
-  {
-    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
-    "id": "rrezende11/llmaker",
-    "language": "Go",
-    "name": "rrezende11/llmaker",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:05:10Z",
-    "url": "https://github.com/rrezende11/llmaker"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "gerhard09407/VectorRAG.Net",
-    "language": "C#",
-    "name": "gerhard09407/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:04:56Z",
-    "url": "https://github.com/gerhard09407/VectorRAG.Net"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16891,
-    "updated_at": "2026-10-19T06:04:09Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "susannec513/developers-guide-to-ai",
-    "language": "Python",
-    "name": "susannec513/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-19T06:02:56Z",
-    "url": "https://github.com/susannec513/developers-guide-to-ai"
   }
 ]
