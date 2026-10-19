@@ -1,5 +1,95 @@
 [
   {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1357,
+    "updated_at": "2026-10-19T21:59:45Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2376,
+    "updated_at": "2026-10-19T21:59:11Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-19T21:59:26Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 10465,
+    "updated_at": "2026-10-19T21:58:07Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "RAG",
+    "id": "MakabeD/Obsidian_RAG",
+    "language": "C#",
+    "name": "MakabeD/Obsidian_RAG",
+    "stars": 1,
+    "updated_at": "2026-10-19T21:50:07Z",
+    "url": "https://github.com/MakabeD/Obsidian_RAG"
+  },
+  {
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 65,
+    "updated_at": "2026-10-19T21:51:52Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1641,
+    "updated_at": "2026-10-19T21:47:03Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-10-19T21:46:45Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T21:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T22:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
     "id": "Oyabure-Zakari/ai-agent-practice",
     "language": "TypeScript",
@@ -9,33 +99,6 @@
     "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
   },
   {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1641,
-    "updated_at": "2026-10-19T21:41:07Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 10461,
-    "updated_at": "2026-10-19T21:44:15Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-19T21:40:58Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -43,24 +106,6 @@
     "stars": 5,
     "updated_at": "2026-10-19T21:35:56Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T21:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T21:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -77,7 +122,7 @@
     "language": "Java",
     "name": "opencrawling/opencrawling",
     "stars": 23,
-    "updated_at": "2026-10-19T21:28:48Z",
+    "updated_at": "2026-10-19T21:48:52Z",
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 65,
-    "updated_at": "2026-10-19T21:36:33Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
     "description": "Identity and Authorization Service with Vector and AI Integration",
     "id": "StephenCote/AccountManager7",
     "language": "Java",
@@ -122,7 +158,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8392,
-    "updated_at": "2026-10-19T21:18:29Z",
+    "updated_at": "2026-10-19T21:47:03Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9416,
-    "updated_at": "2026-10-19T21:27:22Z",
+    "updated_at": "2026-10-19T21:47:51Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-19T21:42:37Z",
+    "updated_at": "2026-10-19T21:48:35Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -252,15 +288,6 @@
     "url": "https://github.com/Jaykumar122/ThinkpocketAI"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2376,
-    "updated_at": "2026-10-19T20:42:00Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "verygoodplugins/automem",
     "stars": 821,
-    "updated_at": "2026-10-19T20:35:20Z",
+    "updated_at": "2026-10-19T21:54:56Z",
     "url": "https://github.com/verygoodplugins/automem"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/diegoglozano/revector"
   },
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1357,
-    "updated_at": "2026-10-19T20:00:41Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 6215,
     "updated_at": "2026-10-19T19:35:28Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
-    "language": "Rust",
-    "name": "Mid-D-Man/msx",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:25:43Z",
-    "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "Go",
-    "name": "genkit-ai/genkit",
-    "stars": 6532,
-    "updated_at": "2026-10-19T20:33:48Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
