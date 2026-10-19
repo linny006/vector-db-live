@@ -1,12 +1,66 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 8593,
+    "updated_at": "2026-10-19T04:29:54Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46421,
-    "updated_at": "2026-10-19T04:14:14Z",
+    "updated_at": "2026-10-19T04:27:54Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-19T04:26:44Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-19T04:24:00Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 912,
+    "updated_at": "2026-10-19T04:27:27Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T04:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-19T04:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -16,15 +70,6 @@
     "stars": 9,
     "updated_at": "2026-10-19T04:12:47Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 8587,
-    "updated_at": "2026-10-19T04:12:39Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-19T04:09:58Z",
+    "updated_at": "2026-10-19T04:30:18Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -72,24 +117,6 @@
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T04:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T04:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Run Kafka, Flink, Spark, Iceberg, Trino, ClickHouse, Airflow, MLflow, Feast, pgvector and more on your laptop, one comma",
     "id": "jaehyeon-kim/odctl",
     "language": "Python",
@@ -103,7 +130,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40278,
+    "stars": 40279,
     "updated_at": "2026-10-19T03:51:37Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -124,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T03:44:45Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
-    "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-19T03:41:58Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
   },
   {
     "description": "An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and",
@@ -167,7 +185,7 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 867,
-    "updated_at": "2026-10-19T03:31:48Z",
+    "updated_at": "2026-10-19T04:27:44Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-19T04:09:07Z",
+    "updated_at": "2026-10-19T04:28:50Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9471,
-    "updated_at": "2026-10-19T04:15:01Z",
+    "updated_at": "2026-10-19T04:29:52Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -396,21 +414,12 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 911,
-    "updated_at": "2026-10-19T04:07:53Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32509,
-    "updated_at": "2026-10-18T23:23:51Z",
+    "updated_at": "2026-10-19T04:26:11Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T22:16:43Z",
     "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:10:46Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
   }
 ]
