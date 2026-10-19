@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T12:15:20Z",
+    "updated_at": "2026-10-19T12:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
+    "id": "Aashutosh31/arc-ai-project",
+    "language": "JavaScript",
+    "name": "Aashutosh31/arc-ai-project",
+    "stars": 2,
+    "updated_at": "2026-10-19T12:30:15Z",
+    "url": "https://github.com/Aashutosh31/arc-ai-project"
+  },
+  {
+    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
+    "id": "edwardtay/awesome-ai",
+    "language": "\u2014",
+    "name": "edwardtay/awesome-ai",
+    "stars": 6,
+    "updated_at": "2026-10-19T12:27:58Z",
+    "url": "https://github.com/edwardtay/awesome-ai"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-19T12:24:27Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-19T12:20:24Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
+    "id": "desikai-lab/Marrow",
+    "language": "Python",
+    "name": "desikai-lab/Marrow",
+    "stars": 7,
+    "updated_at": "2026-10-19T12:19:08Z",
+    "url": "https://github.com/desikai-lab/Marrow"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40327,
+    "updated_at": "2026-10-19T12:23:08Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "",
+    "id": "piotrwozn/multidb",
+    "language": "Rust",
+    "name": "piotrwozn/multidb",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:17:42Z",
+    "url": "https://github.com/piotrwozn/multidb"
+  },
+  {
+    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
+    "id": "maniesh-lab/ragdocs",
+    "language": "Python",
+    "name": "maniesh-lab/ragdocs",
+    "stars": 0,
+    "updated_at": "2026-10-19T12:17:35Z",
+    "url": "https://github.com/maniesh-lab/ragdocs"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-19T12:16:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4443,
+    "updated_at": "2026-10-19T12:25:32Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16127,
+    "updated_at": "2026-10-19T12:16:05Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T12:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -58,7 +166,7 @@
     "id": "zilliztech/knowhere",
     "language": "C++",
     "name": "zilliztech/knowhere",
-    "stars": 387,
+    "stars": 388,
     "updated_at": "2026-10-19T12:11:45Z",
     "url": "https://github.com/zilliztech/knowhere"
   },
@@ -117,31 +225,22 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T12:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46429,
-    "updated_at": "2026-10-19T11:59:51Z",
+    "updated_at": "2026-10-19T12:25:52Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
-    "id": "maniesh-lab/ragdocs",
-    "language": "Python",
-    "name": "maniesh-lab/ragdocs",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:58:32Z",
-    "url": "https://github.com/maniesh-lab/ragdocs"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35137,
+    "updated_at": "2026-10-19T12:28:46Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -151,15 +250,6 @@
     "stars": 13,
     "updated_at": "2026-10-19T11:56:33Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "",
-    "id": "piotrwozn/multidb",
-    "language": "Rust",
-    "name": "piotrwozn/multidb",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:59:46Z",
-    "url": "https://github.com/piotrwozn/multidb"
   },
   {
     "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
@@ -189,15 +279,6 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40327,
-    "updated_at": "2026-10-19T12:13:54Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "The holographic core for leOS",
     "id": "AnOversizedMooseWithSocks/leCore",
     "language": "Python",
@@ -220,7 +301,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8795,
+    "stars": 8798,
     "updated_at": "2026-10-19T11:44:59Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -257,7 +338,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32534,
-    "updated_at": "2026-10-19T12:07:33Z",
+    "updated_at": "2026-10-19T12:16:02Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -288,24 +369,6 @@
     "url": "https://github.com/api-evangelist/ironcore-labs"
   },
   {
-    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
-    "id": "Aashutosh31/arc-ai-project",
-    "language": "JavaScript",
-    "name": "Aashutosh31/arc-ai-project",
-    "stars": 2,
-    "updated_at": "2026-10-19T11:27:14Z",
-    "url": "https://github.com/Aashutosh31/arc-ai-project"
-  },
-  {
-    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
-    "id": "desikai-lab/Marrow",
-    "language": "Python",
-    "name": "desikai-lab/Marrow",
-    "stars": 7,
-    "updated_at": "2026-10-19T12:08:22Z",
-    "url": "https://github.com/desikai-lab/Marrow"
-  },
-  {
     "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
     "id": "api-evangelist/gel-data",
     "language": "\u2014",
@@ -313,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T11:20:26Z",
     "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-19T11:19:21Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
@@ -382,7 +436,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39285,
+    "stars": 39287,
     "updated_at": "2026-10-19T10:51:42Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -394,59 +448,5 @@
     "stars": 23,
     "updated_at": "2026-10-19T10:47:50Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 27,
-    "updated_at": "2026-10-19T11:26:45Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-10-19T10:39:25Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-10-19T10:34:14Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Benchmark vector databases (FAISS, Chroma, Milvus, Pinecone) for RAG: recall@k, latency percentiles, QPS and build time.",
-    "id": "jasbir101/rag-benchmark",
-    "language": "Python",
-    "name": "jasbir101/rag-benchmark",
-    "stars": 0,
-    "updated_at": "2026-10-19T10:22:51Z",
-    "url": "https://github.com/jasbir101/rag-benchmark"
-  },
-  {
-    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
-    "id": "eminsk/nanovector",
-    "language": "Python",
-    "name": "eminsk/nanovector",
-    "stars": 7,
-    "updated_at": "2026-10-19T10:14:49Z",
-    "url": "https://github.com/eminsk/nanovector"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35136,
-    "updated_at": "2026-10-19T11:59:35Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
