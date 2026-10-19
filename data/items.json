@@ -1,21 +1,165 @@
 [
   {
+    "description": "The Kubernetes operator for K8ssandra",
+    "id": "k8ssandra/k8ssandra-operator",
+    "language": "Go",
+    "name": "k8ssandra/k8ssandra-operator",
+    "stars": 243,
+    "updated_at": "2026-10-19T15:13:08Z",
+    "url": "https://github.com/k8ssandra/k8ssandra-operator"
+  },
+  {
+    "description": "A RAG chatbot that answers questions about any PDF you upload, using only what\u2019s in the document, and shows the page eac",
+    "id": "maniesh-lab/ragdocs",
+    "language": "Python",
+    "name": "maniesh-lab/ragdocs",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:12:08Z",
+    "url": "https://github.com/maniesh-lab/ragdocs"
+  },
+  {
+    "description": "LoLA: Privacy-first desktop AI with RAG. Chat offline with your docs using Ollama models. React+Electron UI, FastAPI bac",
+    "id": "24kr/Local_LLM_Assistant",
+    "language": "JavaScript",
+    "name": "24kr/Local_LLM_Assistant",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:11:59Z",
+    "url": "https://github.com/24kr/Local_LLM_Assistant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-19T15:09:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "EceSingh/distill",
+    "language": "Go",
+    "name": "EceSingh/distill",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:07:40Z",
+    "url": "https://github.com/EceSingh/distill"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "cwulff829/developers-guide-to-ai",
+    "language": "Python",
+    "name": "cwulff829/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:06:38Z",
+    "url": "https://github.com/cwulff829/developers-guide-to-ai"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-19T15:10:10Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "zeyneplawson/distill",
+    "language": "Go",
+    "name": "zeyneplawson/distill",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:05:17Z",
+    "url": "https://github.com/zeyneplawson/distill"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2376,
+    "updated_at": "2026-10-19T15:03:07Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40333,
+    "updated_at": "2026-10-19T15:10:27Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9472,
+    "updated_at": "2026-10-19T15:02:31Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "Martinn482/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "Martinn482/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:02:07Z",
+    "url": "https://github.com/Martinn482/rag-interview-system"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "Kerstink2871/VectorRAG.Net",
+    "language": "C#",
+    "name": "Kerstink2871/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:01:50Z",
+    "url": "https://github.com/Kerstink2871/VectorRAG.Net"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-10-19T15:02:01Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 0,
+    "updated_at": "2026-10-19T15:01:18Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T15:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T15:00:22Z",
+    "updated_at": "2026-10-19T15:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "cwulff829/developers-guide-to-ai",
-    "language": "\u2014",
-    "name": "cwulff829/developers-guide-to-ai",
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "luciaturner672/vektori",
+    "language": "Python",
+    "name": "luciaturner672/vektori",
     "stars": 0,
-    "updated_at": "2026-10-19T14:59:59Z",
-    "url": "https://github.com/cwulff829/developers-guide-to-ai"
+    "updated_at": "2026-10-19T14:59:10Z",
+    "url": "https://github.com/luciaturner672/vektori"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -27,31 +171,22 @@
     "url": "https://github.com/KemalAlvarez/distill"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-19T14:57:31Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "luciaturner672/vektori",
-    "language": "Python",
-    "name": "luciaturner672/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-19T14:57:56Z",
-    "url": "https://github.com/luciaturner672/vektori"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-19T15:00:19Z",
+    "updated_at": "2026-10-19T15:05:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46431,
+    "updated_at": "2026-10-19T14:54:49Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -61,6 +196,15 @@
     "stars": 61,
     "updated_at": "2026-10-19T14:59:27Z",
     "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "By combining chat histories from social media with a vector database, AI can more convincingly recreate someone\u2019s person",
+    "id": "kldhsh123/Afterglow",
+    "language": "Python",
+    "name": "kldhsh123/Afterglow",
+    "stars": 316,
+    "updated_at": "2026-10-19T14:54:00Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
   },
   {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
@@ -90,15 +234,6 @@
     "url": "https://github.com/Aditya74747/hr-policy-rag"
   },
   {
-    "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
-    "id": "kldhsh123/Afterglow",
-    "language": "Python",
-    "name": "kldhsh123/Afterglow",
-    "stars": 316,
-    "updated_at": "2026-10-19T14:54:00Z",
-    "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
     "description": " Adaptive Retrieval-Augmented Generation (RAG) system for exploring GitHub repositories through natural language queries",
     "id": "davidfernxndez/github-repository-rag",
     "language": "Jupyter Notebook",
@@ -122,7 +257,7 @@
     "language": "JavaScript",
     "name": "Aashutosh31/arc-ai-project",
     "stars": 2,
-    "updated_at": "2026-10-19T14:58:18Z",
+    "updated_at": "2026-10-19T15:00:50Z",
     "url": "https://github.com/Aashutosh31/arc-ai-project"
   },
   {
@@ -144,30 +279,12 @@
     "url": "https://github.com/deven96/ahnlich"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T14:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-19T14:38:54Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35139,
-    "updated_at": "2026-10-19T14:37:55Z",
+    "updated_at": "2026-10-19T15:12:51Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -216,15 +333,6 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2376,
-    "updated_at": "2026-10-19T14:22:13Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -238,7 +346,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8873,
+    "stars": 8882,
     "updated_at": "2026-10-19T14:14:03Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -302,7 +410,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59610,
-    "updated_at": "2026-10-19T13:57:40Z",
+    "updated_at": "2026-10-19T15:10:07Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -313,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T13:49:07Z",
     "url": "https://github.com/sheshpalsingh01/langchain_vectordb_in_production"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40333,
-    "updated_at": "2026-10-19T13:49:01Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
@@ -349,104 +448,5 @@
     "stars": 16892,
     "updated_at": "2026-10-19T13:41:06Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
-    "id": "ry-ops/commit-relay",
-    "language": "Shell",
-    "name": "ry-ops/commit-relay",
-    "stars": 2,
-    "updated_at": "2026-10-19T13:29:51Z",
-    "url": "https://github.com/ry-ops/commit-relay"
-  },
-  {
-    "description": "A full-stack Retrieval-Augmented Generation (RAG) AI System for Vietnamese Traffic Laws featuring Hybrid Search (BM25 + ",
-    "id": "huynoob1312/vietnamese_traffic_law_RAG",
-    "language": "Jupyter Notebook",
-    "name": "huynoob1312/vietnamese_traffic_law_RAG",
-    "stars": 1,
-    "updated_at": "2026-10-19T13:22:05Z",
-    "url": "https://github.com/huynoob1312/vietnamese_traffic_law_RAG"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-19T13:22:00Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-19T13:18:18Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-19T13:03:39Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "A personal collection of Docker-based dev services managed via Makefiles",
-    "id": "wawanwidiantara/local-docker-stacks",
-    "language": "Makefile",
-    "name": "wawanwidiantara/local-docker-stacks",
-    "stars": 2,
-    "updated_at": "2026-10-19T13:01:58Z",
-    "url": "https://github.com/wawanwidiantara/local-docker-stacks"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4443,
-    "updated_at": "2026-10-19T14:51:52Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "AI optimized PostgreSQL Platform, built on CNPG, Crossplane and Backstage. Teams order production-ready PostgreSQL clust",
-    "id": "bartvanbenthem/tuskpilot",
-    "language": "TypeScript",
-    "name": "bartvanbenthem/tuskpilot",
-    "stars": 1,
-    "updated_at": "2026-10-19T12:52:31Z",
-    "url": "https://github.com/bartvanbenthem/tuskpilot"
-  },
-  {
-    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
-    "id": "DevAnimecx/free-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "DevAnimecx/free-ai-agent-stack",
-    "stars": 1,
-    "updated_at": "2026-10-19T12:50:50Z",
-    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-19T12:49:03Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8390,
-    "updated_at": "2026-10-19T13:37:50Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
