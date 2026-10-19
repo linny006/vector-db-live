@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-19T11:15:20Z",
+    "updated_at": "2026-10-19T11:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-10-19T11:29:19Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
+    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
+    "id": "maniesh-lab/ragdocs",
+    "language": "Python",
+    "name": "maniesh-lab/ragdocs",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:28:07Z",
+    "url": "https://github.com/maniesh-lab/ragdocs"
+  },
+  {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:25:06Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
+    "id": "Aashutosh31/arc-ai-project",
+    "language": "JavaScript",
+    "name": "Aashutosh31/arc-ai-project",
+    "stars": 2,
+    "updated_at": "2026-10-19T11:27:14Z",
+    "url": "https://github.com/Aashutosh31/arc-ai-project"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-10-19T11:22:34Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
+    "id": "desikai-lab/Marrow",
+    "language": "Python",
+    "name": "desikai-lab/Marrow",
+    "stars": 7,
+    "updated_at": "2026-10-19T11:20:58Z",
+    "url": "https://github.com/desikai-lab/Marrow"
+  },
+  {
+    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:20:26Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-19T11:19:21Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-19T11:18:48Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 97,
+    "updated_at": "2026-10-19T11:17:40Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T11:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
@@ -27,21 +126,12 @@
     "url": "https://github.com/api-evangelist/datastax"
   },
   {
-    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
-    "id": "Aashutosh31/arc-ai-project",
-    "language": "JavaScript",
-    "name": "Aashutosh31/arc-ai-project",
-    "stars": 2,
-    "updated_at": "2026-10-19T11:13:18Z",
-    "url": "https://github.com/Aashutosh31/arc-ai-project"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40326,
-    "updated_at": "2026-10-19T11:13:15Z",
+    "stars": 40327,
+    "updated_at": "2026-10-19T11:30:14Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -58,7 +148,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 8775,
+    "stars": 8779,
     "updated_at": "2026-10-19T11:11:43Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -108,29 +198,20 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
-    "id": "maniesh-lab/ragdocs",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "maniesh-lab/ragdocs",
-    "stars": 0,
-    "updated_at": "2026-10-19T11:04:47Z",
-    "url": "https://github.com/maniesh-lab/ragdocs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T11:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "topoteretes/cognee",
+    "stars": 32532,
+    "updated_at": "2026-10-19T10:58:22Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39276,
+    "stars": 39277,
     "updated_at": "2026-10-19T10:51:42Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -153,21 +234,12 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
-    "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-19T10:44:30Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
     "id": "ahb-sjsu/turboquant-pro",
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 27,
-    "updated_at": "2026-10-19T10:42:11Z",
+    "updated_at": "2026-10-19T11:26:45Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
@@ -207,24 +279,6 @@
     "url": "https://github.com/jasbir101/rag-benchmark"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32530,
-    "updated_at": "2026-10-19T10:58:22Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-19T10:14:54Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, Native MC",
     "id": "eminsk/nanovector",
     "language": "Python",
@@ -239,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35136,
-    "updated_at": "2026-10-19T11:14:50Z",
+    "updated_at": "2026-10-19T11:30:23Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -256,7 +310,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46427,
+    "stars": 46428,
     "updated_at": "2026-10-19T09:57:51Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -275,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8389,
-    "updated_at": "2026-10-19T11:07:41Z",
+    "updated_at": "2026-10-19T11:19:42Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -392,61 +446,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-19T10:43:44Z",
+    "updated_at": "2026-10-19T11:28:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1357,
-    "updated_at": "2026-10-19T09:02:07Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
-    "id": "ompatel3158/ULTSQL",
-    "language": "Dart",
-    "name": "ompatel3158/ULTSQL",
-    "stars": 2,
-    "updated_at": "2026-10-19T08:55:35Z",
-    "url": "https://github.com/ompatel3158/ULTSQL"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9414,
-    "updated_at": "2026-10-19T08:47:41Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6242,
-    "updated_at": "2026-10-19T10:54:15Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 119,
-    "updated_at": "2026-10-19T08:47:05Z",
-    "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-19T08:34:40Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
   }
 ]
