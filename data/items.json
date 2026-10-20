@@ -1,11 +1,110 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7134,
+    "updated_at": "2026-10-20T12:29:37Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:28:25Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "A facade over vector databases \u2014 one interface, ~15 backends",
+    "id": "i2mint/vd",
+    "language": "Python",
+    "name": "i2mint/vd",
+    "stars": 1,
+    "updated_at": "2026-10-20T12:27:26Z",
+    "url": "https://github.com/i2mint/vd"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-20T12:27:16Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
+    "id": "bartvanbenthem/basis-ai",
+    "language": "TypeScript",
+    "name": "bartvanbenthem/basis-ai",
+    "stars": 1,
+    "updated_at": "2026-10-20T12:24:19Z",
+    "url": "https://github.com/bartvanbenthem/basis-ai"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-20T12:22:48Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Opensource AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 10,
+    "updated_at": "2026-10-20T12:19:53Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32578,
+    "updated_at": "2026-10-20T12:28:25Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Official Weaviate TypeScript Client",
+    "id": "weaviate/typescript-client",
+    "language": "TypeScript",
+    "name": "weaviate/typescript-client",
+    "stars": 101,
+    "updated_at": "2026-10-20T12:18:19Z",
+    "url": "https://github.com/weaviate/typescript-client"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T12:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Element-aware chunking design patterns for RAG \u2014 text, tables & images \u2192 Qdrant, with visual diffs and a small eval.",
+    "id": "shunvel/element-aware-chunking",
+    "language": "Python",
+    "name": "shunvel/element-aware-chunking",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:15:23Z",
+    "url": "https://github.com/shunvel/element-aware-chunking"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T12:15:19Z",
+    "updated_at": "2026-10-20T12:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,31 +135,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A facade over vector databases \u2014 one interface, ~15 backends",
-    "id": "i2mint/vd",
-    "language": "Python",
-    "name": "i2mint/vd",
-    "stars": 1,
-    "updated_at": "2026-10-20T12:12:12Z",
-    "url": "https://github.com/i2mint/vd"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-20T12:12:03Z",
+    "updated_at": "2026-10-20T12:23:40Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure.",
-    "id": "bartvanbenthem/basis-ai",
-    "language": "TypeScript",
-    "name": "bartvanbenthem/basis-ai",
-    "stars": 1,
-    "updated_at": "2026-10-20T12:14:54Z",
-    "url": "https://github.com/bartvanbenthem/basis-ai"
   },
   {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
@@ -90,15 +171,6 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7134,
-    "updated_at": "2026-10-20T12:06:32Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Structure\u2011aware RAG platform with semantic search and citations.",
     "id": "loglux/RAG-Knowledge-Base-Platform",
     "language": "Python",
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T12:03:54Z",
     "url": "https://github.com/loglux/RAG-Knowledge-Base-Platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T12:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vector db working in peer 2 peer, with minimal dependencies and resource requirement",
@@ -130,7 +193,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46442,
+    "stars": 46443,
     "updated_at": "2026-10-20T11:59:51Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -151,6 +214,15 @@
     "stars": 35155,
     "updated_at": "2026-10-20T11:57:54Z",
     "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16894,
+    "updated_at": "2026-10-20T12:29:06Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "working university chatbot ",
@@ -261,15 +333,6 @@
     "url": "https://github.com/pravinghuge97-boop/rag-document-chat-langchain"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-20T12:04:45Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -297,15 +360,6 @@
     "url": "https://github.com/kividbio/kividb"
   },
   {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:24:54Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
     "id": "monaccode/astromesh",
     "language": "Python",
@@ -313,15 +367,6 @@
     "stars": 36,
     "updated_at": "2026-10-20T11:24:53Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-20T12:09:20Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
@@ -338,7 +383,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1210,
-    "updated_at": "2026-10-20T11:20:07Z",
+    "updated_at": "2026-10-20T12:24:51Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -373,7 +418,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39338,
+    "stars": 39339,
     "updated_at": "2026-10-20T11:05:26Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -403,50 +448,5 @@
     "stars": 2026,
     "updated_at": "2026-10-20T11:04:02Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Official repository of the kANNolo library.",
-    "id": "tusKANNy/kannolo",
-    "language": "Rust",
-    "name": "tusKANNy/kannolo",
-    "stars": 77,
-    "updated_at": "2026-10-20T11:02:59Z",
-    "url": "https://github.com/tusKANNy/kannolo"
-  },
-  {
-    "description": "Opensource AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 10,
-    "updated_at": "2026-10-20T11:29:20Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32577,
-    "updated_at": "2026-10-20T12:10:22Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-20T10:57:44Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 137,
-    "updated_at": "2026-10-20T10:56:10Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
