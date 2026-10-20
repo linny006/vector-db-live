@@ -1,11 +1,56 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-20T16:42:52Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T16:38:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "Go",
+    "name": "genkit-ai/genkit",
+    "stars": 6533,
+    "updated_at": "2026-10-20T16:36:35Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-20T16:34:31Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T16:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9423,
-    "updated_at": "2026-10-20T16:24:25Z",
+    "updated_at": "2026-10-20T16:44:11Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1211,
-    "updated_at": "2026-10-20T16:29:23Z",
+    "updated_at": "2026-10-20T16:44:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -63,21 +108,12 @@
     "url": "https://github.com/tryAGI/Qdrant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T16:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T16:15:21Z",
+    "updated_at": "2026-10-20T16:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -99,6 +135,15 @@
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32589,
+    "updated_at": "2026-10-20T16:35:21Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -106,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T16:10:21Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T16:10:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Official Python SDK for the Pinecone vector database",
@@ -149,17 +185,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35159,
-    "updated_at": "2026-10-20T16:26:57Z",
+    "updated_at": "2026-10-20T16:36:27Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32588,
-    "updated_at": "2026-10-20T16:12:51Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T15:49:48Z",
     "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-20T15:45:43Z",
-    "url": "https://github.com/motedb/motedb"
   },
   {
     "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-20T16:11:28Z",
+    "updated_at": "2026-10-20T16:39:13Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 124,
-    "updated_at": "2026-10-20T16:29:41Z",
+    "updated_at": "2026-10-20T16:44:51Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T14:59:00Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-20T14:56:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -439,14 +448,5 @@
     "stars": 13028,
     "updated_at": "2026-10-20T14:38:15Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
-    "id": "ness-e/Vantadb",
-    "language": "Rust",
-    "name": "ness-e/Vantadb",
-    "stars": 2,
-    "updated_at": "2026-10-20T15:40:17Z",
-    "url": "https://github.com/ness-e/Vantadb"
   }
 ]
