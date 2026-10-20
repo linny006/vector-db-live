@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T06:14:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python +",
+    "id": "Polign/recall",
+    "language": "Go",
+    "name": "Polign/recall",
+    "stars": 2,
+    "updated_at": "2026-10-20T06:04:10Z",
+    "url": "https://github.com/Polign/recall"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T06:00:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T06:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
     "id": "ness-e/Vantadb",
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-20T05:58:33Z",
+    "updated_at": "2026-10-20T06:12:59Z",
     "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9418,
+    "updated_at": "2026-10-20T05:54:40Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
@@ -36,6 +81,15 @@
     "url": "https://github.com/majayakovlev653/VectorRAG.Net"
   },
   {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40380,
+    "updated_at": "2026-10-20T05:49:54Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
     "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
     "id": "ginevra84816/llmaker",
     "language": "Go",
@@ -54,24 +108,6 @@
     "url": "https://github.com/shotaro614/developers-guide-to-ai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T05:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T05:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "By combining chat histories from social media with a vector database, AI can more convincingly recreate someone\u2019s person",
     "id": "kldhsh123/Afterglow",
     "language": "Python",
@@ -81,15 +117,6 @@
     "url": "https://github.com/kldhsh123/Afterglow"
   },
   {
-    "description": "Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python +",
-    "id": "Polign/recall",
-    "language": "Go",
-    "name": "Polign/recall",
-    "stars": 2,
-    "updated_at": "2026-10-20T05:41:14Z",
-    "url": "https://github.com/Polign/recall"
-  },
-  {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
     "id": "EvgenyBaig58/distill",
     "language": "Go",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:40:50Z",
     "url": "https://github.com/EvgenyBaig58/distill"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T05:39:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39328,
-    "updated_at": "2026-10-20T05:30:00Z",
+    "updated_at": "2026-10-20T06:07:26Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/craza81531/developers-guide-to-ai"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40378,
-    "updated_at": "2026-10-20T05:49:54Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T04:40:04Z",
     "url": "https://github.com/piotrwozn/multidb"
-  },
-  {
-    "description": "Citation-grounded RAG assistant over an LSTM+DACP streamflow uncertainty report",
-    "id": "austin1406/rag-streamflow-assistant",
-    "language": "Python",
-    "name": "austin1406/rag-streamflow-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:36:51Z",
-    "url": "https://github.com/austin1406/rag-streamflow-assistant"
   }
 ]
