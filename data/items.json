@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T18:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
+    "id": "tryAGI/Turbopuffer",
+    "language": "C#",
+    "name": "tryAGI/Turbopuffer",
+    "stars": 0,
+    "updated_at": "2026-10-20T18:59:06Z",
+    "url": "https://github.com/tryAGI/Turbopuffer"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-20T18:58:48Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 319,
+    "updated_at": "2026-10-20T18:55:56Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-20T18:55:50Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-20T18:54:32Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "MCP server exposing the full Qdrant vector database API as 49 tools: hybrid search, snapshots, observability. Read-only ",
@@ -14,8 +50,62 @@
     "language": "Python",
     "name": "avaazquezz/Qdrant-MCP",
     "stars": 1,
-    "updated_at": "2026-10-20T18:45:17Z",
+    "updated_at": "2026-10-20T18:58:16Z",
     "url": "https://github.com/avaazquezz/Qdrant-MCP"
+  },
+  {
+    "description": "The official TypeScript/Node client for the Pinecone vector database",
+    "id": "pinecone-io/pinecone-ts-client",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-ts-client",
+    "stars": 279,
+    "updated_at": "2026-10-20T18:54:02Z",
+    "url": "https://github.com/pinecone-io/pinecone-ts-client"
+  },
+  {
+    "description": "Open Source Ai by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UI",
+    "id": "CodesbyFebin/Open-Source-Ai",
+    "language": "Python",
+    "name": "CodesbyFebin/Open-Source-Ai",
+    "stars": 1,
+    "updated_at": "2026-10-20T18:53:11Z",
+    "url": "https://github.com/CodesbyFebin/Open-Source-Ai"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "Go",
+    "name": "genkit-ai/genkit",
+    "stars": 6532,
+    "updated_at": "2026-10-20T18:50:58Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
+    "id": "OmniBioAI/omnibioai-dev-hub",
+    "language": "Python",
+    "name": "OmniBioAI/omnibioai-dev-hub",
+    "stars": 1,
+    "updated_at": "2026-10-20T18:45:53Z",
+    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T18:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T19:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Structure\u2011aware RAG platform with semantic search and citations.",
@@ -63,15 +153,6 @@
     "url": "https://github.com/datris/datris-platform-oss"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T18:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -90,15 +171,6 @@
     "url": "https://github.com/monaccode/astromesh"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "Go",
-    "name": "genkit-ai/genkit",
-    "stars": 6532,
-    "updated_at": "2026-10-20T18:43:10Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Pinecone.io Golang Client",
     "id": "pinecone-io/go-pinecone",
     "language": "Go",
@@ -115,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-10-20T18:31:28Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 319,
-    "updated_at": "2026-10-20T18:20:15Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
@@ -148,7 +211,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32593,
+    "stars": 32594,
     "updated_at": "2026-10-20T18:11:40Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T18:10:50Z",
     "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
-  },
-  {
-    "description": "Open Source Ai by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UI",
-    "id": "CodesbyFebin/Open-Source-Ai",
-    "language": "Python",
-    "name": "CodesbyFebin/Open-Source-Ai",
-    "stars": 1,
-    "updated_at": "2026-10-20T18:07:48Z",
-    "url": "https://github.com/CodesbyFebin/Open-Source-Ai"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -194,7 +248,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-20T18:41:17Z",
+    "updated_at": "2026-10-20T18:58:52Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 46447,
     "updated_at": "2026-10-20T17:51:51Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-20T17:51:16Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
@@ -256,7 +301,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39354,
+    "stars": 39355,
     "updated_at": "2026-10-20T17:44:21Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -286,15 +331,6 @@
     "stars": 453,
     "updated_at": "2026-10-20T17:24:16Z",
     "url": "https://github.com/pinecone-io/python-sdk"
-  },
-  {
-    "description": "The official TypeScript/Node client for the Pinecone vector database",
-    "id": "pinecone-io/pinecone-ts-client",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-ts-client",
-    "stars": 279,
-    "updated_at": "2026-10-20T17:22:49Z",
-    "url": "https://github.com/pinecone-io/pinecone-ts-client"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9423,
-    "updated_at": "2026-10-20T18:07:06Z",
+    "updated_at": "2026-10-20T18:51:01Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T16:15:47Z",
     "url": "https://github.com/tryAGI/Qdrant"
-  },
-  {
-    "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
-    "id": "SwineCoder101/hvec",
-    "language": "Rust",
-    "name": "SwineCoder101/hvec",
-    "stars": 0,
-    "updated_at": "2026-10-20T16:01:15Z",
-    "url": "https://github.com/SwineCoder101/hvec"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-20T17:31:37Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7137,
-    "updated_at": "2026-10-20T15:53:53Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "TeamDocs AI is an AI-powered RAG (Retrieval-Augmented Generation) assistant designed to help software development teams ",
-    "id": "HosseinHeydari2004/TeamDocs-AI",
-    "language": "Python",
-    "name": "HosseinHeydari2004/TeamDocs-AI",
-    "stars": 0,
-    "updated_at": "2026-10-20T15:49:48Z",
-    "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
   }
 ]
