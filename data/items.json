@@ -1,28 +1,91 @@
 [
   {
-    "description": "Official Terraform provider for Pinecone ",
-    "id": "pinecone-io/terraform-provider-pinecone",
-    "language": "Go",
-    "name": "pinecone-io/terraform-provider-pinecone",
-    "stars": 32,
-    "updated_at": "2026-10-20T21:44:31Z",
-    "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-20T21:59:52Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 584,
+    "updated_at": "2026-10-20T21:57:40Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
     "description": "MCP server exposing the full Qdrant vector database API as 49 tools: hybrid search, snapshots, observability. Read-only ",
     "id": "avaazquezz/Qdrant-MCP",
     "language": "Python",
     "name": "avaazquezz/Qdrant-MCP",
-    "stars": 1,
-    "updated_at": "2026-10-20T21:44:27Z",
+    "stars": 2,
+    "updated_at": "2026-10-20T21:53:56Z",
     "url": "https://github.com/avaazquezz/Qdrant-MCP"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 326,
+    "updated_at": "2026-10-20T21:49:06Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1212,
+    "updated_at": "2026-10-20T21:59:24Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Structure\u2011aware RAG platform with semantic search and citations.",
+    "id": "loglux/RAG-Knowledge-Base-Platform",
+    "language": "Python",
+    "name": "loglux/RAG-Knowledge-Base-Platform",
+    "stars": 1,
+    "updated_at": "2026-10-20T21:46:39Z",
+    "url": "https://github.com/loglux/RAG-Knowledge-Base-Platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T21:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T22:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Official Terraform provider for Pinecone ",
+    "id": "pinecone-io/terraform-provider-pinecone",
+    "language": "Go",
+    "name": "pinecone-io/terraform-provider-pinecone",
+    "stars": 32,
+    "updated_at": "2026-10-20T21:53:41Z",
+    "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32592,
+    "stars": 32593,
     "updated_at": "2026-10-20T21:42:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1639,
-    "updated_at": "2026-10-20T21:41:47Z",
+    "updated_at": "2026-10-20T21:56:36Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 326,
-    "updated_at": "2026-10-20T21:35:27Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "Documenting my Generative & Agentic AI journey through projects, experiments, real-world applications, and hands-on expl",
     "id": "therajarshichakraborty/Gen-And-Agentic-AI",
     "language": "Python",
@@ -70,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T21:31:32Z",
     "url": "https://github.com/therajarshichakraborty/Gen-And-Agentic-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T21:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T21:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9423,
-    "updated_at": "2026-10-20T21:40:09Z",
+    "updated_at": "2026-10-20T21:46:56Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 17,
     "updated_at": "2026-10-20T21:23:15Z",
     "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-20T21:33:58Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "A personal RAG (Retrieval-Augmented Generation) chatbot built with Streamlit and LangChain. Upload PDFs and chat with th",
@@ -148,18 +175,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39362,
+    "stars": 39363,
     "updated_at": "2026-10-20T21:03:59Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Structure\u2011aware RAG platform with semantic search and citations.",
-    "id": "loglux/RAG-Knowledge-Base-Platform",
-    "language": "Python",
-    "name": "loglux/RAG-Knowledge-Base-Platform",
-    "stars": 1,
-    "updated_at": "2026-10-20T21:00:21Z",
-    "url": "https://github.com/loglux/RAG-Knowledge-Base-Platform"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -275,7 +293,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 1,
-    "updated_at": "2026-10-20T20:49:11Z",
+    "updated_at": "2026-10-20T21:57:13Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -301,7 +319,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 29931,
+    "stars": 29933,
     "updated_at": "2026-10-20T20:05:39Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -333,13 +351,13 @@
     "url": "https://github.com/verygoodplugins/automem"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1211,
-    "updated_at": "2026-10-20T21:45:14Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 125,
+    "updated_at": "2026-10-20T19:42:32Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
     "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
@@ -396,15 +414,6 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 124,
-    "updated_at": "2026-10-20T19:42:32Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
     "description": "\u26a1 In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantizat",
     "id": "ronitgupta138/Vectra-Core",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-20T19:16:48Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
-    "language": "Rust",
-    "name": "Mid-D-Man/msx",
-    "stars": 0,
-    "updated_at": "2026-10-20T19:12:10Z",
-    "url": "https://github.com/Mid-D-Man/msx"
   }
 ]
