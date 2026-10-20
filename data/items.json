@@ -1,12 +1,21 @@
 [
   {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-20T22:43:08Z",
-    "url": "https://github.com/badhope/spark"
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1486,
+    "updated_at": "2026-10-20T22:58:40Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Official repository of the kANNolo library.",
+    "id": "tusKANNy/kannolo",
+    "language": "Rust",
+    "name": "tusKANNy/kannolo",
+    "stars": 77,
+    "updated_at": "2026-10-20T22:59:07Z",
+    "url": "https://github.com/tusKANNy/kannolo"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -14,26 +23,35 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-20T22:43:57Z",
+    "updated_at": "2026-10-20T22:57:23Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6532,
-    "updated_at": "2026-10-20T22:37:26Z",
-    "url": "https://github.com/genkit-ai/genkit"
+    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
+    "id": "schwabauerbriantomas-gif/splatdb",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/splatdb",
+    "stars": 0,
+    "updated_at": "2026-10-20T22:56:29Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T22:35:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Structure\u2011aware RAG platform with semantic search and citations.",
+    "id": "loglux/RAG-Knowledge-Base-Platform",
+    "language": "Python",
+    "name": "loglux/RAG-Knowledge-Base-Platform",
+    "stars": 1,
+    "updated_at": "2026-10-20T22:50:26Z",
+    "url": "https://github.com/loglux/RAG-Knowledge-Base-Platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T22:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -45,13 +63,40 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-20T22:45:17Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T22:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-20T22:43:08Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6532,
+    "updated_at": "2026-10-20T22:51:41Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T22:35:28Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -99,15 +144,6 @@
     "url": "https://github.com/api-evangelist/surrealdb"
   },
   {
-    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
-    "id": "schwabauerbriantomas-gif/splatdb",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/splatdb",
-    "stars": 0,
-    "updated_at": "2026-10-20T22:23:57Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
-  },
-  {
     "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
     "id": "Nayjest/ai-microcore",
     "language": "Python",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T22:21:29Z",
     "url": "https://github.com/api-evangelist/ragflow"
-  },
-  {
-    "description": "Structure\u2011aware RAG platform with semantic search and citations.",
-    "id": "loglux/RAG-Knowledge-Base-Platform",
-    "language": "Python",
-    "name": "loglux/RAG-Knowledge-Base-Platform",
-    "stars": 1,
-    "updated_at": "2026-10-20T22:21:13Z",
-    "url": "https://github.com/loglux/RAG-Knowledge-Base-Platform"
   },
   {
     "description": "MCP server exposing the full Qdrant vector database API as 49 tools: hybrid search, snapshots, observability. Read-only ",
@@ -175,7 +202,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35159,
+    "stars": 35160,
     "updated_at": "2026-10-20T22:06:02Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 328,
-    "updated_at": "2026-10-20T21:49:06Z",
+    "updated_at": "2026-10-20T22:52:20Z",
     "url": "https://github.com/kividbio/kividb"
   },
   {
@@ -247,7 +274,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32593,
+    "stars": 32594,
     "updated_at": "2026-10-20T21:42:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9423,
-    "updated_at": "2026-10-20T22:27:11Z",
+    "updated_at": "2026-10-20T22:56:05Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -304,6 +331,15 @@
     "stars": 0,
     "updated_at": "2026-10-20T21:11:18Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
+    "id": "StarTrail-org/LEANN",
+    "language": "Python",
+    "name": "StarTrail-org/LEANN",
+    "stars": 13039,
+    "updated_at": "2026-10-20T21:04:26Z",
+    "url": "https://github.com/StarTrail-org/LEANN"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T22:26:23Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2381,
-    "updated_at": "2026-10-20T20:11:58Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 29933,
-    "updated_at": "2026-10-20T20:05:39Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-20T20:16:43Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 13028,
-    "updated_at": "2026-10-20T19:54:19Z",
-    "url": "https://github.com/neuml/txtai"
   }
 ]
