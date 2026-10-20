@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T05:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
+    "id": "ness-e/Vantadb",
+    "language": "Rust",
+    "name": "ness-e/Vantadb",
+    "stars": 2,
+    "updated_at": "2026-10-20T05:58:33Z",
+    "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
+    "id": "Hk-owo/stratum-vectordb",
+    "language": "Go",
+    "name": "Hk-owo/stratum-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:53:41Z",
+    "url": "https://github.com/Hk-owo/stratum-vectordb"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16126,
+    "updated_at": "2026-10-20T05:52:30Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "majayakovlev653/VectorRAG.Net",
+    "language": "C#",
+    "name": "majayakovlev653/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:52:29Z",
+    "url": "https://github.com/majayakovlev653/VectorRAG.Net"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "ginevra84816/llmaker",
+    "language": "Go",
+    "name": "ginevra84816/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:47:17Z",
+    "url": "https://github.com/ginevra84816/llmaker"
   },
   {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "shotaro614/developers-guide-to-ai",
     "stars": 0,
-    "updated_at": "2026-10-20T05:43:36Z",
+    "updated_at": "2026-10-20T05:46:32Z",
     "url": "https://github.com/shotaro614/developers-guide-to-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T05:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T05:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "By combining chat histories from social media with a vector database, AI can more convincingly recreate someone\u2019s person",
@@ -45,15 +99,6 @@
     "url": "https://github.com/EvgenyBaig58/distill"
   },
   {
-    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
-    "id": "Hk-owo/stratum-vectordb",
-    "language": "Go",
-    "name": "Hk-owo/stratum-vectordb",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:39:44Z",
-    "url": "https://github.com/Hk-owo/stratum-vectordb"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -81,13 +126,13 @@
     "url": "https://github.com/hbrown1533/distill"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T05:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "VectifyAI/PageIndex",
+    "stars": 39328,
+    "updated_at": "2026-10-20T05:30:00Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40378,
-    "updated_at": "2026-10-20T04:45:12Z",
+    "updated_at": "2026-10-20T05:49:54Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T04:36:51Z",
     "url": "https://github.com/austin1406/rag-streamflow-assistant"
-  },
-  {
-    "description": "FastAPI-based Investment Portfolio Tracker with an agentic AI assistant. Includes layered backend architecture,         ",
-    "id": "jyothi-basu/investment-portfolio-tracker",
-    "language": "Python",
-    "name": "jyothi-basu/investment-portfolio-tracker",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:35:58Z",
-    "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
-  },
-  {
-    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
-    "id": "Angular2Guy/AIDocumentLibraryChat",
-    "language": "Java",
-    "name": "Angular2Guy/AIDocumentLibraryChat",
-    "stars": 31,
-    "updated_at": "2026-10-20T04:33:48Z",
-    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-10-20T04:33:46Z",
-    "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
-    "id": "ness-e/Vantadb",
-    "language": "Rust",
-    "name": "ness-e/Vantadb",
-    "stars": 2,
-    "updated_at": "2026-10-20T05:09:58Z",
-    "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
-    "description": "A production-grade documentation platform for a Physical AI & Humanoid Robotics course, featuring a built-in RAG chatbot",
-    "id": "rj41-w2/physical-ai-book-hackathon-1",
-    "language": "TypeScript",
-    "name": "rj41-w2/physical-ai-book-hackathon-1",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:12:35Z",
-    "url": "https://github.com/rj41-w2/physical-ai-book-hackathon-1"
   }
 ]

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 05:45 UTC
+> ⏰ Last updated: 2026-10-20 06:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [shotaro614/developers-guide-to-ai](https://github.com/shotaro614/developers-guide-to-ai) | 0 | Python | 2026-10-20 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 3 | [kldhsh123/Afterglow](https://github.com/kldhsh123/Afterglow) | 317 | Python | 2026-10-20 | By combining chat histories from social media with a vector database, AI can more convincingly recreate someone’s person |
-| 4 | [Polign/recall](https://github.com/Polign/recall) | 2 | Go | 2026-10-20 | Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python + |
-| 5 | [EvgenyBaig58/distill](https://github.com/EvgenyBaig58/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
-| 6 | [Hk-owo/stratum-vectordb](https://github.com/Hk-owo/stratum-vectordb) | 0 | Go | 2026-10-20 | Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing — built for RAG. |
-| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-20 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 8 | [Yokol18/vektori](https://github.com/Yokol18/vektori) | 0 | Python | 2026-10-20 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
-| 9 | [hbrown1533/distill](https://github.com/hbrown1533/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 121 | HTML | 2026-10-20 | The documentation for SurrealDB, built with Vike, React, and Mantine |
-| 12 | [rifqifitriady/ZAAFPulse](https://github.com/rifqifitriady/ZAAFPulse) | 1 | JavaScript | 2026-10-20 | ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality |
-| 13 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-20 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 14 | [volkanyakovlev10929/vektori](https://github.com/volkanyakovlev10929/vektori) | 0 | Python | 2026-10-20 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
-| 15 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2056 | Go | 2026-10-20 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 16 | [TatianaSoderberg1627/distill](https://github.com/TatianaSoderberg1627/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
-| 17 | [evahayes98/rag-interview-system](https://github.com/evahayes98/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-20 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
-| 18 | [RajeshVandermeer70/developers-guide-to-ai](https://github.com/RajeshVandermeer70/developers-guide-to-ai) | 0 | Python | 2026-10-20 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 19 | [ruchakudale/Visual-Product-Similarity-Image-Based-Recommendation-System-Amazon-Style-](https://github.com/ruchakudale/Visual-Product-Similarity-Image-Based-Recommendation-System-Amazon-Style-) | 0 | Python | 2026-10-20 | Built computer vision–based system that can identify and recommend visually similar products using only product images,  |
-| 20 | [pavelruiz/developers-guide-to-ai](https://github.com/pavelruiz/developers-guide-to-ai) | 0 | Python | 2026-10-20 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 21 | [SoraChavez66/distill](https://github.com/SoraChavez66/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
-| 22 | [cDunn68/distill](https://github.com/cDunn68/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
-| 23 | [emanuele1540/distill](https://github.com/emanuele1540/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
-| 24 | [Katarzynab36833/rag-interview-system](https://github.com/Katarzynab36833/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-20 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
-| 25 | [LouisRogers05424/VectorRAG.Net](https://github.com/LouisRogers05424/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
-| 26 | [Cheryl2249/llmaker](https://github.com/Cheryl2249/llmaker) | 0 | Go | 2026-10-20 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
-| 27 | [danielleramirez96/LLMFlex](https://github.com/danielleramirez96/LLMFlex) | 0 | Python | 2026-10-20 | A python package for developing AI applications with local LLMs. |
-| 28 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2024 | Python | 2026-10-20 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
-| 29 | [francois2169/distill](https://github.com/francois2169/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
-| 30 | [MariaDB/server](https://github.com/MariaDB/server) | 8392 | C++ | 2026-10-20 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 31 | [Sylvie5659/VectorRAG.Net](https://github.com/Sylvie5659/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
-| 32 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-20 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 33 | [judithyilmaz/llmaker](https://github.com/judithyilmaz/llmaker) | 0 | Go | 2026-10-20 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
-| 34 | [BrahimIshii834/llmaker](https://github.com/BrahimIshii834/llmaker) | 0 | Go | 2026-10-20 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
-| 35 | [jMedina533/VectorRAG.Net](https://github.com/jMedina533/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
-| 36 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11709 | Rust | 2026-10-20 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 37 | [ward7248/vektori](https://github.com/ward7248/vektori) | 0 | Python | 2026-10-20 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
-| 38 | [YutaDegroot29671/rag-interview-system](https://github.com/YutaDegroot29671/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-20 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
-| 39 | [gnascimento8489/VectorRAG.Net](https://github.com/gnascimento8489/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
-| 40 | [michellesahu263/VectorRAG.Net](https://github.com/michellesahu263/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
-| 41 | [craza81531/developers-guide-to-ai](https://github.com/craza81531/developers-guide-to-ai) | 0 | Python | 2026-10-20 | The Developer's Guide to AI - A Field Guide for the Working Developer |
-| 42 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40378 | Python | 2026-10-20 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
-| 43 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 11 | JavaScript | 2026-10-20 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
-| 44 | [piotrwozn/multidb](https://github.com/piotrwozn/multidb) | 0 | Rust | 2026-10-20 |  |
-| 45 | [austin1406/rag-streamflow-assistant](https://github.com/austin1406/rag-streamflow-assistant) | 0 | Python | 2026-10-20 | Citation-grounded RAG assistant over an LSTM+DACP streamflow uncertainty report |
-| 46 | [jyothi-basu/investment-portfolio-tracker](https://github.com/jyothi-basu/investment-portfolio-tracker) | 0 | Python | 2026-10-20 | FastAPI-based Investment Portfolio Tracker with an agentic AI assistant. Includes layered backend architecture,          |
-| 47 | [Angular2Guy/AIDocumentLibraryChat](https://github.com/Angular2Guy/AIDocumentLibraryChat) | 31 | Java | 2026-10-20 | A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm |
-| 48 | [caoergou/dify-installer](https://github.com/caoergou/dify-installer) | 2 | Shell | 2026-10-20 | One-click installer for Dify Docker deployment \| Dify 一键安装脚本，使用 Docker Compose 部署 |
-| 49 | [ness-e/Vantadb](https://github.com/ness-e/Vantadb) | 2 | Rust | 2026-10-20 | Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva |
-| 50 | [rj41-w2/physical-ai-book-hackathon-1](https://github.com/rj41-w2/physical-ai-book-hackathon-1) | 0 | TypeScript | 2026-10-20 | A production-grade documentation platform for a Physical AI & Humanoid Robotics course, featuring a built-in RAG chatbot |
+| 1 | [ness-e/Vantadb](https://github.com/ness-e/Vantadb) | 2 | Rust | 2026-10-20 | Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva |
+| 2 | [Hk-owo/stratum-vectordb](https://github.com/Hk-owo/stratum-vectordb) | 0 | Go | 2026-10-20 | Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing — built for RAG. |
+| 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16126 | C++ | 2026-10-20 | A lightweight, lightning-fast, in-process vector database |
+| 4 | [majayakovlev653/VectorRAG.Net](https://github.com/majayakovlev653/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
+| 5 | [ginevra84816/llmaker](https://github.com/ginevra84816/llmaker) | 0 | Go | 2026-10-20 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
+| 6 | [shotaro614/developers-guide-to-ai](https://github.com/shotaro614/developers-guide-to-ai) | 0 | Python | 2026-10-20 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 9 | [kldhsh123/Afterglow](https://github.com/kldhsh123/Afterglow) | 317 | Python | 2026-10-20 | By combining chat histories from social media with a vector database, AI can more convincingly recreate someone’s person |
+| 10 | [Polign/recall](https://github.com/Polign/recall) | 2 | Go | 2026-10-20 | Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python + |
+| 11 | [EvgenyBaig58/distill](https://github.com/EvgenyBaig58/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
+| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-20 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 13 | [Yokol18/vektori](https://github.com/Yokol18/vektori) | 0 | Python | 2026-10-20 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
+| 14 | [hbrown1533/distill](https://github.com/hbrown1533/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
+| 15 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 39328 | Python | 2026-10-20 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 16 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 121 | HTML | 2026-10-20 | The documentation for SurrealDB, built with Vike, React, and Mantine |
+| 17 | [rifqifitriady/ZAAFPulse](https://github.com/rifqifitriady/ZAAFPulse) | 1 | JavaScript | 2026-10-20 | ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality |
+| 18 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-20 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 19 | [volkanyakovlev10929/vektori](https://github.com/volkanyakovlev10929/vektori) | 0 | Python | 2026-10-20 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
+| 20 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2056 | Go | 2026-10-20 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 21 | [TatianaSoderberg1627/distill](https://github.com/TatianaSoderberg1627/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
+| 22 | [evahayes98/rag-interview-system](https://github.com/evahayes98/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-20 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
+| 23 | [RajeshVandermeer70/developers-guide-to-ai](https://github.com/RajeshVandermeer70/developers-guide-to-ai) | 0 | Python | 2026-10-20 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 24 | [ruchakudale/Visual-Product-Similarity-Image-Based-Recommendation-System-Amazon-Style-](https://github.com/ruchakudale/Visual-Product-Similarity-Image-Based-Recommendation-System-Amazon-Style-) | 0 | Python | 2026-10-20 | Built computer vision–based system that can identify and recommend visually similar products using only product images,  |
+| 25 | [pavelruiz/developers-guide-to-ai](https://github.com/pavelruiz/developers-guide-to-ai) | 0 | Python | 2026-10-20 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 26 | [SoraChavez66/distill](https://github.com/SoraChavez66/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
+| 27 | [cDunn68/distill](https://github.com/cDunn68/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
+| 28 | [emanuele1540/distill](https://github.com/emanuele1540/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
+| 29 | [Katarzynab36833/rag-interview-system](https://github.com/Katarzynab36833/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-20 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
+| 30 | [LouisRogers05424/VectorRAG.Net](https://github.com/LouisRogers05424/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
+| 31 | [Cheryl2249/llmaker](https://github.com/Cheryl2249/llmaker) | 0 | Go | 2026-10-20 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
+| 32 | [danielleramirez96/LLMFlex](https://github.com/danielleramirez96/LLMFlex) | 0 | Python | 2026-10-20 | A python package for developing AI applications with local LLMs. |
+| 33 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2024 | Python | 2026-10-20 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 34 | [francois2169/distill](https://github.com/francois2169/distill) | 0 | Go | 2026-10-20 | Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect |
+| 35 | [MariaDB/server](https://github.com/MariaDB/server) | 8392 | C++ | 2026-10-20 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 36 | [Sylvie5659/VectorRAG.Net](https://github.com/Sylvie5659/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
+| 37 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-20 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 38 | [judithyilmaz/llmaker](https://github.com/judithyilmaz/llmaker) | 0 | Go | 2026-10-20 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
+| 39 | [BrahimIshii834/llmaker](https://github.com/BrahimIshii834/llmaker) | 0 | Go | 2026-10-20 | Selfhost modern LLM stacks. Run the whole fleet from your terminal |
+| 40 | [jMedina533/VectorRAG.Net](https://github.com/jMedina533/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
+| 41 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11709 | Rust | 2026-10-20 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 42 | [ward7248/vektori](https://github.com/ward7248/vektori) | 0 | Python | 2026-10-20 | Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents ->  |
+| 43 | [YutaDegroot29671/rag-interview-system](https://github.com/YutaDegroot29671/rag-interview-system) | 0 | Jupyter Notebook | 2026-10-20 | A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch |
+| 44 | [gnascimento8489/VectorRAG.Net](https://github.com/gnascimento8489/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
+| 45 | [michellesahu263/VectorRAG.Net](https://github.com/michellesahu263/VectorRAG.Net) | 0 | C# | 2026-10-20 | VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented |
+| 46 | [craza81531/developers-guide-to-ai](https://github.com/craza81531/developers-guide-to-ai) | 0 | Python | 2026-10-20 | The Developer's Guide to AI - A Field Guide for the Working Developer |
+| 47 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40378 | Python | 2026-10-20 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| 48 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 11 | JavaScript | 2026-10-20 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
+| 49 | [piotrwozn/multidb](https://github.com/piotrwozn/multidb) | 0 | Rust | 2026-10-20 |  |
+| 50 | [austin1406/rag-streamflow-assistant](https://github.com/austin1406/rag-streamflow-assistant) | 0 | Python | 2026-10-20 | Citation-grounded RAG assistant over an LSTM+DACP streamflow uncertainty report |
 <!-- TRACKER_TABLE_END -->
 
 ---
