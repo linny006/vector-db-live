@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T05:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "shotaro614/developers-guide-to-ai",
+    "language": "Python",
+    "name": "shotaro614/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:43:36Z",
+    "url": "https://github.com/shotaro614/developers-guide-to-ai"
+  },
+  {
+    "description": "By combining chat histories from social media with a vector database, AI can more convincingly recreate someone\u2019s person",
+    "id": "kldhsh123/Afterglow",
+    "language": "Python",
+    "name": "kldhsh123/Afterglow",
+    "stars": 317,
+    "updated_at": "2026-10-20T05:41:19Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
+  },
+  {
+    "description": "Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python +",
+    "id": "Polign/recall",
+    "language": "Go",
+    "name": "Polign/recall",
+    "stars": 2,
+    "updated_at": "2026-10-20T05:41:14Z",
+    "url": "https://github.com/Polign/recall"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "EvgenyBaig58/distill",
+    "language": "Go",
+    "name": "EvgenyBaig58/distill",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:40:50Z",
+    "url": "https://github.com/EvgenyBaig58/distill"
+  },
+  {
+    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
+    "id": "Hk-owo/stratum-vectordb",
+    "language": "Go",
+    "name": "Hk-owo/stratum-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:39:44Z",
+    "url": "https://github.com/Hk-owo/stratum-vectordb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T05:39:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "Yokol18/vektori",
+    "language": "Python",
+    "name": "Yokol18/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:35:54Z",
+    "url": "https://github.com/Yokol18/vektori"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "hbrown1533/distill",
+    "language": "Go",
+    "name": "hbrown1533/distill",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:35:05Z",
+    "url": "https://github.com/hbrown1533/distill"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T05:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "HTML",
@@ -90,15 +180,6 @@
     "url": "https://github.com/pavelruiz/developers-guide-to-ai"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T05:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
     "id": "SoraChavez66/distill",
     "language": "Go",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:15:46Z",
     "url": "https://github.com/SoraChavez66/distill"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T05:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -180,15 +252,6 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T05:08:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
     "id": "francois2169/distill",
     "language": "Go",
@@ -203,7 +266,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8392,
-    "updated_at": "2026-10-20T05:16:19Z",
+    "updated_at": "2026-10-20T05:38:25Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -256,7 +319,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11708,
+    "stars": 11709,
     "updated_at": "2026-10-20T05:02:29Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -310,7 +373,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40377,
+    "stars": 40378,
     "updated_at": "2026-10-20T04:45:12Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T04:12:35Z",
     "url": "https://github.com/rj41-w2/physical-ai-book-hackathon-1"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-20T04:10:59Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
-    "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:10:05Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
-    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
-    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:09:52Z",
-    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-10-20T04:06:01Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 27,
-    "updated_at": "2026-10-20T04:09:40Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46440,
-    "updated_at": "2026-10-20T03:55:45Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-20T03:58:58Z",
-    "url": "https://github.com/miniaxolotl/grove"
   }
 ]
