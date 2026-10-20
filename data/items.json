@@ -1,21 +1,12 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T12:59:50Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-20T12:58:36Z",
-    "url": "https://github.com/structured-world/coordinode"
+    "description": "Official Weaviate TypeScript Client",
+    "id": "weaviate/typescript-client",
+    "language": "TypeScript",
+    "name": "weaviate/typescript-client",
+    "stars": 101,
+    "updated_at": "2026-10-20T13:15:06Z",
+    "url": "https://github.com/weaviate/typescript-client"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -23,17 +14,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-20T12:57:52Z",
+    "updated_at": "2026-10-20T13:14:51Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32580,
-    "updated_at": "2026-10-20T12:59:51Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,8 +23,62 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 5,
-    "updated_at": "2026-10-20T12:47:01Z",
+    "updated_at": "2026-10-20T13:09:44Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
+    "id": "ChromaDotNet/ChromaDB.Local",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Local",
+    "stars": 1,
+    "updated_at": "2026-10-20T13:08:38Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 13028,
+    "updated_at": "2026-10-20T13:10:31Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32581,
+    "updated_at": "2026-10-20T13:12:37Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-20T13:03:24Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-20T13:01:49Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T13:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -50,8 +86,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T12:45:19Z",
+    "updated_at": "2026-10-20T13:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-20T13:01:17Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40426,
+    "updated_at": "2026-10-20T12:53:47Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7135,
+    "updated_at": "2026-10-20T13:09:30Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -70,15 +133,6 @@
     "stars": 6220,
     "updated_at": "2026-10-20T12:41:38Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40425,
-    "updated_at": "2026-10-20T12:53:47Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -103,18 +157,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39341,
+    "stars": 39342,
     "updated_at": "2026-10-20T12:32:52Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7134,
-    "updated_at": "2026-10-20T12:49:46Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "A facade over vector databases \u2014 one interface, ~15 backends",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T13:00:00Z",
+    "updated_at": "2026-10-20T13:14:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 10,
     "updated_at": "2026-10-20T12:19:53Z",
     "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Official Weaviate TypeScript Client",
-    "id": "weaviate/typescript-client",
-    "language": "TypeScript",
-    "name": "weaviate/typescript-client",
-    "stars": 101,
-    "updated_at": "2026-10-20T12:53:20Z",
-    "url": "https://github.com/weaviate/typescript-client"
   },
   {
     "description": "Element-aware chunking design patterns for RAG \u2014 text, tables & images \u2192 Qdrant, with visual diffs and a small eval.",
@@ -187,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T12:15:07Z",
     "url": "https://github.com/zvec-ai/zvec-java"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-20T12:23:40Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
@@ -310,7 +337,7 @@
     "id": "hoangdinhlong/nhe_o",
     "language": "Ada",
     "name": "hoangdinhlong/nhe_o",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-20T11:50:13Z",
     "url": "https://github.com/hoangdinhlong/nhe_o"
   },
@@ -400,7 +427,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 306,
+    "stars": 307,
     "updated_at": "2026-10-20T11:29:46Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T11:20:33Z",
     "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1210,
-    "updated_at": "2026-10-20T12:54:56Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "PaperPal \u2013 PDF Chatbot for Research Papers",
-    "id": "saxill/PaperPal",
-    "language": "Python",
-    "name": "saxill/PaperPal",
-    "stars": 1,
-    "updated_at": "2026-10-20T11:12:18Z",
-    "url": "https://github.com/saxill/PaperPal"
-  },
-  {
-    "description": "NBase is a high-performance vector database for efficient similarity search, designed for machine learning embeddings an",
-    "id": "N2FlowJS/nbase",
-    "language": "TypeScript",
-    "name": "N2FlowJS/nbase",
-    "stars": 2,
-    "updated_at": "2026-10-20T11:10:20Z",
-    "url": "https://github.com/N2FlowJS/nbase"
   }
 ]
