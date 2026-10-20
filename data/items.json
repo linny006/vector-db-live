@@ -1,11 +1,155 @@
 [
   {
+    "description": "A python package for developing AI applications with local LLMs.",
+    "id": "marcosharrison15/LLMFlex",
+    "language": "Python",
+    "name": "marcosharrison15/LLMFlex",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:59:49Z",
+    "url": "https://github.com/marcosharrison15/LLMFlex"
+  },
+  {
+    "description": "A python package for developing AI applications with local LLMs.",
+    "id": "marie49939/LLMFlex",
+    "language": "Python",
+    "name": "marie49939/LLMFlex",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:58:18Z",
+    "url": "https://github.com/marie49939/LLMFlex"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "chen203/distill",
+    "language": "Go",
+    "name": "chen203/distill",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:57:24Z",
+    "url": "https://github.com/chen203/distill"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9472,
+    "updated_at": "2026-10-20T08:56:35Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-20T08:54:56Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-20T08:51:12Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Persistent conversational memory for AI via MCP \u2014 built by humans and AI, for humans and AI.",
+    "id": "symbiomind/memory-mcp-ce",
+    "language": "Python",
+    "name": "symbiomind/memory-mcp-ce",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:50:29Z",
+    "url": "https://github.com/symbiomind/memory-mcp-ce"
+  },
+  {
+    "description": "A python package for developing AI applications with local LLMs.",
+    "id": "giulio740/LLMFlex",
+    "language": "Python",
+    "name": "giulio740/LLMFlex",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:50:26Z",
+    "url": "https://github.com/giulio740/LLMFlex"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40404,
+    "updated_at": "2026-10-20T08:50:17Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "victoriagupta81064/developers-guide-to-ai",
+    "language": "Python",
+    "name": "victoriagupta81064/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:49:12Z",
+    "url": "https://github.com/victoriagupta81064/developers-guide-to-ai"
+  },
+  {
+    "description": "A python package for developing AI applications with local LLMs.",
+    "id": "somjaib1377/LLMFlex",
+    "language": "Python",
+    "name": "somjaib1377/LLMFlex",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:49:08Z",
+    "url": "https://github.com/somjaib1377/LLMFlex"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "filippooda74/VectorRAG.Net",
+    "language": "C#",
+    "name": "filippooda74/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:48:51Z",
+    "url": "https://github.com/filippooda74/VectorRAG.Net"
+  },
+  {
+    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
+    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "language": "HTML",
+    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:48:29Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
+  },
+  {
+    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-10-20T08:48:07Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "Caruso61120/developers-guide-to-ai",
+    "language": "Python",
+    "name": "Caruso61120/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:47:55Z",
+    "url": "https://github.com/Caruso61120/developers-guide-to-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T08:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T08:45:18Z",
+    "updated_at": "2026-10-20T09:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,15 +162,6 @@
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "HTML",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:43:58Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -34,24 +169,6 @@
     "stars": 5,
     "updated_at": "2026-10-20T08:43:50Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "victoriagupta81064/developers-guide-to-ai",
-    "language": "Python",
-    "name": "victoriagupta81064/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:42:39Z",
-    "url": "https://github.com/victoriagupta81064/developers-guide-to-ai"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-20T08:40:01Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -72,15 +189,6 @@
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40401,
-    "updated_at": "2026-10-20T08:37:19Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
     "id": "zilliztech/knowhere",
     "language": "C++",
@@ -88,15 +196,6 @@
     "stars": 388,
     "updated_at": "2026-10-20T08:31:46Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T08:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -131,7 +230,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-20T08:28:51Z",
+    "updated_at": "2026-10-20T08:52:04Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -158,8 +257,17 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9420,
-    "updated_at": "2026-10-20T08:43:25Z",
+    "updated_at": "2026-10-20T08:55:06Z",
     "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39331,
+    "updated_at": "2026-10-20T08:22:06Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
@@ -167,7 +275,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-20T08:24:20Z",
+    "updated_at": "2026-10-20T08:46:09Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -198,15 +306,6 @@
     "url": "https://github.com/theogony-project/theogony"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-20T08:44:40Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
     "id": "yashbhosale789/yashbhosale789",
     "language": "\u2014",
@@ -216,15 +315,6 @@
     "url": "https://github.com/yashbhosale789/yashbhosale789"
   },
   {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-10-20T07:54:32Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
     "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
     "id": "api-evangelist/upstash",
     "language": "\u2014",
@@ -232,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T07:52:46Z",
     "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39331,
-    "updated_at": "2026-10-20T08:22:06Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Run Kafka, Flink, Spark, Iceberg, Trino, ClickHouse, Airflow, MLflow, Feast, pgvector and more on your laptop, one comma",
@@ -265,7 +346,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11710,
+    "stars": 11711,
     "updated_at": "2026-10-20T07:49:57Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -302,7 +383,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 1,
-    "updated_at": "2026-10-20T08:22:33Z",
+    "updated_at": "2026-10-20T08:50:22Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -364,89 +445,8 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13266,
+    "stars": 13267,
     "updated_at": "2026-10-20T07:30:04Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
-    "id": "OmniBioAI/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "OmniBioAI/omnibioai-dev-hub",
-    "stars": 1,
-    "updated_at": "2026-10-20T07:29:18Z",
-    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:28:41Z",
-    "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
-    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
-    "id": "RishabhMathur06/CASO-RAG",
-    "language": "Python",
-    "name": "RishabhMathur06/CASO-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:26:28Z",
-    "url": "https://github.com/RishabhMathur06/CASO-RAG"
-  },
-  {
-    "description": "FastAPI-based Investment Portfolio Tracker with an agentic AI assistant. Includes layered backend architecture,         ",
-    "id": "jyothi-basu/investment-portfolio-tracker",
-    "language": "Python",
-    "name": "jyothi-basu/investment-portfolio-tracker",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:13:55Z",
-    "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-20T07:12:57Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:12:36Z",
-    "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "LlamaIndex is the document processing platform for AI",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 52576,
-    "updated_at": "2026-10-20T07:12:17Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46442,
-    "updated_at": "2026-10-20T07:11:51Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:07:49Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   }
 ]
