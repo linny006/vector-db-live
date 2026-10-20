@@ -1,5 +1,41 @@
 [
   {
+    "description": "Citation-grounded RAG assistant over an LSTM+DACP streamflow uncertainty report",
+    "id": "austin1406/rag-streamflow-assistant",
+    "language": "Python",
+    "name": "austin1406/rag-streamflow-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-20T04:30:01Z",
+    "url": "https://github.com/austin1406/rag-streamflow-assistant"
+  },
+  {
+    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
+    "id": "ness-e/Vantadb",
+    "language": "Rust",
+    "name": "ness-e/Vantadb",
+    "stars": 2,
+    "updated_at": "2026-10-20T04:18:18Z",
+    "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T04:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T04:15:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A production-grade documentation platform for a Physical AI & Humanoid Robotics course, featuring a built-in RAG chatbot",
     "id": "rj41-w2/physical-ai-book-hackathon-1",
     "language": "TypeScript",
@@ -7,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T04:12:35Z",
     "url": "https://github.com/rj41-w2/physical-ai-book-hackathon-1"
-  },
-  {
-    "description": "Loams for Mastra: storage, vector, pub/sub, cache, observability and Resonate durable workflows for Mastra agents on Loa",
-    "id": "ostrium-labs/loams-mastra",
-    "language": "\u2014",
-    "name": "ostrium-labs/loams-mastra",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:11:10Z",
-    "url": "https://github.com/ostrium-labs/loams-mastra"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2056,
-    "updated_at": "2026-10-20T04:09:03Z",
+    "updated_at": "2026-10-20T04:26:02Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -81,22 +108,13 @@
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T04:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T04:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46439,
+    "updated_at": "2026-10-20T03:55:45Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -106,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T03:58:58Z",
     "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46438,
-    "updated_at": "2026-10-20T03:55:45Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -131,7 +140,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1209,
-    "updated_at": "2026-10-20T04:13:50Z",
+    "updated_at": "2026-10-20T04:26:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 24,
     "updated_at": "2026-10-20T02:00:49Z",
     "url": "https://github.com/evgeniycheban/spring-data-reindexer"
-  },
-  {
-    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
-    "id": "ness-e/Vantadb",
-    "language": "Rust",
-    "name": "ness-e/Vantadb",
-    "stars": 2,
-    "updated_at": "2026-10-20T03:41:01Z",
-    "url": "https://github.com/ness-e/Vantadb"
   },
   {
     "description": "Structure\u2011aware RAG platform with semantic search and citations.",
