@@ -1,11 +1,56 @@
 [
   {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-20T21:28:12Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9423,
+    "updated_at": "2026-10-20T21:30:19Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 17,
+    "updated_at": "2026-10-20T21:23:15Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-20T21:23:05Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 325,
+    "updated_at": "2026-10-20T21:18:19Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-20T21:15:33Z",
+    "updated_at": "2026-10-20T21:16:31Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T21:15:24Z",
+    "updated_at": "2026-10-20T21:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T21:14:58Z",
     "url": "https://github.com/khalidkanane/personal-rag-chatbot"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 325,
-    "updated_at": "2026-10-20T21:14:40Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Official Terraform provider for Pinecone ",
@@ -68,17 +104,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32591,
-    "updated_at": "2026-10-20T21:15:25Z",
+    "updated_at": "2026-10-20T21:28:40Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-20T21:07:24Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
@@ -90,6 +117,15 @@
     "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39361,
+    "updated_at": "2026-10-20T21:03:59Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "Structure\u2011aware RAG platform with semantic search and citations.",
     "id": "loglux/RAG-Knowledge-Base-Platform",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T21:00:21Z",
     "url": "https://github.com/loglux/RAG-Knowledge-Base-Platform"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-20T21:02:18Z",
-    "url": "https://github.com/badhope/spark"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T20:47:00Z",
     "url": "https://github.com/tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9423,
-    "updated_at": "2026-10-20T20:59:37Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
@@ -247,7 +265,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2380,
+    "stars": 2381,
     "updated_at": "2026-10-20T20:11:58Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -302,7 +320,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1211,
-    "updated_at": "2026-10-20T21:07:40Z",
+    "updated_at": "2026-10-20T21:29:29Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1486,
     "updated_at": "2026-10-20T19:04:17Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-20T19:04:11Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Open Source Ai by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UI",
-    "id": "CodesbyFebin/Open-Source-Ai",
-    "language": "Python",
-    "name": "CodesbyFebin/Open-Source-Ai",
-    "stars": 1,
-    "updated_at": "2026-10-20T20:24:52Z",
-    "url": "https://github.com/CodesbyFebin/Open-Source-Ai"
   }
 ]
