@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T00:00:21Z",
+    "updated_at": "2026-10-20T00:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 10514,
+    "updated_at": "2026-10-20T00:09:11Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-20T00:06:32Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-20T00:06:36Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T00:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -18,31 +54,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 10507,
-    "updated_at": "2026-10-20T00:00:20Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-19T23:59:20Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "A personal RAG (Retrieval-Augmented Generation) chatbot built with Streamlit and LangChain. Upload PDFs and chat with th",
+    "id": "khalidkanane/personal-rag-chatbot",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T23:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "khalidkanane/personal-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-19T23:50:19Z",
+    "url": "https://github.com/khalidkanane/personal-rag-chatbot"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-19T23:56:32Z",
+    "updated_at": "2026-10-20T00:08:05Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-19T23:30:18Z",
     "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "terryolsson93/developers-guide-to-ai",
-    "language": "Python",
-    "name": "terryolsson93/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:47:36Z",
-    "url": "https://github.com/terryolsson93/developers-guide-to-ai"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 11,
-    "updated_at": "2026-10-19T23:16:03Z",
-    "url": "https://github.com/lancedb/docs"
   }
 ]
