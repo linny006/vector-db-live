@@ -1,12 +1,93 @@
 [
   {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-20T20:15:19Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2380,
+    "updated_at": "2026-10-20T20:11:58Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
+    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:11:27Z",
+    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 108,
+    "updated_at": "2026-10-20T20:11:58Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T20:08:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-20T20:11:39Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
+    "id": "NirDiamant/RAG_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/RAG_Techniques",
+    "stars": 29927,
+    "updated_at": "2026-10-20T20:05:39Z",
+    "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-20T19:59:55Z",
+    "updated_at": "2026-10-20T20:09:49Z",
     "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T20:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T20:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32590,
-    "updated_at": "2026-10-20T19:58:12Z",
+    "updated_at": "2026-10-20T20:09:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Go",
     "name": "genkit-ai/genkit",
     "stars": 6532,
-    "updated_at": "2026-10-20T20:00:01Z",
+    "updated_at": "2026-10-20T20:11:16Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 324,
     "updated_at": "2026-10-20T19:55:07Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-20T19:56:24Z",
-    "url": "https://github.com/badhope/spark"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -61,24 +133,6 @@
     "stars": 13028,
     "updated_at": "2026-10-20T19:54:19Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T19:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T20:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
@@ -126,31 +180,13 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T19:36:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "MCP server exposing the full Qdrant vector database API as 49 tools: hybrid search, snapshots, observability. Read-only ",
     "id": "avaazquezz/Qdrant-MCP",
     "language": "Python",
     "name": "avaazquezz/Qdrant-MCP",
     "stars": 1,
-    "updated_at": "2026-10-20T19:38:35Z",
+    "updated_at": "2026-10-20T20:14:54Z",
     "url": "https://github.com/avaazquezz/Qdrant-MCP"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-20T20:00:20Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -261,21 +297,12 @@
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 29927,
-    "updated_at": "2026-10-20T19:00:57Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
     "description": "Open Source Ai by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM APIs, chat UI",
     "id": "CodesbyFebin/Open-Source-Ai",
     "language": "Python",
     "name": "CodesbyFebin/Open-Source-Ai",
     "stars": 1,
-    "updated_at": "2026-10-20T19:00:49Z",
+    "updated_at": "2026-10-20T20:11:59Z",
     "url": "https://github.com/CodesbyFebin/Open-Source-Ai"
   },
   {
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-20T18:11:28Z",
+    "updated_at": "2026-10-20T20:13:46Z",
     "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46447,
-    "updated_at": "2026-10-20T17:51:51Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
-    "id": "ihrimon/ai-engineering-journey",
-    "language": "HTML",
-    "name": "ihrimon/ai-engineering-journey",
-    "stars": 0,
-    "updated_at": "2026-10-20T17:49:52Z",
-    "url": "https://github.com/ihrimon/ai-engineering-journey"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59616,
-    "updated_at": "2026-10-20T17:47:17Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
