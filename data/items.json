@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T01:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-20T01:30:08Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
+    "id": "ness-e/Vantadb",
+    "language": "Rust",
+    "name": "ness-e/Vantadb",
+    "stars": 2,
+    "updated_at": "2026-10-20T01:29:19Z",
+    "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 10540,
+    "updated_at": "2026-10-20T01:29:07Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 65,
+    "updated_at": "2026-10-20T01:25:02Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-10-20T01:19:44Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates.",
+    "id": "gay00ung/vecnook",
+    "language": "Rust",
+    "name": "gay00ung/vecnook",
+    "stars": 2,
+    "updated_at": "2026-10-20T01:23:11Z",
+    "url": "https://github.com/gay00ung/vecnook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T01:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Structure\u2011aware RAG platform with semantic search and citations.",
     "id": "loglux/RAG-Knowledge-Base-Platform",
     "language": "Python",
@@ -36,33 +108,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 65,
-    "updated_at": "2026-10-20T01:03:32Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 10535,
-    "updated_at": "2026-10-20T01:10:48Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-20T01:13:34Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
     "id": "edheltzel/Recall",
     "language": "TypeScript",
@@ -70,24 +115,6 @@
     "stars": 4,
     "updated_at": "2026-10-20T01:02:22Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T01:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T01:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI support assistant for payment merchants, built with Spring AI and Amazon Bedrock (Claude): read-only tool calling on ",
@@ -140,7 +167,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2056,
-    "updated_at": "2026-10-20T00:45:15Z",
+    "updated_at": "2026-10-20T01:18:05Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -148,7 +175,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67327,
+    "stars": 67328,
     "updated_at": "2026-10-20T00:34:27Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-20T00:58:54Z",
+    "updated_at": "2026-10-20T01:16:59Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -360,15 +387,6 @@
     "url": "https://github.com/Jaykumar122/ThinkpocketAI"
   },
   {
-    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-10-19T22:05:21Z",
-    "url": "https://github.com/88plug/total-recall"
-  },
-  {
     "description": "Building multi-tenant Retrieval Augmented Generation platform ",
     "id": "kennielima/OpsIQ",
     "language": "C#",
@@ -391,7 +409,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32553,
+    "stars": 32554,
     "updated_at": "2026-10-19T21:44:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 7133,
     "updated_at": "2026-10-19T21:41:02Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-19T21:21:50Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "Stefan29683/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "Stefan29683/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-19T21:17:48Z",
-    "url": "https://github.com/Stefan29683/rag-interview-system"
   }
 ]
