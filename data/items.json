@@ -1,5 +1,95 @@
 [
   {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4445,
+    "updated_at": "2026-10-20T10:15:06Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40415,
+    "updated_at": "2026-10-20T10:11:58Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T10:07:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2377,
+    "updated_at": "2026-10-20T10:04:52Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-20T10:04:41Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-10-20T10:03:30Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "Autonomous multi-agent AI platform for GitHub repository lifecycle management. MoE routing, self-healing workers, LLM me",
+    "id": "ry-ops/commit-relay",
+    "language": "Shell",
+    "name": "ry-ops/commit-relay",
+    "stars": 2,
+    "updated_at": "2026-10-20T10:06:03Z",
+    "url": "https://github.com/ry-ops/commit-relay"
+  },
+  {
+    "description": "Official Weaviate TypeScript Client",
+    "id": "weaviate/typescript-client",
+    "language": "TypeScript",
+    "name": "weaviate/typescript-client",
+    "stars": 101,
+    "updated_at": "2026-10-20T10:11:45Z",
+    "url": "https://github.com/weaviate/typescript-client"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-20T10:03:08Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T10:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 10,
-    "updated_at": "2026-10-20T10:00:05Z",
+    "updated_at": "2026-10-20T10:00:50Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -32,17 +122,8 @@
     "language": "TypeScript",
     "name": "RoxyAPI/ai-spiritual-companion",
     "stars": 0,
-    "updated_at": "2026-10-20T09:58:47Z",
+    "updated_at": "2026-10-20T10:01:05Z",
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40413,
-    "updated_at": "2026-10-20T09:58:33Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -50,7 +131,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 912,
-    "updated_at": "2026-10-20T09:57:07Z",
+    "updated_at": "2026-10-20T10:11:25Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -58,7 +139,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46443,
+    "stars": 46442,
     "updated_at": "2026-10-20T09:53:54Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -68,7 +149,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T09:55:30Z",
+    "updated_at": "2026-10-20T10:03:14Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -81,22 +162,22 @@
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T09:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35153,
+    "stars": 35152,
     "updated_at": "2026-10-20T09:48:27Z",
     "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32572,
+    "updated_at": "2026-10-20T09:48:19Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "FastAPI-based Investment Portfolio Tracker with an agentic AI assistant. Includes layered backend architecture,         ",
@@ -117,21 +198,12 @@
     "url": "https://github.com/bartvanbenthem/tuskpilot"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4444,
-    "updated_at": "2026-10-20T09:48:47Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-20T09:52:11Z",
+    "updated_at": "2026-10-20T10:07:55Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -144,13 +216,13 @@
     "url": "https://github.com/zerotropism/local-rag"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T09:39:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59614,
+    "updated_at": "2026-10-20T09:36:44Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T09:36:04Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59615,
-    "updated_at": "2026-10-20T09:36:44Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
@@ -184,8 +247,8 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39332,
-    "updated_at": "2026-10-20T09:33:36Z",
+    "stars": 39333,
+    "updated_at": "2026-10-20T10:09:00Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -225,15 +288,6 @@
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
-    "description": "Official Weaviate TypeScript Client",
-    "id": "weaviate/typescript-client",
-    "language": "TypeScript",
-    "name": "weaviate/typescript-client",
-    "stars": 101,
-    "updated_at": "2026-10-20T09:58:18Z",
-    "url": "https://github.com/weaviate/typescript-client"
-  },
-  {
     "description": "RAG-based PDF Question-Answering chatbot using FAISS, sentence-transformers and Google Gemini, with page-level source ci",
     "id": "faizanjutt473/AskMyPDF-RAG-Chatbot",
     "language": "Python",
@@ -252,6 +306,15 @@
     "url": "https://github.com/katerinahwang85508/VectorRAG.Net"
   },
   {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16125,
+    "updated_at": "2026-10-20T09:22:18Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
     "id": "AkiraWu3444/distill",
     "language": "Go",
@@ -259,6 +322,15 @@
     "stars": 0,
     "updated_at": "2026-10-20T09:22:07Z",
     "url": "https://github.com/AkiraWu3444/distill"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 584,
+    "updated_at": "2026-10-20T10:08:35Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -329,7 +401,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2056,
-    "updated_at": "2026-10-20T09:08:49Z",
+    "updated_at": "2026-10-20T10:05:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -340,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T09:07:41Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32574,
-    "updated_at": "2026-10-20T09:48:19Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -385,68 +448,5 @@
     "stars": 30,
     "updated_at": "2026-10-20T09:02:53Z",
     "url": "https://github.com/ENDEVSOLS/Long-Trainer"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "Yusukem00657/distill",
-    "language": "Go",
-    "name": "Yusukem00657/distill",
-    "stars": 0,
-    "updated_at": "2026-10-20T09:02:01Z",
-    "url": "https://github.com/Yusukem00657/distill"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "marcosharrison15/LLMFlex",
-    "language": "Python",
-    "name": "marcosharrison15/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-20T09:02:00Z",
-    "url": "https://github.com/marcosharrison15/LLMFlex"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "marie49939/LLMFlex",
-    "language": "Python",
-    "name": "marie49939/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:58:18Z",
-    "url": "https://github.com/marie49939/LLMFlex"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "chen203/distill",
-    "language": "Go",
-    "name": "chen203/distill",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:57:24Z",
-    "url": "https://github.com/chen203/distill"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9472,
-    "updated_at": "2026-10-20T09:43:28Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Persistent conversational memory for AI via MCP \u2014 built by humans and AI, for humans and AI.",
-    "id": "symbiomind/memory-mcp-ce",
-    "language": "Python",
-    "name": "symbiomind/memory-mcp-ce",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:50:29Z",
-    "url": "https://github.com/symbiomind/memory-mcp-ce"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "giulio740/LLMFlex",
-    "language": "Python",
-    "name": "giulio740/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:50:26Z",
-    "url": "https://github.com/giulio740/LLMFlex"
   }
 ]
