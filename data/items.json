@@ -1,21 +1,102 @@
 [
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40417,
-    "updated_at": "2026-10-20T11:14:33Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7134,
-    "updated_at": "2026-10-20T11:12:51Z",
+    "updated_at": "2026-10-20T11:29:34Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40419,
+    "updated_at": "2026-10-20T11:28:20Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-20T11:24:54Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 36,
+    "updated_at": "2026-10-20T11:24:53Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 300,
+    "updated_at": "2026-10-20T11:29:46Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-20T11:23:35Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-10-20T11:20:33Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1210,
+    "updated_at": "2026-10-20T11:20:07Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1916,
+    "updated_at": "2026-10-20T11:18:11Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T11:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T11:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -36,15 +117,6 @@
     "url": "https://github.com/saxill/PaperPal"
   },
   {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1916,
-    "updated_at": "2026-10-20T11:11:02Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -61,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T11:10:20Z",
     "url": "https://github.com/N2FlowJS/nbase"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-20T11:09:03Z",
-    "url": "https://github.com/monaccode/astromesh"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -94,7 +157,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39334,
+    "stars": 39336,
     "updated_at": "2026-10-20T11:05:26Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -140,7 +203,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 10,
-    "updated_at": "2026-10-20T11:09:30Z",
+    "updated_at": "2026-10-20T11:29:20Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -148,27 +211,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32574,
+    "stars": 32576,
     "updated_at": "2026-10-20T11:01:02Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T11:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T11:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -207,15 +252,6 @@
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 300,
-    "updated_at": "2026-10-20T10:50:59Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -232,15 +268,6 @@
     "stars": 2056,
     "updated_at": "2026-10-20T10:57:41Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-20T10:57:45Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Pion \u2014 the memory engine for AI inference",
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "alopex-db/alopex",
     "stars": 3,
-    "updated_at": "2026-10-20T10:59:33Z",
+    "updated_at": "2026-10-20T11:21:58Z",
     "url": "https://github.com/alopex-db/alopex"
   },
   {
@@ -329,7 +356,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 1,
-    "updated_at": "2026-10-20T10:21:46Z",
+    "updated_at": "2026-10-20T11:30:17Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-20T10:47:35Z",
+    "updated_at": "2026-10-20T11:29:43Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -367,15 +394,6 @@
     "stars": 101,
     "updated_at": "2026-10-20T10:11:45Z",
     "url": "https://github.com/weaviate/typescript-client"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1210,
-    "updated_at": "2026-10-20T10:09:00Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -419,7 +437,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 912,
-    "updated_at": "2026-10-20T11:15:17Z",
+    "updated_at": "2026-10-20T11:28:06Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 46442,
     "updated_at": "2026-10-20T09:53:54Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-20T09:50:34Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35154,
-    "updated_at": "2026-10-20T11:07:38Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
