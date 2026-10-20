@@ -1,21 +1,48 @@
 [
   {
-    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:32:29Z",
-    "url": "https://github.com/api-evangelist/milvus"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T07:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1209,
-    "updated_at": "2026-10-20T07:32:11Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Official n8n node for interfacing with Qdrant",
+    "id": "qdrant/n8n-nodes-qdrant",
+    "language": "TypeScript",
+    "name": "qdrant/n8n-nodes-qdrant",
+    "stars": 78,
+    "updated_at": "2026-10-20T07:45:13Z",
+    "url": "https://github.com/qdrant/n8n-nodes-qdrant"
+  },
+  {
+    "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
+    "id": "ChromaDotNet/ChromaDB.Local",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Local",
+    "stars": 1,
+    "updated_at": "2026-10-20T07:44:31Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40392,
+    "updated_at": "2026-10-20T07:43:46Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-20T07:43:35Z",
+    "url": "https://github.com/miniaxolotl/grove"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -23,8 +50,71 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-20T07:31:10Z",
+    "updated_at": "2026-10-20T07:42:45Z",
     "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T07:41:26Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1209,
+    "updated_at": "2026-10-20T07:40:48Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 2,
+    "updated_at": "2026-10-20T07:41:15Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6219,
+    "updated_at": "2026-10-20T07:39:25Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "",
+    "id": "Yourstandby/Material-Mind-Engine",
+    "language": "Python",
+    "name": "Yourstandby/Material-Mind-Engine",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:33:32Z",
+    "url": "https://github.com/Yourstandby/Material-Mind-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T07:32:42Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-10-20T07:32:29Z",
+    "url": "https://github.com/api-evangelist/milvus"
   },
   {
     "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
@@ -36,22 +126,13 @@
     "url": "https://github.com/api-evangelist/marqo"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T07:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T07:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 289,
+    "updated_at": "2026-10-20T07:30:42Z",
+    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -99,39 +180,12 @@
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40388,
-    "updated_at": "2026-10-20T07:30:24Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "",
-    "id": "Yourstandby/Material-Mind-Engine",
-    "language": "Python",
-    "name": "Yourstandby/Material-Mind-Engine",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:21:05Z",
-    "url": "https://github.com/Yourstandby/Material-Mind-Engine"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-20T07:29:20Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32568,
-    "updated_at": "2026-10-20T07:14:21Z",
+    "updated_at": "2026-10-20T07:35:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T07:13:55Z",
     "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T07:13:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
@@ -175,7 +220,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 52573,
+    "stars": 52574,
     "updated_at": "2026-10-20T07:12:17Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -225,15 +270,6 @@
     "url": "https://github.com/gonicolas12/My_AI"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 288,
-    "updated_at": "2026-10-20T07:30:42Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
     "id": "GoodbyePlanet/semcode",
     "language": "Python",
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9419,
-    "updated_at": "2026-10-20T07:20:37Z",
+    "updated_at": "2026-10-20T07:41:41Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 913,
-    "updated_at": "2026-10-20T07:27:33Z",
+    "updated_at": "2026-10-20T07:42:32Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-20T06:57:57Z",
+    "updated_at": "2026-10-20T07:44:53Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:46:32Z",
     "url": "https://github.com/shotaro614/developers-guide-to-ai"
-  },
-  {
-    "description": "By combining chat histories from social media with a vector database, AI can more convincingly recreate someone\u2019s person",
-    "id": "kldhsh123/Afterglow",
-    "language": "Python",
-    "name": "kldhsh123/Afterglow",
-    "stars": 317,
-    "updated_at": "2026-10-20T06:19:02Z",
-    "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "EvgenyBaig58/distill",
-    "language": "Go",
-    "name": "EvgenyBaig58/distill",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:40:50Z",
-    "url": "https://github.com/EvgenyBaig58/distill"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8393,
-    "updated_at": "2026-10-20T07:20:42Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "Yokol18/vektori",
-    "language": "Python",
-    "name": "Yokol18/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:35:54Z",
-    "url": "https://github.com/Yokol18/vektori"
   }
 ]
