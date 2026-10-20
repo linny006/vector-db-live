@@ -1,5 +1,41 @@
 [
   {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 36,
+    "updated_at": "2026-10-20T02:01:24Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "zvec java binding",
+    "id": "zvec-ai/zvec-java",
+    "language": "Java",
+    "name": "zvec-ai/zvec-java",
+    "stars": 2,
+    "updated_at": "2026-10-20T02:00:42Z",
+    "url": "https://github.com/zvec-ai/zvec-java"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T02:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T02:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
     "id": "PersonalClaw/PersonalClawApps",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-20T01:58:28Z",
+    "updated_at": "2026-10-20T02:06:10Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -32,7 +68,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-20T01:47:52Z",
+    "updated_at": "2026-10-20T02:05:58Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -40,27 +76,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 10560,
+    "stars": 10561,
     "updated_at": "2026-10-20T01:47:24Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T01:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T01:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -122,7 +140,7 @@
     "language": "Java",
     "name": "evgeniycheban/spring-data-reindexer",
     "stars": 24,
-    "updated_at": "2026-10-20T01:33:09Z",
+    "updated_at": "2026-10-20T02:00:49Z",
     "url": "https://github.com/evgeniycheban/spring-data-reindexer"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-20T01:56:04Z",
+    "updated_at": "2026-10-20T02:02:40Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -238,7 +256,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67328,
+    "stars": 67329,
     "updated_at": "2026-10-20T00:34:27Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T22:04:15Z",
     "url": "https://github.com/kennielima/OpsIQ"
-  },
-  {
-    "description": "RAG",
-    "id": "MakabeD/Obsidian_RAG",
-    "language": "C#",
-    "name": "MakabeD/Obsidian_RAG",
-    "stars": 1,
-    "updated_at": "2026-10-19T21:50:07Z",
-    "url": "https://github.com/MakabeD/Obsidian_RAG"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32554,
-    "updated_at": "2026-10-20T01:40:36Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
