@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T10:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-20T10:00:04Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Opensource AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 10,
+    "updated_at": "2026-10-20T10:00:05Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
+    "id": "RoxyAPI/ai-spiritual-companion",
+    "language": "TypeScript",
+    "name": "RoxyAPI/ai-spiritual-companion",
+    "stars": 0,
+    "updated_at": "2026-10-20T09:58:47Z",
+    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40413,
+    "updated_at": "2026-10-20T09:58:33Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 912,
+    "updated_at": "2026-10-20T09:57:07Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46443,
+    "updated_at": "2026-10-20T09:53:54Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-20T09:55:30Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-20T09:50:34Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T09:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35153,
+    "updated_at": "2026-10-20T09:48:27Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "FastAPI-based Investment Portfolio Tracker with an agentic AI assistant. Includes layered backend architecture,         ",
     "id": "jyothi-basu/investment-portfolio-tracker",
     "language": "Python",
@@ -23,17 +122,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4444,
-    "updated_at": "2026-10-20T09:42:58Z",
+    "updated_at": "2026-10-20T09:48:47Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40412,
-    "updated_at": "2026-10-20T09:42:33Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -41,7 +131,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-20T09:41:33Z",
+    "updated_at": "2026-10-20T09:52:11Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -117,24 +207,6 @@
     "url": "https://github.com/HuangRenhui/ai-cs-parent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T09:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T09:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
     "id": "IdoY12/awesome-free-ai-apis",
     "language": "JavaScript",
@@ -153,31 +225,13 @@
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46443,
-    "updated_at": "2026-10-20T09:28:18Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Official Weaviate TypeScript Client",
     "id": "weaviate/typescript-client",
     "language": "TypeScript",
     "name": "weaviate/typescript-client",
     "stars": 101,
-    "updated_at": "2026-10-20T09:39:38Z",
+    "updated_at": "2026-10-20T09:58:18Z",
     "url": "https://github.com/weaviate/typescript-client"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-20T09:25:41Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "RAG-based PDF Question-Answering chatbot using FAISS, sentence-transformers and Google Gemini, with page-level source ci",
@@ -216,21 +270,12 @@
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
-    "description": "Opensource AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 10,
-    "updated_at": "2026-10-20T09:37:51Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
     "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
     "id": "ChromaDotNet/ChromaDB.Local",
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 1,
-    "updated_at": "2026-10-20T09:39:08Z",
+    "updated_at": "2026-10-20T09:52:33Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/RyujiVandermeer16/LLMFlex"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-20T09:30:18Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -306,21 +342,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35152,
-    "updated_at": "2026-10-20T09:44:23Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32573,
-    "updated_at": "2026-10-20T09:05:36Z",
+    "stars": 32574,
+    "updated_at": "2026-10-20T09:48:19Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-20T09:36:37Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Persistent conversational memory for AI via MCP \u2014 built by humans and AI, for humans and AI.",
     "id": "symbiomind/memory-mcp-ce",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T08:50:26Z",
     "url": "https://github.com/giulio740/LLMFlex"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "victoriagupta81064/developers-guide-to-ai",
-    "language": "Python",
-    "name": "victoriagupta81064/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:49:12Z",
-    "url": "https://github.com/victoriagupta81064/developers-guide-to-ai"
-  },
-  {
-    "description": "A python package for developing AI applications with local LLMs.",
-    "id": "somjaib1377/LLMFlex",
-    "language": "Python",
-    "name": "somjaib1377/LLMFlex",
-    "stars": 0,
-    "updated_at": "2026-10-20T08:49:08Z",
-    "url": "https://github.com/somjaib1377/LLMFlex"
   }
 ]
