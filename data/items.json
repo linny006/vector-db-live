@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T03:30:19Z",
+    "updated_at": "2026-10-20T03:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46438,
+    "updated_at": "2026-10-20T03:43:51Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A production-grade documentation platform for a Physical AI & Humanoid Robotics course, featuring a built-in RAG chatbot",
+    "id": "rj41-w2/physical-ai-book-hackathon-1",
+    "language": "TypeScript",
+    "name": "rj41-w2/physical-ai-book-hackathon-1",
+    "stars": 0,
+    "updated_at": "2026-10-20T03:41:33Z",
+    "url": "https://github.com/rj41-w2/physical-ai-book-hackathon-1"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T03:41:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-20T03:40:56Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T03:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -23,7 +68,7 @@
     "language": "Go",
     "name": "Polign/recall",
     "stars": 2,
-    "updated_at": "2026-10-20T03:29:59Z",
+    "updated_at": "2026-10-20T03:32:25Z",
     "url": "https://github.com/Polign/recall"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-20T03:29:21Z",
+    "updated_at": "2026-10-20T03:38:36Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -45,15 +90,6 @@
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T03:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
     "id": "zilliztech/knowhere",
     "language": "C++",
@@ -63,30 +99,12 @@
     "url": "https://github.com/zilliztech/knowhere"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T03:10:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A production-grade documentation platform for a Physical AI & Humanoid Robotics course, featuring a built-in RAG chatbot",
-    "id": "rj41-w2/physical-ai-book-hackathon-1",
-    "language": "TypeScript",
-    "name": "rj41-w2/physical-ai-book-hackathon-1",
-    "stars": 0,
-    "updated_at": "2026-10-20T03:09:56Z",
-    "url": "https://github.com/rj41-w2/physical-ai-book-hackathon-1"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40371,
-    "updated_at": "2026-10-20T03:09:50Z",
+    "updated_at": "2026-10-20T03:39:54Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-20T03:29:54Z",
+    "updated_at": "2026-10-20T03:40:04Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2056,
-    "updated_at": "2026-10-20T03:19:51Z",
+    "updated_at": "2026-10-20T03:39:16Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -153,15 +171,6 @@
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46438,
-    "updated_at": "2026-10-20T03:19:51Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "- ",
     "id": "Scaibu/llm-observability-platform",
     "language": "Python",
@@ -176,7 +185,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-20T03:05:10Z",
+    "updated_at": "2026-10-20T03:42:46Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-20T03:12:47Z",
+    "updated_at": "2026-10-20T03:41:01Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-20T01:56:09Z",
+    "updated_at": "2026-10-20T03:37:47Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 121,
     "updated_at": "2026-10-20T02:41:54Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-19T23:23:21Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
