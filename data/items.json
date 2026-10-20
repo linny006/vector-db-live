@@ -1,5 +1,131 @@
 [
   {
+    "description": "Vector db working in peer 2 peer, with minimal dependencies and resource requirement",
+    "id": "cenkcorapci/Aster",
+    "language": "C++",
+    "name": "cenkcorapci/Aster",
+    "stars": 2,
+    "updated_at": "2026-10-20T12:00:07Z",
+    "url": "https://github.com/cenkcorapci/Aster"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46442,
+    "updated_at": "2026-10-20T11:59:51Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6220,
+    "updated_at": "2026-10-20T11:58:26Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40419,
+    "updated_at": "2026-10-20T11:58:09Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-20T11:56:07Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
+    "id": "jgoy-labs/server-nexe",
+    "language": "Python",
+    "name": "jgoy-labs/server-nexe",
+    "stars": 11,
+    "updated_at": "2026-10-20T11:54:42Z",
+    "url": "https://github.com/jgoy-labs/server-nexe"
+  },
+  {
+    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
+    "id": "Hk-owo/stratum-vectordb",
+    "language": "Go",
+    "name": "Hk-owo/stratum-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-20T11:53:50Z",
+    "url": "https://github.com/Hk-owo/stratum-vectordb"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 124,
+    "updated_at": "2026-10-20T11:52:18Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 0,
+    "updated_at": "2026-10-20T11:50:13Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16124,
+    "updated_at": "2026-10-20T11:48:45Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-20T11:48:55Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "A RAG chatbot that answers questions about any PDF you upload, using only what\u2019s in the document, and shows the page eac",
+    "id": "maniesh-lab/ragdocs",
+    "language": "Python",
+    "name": "maniesh-lab/ragdocs",
+    "stars": 0,
+    "updated_at": "2026-10-20T11:45:34Z",
+    "url": "https://github.com/maniesh-lab/ragdocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T11:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T12:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": " from-scratch implementation of Retrieval-Augmented Generation \u2014 chunking, embeddings, similarity search, and evaluation",
     "id": "Soumiya-33/Rag-core",
     "language": "Python",
@@ -14,7 +140,7 @@
     "language": "Shell",
     "name": "ry-ops/commit-relay",
     "stars": 2,
-    "updated_at": "2026-10-20T11:44:19Z",
+    "updated_at": "2026-10-20T11:46:38Z",
     "url": "https://github.com/ry-ops/commit-relay"
   },
   {
@@ -63,21 +189,12 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46443,
-    "updated_at": "2026-10-20T11:33:51Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "A generative AI optimized Platform as a Service on Kubernetes, built on CNPG, Crossplane and Backstage.",
+    "description": "A Generative AI Platform as a Service on Kubernetes, built on CNPG, Crossplane and Backstage.",
     "id": "bartvanbenthem/basis-ai",
     "language": "TypeScript",
     "name": "bartvanbenthem/basis-ai",
     "stars": 1,
-    "updated_at": "2026-10-20T11:33:50Z",
+    "updated_at": "2026-10-20T11:59:26Z",
     "url": "https://github.com/bartvanbenthem/basis-ai"
   },
   {
@@ -99,38 +216,11 @@
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40419,
-    "updated_at": "2026-10-20T11:32:23Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T11:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T11:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 300,
+    "stars": 301,
     "updated_at": "2026-10-20T11:29:46Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -167,7 +257,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T11:43:05Z",
+    "updated_at": "2026-10-20T11:53:30Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -198,15 +288,6 @@
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-20T11:41:11Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "PaperPal \u2013 PDF Chatbot for Research Papers",
     "id": "saxill/PaperPal",
     "language": "Python",
@@ -214,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T11:12:18Z",
     "url": "https://github.com/saxill/PaperPal"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6220,
-    "updated_at": "2026-10-20T11:12:50Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "NBase is a high-performance vector database for efficient similarity search, designed for machine learning embeddings an",
@@ -302,7 +374,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32577,
-    "updated_at": "2026-10-20T11:01:02Z",
+    "updated_at": "2026-10-20T12:00:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -315,20 +387,11 @@
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
-    "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-20T10:56:50Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
-    "stars": 136,
+    "stars": 137,
     "updated_at": "2026-10-20T10:56:10Z",
     "url": "https://github.com/infino-ai/infino"
   },
@@ -385,68 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-20T11:10:27Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-10-20T10:33:00Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 584,
-    "updated_at": "2026-10-20T10:32:39Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-20T10:32:01Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The unified database engine: native SQL, vector search (HNSW), and columnar storage in one Rust engine \u2014 from an embedde",
-    "id": "alopex-db/alopex",
-    "language": "Rust",
-    "name": "alopex-db/alopex",
-    "stars": 3,
-    "updated_at": "2026-10-20T11:21:58Z",
-    "url": "https://github.com/alopex-db/alopex"
-  },
-  {
-    "description": "A facade over vector databases \u2014 one interface, ~15 backends",
-    "id": "i2mint/vd",
-    "language": "Python",
-    "name": "i2mint/vd",
-    "stars": 1,
-    "updated_at": "2026-10-20T10:21:55Z",
-    "url": "https://github.com/i2mint/vd"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16893,
-    "updated_at": "2026-10-20T10:38:33Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
-    "id": "ChromaDotNet/ChromaDB.Local",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Local",
-    "stars": 1,
-    "updated_at": "2026-10-20T11:30:17Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   }
 ]
