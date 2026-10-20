@@ -1,11 +1,56 @@
 [
   {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 388,
+    "updated_at": "2026-10-20T03:13:45Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T03:10:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A production-grade documentation platform for a Physical AI & Humanoid Robotics course, featuring a built-in RAG chatbot",
+    "id": "rj41-w2/physical-ai-book-hackathon-1",
+    "language": "TypeScript",
+    "name": "rj41-w2/physical-ai-book-hackathon-1",
+    "stars": 0,
+    "updated_at": "2026-10-20T03:09:56Z",
+    "url": "https://github.com/rj41-w2/physical-ai-book-hackathon-1"
+  },
+  {
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 65,
+    "updated_at": "2026-10-20T03:01:14Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T03:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T03:00:20Z",
+    "updated_at": "2026-10-20T03:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-20T03:00:12Z",
+    "updated_at": "2026-10-20T03:14:52Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40368,
-    "updated_at": "2026-10-20T02:49:29Z",
+    "updated_at": "2026-10-20T03:09:50Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -72,30 +117,12 @@
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T02:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T02:43:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46438,
-    "updated_at": "2026-10-20T02:47:52Z",
+    "updated_at": "2026-10-20T03:12:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -113,17 +140,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-20T02:53:49Z",
+    "updated_at": "2026-10-20T03:05:10Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 65,
-    "updated_at": "2026-10-20T02:53:48Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
     "description": "A pure-Rust HNSW index for embedding search, used for vector retrieval in Kin.",
@@ -151,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T02:28:27Z",
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 388,
-    "updated_at": "2026-10-20T02:15:45Z",
-    "url": "https://github.com/zilliztech/knowhere"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -257,7 +266,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-20T03:00:15Z",
+    "updated_at": "2026-10-20T03:12:47Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -337,7 +346,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67331,
+    "stars": 67332,
     "updated_at": "2026-10-20T00:34:27Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -439,14 +448,5 @@
     "stars": 1357,
     "updated_at": "2026-10-19T23:16:30Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Self-hosted microservice RAG on a single 6 GB GPU: Docling OCR, Qwen3.5-4B on SGLang, Qdrant hybrid search (bge-m3 + BM2",
-    "id": "mdmonsurali/Advanced-Hybrid-RAG",
-    "language": "Python",
-    "name": "mdmonsurali/Advanced-Hybrid-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:08:37Z",
-    "url": "https://github.com/mdmonsurali/Advanced-Hybrid-RAG"
   }
 ]
