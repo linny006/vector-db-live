@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T16:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35159,
+    "updated_at": "2026-10-20T15:59:02Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-20T15:57:05Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32588,
+    "updated_at": "2026-10-20T15:56:06Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59617,
+    "updated_at": "2026-10-20T15:52:22Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-20T15:52:08Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-20T15:59:15Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7137,
+    "updated_at": "2026-10-20T15:53:53Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-20T15:50:25Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "TeamDocs AI is an AI-powered RAG (Retrieval-Augmented Generation) assistant designed to help software development teams ",
+    "id": "HosseinHeydari2004/TeamDocs-AI",
+    "language": "Python",
+    "name": "HosseinHeydari2004/TeamDocs-AI",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:49:48Z",
+    "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-20T15:46:12Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-20T15:45:43Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T15:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -9,15 +126,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-20T15:40:06Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -25,51 +133,6 @@
     "stars": 5,
     "updated_at": "2026-10-20T15:38:19Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7137,
-    "updated_at": "2026-10-20T15:40:29Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T15:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T15:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-20T15:26:57Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59616,
-    "updated_at": "2026-10-20T15:26:46Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
@@ -86,7 +149,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-20T15:41:58Z",
+    "updated_at": "2026-10-20T15:52:49Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -113,7 +176,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 137,
-    "updated_at": "2026-10-20T15:34:32Z",
+    "updated_at": "2026-10-20T15:48:04Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -126,21 +189,12 @@
     "url": "https://github.com/ssrjkk/agent-skills"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-20T15:20:59Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-20T15:21:18Z",
+    "updated_at": "2026-10-20T15:46:48Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1210,
-    "updated_at": "2026-10-20T15:41:28Z",
+    "updated_at": "2026-10-20T15:57:31Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -169,33 +223,6 @@
     "stars": 453,
     "updated_at": "2026-10-20T15:13:33Z",
     "url": "https://github.com/pinecone-io/python-sdk"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32588,
-    "updated_at": "2026-10-20T15:37:19Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-20T15:29:59Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35158,
-    "updated_at": "2026-10-20T15:08:14Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Structure\u2011aware RAG platform with semantic search and citations.",
@@ -214,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T15:05:44Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-20T15:32:52Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Self improving agents through iterations",
@@ -382,7 +400,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 313,
+    "stars": 314,
     "updated_at": "2026-10-20T14:24:23Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -430,23 +448,5 @@
     "stars": 36,
     "updated_at": "2026-10-20T14:14:33Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "C# SDK for the Weaviate API -- open-source vector database",
-    "id": "tryAGI/Weaviate",
-    "language": "C#",
-    "name": "tryAGI/Weaviate",
-    "stars": 2,
-    "updated_at": "2026-10-20T14:14:12Z",
-    "url": "https://github.com/tryAGI/Weaviate"
-  },
-  {
-    "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
-    "id": "ChromaDotNet/ChromaDB.Local",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Local",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:11:03Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   }
 ]
