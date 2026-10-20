@@ -1,11 +1,83 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:44:31Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-20T17:44:28Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39352,
+    "updated_at": "2026-10-20T17:44:21Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": ".NET package with the default embedding function of Chroma: the same vectors as the Python client.",
+    "id": "ChromaDotNet/ChromaDB.Embeddings",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Embeddings",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:44:11Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
+  },
+  {
+    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
+    "id": "schwabauerbriantomas-gif/splatdb",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/splatdb",
+    "stars": 0,
+    "updated_at": "2026-10-20T17:44:07Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T17:36:49Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-20T17:36:20Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T17:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T17:30:20Z",
+    "updated_at": "2026-10-20T17:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,6 +97,15 @@
     "stars": 9,
     "updated_at": "2026-10-20T17:29:12Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32590,
+    "updated_at": "2026-10-20T17:37:34Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Official Python SDK for the Pinecone vector database",
@@ -59,7 +140,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1211,
-    "updated_at": "2026-10-20T17:27:15Z",
+    "updated_at": "2026-10-20T17:44:12Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -81,24 +162,6 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T17:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32589,
-    "updated_at": "2026-10-20T17:28:59Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
     "id": "badhope/spark",
     "language": "Python",
@@ -117,15 +180,6 @@
     "url": "https://github.com/d3uceY/vectile"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T17:10:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Pai Chat - A personal chat app",
     "id": "sadanandpai/paichat",
     "language": "TypeScript",
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11717,
-    "updated_at": "2026-10-20T17:22:16Z",
+    "updated_at": "2026-10-20T17:42:23Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-20T17:27:37Z",
+    "updated_at": "2026-10-20T17:40:20Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T17:16:24Z",
+    "updated_at": "2026-10-20T17:43:08Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9423,
-    "updated_at": "2026-10-20T17:22:20Z",
+    "updated_at": "2026-10-20T17:42:47Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -252,24 +306,6 @@
     "url": "https://github.com/tryAGI/Qdrant"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-20T16:18:16Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-20T17:29:47Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
     "id": "SwineCoder101/hvec",
     "language": "Rust",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-20T15:52:08Z",
+    "updated_at": "2026-10-20T17:31:37Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "Thisen-Ekanayake/Athena",
     "stars": 1,
-    "updated_at": "2026-10-20T15:15:10Z",
+    "updated_at": "2026-10-20T17:31:56Z",
     "url": "https://github.com/Thisen-Ekanayake/Athena"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
-    "description": ".NET package with the default embedding function of Chroma: the same vectors as the Python client.",
-    "id": "ChromaDotNet/ChromaDB.Embeddings",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Embeddings",
-    "stars": 0,
-    "updated_at": "2026-10-20T17:23:26Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
-  },
-  {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 6220,
     "updated_at": "2026-10-20T15:00:51Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:59:00Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/DocHarvest",
-    "language": "Python",
-    "name": "RohannShetty/DocHarvest",
-    "stars": 2,
-    "updated_at": "2026-10-20T14:55:35Z",
-    "url": "https://github.com/RohannShetty/DocHarvest"
-  },
-  {
-    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
-    "id": "hoangdinhlong/nhe_o",
-    "language": "Ada",
-    "name": "hoangdinhlong/nhe_o",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:52:55Z",
-    "url": "https://github.com/hoangdinhlong/nhe_o"
   }
 ]
