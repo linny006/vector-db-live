@@ -1,11 +1,137 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T20:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
+    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:44:33Z",
+    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-20T20:43:39Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1357,
+    "updated_at": "2026-10-20T20:42:33Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "A robust local AI search engine built with Streamlit and FAISS that uses Retrieval-Augmented Generation (RAG) and Hybrid",
+    "id": "pronzzz/llm-search-engine",
+    "language": "Python",
+    "name": "pronzzz/llm-search-engine",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:42:01Z",
+    "url": "https://github.com/pronzzz/llm-search-engine"
+  },
+  {
+    "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
+    "id": "sajid-nazir/Papyrus",
+    "language": "TypeScript",
+    "name": "sajid-nazir/Papyrus",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:39:49Z",
+    "url": "https://github.com/sajid-nazir/Papyrus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T20:38:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "MCP server exposing the full Qdrant vector database API as 49 tools: hybrid search, snapshots, observability. Read-only ",
+    "id": "avaazquezz/Qdrant-MCP",
+    "language": "Python",
+    "name": "avaazquezz/Qdrant-MCP",
+    "stars": 1,
+    "updated_at": "2026-10-20T20:38:04Z",
+    "url": "https://github.com/avaazquezz/Qdrant-MCP"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-20T20:45:15Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-20T20:39:33Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6532,
+    "updated_at": "2026-10-20T20:32:43Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Zero-dependency, local in-memory vector database based on statutory public domain Kademlia DHT routing.",
+    "id": "deus-intus/deus-vectormesh",
+    "language": "Python",
+    "name": "deus-intus/deus-vectormesh",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:32:10Z",
+    "url": "https://github.com/deus-intus/deus-vectormesh"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 325,
+    "updated_at": "2026-10-20T20:31:12Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T20:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-20T20:29:07Z",
+    "updated_at": "2026-10-20T20:36:34Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -18,15 +144,6 @@
     "url": "https://github.com/pavelhorak/pion"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-20T20:27:40Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
     "id": "api-evangelist/contentstack",
     "language": "\u2014",
@@ -36,24 +153,6 @@
     "url": "https://github.com/api-evangelist/contentstack"
   },
   {
-    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
-    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:23:57Z",
-    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-20T20:30:17Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
     "id": "ChromaDotNet/ChromaDB.Local",
     "language": "C#",
@@ -61,51 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T20:22:35Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 324,
-    "updated_at": "2026-10-20T20:20:03Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Zero-dependency, local in-memory vector database based on statutory public domain Kademlia DHT routing.",
-    "id": "deus-intus/deus-vectormesh",
-    "language": "Python",
-    "name": "deus-intus/deus-vectormesh",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:18:49Z",
-    "url": "https://github.com/deus-intus/deus-vectormesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T20:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T20:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-20T20:18:19Z",
-    "url": "https://github.com/badhope/spark"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -126,24 +180,6 @@
     "url": "https://github.com/Nayjest/ai-microcore"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T20:08:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 29928,
-    "updated_at": "2026-10-20T20:05:39Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -153,13 +189,13 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "Go",
-    "name": "genkit-ai/genkit",
-    "stars": 6532,
-    "updated_at": "2026-10-20T20:19:00Z",
-    "url": "https://github.com/genkit-ai/genkit"
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
+    "id": "NirDiamant/RAG_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/RAG_Techniques",
+    "stars": 29929,
+    "updated_at": "2026-10-20T20:05:39Z",
+    "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -194,7 +230,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1211,
-    "updated_at": "2026-10-20T19:43:44Z",
+    "updated_at": "2026-10-20T20:44:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 8,
     "updated_at": "2026-10-20T19:39:15Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "MCP server exposing the full Qdrant vector database API as 49 tools: hybrid search, snapshots, observability. Read-only ",
-    "id": "avaazquezz/Qdrant-MCP",
-    "language": "Python",
-    "name": "avaazquezz/Qdrant-MCP",
-    "stars": 1,
-    "updated_at": "2026-10-20T20:14:54Z",
-    "url": "https://github.com/avaazquezz/Qdrant-MCP"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -421,32 +448,5 @@
     "stars": 12,
     "updated_at": "2026-10-20T18:33:31Z",
     "url": "https://github.com/datris/datris-platform-oss"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-20T18:30:09Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-20T18:29:19Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Pinecone.io Golang Client",
-    "id": "pinecone-io/go-pinecone",
-    "language": "Go",
-    "name": "pinecone-io/go-pinecone",
-    "stars": 68,
-    "updated_at": "2026-10-20T18:25:17Z",
-    "url": "https://github.com/pinecone-io/go-pinecone"
   }
 ]
