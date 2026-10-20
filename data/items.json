@@ -1,5 +1,113 @@
 [
   {
+    "description": "A production-ready Legal AI Assistant built with RAG. Uses Qdrant Cloud, OpenRouter, and Streamlit to accurately answer ",
+    "id": "prashantv04/pdf-rag-system",
+    "language": "Python",
+    "name": "prashantv04/pdf-rag-system",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:30:11Z",
+    "url": "https://github.com/prashantv04/pdf-rag-system"
+  },
+  {
+    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
+    "id": "gxc02529-jpg/KnowLoop",
+    "language": "Python",
+    "name": "gxc02529-jpg/KnowLoop",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:24:39Z",
+    "url": "https://github.com/gxc02529-jpg/KnowLoop"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13267,
+    "updated_at": "2026-10-20T06:23:43Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
+    "id": "GoodbyePlanet/semcode",
+    "language": "Python",
+    "name": "GoodbyePlanet/semcode",
+    "stars": 7,
+    "updated_at": "2026-10-20T06:27:45Z",
+    "url": "https://github.com/GoodbyePlanet/semcode"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46441,
+    "updated_at": "2026-10-20T06:21:07Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Multi-agent RAG workflow orchestrating scientific literature synthesis and patent prior-art discovery.",
+    "id": "dhrubchatterjee16-lang/AGENTIC_RAG_LAB",
+    "language": "\u2014",
+    "name": "dhrubchatterjee16-lang/AGENTIC_RAG_LAB",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:19:29Z",
+    "url": "https://github.com/dhrubchatterjee16-lang/AGENTIC_RAG_LAB"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9472,
+    "updated_at": "2026-10-20T06:19:18Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
+    "id": "ness-e/Vantadb",
+    "language": "Rust",
+    "name": "ness-e/Vantadb",
+    "stars": 2,
+    "updated_at": "2026-10-20T06:24:19Z",
+    "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2376,
+    "updated_at": "2026-10-20T06:18:04Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "AI-RECON is a specialized reconnaissance tool designed to identify, fingerprint, and enumerate AI/ML infrastructure. It ",
+    "id": "giriaryan694-a11y/ai-recon",
+    "language": "Python",
+    "name": "giriaryan694-a11y/ai-recon",
+    "stars": 4,
+    "updated_at": "2026-10-20T06:16:13Z",
+    "url": "https://github.com/giriaryan694-a11y/ai-recon"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T06:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T06:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -18,39 +126,12 @@
     "url": "https://github.com/Polign/recall"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T06:00:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T06:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
-    "id": "ness-e/Vantadb",
-    "language": "Rust",
-    "name": "ness-e/Vantadb",
-    "stars": 2,
-    "updated_at": "2026-10-20T06:12:59Z",
-    "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9418,
-    "updated_at": "2026-10-20T05:54:40Z",
+    "updated_at": "2026-10-20T06:21:56Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -85,8 +166,8 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40380,
-    "updated_at": "2026-10-20T05:49:54Z",
+    "stars": 40383,
+    "updated_at": "2026-10-20T06:25:53Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "kldhsh123/Afterglow",
     "stars": 317,
-    "updated_at": "2026-10-20T05:41:19Z",
+    "updated_at": "2026-10-20T06:19:02Z",
     "url": "https://github.com/kldhsh123/Afterglow"
   },
   {
@@ -124,6 +205,15 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:40:50Z",
     "url": "https://github.com/EvgenyBaig58/distill"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8393,
+    "updated_at": "2026-10-20T06:26:48Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
@@ -324,15 +414,6 @@
     "url": "https://github.com/francois2169/distill"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8392,
-    "updated_at": "2026-10-20T05:38:25Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
     "id": "Sylvie5659/VectorRAG.Net",
     "language": "C#",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:04:57Z",
     "url": "https://github.com/BrahimIshii834/llmaker"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "jMedina533/VectorRAG.Net",
-    "language": "C#",
-    "name": "jMedina533/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:04:48Z",
-    "url": "https://github.com/jMedina533/VectorRAG.Net"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11709,
-    "updated_at": "2026-10-20T05:02:29Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
-    "id": "ward7248/vektori",
-    "language": "Python",
-    "name": "ward7248/vektori",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:00:59Z",
-    "url": "https://github.com/ward7248/vektori"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
-    "id": "YutaDegroot29671/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "YutaDegroot29671/rag-interview-system",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:59:21Z",
-    "url": "https://github.com/YutaDegroot29671/rag-interview-system"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "gnascimento8489/VectorRAG.Net",
-    "language": "C#",
-    "name": "gnascimento8489/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:57:37Z",
-    "url": "https://github.com/gnascimento8489/VectorRAG.Net"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "michellesahu263/VectorRAG.Net",
-    "language": "C#",
-    "name": "michellesahu263/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:48:49Z",
-    "url": "https://github.com/michellesahu263/VectorRAG.Net"
-  },
-  {
-    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
-    "id": "craza81531/developers-guide-to-ai",
-    "language": "Python",
-    "name": "craza81531/developers-guide-to-ai",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:47:08Z",
-    "url": "https://github.com/craza81531/developers-guide-to-ai"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-20T04:42:02Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "",
-    "id": "piotrwozn/multidb",
-    "language": "Rust",
-    "name": "piotrwozn/multidb",
-    "stars": 0,
-    "updated_at": "2026-10-20T04:40:04Z",
-    "url": "https://github.com/piotrwozn/multidb"
   }
 ]
