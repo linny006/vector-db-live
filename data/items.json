@@ -1,11 +1,128 @@
 [
   {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-20T14:59:00Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7137,
+    "updated_at": "2026-10-20T15:00:03Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-20T14:56:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
+    "id": "RohannShetty/DocHarvest",
+    "language": "Python",
+    "name": "RohannShetty/DocHarvest",
+    "stars": 2,
+    "updated_at": "2026-10-20T14:55:35Z",
+    "url": "https://github.com/RohannShetty/DocHarvest"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-20T14:54:15Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-20T14:52:55Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11716,
+    "updated_at": "2026-10-20T14:51:45Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4445,
+    "updated_at": "2026-10-20T14:53:01Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
+    "id": "desikai-lab/Marrow",
+    "language": "Python",
+    "name": "desikai-lab/Marrow",
+    "stars": 7,
+    "updated_at": "2026-10-20T14:50:38Z",
+    "url": "https://github.com/desikai-lab/Marrow"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-20T14:54:38Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-20T14:47:58Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32586,
+    "updated_at": "2026-10-20T14:47:11Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T14:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T14:45:21Z",
+    "updated_at": "2026-10-20T15:00:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,21 +135,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-20T14:44:43Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1210,
-    "updated_at": "2026-10-20T14:44:32Z",
+    "updated_at": "2026-10-20T14:46:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -81,15 +189,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-20T14:34:00Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
     "id": "redis/redis-vl-python",
     "language": "Python",
@@ -108,21 +207,12 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T14:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35157,
-    "updated_at": "2026-10-20T14:28:03Z",
+    "updated_at": "2026-10-20T14:48:26Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -140,7 +230,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-20T14:43:28Z",
+    "updated_at": "2026-10-20T14:52:27Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -151,15 +241,6 @@
     "stars": 312,
     "updated_at": "2026-10-20T14:24:23Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-20T14:24:17Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -176,7 +257,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T14:43:26Z",
+    "updated_at": "2026-10-20T14:56:19Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -225,15 +306,6 @@
     "url": "https://github.com/tryAGI/Weaviate"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7137,
-    "updated_at": "2026-10-20T14:43:02Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
     "id": "ChromaDotNet/ChromaDB.Local",
     "language": "C#",
@@ -248,7 +320,7 @@
     "language": "Python",
     "name": "cyborginc/cyborgdb-py",
     "stars": 8,
-    "updated_at": "2026-10-20T14:13:51Z",
+    "updated_at": "2026-10-20T14:50:08Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
   },
   {
@@ -256,7 +328,7 @@
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
-    "stars": 9422,
+    "stars": 9423,
     "updated_at": "2026-10-20T13:58:26Z",
     "url": "https://github.com/paradedb/paradedb"
   },
@@ -277,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T13:55:04Z",
     "url": "https://github.com/i2mint/vd"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4445,
-    "updated_at": "2026-10-20T14:34:03Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -320,7 +383,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Embeddings",
     "stars": 0,
-    "updated_at": "2026-10-20T13:48:41Z",
+    "updated_at": "2026-10-20T14:50:56Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
   },
   {
@@ -340,15 +403,6 @@
     "stars": 46446,
     "updated_at": "2026-10-20T13:37:54Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32585,
-    "updated_at": "2026-10-20T14:42:45Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
@@ -394,59 +448,5 @@
     "stars": 35,
     "updated_at": "2026-10-20T13:19:39Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6221,
-    "updated_at": "2026-10-20T14:05:44Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Official Weaviate TypeScript Client",
-    "id": "weaviate/typescript-client",
-    "language": "TypeScript",
-    "name": "weaviate/typescript-client",
-    "stars": 101,
-    "updated_at": "2026-10-20T13:15:06Z",
-    "url": "https://github.com/weaviate/typescript-client"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-20T13:03:24Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-20T13:20:51Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16893,
-    "updated_at": "2026-10-20T14:33:33Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-20T12:43:38Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   }
 ]
