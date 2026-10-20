@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T05:00:21Z",
+    "updated_at": "2026-10-20T05:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "emanuele1540/distill",
+    "language": "Go",
+    "name": "emanuele1540/distill",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:14:27Z",
+    "url": "https://github.com/emanuele1540/distill"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
+    "id": "Katarzynab36833/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "Katarzynab36833/rag-interview-system",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:12:44Z",
+    "url": "https://github.com/Katarzynab36833/rag-interview-system"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "cDunn68/distill",
+    "language": "Go",
+    "name": "cDunn68/distill",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:15:18Z",
+    "url": "https://github.com/cDunn68/distill"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "LouisRogers05424/VectorRAG.Net",
+    "language": "C#",
+    "name": "LouisRogers05424/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:10:31Z",
+    "url": "https://github.com/LouisRogers05424/VectorRAG.Net"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "Cheryl2249/llmaker",
+    "language": "Go",
+    "name": "Cheryl2249/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:09:53Z",
+    "url": "https://github.com/Cheryl2249/llmaker"
+  },
+  {
+    "description": "A python package for developing AI applications with local LLMs.",
+    "id": "danielleramirez96/LLMFlex",
+    "language": "Python",
+    "name": "danielleramirez96/LLMFlex",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:09:43Z",
+    "url": "https://github.com/danielleramirez96/LLMFlex"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2024,
+    "updated_at": "2026-10-20T05:09:28Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T05:08:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "francois2169/distill",
+    "language": "Go",
+    "name": "francois2169/distill",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:07:51Z",
+    "url": "https://github.com/francois2169/distill"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8392,
+    "updated_at": "2026-10-20T05:13:52Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
@@ -14,8 +104,71 @@
     "language": "C#",
     "name": "Sylvie5659/VectorRAG.Net",
     "stars": 0,
-    "updated_at": "2026-10-20T04:59:37Z",
+    "updated_at": "2026-10-20T05:07:42Z",
     "url": "https://github.com/Sylvie5659/VectorRAG.Net"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-20T05:07:17Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "judithyilmaz/llmaker",
+    "language": "Go",
+    "name": "judithyilmaz/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:06:56Z",
+    "url": "https://github.com/judithyilmaz/llmaker"
+  },
+  {
+    "description": "Selfhost modern LLM stacks. Run the whole fleet from your terminal",
+    "id": "BrahimIshii834/llmaker",
+    "language": "Go",
+    "name": "BrahimIshii834/llmaker",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:04:57Z",
+    "url": "https://github.com/BrahimIshii834/llmaker"
+  },
+  {
+    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
+    "id": "jMedina533/VectorRAG.Net",
+    "language": "C#",
+    "name": "jMedina533/VectorRAG.Net",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:04:48Z",
+    "url": "https://github.com/jMedina533/VectorRAG.Net"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11708,
+    "updated_at": "2026-10-20T05:02:29Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> ",
+    "id": "ward7248/vektori",
+    "language": "Python",
+    "name": "ward7248/vektori",
+    "stars": 0,
+    "updated_at": "2026-10-20T05:00:59Z",
+    "url": "https://github.com/ward7248/vektori"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T05:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A complete collection of RAG interview questions, answers (1309 questions & 52 RAG types), system design scenarios, arch",
@@ -45,15 +198,6 @@
     "url": "https://github.com/michellesahu263/VectorRAG.Net"
   },
   {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2024,
-    "updated_at": "2026-10-20T04:48:06Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
     "id": "craza81531/developers-guide-to-ai",
     "language": "Python",
@@ -68,24 +212,15 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-10-20T04:46:48Z",
+    "updated_at": "2026-10-20T05:04:48Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T04:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40374,
+    "stars": 40375,
     "updated_at": "2026-10-20T04:45:12Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -97,15 +232,6 @@
     "stars": 11,
     "updated_at": "2026-10-20T04:42:02Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T04:40:15Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "",
@@ -140,7 +266,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2056,
-    "updated_at": "2026-10-20T04:52:25Z",
+    "updated_at": "2026-10-20T05:13:04Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -167,7 +293,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-20T04:53:10Z",
+    "updated_at": "2026-10-20T05:09:58Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -257,7 +383,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1209,
-    "updated_at": "2026-10-20T04:54:46Z",
+    "updated_at": "2026-10-20T05:10:16Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 65,
     "updated_at": "2026-10-20T03:01:14Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-20T03:40:04Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "zvec java binding",
-    "id": "zvec-ai/zvec-java",
-    "language": "Java",
-    "name": "zvec-ai/zvec-java",
-    "stars": 2,
-    "updated_at": "2026-10-20T02:54:09Z",
-    "url": "https://github.com/zvec-ai/zvec-java"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 16127,
-    "updated_at": "2026-10-20T02:51:14Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-20T02:46:37Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "- ",
-    "id": "Scaibu/llm-observability-platform",
-    "language": "Python",
-    "name": "Scaibu/llm-observability-platform",
-    "stars": 6,
-    "updated_at": "2026-10-20T02:38:35Z",
-    "url": "https://github.com/Scaibu/llm-observability-platform"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9472,
-    "updated_at": "2026-10-20T04:58:39Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "A pure-Rust HNSW index for embedding search, used for vector retrieval in Kin.",
-    "id": "kinlab-ai/kin-vector",
-    "language": "Rust",
-    "name": "kinlab-ai/kin-vector",
-    "stars": 0,
-    "updated_at": "2026-10-20T02:35:01Z",
-    "url": "https://github.com/kinlab-ai/kin-vector"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11707,
-    "updated_at": "2026-10-20T02:33:00Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8392,
-    "updated_at": "2026-10-20T04:10:14Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
-    "id": "ssrjkk/agent-skills",
-    "language": "Python",
-    "name": "ssrjkk/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-20T02:11:09Z",
-    "url": "https://github.com/ssrjkk/agent-skills"
-  },
-  {
-    "description": "Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates.",
-    "id": "gay00ung/vecnook",
-    "language": "Rust",
-    "name": "gay00ung/vecnook",
-    "stars": 2,
-    "updated_at": "2026-10-20T02:17:52Z",
-    "url": "https://github.com/gay00ung/vecnook"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-20T02:01:24Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-20T01:54:55Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32561,
-    "updated_at": "2026-10-20T01:40:36Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
