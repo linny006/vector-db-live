@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T08:30:25Z",
+    "updated_at": "2026-10-20T08:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-20T08:44:40Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
+    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "language": "HTML",
+    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:43:58Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T08:43:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
+    "id": "victoriagupta81064/developers-guide-to-ai",
+    "language": "Python",
+    "name": "victoriagupta81064/developers-guide-to-ai",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:42:39Z",
+    "url": "https://github.com/victoriagupta81064/developers-guide-to-ai"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-20T08:40:01Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "patel40813/distill",
+    "language": "Go",
+    "name": "patel40813/distill",
+    "stars": 0,
+    "updated_at": "2026-10-20T08:39:32Z",
+    "url": "https://github.com/patel40813/distill"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-20T08:38:34Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40401,
+    "updated_at": "2026-10-20T08:37:19Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 388,
+    "updated_at": "2026-10-20T08:31:46Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T08:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -23,7 +113,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59614,
-    "updated_at": "2026-10-20T08:26:45Z",
+    "updated_at": "2026-10-20T08:34:49Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -32,7 +122,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-20T08:28:20Z",
+    "updated_at": "2026-10-20T08:30:50Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -59,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1209,
-    "updated_at": "2026-10-20T08:24:15Z",
+    "updated_at": "2026-10-20T08:35:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -68,17 +158,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9420,
-    "updated_at": "2026-10-20T08:28:33Z",
+    "updated_at": "2026-10-20T08:43:25Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40397,
-    "updated_at": "2026-10-20T08:23:28Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
@@ -97,33 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T08:15:25Z",
     "url": "https://github.com/isinghabhishek/project_OmniFlow"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T08:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-20T08:23:36Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T08:11:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T08:19:59Z",
+    "updated_at": "2026-10-20T08:44:40Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T08:01:23Z",
     "url": "https://github.com/yashbhosale789/yashbhosale789"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-20T08:15:30Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
@@ -319,7 +364,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13267,
+    "stars": 13266,
     "updated_at": "2026-10-20T07:30:04Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -382,7 +427,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 52577,
+    "stars": 52576,
     "updated_at": "2026-10-20T07:12:17Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T07:07:49Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-10-20T07:02:30Z",
-    "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 12,
-    "updated_at": "2026-10-20T07:00:15Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
-    "id": "GoodbyePlanet/semcode",
-    "language": "Python",
-    "name": "GoodbyePlanet/semcode",
-    "stars": 7,
-    "updated_at": "2026-10-20T06:48:09Z",
-    "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
-    "id": "Hk-owo/stratum-vectordb",
-    "language": "Go",
-    "name": "Hk-owo/stratum-vectordb",
-    "stars": 0,
-    "updated_at": "2026-10-20T06:41:45Z",
-    "url": "https://github.com/Hk-owo/stratum-vectordb"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-20T07:56:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
