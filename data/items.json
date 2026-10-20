@@ -1,5 +1,86 @@
 [
   {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-20T13:30:22Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-10-20T13:23:57Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "Syllabus-aware RAG study assistant for university students. Answers strictly from your own notes & PDFs, unit-scoped ret",
+    "id": "git-pratap-shrey/uniAI",
+    "language": "Python",
+    "name": "git-pratap-shrey/uniAI",
+    "stars": 1,
+    "updated_at": "2026-10-20T13:20:30Z",
+    "url": "https://github.com/git-pratap-shrey/uniAI"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 35,
+    "updated_at": "2026-10-20T13:19:39Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6221,
+    "updated_at": "2026-10-20T13:18:46Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T13:18:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-20T13:17:30Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T13:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T13:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Official Weaviate TypeScript Client",
     "id": "weaviate/typescript-client",
     "language": "TypeScript",
@@ -14,17 +95,17 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-20T13:14:51Z",
+    "updated_at": "2026-10-20T13:23:52Z",
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T13:09:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32582,
+    "updated_at": "2026-10-20T13:30:20Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": ".NET package that starts Chroma without Docker, for ChromaDotNet.Client.",
@@ -45,15 +126,6 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32581,
-    "updated_at": "2026-10-20T13:12:37Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -72,30 +144,12 @@
     "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T13:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T13:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-20T13:01:17Z",
+    "updated_at": "2026-10-20T13:20:51Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -103,7 +157,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40426,
+    "stars": 40428,
     "updated_at": "2026-10-20T12:53:47Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -113,8 +167,17 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7135,
-    "updated_at": "2026-10-20T13:09:30Z",
+    "updated_at": "2026-10-20T13:15:40Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46445,
+    "updated_at": "2026-10-20T13:21:54Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T12:43:38Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6220,
-    "updated_at": "2026-10-20T12:41:38Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -157,7 +211,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39342,
+    "stars": 39343,
     "updated_at": "2026-10-20T12:32:52Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -194,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T13:14:44Z",
+    "updated_at": "2026-10-20T13:16:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -248,7 +302,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-20T12:51:07Z",
+    "updated_at": "2026-10-20T13:29:15Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -268,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-10-20T12:00:07Z",
     "url": "https://github.com/cenkcorapci/Aster"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46444,
-    "updated_at": "2026-10-20T12:45:52Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T11:37:21Z",
     "url": "https://github.com/pravinghuge97-boop/rag-document-chat-langchain"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-20T11:33:30Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:32:31Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 307,
-    "updated_at": "2026-10-20T11:29:46Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-20T11:24:53Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
-    "id": "DevAnimecx/free-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "DevAnimecx/free-ai-agent-stack",
-    "stars": 1,
-    "updated_at": "2026-10-20T11:20:33Z",
-    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
   }
 ]
