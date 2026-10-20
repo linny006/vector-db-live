@@ -1,11 +1,83 @@
 [
   {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-20T10:57:44Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-20T10:56:50Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 136,
+    "updated_at": "2026-10-20T10:56:10Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 867,
+    "updated_at": "2026-10-20T10:55:57Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 299,
+    "updated_at": "2026-10-20T10:50:59Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 13028,
+    "updated_at": "2026-10-20T10:57:04Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-20T10:50:23Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T10:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T10:45:20Z",
+    "updated_at": "2026-10-20T11:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +86,17 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2056,
-    "updated_at": "2026-10-20T10:42:38Z",
+    "updated_at": "2026-10-20T10:57:41Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32575,
+    "updated_at": "2026-10-20T10:52:02Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T10:39:28Z",
+    "updated_at": "2026-10-20T10:57:45Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -40,8 +121,8 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39333,
-    "updated_at": "2026-10-20T10:38:34Z",
+    "stars": 39334,
+    "updated_at": "2026-10-20T11:00:11Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -63,15 +144,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-20T10:37:41Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -79,15 +151,6 @@
     "stars": 11,
     "updated_at": "2026-10-20T10:37:14Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 867,
-    "updated_at": "2026-10-20T10:38:40Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
     "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
@@ -117,15 +180,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T10:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
@@ -133,15 +187,6 @@
     "stars": 40417,
     "updated_at": "2026-10-20T10:28:05Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32574,
-    "updated_at": "2026-10-20T10:41:27Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Opensource AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -153,21 +198,12 @@
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 136,
-    "updated_at": "2026-10-20T10:26:27Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "The unified database engine: native SQL, vector search (HNSW), and columnar storage in one Rust engine \u2014 from an embedde",
     "id": "alopex-db/alopex",
     "language": "Rust",
     "name": "alopex-db/alopex",
     "stars": 3,
-    "updated_at": "2026-10-20T10:30:03Z",
+    "updated_at": "2026-10-20T10:59:33Z",
     "url": "https://github.com/alopex-db/alopex"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-20T10:22:11Z",
+    "updated_at": "2026-10-20T10:47:35Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 912,
-    "updated_at": "2026-10-20T10:41:38Z",
+    "updated_at": "2026-10-20T10:59:19Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2149,
     "updated_at": "2026-10-20T09:29:15Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "RAG-based PDF Question-Answering chatbot using FAISS, sentence-transformers and Google Gemini, with page-level source ci",
-    "id": "faizanjutt473/AskMyPDF-RAG-Chatbot",
-    "language": "Python",
-    "name": "faizanjutt473/AskMyPDF-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-20T09:25:29Z",
-    "url": "https://github.com/faizanjutt473/AskMyPDF-RAG-Chatbot"
-  },
-  {
-    "description": "VectorRAG.Net is a .NET-native high-performance vector database library for semantic search and RAG (Retrieval-Augmented",
-    "id": "katerinahwang85508/VectorRAG.Net",
-    "language": "C#",
-    "name": "katerinahwang85508/VectorRAG.Net",
-    "stars": 0,
-    "updated_at": "2026-10-20T09:23:35Z",
-    "url": "https://github.com/katerinahwang85508/VectorRAG.Net"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 16125,
-    "updated_at": "2026-10-20T09:22:18Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "AkiraWu3444/distill",
-    "language": "Go",
-    "name": "AkiraWu3444/distill",
-    "stars": 0,
-    "updated_at": "2026-10-20T09:22:07Z",
-    "url": "https://github.com/AkiraWu3444/distill"
   }
 ]
