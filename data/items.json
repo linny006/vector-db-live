@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T15:15:24Z",
+    "updated_at": "2026-10-20T15:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-20T15:26:57Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
+    "id": "tryAGI/Milvus",
+    "language": "C#",
+    "name": "tryAGI/Milvus",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:25:50Z",
+    "url": "https://github.com/tryAGI/Milvus"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4445,
+    "updated_at": "2026-10-20T15:26:00Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-20T15:24:46Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46446,
+    "updated_at": "2026-10-20T15:23:52Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 137,
+    "updated_at": "2026-10-20T15:23:08Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-20T15:21:31Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-20T15:20:59Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9472,
+    "updated_at": "2026-10-20T15:21:18Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T15:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32588,
-    "updated_at": "2026-10-20T15:10:59Z",
+    "updated_at": "2026-10-20T15:21:07Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -59,7 +149,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-20T15:14:44Z",
+    "updated_at": "2026-10-20T15:29:59Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -95,7 +185,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T15:11:25Z",
+    "updated_at": "2026-10-20T15:19:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T15:01:09Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T15:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
@@ -178,15 +259,6 @@
     "stars": 11716,
     "updated_at": "2026-10-20T14:51:45Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4445,
-    "updated_at": "2026-10-20T15:09:54Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
@@ -288,21 +360,12 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:38:58Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
     "id": "ness-e/Vantadb",
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-20T15:10:49Z",
+    "updated_at": "2026-10-20T15:29:06Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -310,7 +373,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 312,
+    "stars": 313,
     "updated_at": "2026-10-20T14:24:23Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -385,68 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-20T14:50:08Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9423,
-    "updated_at": "2026-10-20T13:58:26Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
-    "id": "tryAGI/Turbopuffer",
-    "language": "C#",
-    "name": "tryAGI/Turbopuffer",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:57:59Z",
-    "url": "https://github.com/tryAGI/Turbopuffer"
-  },
-  {
-    "description": "A facade over vector databases \u2014 one interface, ~15 backends",
-    "id": "i2mint/vd",
-    "language": "Python",
-    "name": "i2mint/vd",
-    "stars": 1,
-    "updated_at": "2026-10-20T13:55:04Z",
-    "url": "https://github.com/i2mint/vd"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 88,
-    "updated_at": "2026-10-20T14:30:08Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "PDF question-answering prototype with hybrid retrieval, reranking, optional tracing and a RAGAS evaluation harness.",
-    "id": "rayperatta/rag-document-qa",
-    "language": "Python",
-    "name": "rayperatta/rag-document-qa",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:49:48Z",
-    "url": "https://github.com/rayperatta/rag-document-qa"
-  },
-  {
-    "description": "A RAG chatbot that answers questions about any PDF you upload, using only what\u2019s in the document, and shows the page eac",
-    "id": "maniesh-lab/ragdocs",
-    "language": "Python",
-    "name": "maniesh-lab/ragdocs",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:45:08Z",
-    "url": "https://github.com/maniesh-lab/ragdocs"
-  },
-  {
-    "description": "Pinecone.io Golang Client",
-    "id": "pinecone-io/go-pinecone",
-    "language": "Go",
-    "name": "pinecone-io/go-pinecone",
-    "stars": 68,
-    "updated_at": "2026-10-20T13:40:18Z",
-    "url": "https://github.com/pinecone-io/go-pinecone"
   }
 ]
