@@ -1,12 +1,129 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T14:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-20T14:45:04Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-20T14:44:43Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1210,
-    "updated_at": "2026-10-20T14:29:35Z",
+    "updated_at": "2026-10-20T14:44:32Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-20T14:43:20Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 2,
+    "updated_at": "2026-10-20T14:43:13Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-20T14:42:31Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-20T14:40:19Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-20T14:39:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-20T14:34:00Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Redis Vector Library. The AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 432,
+    "updated_at": "2026-10-20T14:33:41Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 13028,
+    "updated_at": "2026-10-20T14:38:15Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T14:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35157,
+    "updated_at": "2026-10-20T14:28:03Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -14,7 +131,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-20T14:27:19Z",
+    "updated_at": "2026-10-20T14:38:58Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -23,7 +140,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-20T14:26:49Z",
+    "updated_at": "2026-10-20T14:43:28Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -31,7 +148,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 310,
+    "stars": 312,
     "updated_at": "2026-10-20T14:24:23Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -59,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T14:22:10Z",
+    "updated_at": "2026-10-20T14:43:26Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -90,24 +207,6 @@
     "url": "https://github.com/tryAGI/Pinecone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T14:15:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T14:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
     "id": "monaccode/astromesh",
     "language": "Python",
@@ -131,7 +230,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7137,
-    "updated_at": "2026-10-20T14:11:46Z",
+    "updated_at": "2026-10-20T14:43:02Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -142,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T14:11:03Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T14:09:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -194,7 +284,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-20T14:05:41Z",
+    "updated_at": "2026-10-20T14:34:03Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -234,15 +324,6 @@
     "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35156,
-    "updated_at": "2026-10-20T14:28:03Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Pinecone.io Golang Client",
     "id": "pinecone-io/go-pinecone",
     "language": "Go",
@@ -261,21 +342,12 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-20T13:33:32Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32585,
-    "updated_at": "2026-10-20T13:32:04Z",
+    "updated_at": "2026-10-20T14:42:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -342,15 +414,6 @@
     "url": "https://github.com/weaviate/typescript-client"
   },
   {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 13028,
-    "updated_at": "2026-10-20T13:10:31Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -374,7 +437,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16893,
-    "updated_at": "2026-10-20T14:21:22Z",
+    "updated_at": "2026-10-20T14:33:33Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T12:43:38Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-20T12:40:56Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-20T12:34:20Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39346,
-    "updated_at": "2026-10-20T12:32:52Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-20T12:27:16Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
-    "id": "bartvanbenthem/basis-ai",
-    "language": "TypeScript",
-    "name": "bartvanbenthem/basis-ai",
-    "stars": 1,
-    "updated_at": "2026-10-20T12:24:19Z",
-    "url": "https://github.com/bartvanbenthem/basis-ai"
-  },
-  {
-    "description": "Opensource AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 10,
-    "updated_at": "2026-10-20T12:19:53Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Element-aware chunking design patterns for RAG \u2014 text, tables & images \u2192 Qdrant, with visual diffs and a small eval.",
-    "id": "shunvel/element-aware-chunking",
-    "language": "Python",
-    "name": "shunvel/element-aware-chunking",
-    "stars": 0,
-    "updated_at": "2026-10-20T12:15:23Z",
-    "url": "https://github.com/shunvel/element-aware-chunking"
   }
 ]
