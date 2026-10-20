@@ -1,11 +1,92 @@
 [
   {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-20T20:59:33Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-20T20:56:04Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1357,
+    "updated_at": "2026-10-20T20:54:50Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
+    "id": "sajid-nazir/Papyrus",
+    "language": "TypeScript",
+    "name": "sajid-nazir/Papyrus",
+    "stars": 0,
+    "updated_at": "2026-10-20T20:50:59Z",
+    "url": "https://github.com/sajid-nazir/Papyrus"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-20T20:49:51Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 21,
+    "updated_at": "2026-10-20T20:48:16Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "Hands-on labs and courseware for the WSQ course No Code and Low Code Agentic AI Applications (TGS-2026062147): n8n workf",
+    "id": "tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications",
+    "language": "Python",
+    "name": "tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications",
+    "stars": 1,
+    "updated_at": "2026-10-20T20:47:00Z",
+    "url": "https://github.com/tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9423,
+    "updated_at": "2026-10-20T20:59:37Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T20:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T20:45:21Z",
+    "updated_at": "2026-10-20T21:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,15 +108,6 @@
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1357,
-    "updated_at": "2026-10-20T20:42:33Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
     "description": "A robust local AI search engine built with Streamlit and FAISS that uses Retrieval-Augmented Generation (RAG) and Hybrid",
     "id": "pronzzz/llm-search-engine",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T20:42:01Z",
     "url": "https://github.com/pronzzz/llm-search-engine"
-  },
-  {
-    "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
-    "id": "sajid-nazir/Papyrus",
-    "language": "TypeScript",
-    "name": "sajid-nazir/Papyrus",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:39:49Z",
-    "url": "https://github.com/sajid-nazir/Papyrus"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -70,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T20:38:04Z",
     "url": "https://github.com/avaazquezz/Qdrant-MCP"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-20T20:45:15Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-20T20:39:33Z",
-    "url": "https://github.com/badhope/spark"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -113,26 +158,8 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 325,
-    "updated_at": "2026-10-20T20:31:12Z",
+    "updated_at": "2026-10-20T20:58:49Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T20:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-20T20:36:34Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "Pion \u2014 the memory engine for AI inference",
@@ -158,7 +185,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 1,
-    "updated_at": "2026-10-20T20:22:35Z",
+    "updated_at": "2026-10-20T20:49:11Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -193,7 +220,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 29929,
+    "stars": 29930,
     "updated_at": "2026-10-20T20:05:39Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -230,7 +257,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1211,
-    "updated_at": "2026-10-20T20:44:42Z",
+    "updated_at": "2026-10-20T20:57:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T18:45:53Z",
     "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "Structure\u2011aware RAG platform with semantic search and citations.",
-    "id": "loglux/RAG-Knowledge-Base-Platform",
-    "language": "Python",
-    "name": "loglux/RAG-Knowledge-Base-Platform",
-    "stars": 1,
-    "updated_at": "2026-10-20T18:41:26Z",
-    "url": "https://github.com/loglux/RAG-Knowledge-Base-Platform"
-  },
-  {
-    "description": "Mirror of https://git.ciepiela.org/dawid/langchain-memvid, where issues and pull requests go. A Langchain implementation",
-    "id": "sarumaj/langchain-memvid",
-    "language": "Python",
-    "name": "sarumaj/langchain-memvid",
-    "stars": 3,
-    "updated_at": "2026-10-20T18:38:06Z",
-    "url": "https://github.com/sarumaj/langchain-memvid"
-  },
-  {
-    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
-    "id": "datris/datris-platform-oss",
-    "language": "Scala",
-    "name": "datris/datris-platform-oss",
-    "stars": 12,
-    "updated_at": "2026-10-20T18:33:31Z",
-    "url": "https://github.com/datris/datris-platform-oss"
   }
 ]
