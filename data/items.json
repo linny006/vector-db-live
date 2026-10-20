@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T00:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-20T00:00:10Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 10507,
+    "updated_at": "2026-10-20T00:00:20Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-19T23:59:20Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-19T23:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -14,26 +59,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11706,
-    "updated_at": "2026-10-19T23:44:03Z",
+    "updated_at": "2026-10-19T23:58:50Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-19T23:45:05Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 10503,
-    "updated_at": "2026-10-19T23:43:02Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "The Kubernetes Operator of Milvus. ",
@@ -43,15 +70,6 @@
     "stars": 135,
     "updated_at": "2026-10-19T23:42:47Z",
     "url": "https://github.com/zilliztech/milvus-operator"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-19T23:41:12Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -68,7 +86,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-19T23:40:48Z",
+    "updated_at": "2026-10-19T23:56:32Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -90,13 +108,13 @@
     "url": "https://github.com/austin1406/rag-streamflow-assistant"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-19T23:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8392,
+    "updated_at": "2026-10-19T23:59:38Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
@@ -167,7 +185,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 67327,
-    "updated_at": "2026-10-19T23:34:26Z",
+    "updated_at": "2026-10-19T23:59:20Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9416,
-    "updated_at": "2026-10-19T23:40:09Z",
+    "updated_at": "2026-10-19T23:47:29Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 6,
     "updated_at": "2026-10-19T23:17:26Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8392,
-    "updated_at": "2026-10-19T23:30:49Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1641,
-    "updated_at": "2026-10-19T23:11:47Z",
+    "updated_at": "2026-10-19T23:46:57Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -421,15 +430,6 @@
     "stars": 2,
     "updated_at": "2026-10-19T23:30:18Z",
     "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-19T20:49:59Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
