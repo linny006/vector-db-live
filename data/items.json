@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-20T08:15:18Z",
+    "updated_at": "2026-10-20T08:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-20T08:30:05Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59614,
+    "updated_at": "2026-10-20T08:26:45Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-20T08:28:20Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4444,
+    "updated_at": "2026-10-20T08:28:51Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 17,
+    "updated_at": "2026-10-20T08:24:23Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1209,
+    "updated_at": "2026-10-20T08:24:15Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9420,
+    "updated_at": "2026-10-20T08:28:33Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40397,
+    "updated_at": "2026-10-20T08:23:28Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
+    "id": "ness-e/Vantadb",
+    "language": "Rust",
+    "name": "ness-e/Vantadb",
+    "stars": 2,
+    "updated_at": "2026-10-20T08:24:20Z",
+    "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "A progressive data engineering portfolio featuring 8 production-grade projects. Covers real-time streaming, batch ELT (M",
+    "id": "isinghabhishek/project_OmniFlow",
+    "language": "\u2014",
+    "name": "isinghabhishek/project_OmniFlow",
+    "stars": 1,
+    "updated_at": "2026-10-20T08:15:25Z",
+    "url": "https://github.com/isinghabhishek/project_OmniFlow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T08:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -14,7 +113,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-20T08:14:10Z",
+    "updated_at": "2026-10-20T08:23:36Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -45,21 +144,12 @@
     "url": "https://github.com/theogony-project/theogony"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1209,
-    "updated_at": "2026-10-20T08:06:33Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-20T08:14:43Z",
+    "updated_at": "2026-10-20T08:19:59Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -72,40 +162,13 @@
     "url": "https://github.com/yashbhosale789/yashbhosale789"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T08:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
-    "id": "ness-e/Vantadb",
-    "language": "Rust",
-    "name": "ness-e/Vantadb",
-    "stars": 2,
-    "updated_at": "2026-10-20T08:14:08Z",
-    "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
     "id": "writerslogic/holographic-memory",
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-20T08:00:24Z",
+    "updated_at": "2026-10-20T08:15:30Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40396,
-    "updated_at": "2026-10-20T08:11:17Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
@@ -126,6 +189,15 @@
     "url": "https://github.com/api-evangelist/upstash"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39331,
+    "updated_at": "2026-10-20T08:22:06Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "Run Kafka, Flink, Spark, Iceberg, Trino, ClickHouse, Airflow, MLflow, Feast, pgvector and more on your laptop, one comma",
     "id": "jaehyeon-kim/odctl",
     "language": "Python",
@@ -140,17 +212,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32571,
-    "updated_at": "2026-10-20T07:50:41Z",
+    "updated_at": "2026-10-20T08:25:00Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-20T07:56:21Z",
-    "url": "https://github.com/miniaxolotl/grove"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11710,
+    "updated_at": "2026-10-20T07:49:57Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
@@ -185,7 +257,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 1,
-    "updated_at": "2026-10-20T07:53:48Z",
+    "updated_at": "2026-10-20T08:22:33Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -238,7 +310,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 290,
+    "stars": 293,
     "updated_at": "2026-10-20T07:30:42Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -310,7 +382,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 52576,
+    "stars": 52577,
     "updated_at": "2026-10-20T07:12:17Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -319,7 +391,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46441,
+    "stars": 46442,
     "updated_at": "2026-10-20T07:11:51Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -360,15 +432,6 @@
     "url": "https://github.com/GoodbyePlanet/semcode"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9419,
-    "updated_at": "2026-10-20T08:15:06Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
     "id": "Hk-owo/stratum-vectordb",
     "language": "Go",
@@ -385,68 +448,5 @@
     "stars": 2056,
     "updated_at": "2026-10-20T07:56:48Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
-    "id": "2B-4G10/NoLockQS",
-    "language": "Kotlin",
-    "name": "2B-4G10/NoLockQS",
-    "stars": 3,
-    "updated_at": "2026-10-20T06:40:57Z",
-    "url": "https://github.com/2B-4G10/NoLockQS"
-  },
-  {
-    "description": "Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python +",
-    "id": "Polign/recall",
-    "language": "Go",
-    "name": "Polign/recall",
-    "stars": 2,
-    "updated_at": "2026-10-20T06:37:44Z",
-    "url": "https://github.com/Polign/recall"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 913,
-    "updated_at": "2026-10-20T07:42:32Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39330,
-    "updated_at": "2026-10-20T07:52:16Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2376,
-    "updated_at": "2026-10-20T06:32:36Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Practical Python examples for LLMs: OpenAI, context memory, logging, embeddings and vector databases, Ollama, RAG, LangC",
-    "id": "Giorgi-Kavtaradze/ai-llm",
-    "language": "Python",
-    "name": "Giorgi-Kavtaradze/ai-llm",
-    "stars": 1,
-    "updated_at": "2026-10-20T06:30:58Z",
-    "url": "https://github.com/Giorgi-Kavtaradze/ai-llm"
-  },
-  {
-    "description": "A production-ready Legal AI Assistant built with RAG. Uses Qdrant Cloud, OpenRouter, and Streamlit to accurately answer ",
-    "id": "prashantv04/pdf-rag-system",
-    "language": "Python",
-    "name": "prashantv04/pdf-rag-system",
-    "stars": 0,
-    "updated_at": "2026-10-20T06:30:11Z",
-    "url": "https://github.com/prashantv04/pdf-rag-system"
   }
 ]
