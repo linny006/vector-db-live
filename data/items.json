@@ -1,11 +1,92 @@
 [
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9423,
+    "updated_at": "2026-10-20T16:24:25Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:21:37Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-20T16:19:20Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11716,
+    "updated_at": "2026-10-20T16:16:21Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "C# SDK for the Chroma API -- open-source vector database",
+    "id": "tryAGI/Chroma",
+    "language": "C#",
+    "name": "tryAGI/Chroma",
+    "stars": 1,
+    "updated_at": "2026-10-20T16:16:07Z",
+    "url": "https://github.com/tryAGI/Chroma"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1211,
+    "updated_at": "2026-10-20T16:29:23Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-10-20T16:15:47Z",
+    "url": "https://github.com/tryAGI/Qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T16:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-20T16:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 355,
-    "updated_at": "2026-10-20T16:15:03Z",
+    "updated_at": "2026-10-20T16:18:16Z",
     "url": "https://github.com/schmitech/orbit"
   },
   {
@@ -16,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-10-20T16:15:03Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-20T16:14:41Z",
-    "url": "https://github.com/d3uceY/vectile"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -59,7 +131,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-20T16:03:10Z",
+    "updated_at": "2026-10-20T16:17:50Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -72,30 +144,12 @@
     "url": "https://github.com/SwineCoder101/hvec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T16:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T16:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35159,
-    "updated_at": "2026-10-20T15:59:02Z",
+    "updated_at": "2026-10-20T16:26:57Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -149,7 +203,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-20T15:50:25Z",
+    "updated_at": "2026-10-20T16:23:51Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46446,
-    "updated_at": "2026-10-20T15:23:52Z",
+    "updated_at": "2026-10-20T16:29:53Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -243,15 +297,6 @@
     "url": "https://github.com/Thisen-Ekanayake/Athena"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1210,
-    "updated_at": "2026-10-20T16:14:36Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Structure\u2011aware RAG platform with semantic search and citations.",
     "id": "loglux/RAG-Knowledge-Base-Platform",
     "language": "Python",
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 124,
-    "updated_at": "2026-10-20T16:01:24Z",
+    "updated_at": "2026-10-20T16:29:41Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -322,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T14:52:55Z",
     "url": "https://github.com/hoangdinhlong/nhe_o"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11716,
-    "updated_at": "2026-10-20T14:51:45Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-20T15:40:17Z",
     "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 314,
-    "updated_at": "2026-10-20T14:24:23Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40434,
-    "updated_at": "2026-10-20T14:22:04Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-20T14:19:47Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Explore history through AI. Planet Atlas combines semantic search, vector embeddings, and large language models to deliv",
-    "id": "Soham170205/planet-atlas",
-    "language": "JavaScript",
-    "name": "Soham170205/planet-atlas",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:19:23Z",
-    "url": "https://github.com/Soham170205/planet-atlas"
   }
 ]
