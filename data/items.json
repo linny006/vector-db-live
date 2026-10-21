@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T17:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2029,
+    "updated_at": "2026-10-21T17:10:44Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-10-21T17:07:49Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T17:07:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "",
+    "id": "CodNoob100/null-drift",
+    "language": "Python",
+    "name": "CodNoob100/null-drift",
+    "stars": 23,
+    "updated_at": "2026-10-21T17:06:38Z",
+    "url": "https://github.com/CodNoob100/null-drift"
+  },
+  {
+    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
+    "id": "api-evangelist/upstash",
+    "language": "\u2014",
+    "name": "api-evangelist/upstash",
+    "stars": 0,
+    "updated_at": "2026-10-21T17:06:20Z",
+    "url": "https://github.com/api-evangelist/upstash"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35179,
+    "updated_at": "2026-10-21T17:14:03Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T17:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Documenting my Generative & Agentic AI journey through projects, experiments, real-world applications, and hands-on expl",
     "id": "therajarshichakraborty/Gen-And-Agentic-AI",
     "language": "Python",
@@ -27,15 +99,6 @@
     "url": "https://github.com/ihrimon/ai-engineering-journey"
   },
   {
-    "description": "",
-    "id": "CodNoob100/null-drift",
-    "language": "Python",
-    "name": "CodNoob100/null-drift",
-    "stars": 23,
-    "updated_at": "2026-10-21T16:57:18Z",
-    "url": "https://github.com/CodNoob100/null-drift"
-  },
-  {
     "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
     "id": "bartvanbenthem/basis-ai",
     "language": "TypeScript",
@@ -54,13 +117,13 @@
     "url": "https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP"
   },
   {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2029,
-    "updated_at": "2026-10-21T16:51:00Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 371,
+    "updated_at": "2026-10-21T16:50:18Z",
+    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Rest client for Qdrant vector database",
@@ -81,30 +144,12 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T16:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T17:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-21T16:59:47Z",
+    "updated_at": "2026-10-21T17:13:37Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-10-21T16:42:13Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T16:40:01Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Distributed open-source vector database with persistence, replication, REST/gRPC APIs, and an operations dashboard.",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 129,
-    "updated_at": "2026-10-21T16:47:30Z",
+    "updated_at": "2026-10-21T17:03:38Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -162,21 +198,12 @@
     "url": "https://github.com/qdrant/qdrant-client"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 369,
-    "updated_at": "2026-10-21T16:50:18Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9427,
-    "updated_at": "2026-10-21T16:58:55Z",
+    "updated_at": "2026-10-21T17:01:11Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -198,21 +225,12 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35179,
-    "updated_at": "2026-10-21T16:55:58Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-21T16:22:37Z",
+    "updated_at": "2026-10-21T17:07:31Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32629,
-    "updated_at": "2026-10-21T16:50:39Z",
+    "updated_at": "2026-10-21T17:04:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1214,
-    "updated_at": "2026-10-21T16:36:10Z",
+    "updated_at": "2026-10-21T17:14:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -338,7 +356,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8398,
-    "updated_at": "2026-10-21T16:35:50Z",
+    "updated_at": "2026-10-21T17:12:47Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 31,
     "updated_at": "2026-10-21T15:02:17Z",
     "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-21T15:02:14Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-21T15:00:21Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
   }
 ]
