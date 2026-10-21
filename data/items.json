@@ -1,5 +1,95 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-21T18:29:28Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 96,
+    "updated_at": "2026-10-21T18:29:25Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "The Kubernetes Operator of Milvus. ",
+    "id": "zilliztech/milvus-operator",
+    "language": "Go",
+    "name": "zilliztech/milvus-operator",
+    "stars": 135,
+    "updated_at": "2026-10-21T18:27:01Z",
+    "url": "https://github.com/zilliztech/milvus-operator"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-21T18:26:34Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-21T18:23:07Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8400,
+    "updated_at": "2026-10-21T18:20:43Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
+    "id": "bartvanbenthem/basis-ai",
+    "language": "TypeScript",
+    "name": "bartvanbenthem/basis-ai",
+    "stars": 1,
+    "updated_at": "2026-10-21T18:16:27Z",
+    "url": "https://github.com/bartvanbenthem/basis-ai"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 64,
+    "updated_at": "2026-10-21T18:16:25Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T18:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T18:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -41,26 +131,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9427,
-    "updated_at": "2026-10-21T18:14:51Z",
+    "updated_at": "2026-10-21T18:23:40Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T18:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T18:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -81,6 +153,15 @@
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39429,
+    "updated_at": "2026-10-21T17:55:16Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "Intrect-io/OpenSwarm",
     "language": "TypeScript",
@@ -95,7 +176,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6537,
-    "updated_at": "2026-10-21T18:00:23Z",
+    "updated_at": "2026-10-21T18:29:59Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -113,7 +194,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35179,
-    "updated_at": "2026-10-21T18:04:44Z",
+    "updated_at": "2026-10-21T18:22:13Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -216,24 +297,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39428,
-    "updated_at": "2026-10-21T17:55:16Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8399,
-    "updated_at": "2026-10-21T17:32:32Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
     "id": "api-evangelist/weaviate",
     "language": "\u2014",
@@ -256,7 +319,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32630,
+    "stars": 32628,
     "updated_at": "2026-10-21T17:04:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -268,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-10-21T16:59:51Z",
     "url": "https://github.com/therajarshichakraborty/Gen-And-Agentic-AI"
-  },
-  {
-    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
-    "id": "bartvanbenthem/basis-ai",
-    "language": "TypeScript",
-    "name": "bartvanbenthem/basis-ai",
-    "stars": 1,
-    "updated_at": "2026-10-21T16:56:14Z",
-    "url": "https://github.com/bartvanbenthem/basis-ai"
   },
   {
     "description": "Model Context Protocol (MCP) Bootcamp offers a deep dive into MCP architecture and its role in the Agentic AI ecosystem.",
@@ -351,15 +405,6 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-21T16:34:25Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -374,7 +419,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-21T17:07:31Z",
+    "updated_at": "2026-10-21T18:15:47Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-21T15:59:03Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Evidence grounded document Q&A built with Python, FastAPI, LangChain, and PostgreSQL/pgvector, featuring traceable citat",
-    "id": "bconnell/GroundedTrail",
-    "language": "Python",
-    "name": "bconnell/GroundedTrail",
-    "stars": 1,
-    "updated_at": "2026-10-21T15:56:43Z",
-    "url": "https://github.com/bconnell/GroundedTrail"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46457,
-    "updated_at": "2026-10-21T15:53:52Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2389,
-    "updated_at": "2026-10-21T15:52:16Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "A vector database in C++. Building the stuff I'd normally just pip install.",
-    "id": "adityasharmaaaaa/overveckill",
-    "language": "C++",
-    "name": "adityasharmaaaaa/overveckill",
-    "stars": 1,
-    "updated_at": "2026-10-21T15:50:53Z",
-    "url": "https://github.com/adityasharmaaaaa/overveckill"
-  },
-  {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-21T15:49:05Z",
-    "url": "https://github.com/Yoruxyv/semantix"
   }
 ]
