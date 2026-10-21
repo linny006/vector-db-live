@@ -1,12 +1,102 @@
 [
   {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 274,
+    "updated_at": "2026-10-21T08:44:26Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13270,
+    "updated_at": "2026-10-21T08:45:15Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T08:43:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 6,
-    "updated_at": "2026-10-21T08:30:10Z",
+    "updated_at": "2026-10-21T08:39:55Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-21T08:36:36Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35168,
+    "updated_at": "2026-10-21T08:36:31Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-21T08:34:31Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4445,
+    "updated_at": "2026-10-21T08:33:53Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59618,
+    "updated_at": "2026-10-21T08:32:28Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T08:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T08:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -16,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T08:30:05Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-21T08:27:41Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
@@ -41,7 +122,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46454,
-    "updated_at": "2026-10-21T08:21:17Z",
+    "updated_at": "2026-10-21T08:43:53Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T08:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "OpenGPT, An open AI workspace for conversations, knowledge, and productivity.",
     "id": "GenAIwithMS/OpenGPT",
     "language": "Python",
@@ -70,24 +142,6 @@
     "stars": 5,
     "updated_at": "2026-10-21T08:15:45Z",
     "url": "https://github.com/GenAIwithMS/OpenGPT"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T08:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-21T08:15:11Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   },
   {
     "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
@@ -104,17 +158,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-21T08:23:03Z",
+    "updated_at": "2026-10-21T08:31:56Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T08:11:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat",
@@ -180,20 +225,11 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 274,
-    "updated_at": "2026-10-21T08:26:24Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40487,
+    "stars": 40489,
     "updated_at": "2026-10-21T07:51:36Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -221,7 +257,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7138,
-    "updated_at": "2026-10-21T08:01:11Z",
+    "updated_at": "2026-10-21T08:43:08Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-21T08:30:17Z",
+    "updated_at": "2026-10-21T08:44:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9424,
-    "updated_at": "2026-10-21T08:21:01Z",
+    "updated_at": "2026-10-21T08:38:55Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2056,
-    "updated_at": "2026-10-21T07:45:49Z",
+    "updated_at": "2026-10-21T08:40:48Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -356,7 +392,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8395,
-    "updated_at": "2026-10-21T08:10:15Z",
+    "updated_at": "2026-10-21T08:38:16Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -376,15 +412,6 @@
     "stars": 7,
     "updated_at": "2026-10-21T07:16:31Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4445,
-    "updated_at": "2026-10-21T08:08:15Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -421,32 +448,5 @@
     "stars": 225,
     "updated_at": "2026-10-21T06:48:07Z",
     "url": "https://github.com/andreiramani/pgvector_pgsql_windows"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32614,
-    "updated_at": "2026-10-21T06:45:45Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
-    "id": "GoodbyePlanet/semcode",
-    "language": "Python",
-    "name": "GoodbyePlanet/semcode",
-    "stars": 8,
-    "updated_at": "2026-10-21T06:44:16Z",
-    "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-21T06:41:54Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
