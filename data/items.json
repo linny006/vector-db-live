@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-21T10:29:07Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-21T10:30:15Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-21T10:26:06Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-21T10:22:44Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7138,
+    "updated_at": "2026-10-21T10:26:10Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat",
+    "id": "Ashutosh3021/TazaKhabar",
+    "language": "Python",
+    "name": "Ashutosh3021/TazaKhabar",
+    "stars": 3,
+    "updated_at": "2026-10-21T10:20:48Z",
+    "url": "https://github.com/Ashutosh3021/TazaKhabar"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39416,
+    "updated_at": "2026-10-21T10:19:20Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T10:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T10:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 127,
+    "updated_at": "2026-10-21T10:14:12Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -63,15 +153,6 @@
     "url": "https://github.com/milvus-io/bootcamp"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-21T10:06:23Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
@@ -81,15 +162,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat",
-    "id": "Ashutosh3021/TazaKhabar",
-    "language": "Python",
-    "name": "Ashutosh3021/TazaKhabar",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:03:58Z",
-    "url": "https://github.com/Ashutosh3021/TazaKhabar"
-  },
-  {
     "description": "Rest client for Qdrant vector database",
     "id": "quarkiverse/quarkus-qdrant",
     "language": "Java",
@@ -97,24 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-21T10:03:34Z",
     "url": "https://github.com/quarkiverse/quarkus-qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -135,15 +189,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7138,
-    "updated_at": "2026-10-21T09:58:50Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -158,7 +203,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8396,
-    "updated_at": "2026-10-21T10:12:38Z",
+    "updated_at": "2026-10-21T10:27:45Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -184,7 +229,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 354,
+    "stars": 355,
     "updated_at": "2026-10-21T09:34:12Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9471,
-    "updated_at": "2026-10-21T10:00:15Z",
+    "updated_at": "2026-10-21T10:29:22Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T08:06:33Z",
     "url": "https://github.com/yashbhosale789/yashbhosale789"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1357,
-    "updated_at": "2026-10-21T08:05:26Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1213,
-    "updated_at": "2026-10-21T09:34:37Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A hands-on implementation of production memory architecture in AI agents. Features dual-tier memory (LangGraph + Postgre",
-    "id": "flexxy-07/Mem-CLI",
-    "language": "Python",
-    "name": "flexxy-07/Mem-CLI",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:51:32Z",
-    "url": "https://github.com/flexxy-07/Mem-CLI"
-  },
-  {
-    "description": "Official Java client for Qdrant ",
-    "id": "qdrant/java-client",
-    "language": "Java",
-    "name": "qdrant/java-client",
-    "stars": 100,
-    "updated_at": "2026-10-21T07:49:31Z",
-    "url": "https://github.com/qdrant/java-client"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-21T07:48:35Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
   }
 ]
