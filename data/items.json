@@ -1,11 +1,119 @@
 [
   {
+    "description": "JavaScript/Typescript SDK for Qdrant Vector Database",
+    "id": "qdrant/qdrant-js",
+    "language": "TypeScript",
+    "name": "qdrant/qdrant-js",
+    "stars": 466,
+    "updated_at": "2026-10-21T07:29:26Z",
+    "url": "https://github.com/qdrant/qdrant-js"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46452,
+    "updated_at": "2026-10-21T07:27:48Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 274,
+    "updated_at": "2026-10-21T07:29:53Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-21T07:29:30Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 2,
+    "updated_at": "2026-10-21T07:22:50Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-21T07:26:05Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "A hands-on implementation of production memory architecture in AI agents. Features dual-tier memory (LangGraph + Postgre",
+    "id": "flexxy-07/Mem-CLI",
+    "language": "Python",
+    "name": "flexxy-07/Mem-CLI",
+    "stars": 0,
+    "updated_at": "2026-10-21T07:21:23Z",
+    "url": "https://github.com/flexxy-07/Mem-CLI"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 350,
+    "updated_at": "2026-10-21T07:23:09Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9424,
+    "updated_at": "2026-10-21T07:29:41Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-21T07:16:58Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
+    "id": "StarTrail-org/LEANN",
+    "language": "Python",
+    "name": "StarTrail-org/LEANN",
+    "stars": 13045,
+    "updated_at": "2026-10-21T07:16:04Z",
+    "url": "https://github.com/StarTrail-org/LEANN"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T07:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-21T07:15:20Z",
+    "updated_at": "2026-10-21T07:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +131,7 @@
     "language": "C++",
     "name": "alibaba/zvec",
     "stars": 16128,
-    "updated_at": "2026-10-21T07:14:54Z",
+    "updated_at": "2026-10-21T07:15:35Z",
     "url": "https://github.com/alibaba/zvec"
   },
   {
@@ -41,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1213,
-    "updated_at": "2026-10-21T07:14:44Z",
+    "updated_at": "2026-10-21T07:28:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -104,7 +212,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-10-21T07:05:29Z",
+    "updated_at": "2026-10-21T07:16:31Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -113,7 +221,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-21T07:09:24Z",
+    "updated_at": "2026-10-21T07:21:37Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -135,15 +243,6 @@
     "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 274,
-    "updated_at": "2026-10-21T07:13:00Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "A zero-dependency vector database in pure Python with HNSW indexing.",
     "id": "WsNodeX/lumen",
     "language": "Python",
@@ -157,45 +256,9 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40476,
+    "stars": 40478,
     "updated_at": "2026-10-21T07:01:27Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-21T07:08:46Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T07:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-21T07:04:11Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46452,
-    "updated_at": "2026-10-21T06:55:54Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -220,7 +283,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32609,
+    "stars": 32610,
     "updated_at": "2026-10-21T06:45:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -256,7 +319,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39404,
+    "stars": 39405,
     "updated_at": "2026-10-21T06:38:54Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T05:53:42Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 867,
-    "updated_at": "2026-10-21T05:53:19Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-21T07:13:52Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-10-21T05:48:22Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-10-21T05:47:37Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-21T05:44:45Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-10-21T05:42:45Z",
-    "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-10-21T05:39:43Z",
-    "url": "https://github.com/api-evangelist/datastax"
   }
 ]
