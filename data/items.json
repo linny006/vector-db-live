@@ -1,12 +1,93 @@
 [
   {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "tickernelz/opencode-mem",
+    "language": "TypeScript",
+    "name": "tickernelz/opencode-mem",
+    "stars": 1772,
+    "updated_at": "2026-10-21T00:28:38Z",
+    "url": "https://github.com/tickernelz/opencode-mem"
+  },
+  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 125,
-    "updated_at": "2026-10-21T00:12:15Z",
+    "updated_at": "2026-10-21T00:26:39Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-21T00:25:17Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-21T00:24:39Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Structure\u2011aware RAG platform with semantic search and citations.",
+    "id": "loglux/RAG-Knowledge-Base-Platform",
+    "language": "Python",
+    "name": "loglux/RAG-Knowledge-Base-Platform",
+    "stars": 1,
+    "updated_at": "2026-10-21T00:22:14Z",
+    "url": "https://github.com/loglux/RAG-Knowledge-Base-Platform"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T00:21:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 464,
+    "updated_at": "2026-10-21T00:20:33Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-21T00:18:47Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T00:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T00:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -36,15 +117,6 @@
     "url": "https://github.com/datalevin/datalevin"
   },
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-21T00:07:41Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -67,7 +139,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67363,
+    "stars": 67365,
     "updated_at": "2026-10-21T00:01:57Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -77,26 +149,8 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 65,
-    "updated_at": "2026-10-21T00:13:32Z",
+    "updated_at": "2026-10-21T00:25:08Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T00:01:15Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T00:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -142,24 +196,6 @@
     "stars": 21,
     "updated_at": "2026-10-20T23:39:33Z",
     "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-20T23:33:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-20T23:26:35Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -220,7 +256,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 330,
+    "stars": 333,
     "updated_at": "2026-10-20T22:52:20Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -232,15 +268,6 @@
     "stars": 1519,
     "updated_at": "2026-10-20T22:51:19Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Structure\u2011aware RAG platform with semantic search and citations.",
-    "id": "loglux/RAG-Knowledge-Base-Platform",
-    "language": "Python",
-    "name": "loglux/RAG-Knowledge-Base-Platform",
-    "stars": 1,
-    "updated_at": "2026-10-20T22:50:26Z",
-    "url": "https://github.com/loglux/RAG-Knowledge-Base-Platform"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -391,7 +418,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39374,
+    "stars": 39375,
     "updated_at": "2026-10-20T22:03:53Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -421,32 +448,5 @@
     "stars": 32,
     "updated_at": "2026-10-20T21:53:41Z",
     "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32595,
-    "updated_at": "2026-10-20T21:42:48Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46450,
-    "updated_at": "2026-10-20T21:31:52Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Documenting my Generative & Agentic AI journey through projects, experiments, real-world applications, and hands-on expl",
-    "id": "therajarshichakraborty/Gen-And-Agentic-AI",
-    "language": "Python",
-    "name": "therajarshichakraborty/Gen-And-Agentic-AI",
-    "stars": 2,
-    "updated_at": "2026-10-20T21:31:32Z",
-    "url": "https://github.com/therajarshichakraborty/Gen-And-Agentic-AI"
   }
 ]
