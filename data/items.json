@@ -1,12 +1,39 @@
 [
   {
-    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 21,
-    "updated_at": "2026-10-20T23:39:33Z",
-    "url": "https://github.com/waynewbishop/quiver"
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 65,
+    "updated_at": "2026-10-20T23:59:34Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-20T23:56:00Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Grounded multimodal RAG workbench \u2014 PDF/image/text in, cited answers out. Hybrid BM25+dense retrieval, reranking, frozen",
+    "id": "pratyushpad/Lumina",
+    "language": "Python",
+    "name": "pratyushpad/Lumina",
+    "stars": 1,
+    "updated_at": "2026-10-20T23:55:34Z",
+    "url": "https://github.com/pratyushpad/Lumina"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 125,
+    "updated_at": "2026-10-20T23:59:56Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
     "description": "\ud83d\udee0Open Source Ai Ecosystem by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM AP",
@@ -14,8 +41,44 @@
     "language": "Python",
     "name": "CodesbyFebin/Open-Source-Ai-Full-Stack",
     "stars": 1,
-    "updated_at": "2026-10-20T23:39:40Z",
+    "updated_at": "2026-10-20T23:53:16Z",
     "url": "https://github.com/CodesbyFebin/Open-Source-Ai-Full-Stack"
+  },
+  {
+    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
+    "id": "StarTrail-org/LEANN",
+    "language": "Python",
+    "name": "StarTrail-org/LEANN",
+    "stars": 13040,
+    "updated_at": "2026-10-20T23:56:36Z",
+    "url": "https://github.com/StarTrail-org/LEANN"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-20T23:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T00:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Quiver is a Swift package that provides vector mathematics, numerical computing, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 21,
+    "updated_at": "2026-10-20T23:39:33Z",
+    "url": "https://github.com/waynewbishop/quiver"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -27,24 +90,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-20T23:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-20T23:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
@@ -52,15 +97,6 @@
     "stars": 1486,
     "updated_at": "2026-10-20T23:29:34Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-20T23:44:23Z",
-    "url": "https://github.com/miniaxolotl/grove"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -72,13 +108,13 @@
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
-    "id": "StarTrail-org/LEANN",
-    "language": "Python",
-    "name": "StarTrail-org/LEANN",
-    "stars": 13040,
-    "updated_at": "2026-10-20T23:11:24Z",
-    "url": "https://github.com/StarTrail-org/LEANN"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35161,
+    "updated_at": "2026-10-20T23:21:17Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6533,
-    "updated_at": "2026-10-20T23:33:21Z",
+    "updated_at": "2026-10-20T23:53:49Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9423,
-    "updated_at": "2026-10-20T23:45:11Z",
+    "updated_at": "2026-10-20T23:56:49Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -106,6 +142,15 @@
     "stars": 1639,
     "updated_at": "2026-10-20T23:23:58Z",
     "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8393,
+    "updated_at": "2026-10-20T23:00:57Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Official repository of the kANNolo library.",
@@ -121,8 +166,8 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67360,
-    "updated_at": "2026-10-20T22:56:51Z",
+    "stars": 67362,
+    "updated_at": "2026-10-20T23:53:16Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -139,7 +184,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 328,
+    "stars": 329,
     "updated_at": "2026-10-20T22:52:20Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -252,6 +297,15 @@
     "url": "https://github.com/avaazquezz/Qdrant-MCP"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11718,
+    "updated_at": "2026-10-20T22:15:11Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -268,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T22:06:54Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35160,
-    "updated_at": "2026-10-20T23:21:17Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
@@ -301,7 +346,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39371,
+    "stars": 39372,
     "updated_at": "2026-10-20T22:03:53Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T20:50:59Z",
     "url": "https://github.com/sajid-nazir/Papyrus"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-20T20:49:51Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Hands-on labs and courseware for the WSQ course No Code and Low Code Agentic AI Applications (TGS-2026062147): n8n workf",
-    "id": "tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications",
-    "language": "Python",
-    "name": "tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications",
-    "stars": 1,
-    "updated_at": "2026-10-20T20:47:00Z",
-    "url": "https://github.com/tertiarycourses/TGS-2026062147-No-Code-and-Low-Code-Agentic-AI-Applications"
-  },
-  {
-    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
-    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:44:33Z",
-    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "A robust local AI search engine built with Streamlit and FAISS that uses Retrieval-Augmented Generation (RAG) and Hybrid",
-    "id": "pronzzz/llm-search-engine",
-    "language": "Python",
-    "name": "pronzzz/llm-search-engine",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:42:01Z",
-    "url": "https://github.com/pronzzz/llm-search-engine"
-  },
-  {
-    "description": "Zero-dependency, local in-memory vector database based on statutory public domain Kademlia DHT routing.",
-    "id": "deus-intus/deus-vectormesh",
-    "language": "Python",
-    "name": "deus-intus/deus-vectormesh",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:32:10Z",
-    "url": "https://github.com/deus-intus/deus-vectormesh"
   }
 ]
