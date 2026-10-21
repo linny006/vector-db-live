@@ -1,21 +1,93 @@
 [
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-21T13:42:53Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 2028,
-    "updated_at": "2026-10-21T13:41:29Z",
+    "updated_at": "2026-10-21T13:57:12Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
+    "id": "taladb/taladb",
+    "language": "Rust",
+    "name": "taladb/taladb",
+    "stars": 6,
+    "updated_at": "2026-10-21T13:56:46Z",
+    "url": "https://github.com/taladb/taladb"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-21T13:56:29Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-21T13:55:54Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-21T13:57:44Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-21T13:56:32Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32623,
+    "updated_at": "2026-10-21T14:00:06Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T13:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-21T13:47:09Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T14:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The AI search platform",
@@ -23,7 +95,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7138,
-    "updated_at": "2026-10-21T13:44:00Z",
+    "updated_at": "2026-10-21T13:45:42Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -50,7 +122,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16896,
-    "updated_at": "2026-10-21T13:42:50Z",
+    "updated_at": "2026-10-21T13:52:53Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -72,15 +144,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-21T13:31:27Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "An advanced RAG system utililzing text datasets chunked dynamically. Engineered a dual-stage retrieval pipeline using al",
     "id": "rahulboby/ChatVeritas",
     "language": "Python",
@@ -88,33 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T13:31:11Z",
     "url": "https://github.com/rahulboby/ChatVeritas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T13:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T13:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-21T13:26:56Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -133,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T13:24:23Z",
     "url": "https://github.com/shunvel/element-aware-chunking"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32622,
-    "updated_at": "2026-10-21T13:32:30Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-21T13:40:49Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
@@ -221,7 +239,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 914,
-    "updated_at": "2026-10-21T13:06:46Z",
+    "updated_at": "2026-10-21T13:58:28Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-21T13:21:27Z",
+    "updated_at": "2026-10-21T13:58:39Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35173,
-    "updated_at": "2026-10-21T13:01:03Z",
+    "updated_at": "2026-10-21T13:51:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4446,
-    "updated_at": "2026-10-21T12:53:49Z",
+    "updated_at": "2026-10-21T13:52:48Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -265,18 +283,9 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40506,
-    "updated_at": "2026-10-21T12:52:25Z",
+    "stars": 40507,
+    "updated_at": "2026-10-21T13:59:01Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-21T12:50:07Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -356,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8396,
-    "updated_at": "2026-10-21T13:41:30Z",
+    "updated_at": "2026-10-21T13:52:39Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -383,7 +392,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-21T13:25:21Z",
+    "updated_at": "2026-10-21T13:51:22Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -436,17 +445,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46454,
+    "stars": 46455,
     "updated_at": "2026-10-21T11:46:00Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-21T11:45:38Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   }
 ]
