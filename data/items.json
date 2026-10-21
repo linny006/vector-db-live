@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "CodNoob100/null-drift",
     "stars": 23,
-    "updated_at": "2026-10-21T15:44:09Z",
+    "updated_at": "2026-10-21T15:59:43Z",
     "url": "https://github.com/CodNoob100/null-drift"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-21T15:59:03Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T16:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46457,
+    "updated_at": "2026-10-21T15:53:52Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2389,
+    "updated_at": "2026-10-21T15:52:16Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "A vector database in C++. Building the stuff I'd normally just pip install.",
+    "id": "adityasharmaaaaa/overveckill",
+    "language": "C++",
+    "name": "adityasharmaaaaa/overveckill",
+    "stars": 1,
+    "updated_at": "2026-10-21T15:50:53Z",
+    "url": "https://github.com/adityasharmaaaaa/overveckill"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1214,
+    "updated_at": "2026-10-21T15:50:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-21T15:49:05Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35178,
+    "updated_at": "2026-10-21T15:47:26Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 88,
+    "updated_at": "2026-10-21T15:47:01Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T15:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -23,7 +113,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-21T15:39:10Z",
+    "updated_at": "2026-10-21T15:52:13Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -41,7 +131,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8398,
-    "updated_at": "2026-10-21T15:37:26Z",
+    "updated_at": "2026-10-21T15:48:13Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -68,7 +158,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-21T15:35:31Z",
+    "updated_at": "2026-10-21T15:46:10Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -81,58 +171,13 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "A vector database in C++. Building the stuff I'd normally just pip install.",
-    "id": "adityasharmaaaaa/overveckill",
-    "language": "C++",
-    "name": "adityasharmaaaaa/overveckill",
-    "stars": 1,
-    "updated_at": "2026-10-21T15:31:42Z",
-    "url": "https://github.com/adityasharmaaaaa/overveckill"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1214,
-    "updated_at": "2026-10-21T15:30:36Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T15:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T15:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
     "id": "eugen-goebel/smart-doc-qa",
     "language": "Python",
     "name": "eugen-goebel/smart-doc-qa",
     "stars": 0,
-    "updated_at": "2026-10-21T15:44:10Z",
+    "updated_at": "2026-10-21T15:50:42Z",
     "url": "https://github.com/eugen-goebel/smart-doc-qa"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-21T15:25:29Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "The AI search platform",
@@ -157,18 +202,9 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40518,
+    "stars": 40520,
     "updated_at": "2026-10-21T15:16:40Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35179,
-    "updated_at": "2026-10-21T15:44:12Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Top RAG Context Engines (Opensource)  Star if you like it! ",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32627,
-    "updated_at": "2026-10-21T15:04:39Z",
+    "updated_at": "2026-10-21T15:50:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-21T15:37:13Z",
+    "updated_at": "2026-10-21T16:00:08Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -320,7 +356,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 915,
-    "updated_at": "2026-10-21T15:45:10Z",
+    "updated_at": "2026-10-21T15:49:25Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 61,
     "updated_at": "2026-10-21T13:27:14Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39426,
-    "updated_at": "2026-10-21T13:11:31Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "\u9762\u5411\u5bf9\u8bdd\u667a\u80fd\u4f53\u7684\u957f\u671f\u8bb0\u5fc6\u7cfb\u7edf\uff0c\u652f\u6301\u7ed3\u6784\u5316\u4e8b\u5b9e\u63d0\u53d6\u3001\u6388\u6743\u4fdd\u5b58\u3001\u8bb0\u5fc6\u7248\u672c\u7ba1\u7406\u4e0e\u8de8\u4f1a\u8bdd\u68c0\u7d22\u3002",
-    "id": "LiuSunshine1223/Agent-Memory",
-    "language": "Python",
-    "name": "LiuSunshine1223/Agent-Memory",
-    "stars": 0,
-    "updated_at": "2026-10-21T13:11:01Z",
-    "url": "https://github.com/LiuSunshine1223/Agent-Memory"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-21T13:07:05Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-21T13:58:39Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   }
 ]
