@@ -1,12 +1,93 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T09:39:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-21T09:38:19Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 354,
+    "updated_at": "2026-10-21T09:34:12Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40494,
+    "updated_at": "2026-10-21T09:34:08Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Detect and erase deleted records left on disk by Chroma, Postgres/pgvector and SQLite stores, with signed receipts.",
+    "id": "Sharathvc23/forgetproof",
+    "language": "Python",
+    "name": "Sharathvc23/forgetproof",
+    "stars": 0,
+    "updated_at": "2026-10-21T09:34:01Z",
+    "url": "https://github.com/Sharathvc23/forgetproof"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9472,
+    "updated_at": "2026-10-21T09:33:38Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T09:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T09:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Custom local rag setup based on Qdrant",
     "id": "zerotropism/local-rag",
     "language": "Python",
     "name": "zerotropism/local-rag",
     "stars": 0,
-    "updated_at": "2026-10-21T09:29:44Z",
+    "updated_at": "2026-10-21T09:31:54Z",
     "url": "https://github.com/zerotropism/local-rag"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32616,
+    "updated_at": "2026-10-21T09:29:29Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -14,17 +95,8 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-21T09:28:55Z",
+    "updated_at": "2026-10-21T09:36:30Z",
     "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32615,
-    "updated_at": "2026-10-21T09:29:29Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -59,7 +131,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-21T09:27:21Z",
+    "updated_at": "2026-10-21T09:37:02Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -79,33 +151,6 @@
     "stars": 388,
     "updated_at": "2026-10-21T09:15:45Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T09:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T09:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T09:10:00Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -139,18 +184,9 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13271,
+    "stars": 13272,
     "updated_at": "2026-10-21T09:04:30Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40492,
-    "updated_at": "2026-10-21T09:19:43Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-21T08:46:00Z",
+    "updated_at": "2026-10-21T09:39:51Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35169,
-    "updated_at": "2026-10-21T09:29:36Z",
+    "updated_at": "2026-10-21T09:36:40Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T08:30:05Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 352,
-    "updated_at": "2026-10-21T09:01:38Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -311,7 +338,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1213,
-    "updated_at": "2026-10-21T08:01:10Z",
+    "updated_at": "2026-10-21T09:34:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-21T09:23:46Z",
+    "updated_at": "2026-10-21T09:44:57Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 61,
     "updated_at": "2026-10-21T09:28:22Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
-    "id": "StarTrail-org/LEANN",
-    "language": "Python",
-    "name": "StarTrail-org/LEANN",
-    "stars": 13047,
-    "updated_at": "2026-10-21T07:16:04Z",
-    "url": "https://github.com/StarTrail-org/LEANN"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 16129,
-    "updated_at": "2026-10-21T07:15:35Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Multi-agent RAG workflow orchestrating scientific literature synthesis and patent prior-art discovery.",
-    "id": "dhrubchatterjee16-lang/AGENTIC_RAG_LAB",
-    "language": "\u2014",
-    "name": "dhrubchatterjee16-lang/AGENTIC_RAG_LAB",
-    "stars": 0,
-    "updated_at": "2026-10-21T07:13:56Z",
-    "url": "https://github.com/dhrubchatterjee16-lang/AGENTIC_RAG_LAB"
   }
 ]
