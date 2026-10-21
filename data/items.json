@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T15:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-21T15:25:29Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7138,
+    "updated_at": "2026-10-21T15:23:27Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13276,
+    "updated_at": "2026-10-21T15:19:11Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40518,
+    "updated_at": "2026-10-21T15:16:40Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T15:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35179,
+    "updated_at": "2026-10-21T15:26:49Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Top RAG Context Engines (Opensource)  Star if you like it! ",
     "id": "ishandutta2007/Awesome-RAG-Context-Engines",
     "language": "\u2014",
@@ -63,15 +126,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T15:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
     "id": "PersonalClaw/PersonalClawApps",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T15:00:21Z",
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T15:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -103,7 +148,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59620,
+    "stars": 59621,
     "updated_at": "2026-10-21T14:49:21Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -113,7 +158,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-21T14:48:24Z",
+    "updated_at": "2026-10-21T15:30:03Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -148,27 +193,9 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 2056,
+    "stars": 2057,
     "updated_at": "2026-10-21T14:31:07Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13276,
-    "updated_at": "2026-10-21T14:24:21Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40515,
-    "updated_at": "2026-10-21T14:21:08Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -176,7 +203,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 291,
-    "updated_at": "2026-10-21T14:59:15Z",
+    "updated_at": "2026-10-21T15:28:36Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 8397,
     "updated_at": "2026-10-21T14:15:51Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35177,
-    "updated_at": "2026-10-21T14:50:33Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
@@ -229,7 +247,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13050,
+    "stars": 13051,
     "updated_at": "2026-10-21T14:02:15Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -265,7 +283,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16897,
+    "stars": 16898,
     "updated_at": "2026-10-21T13:52:53Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -277,15 +295,6 @@
     "stars": 355,
     "updated_at": "2026-10-21T13:47:09Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7138,
-    "updated_at": "2026-10-21T14:25:06Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-21T14:41:34Z",
+    "updated_at": "2026-10-21T15:17:44Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T12:31:16Z",
     "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-21T15:02:22Z",
-    "url": "https://github.com/imagodata/filter_mate"
   }
 ]
