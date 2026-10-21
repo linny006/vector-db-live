@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Top RAG Context Engines (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-RAG-Context-Engines",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-RAG-Context-Engines",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:59:27Z",
+    "url": "https://github.com/ishandutta2007/Awesome-RAG-Context-Engines"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-21T11:57:44Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T11:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "volcengine/OpenViking",
+    "stars": 40498,
+    "updated_at": "2026-10-21T11:57:28Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -14,8 +32,98 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-21T11:45:15Z",
+    "updated_at": "2026-10-21T11:54:57Z",
     "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-21T11:54:11Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 6,
+    "updated_at": "2026-10-21T11:57:00Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 12,
+    "updated_at": "2026-10-21T11:52:57Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-21T11:52:28Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-21T11:50:49Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:46:03Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:45:38Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-21T11:45:44Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T11:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T12:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered IT support assistant using Agentic RAG \u2014 answers employee questions from company documents, falls back to web",
@@ -25,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T11:43:18Z",
     "url": "https://github.com/Ariesjeev/FixPilot"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 6,
-    "updated_at": "2026-10-21T11:42:51Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -61,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T11:40:39Z",
     "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40496,
-    "updated_at": "2026-10-21T11:44:47Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-21T11:40:05Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -117,30 +198,12 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-21T11:38:42Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T11:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-21T11:40:53Z",
+    "updated_at": "2026-10-21T11:57:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T11:27:15Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-21T11:39:29Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
@@ -248,7 +302,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46453,
-    "updated_at": "2026-10-21T11:43:53Z",
+    "updated_at": "2026-10-21T11:46:00Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32618,
-    "updated_at": "2026-10-21T11:21:52Z",
+    "updated_at": "2026-10-21T11:54:47Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-21T09:58:01Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-21T09:57:07Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8396,
-    "updated_at": "2026-10-21T11:37:47Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Detect and erase deleted records left on disk by Chroma, Postgres/pgvector and SQLite stores, with signed receipts.",
-    "id": "Sharathvc23/forgetproof",
-    "language": "Python",
-    "name": "Sharathvc23/forgetproof",
-    "stars": 0,
-    "updated_at": "2026-10-21T10:00:19Z",
-    "url": "https://github.com/Sharathvc23/forgetproof"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-21T10:47:54Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 358,
-    "updated_at": "2026-10-21T09:34:12Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9471,
-    "updated_at": "2026-10-21T11:37:06Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
