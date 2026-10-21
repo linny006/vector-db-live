@@ -1,5 +1,77 @@
 [
   {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 368,
+    "updated_at": "2026-10-21T16:29:23Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9426,
+    "updated_at": "2026-10-21T16:28:40Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-21T16:24:03Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2029,
+    "updated_at": "2026-10-21T16:23:51Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 867,
+    "updated_at": "2026-10-21T16:29:53Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 13027,
+    "updated_at": "2026-10-21T16:22:37Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T16:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T16:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "",
     "id": "CodNoob100/null-drift",
     "language": "Python",
@@ -18,12 +90,21 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35179,
+    "updated_at": "2026-10-21T16:08:21Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-21T16:05:54Z",
+    "updated_at": "2026-10-21T16:22:37Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -43,24 +124,6 @@
     "stars": 6,
     "updated_at": "2026-10-21T16:03:43Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T16:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T16:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32629,
-    "updated_at": "2026-10-21T15:50:32Z",
+    "updated_at": "2026-10-21T16:23:40Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T15:49:05Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35178,
-    "updated_at": "2026-10-21T16:08:21Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -185,7 +239,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8398,
-    "updated_at": "2026-10-21T16:13:03Z",
+    "updated_at": "2026-10-21T16:26:47Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -247,7 +301,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40522,
+    "stars": 40525,
     "updated_at": "2026-10-21T15:16:40Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -311,17 +365,8 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59622,
-    "updated_at": "2026-10-21T14:49:21Z",
+    "updated_at": "2026-10-21T16:24:56Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2028,
-    "updated_at": "2026-10-21T14:49:37Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
     "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
@@ -337,7 +382,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11731,
+    "stars": 11732,
     "updated_at": "2026-10-21T14:34:36Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -360,15 +405,6 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 368,
-    "updated_at": "2026-10-21T14:13:20Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
     "id": "StarTrail-org/LEANN",
     "language": "Python",
@@ -383,7 +419,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 915,
-    "updated_at": "2026-10-21T16:12:09Z",
+    "updated_at": "2026-10-21T16:20:45Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 16898,
     "updated_at": "2026-10-21T13:52:53Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-21T13:47:09Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-21T13:38:09Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "An advanced RAG system utililzing text datasets chunked dynamically. Engineered a dual-stage retrieval pipeline using al",
-    "id": "rahulboby/ChatVeritas",
-    "language": "Python",
-    "name": "rahulboby/ChatVeritas",
-    "stars": 0,
-    "updated_at": "2026-10-21T13:31:11Z",
-    "url": "https://github.com/rahulboby/ChatVeritas"
-  },
-  {
-    "description": "Element-aware chunking design patterns for RAG \u2014 text, tables & images \u2192 Qdrant, with visual diffs and a small eval.",
-    "id": "shunvel/element-aware-chunking",
-    "language": "Python",
-    "name": "shunvel/element-aware-chunking",
-    "stars": 0,
-    "updated_at": "2026-10-21T13:24:23Z",
-    "url": "https://github.com/shunvel/element-aware-chunking"
   }
 ]
