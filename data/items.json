@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-21T22:00:21Z",
+    "updated_at": "2026-10-21T22:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-21T22:14:23Z",
+    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -14,8 +23,98 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-21T21:56:54Z",
+    "updated_at": "2026-10-21T22:12:46Z",
     "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11733,
+    "updated_at": "2026-10-21T22:11:39Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-21T22:09:39Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T22:07:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 129,
+    "updated_at": "2026-10-21T22:08:33Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-21T22:06:11Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9429,
+    "updated_at": "2026-10-21T22:12:34Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-21T22:05:41Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1640,
+    "updated_at": "2026-10-21T22:11:24Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T22:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8403,
+    "updated_at": "2026-10-21T21:53:25Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Production-ready RAG pipeline with hybrid search, cross-encoder reranking, and an evaluation harness for retrieval recal",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "dolev31/lasagna",
     "stars": 1,
-    "updated_at": "2026-10-21T21:49:13Z",
+    "updated_at": "2026-10-21T22:08:35Z",
     "url": "https://github.com/dolev31/lasagna"
   },
   {
@@ -41,7 +140,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-21T21:55:18Z",
+    "updated_at": "2026-10-21T22:12:24Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -54,24 +153,6 @@
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-21T21:46:21Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T21:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -81,15 +162,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-21T21:43:07Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -97,15 +169,6 @@
     "stars": 8,
     "updated_at": "2026-10-21T21:42:23Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T21:37:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
@@ -153,15 +216,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11733,
-    "updated_at": "2026-10-21T21:26:50Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -184,7 +238,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35179,
+    "stars": 35180,
     "updated_at": "2026-10-21T21:21:01Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -216,15 +270,6 @@
     "url": "https://github.com/kennielima/OpsIQ"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9429,
-    "updated_at": "2026-10-21T21:53:45Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "High-performance, SIMD-accelerated vector search engine and MCP server for .NET 10. Optimized for LLM embeddings and sem",
     "id": "ian-cowley/Glacier.Vector",
     "language": "C#",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39435,
-    "updated_at": "2026-10-21T21:27:06Z",
+    "updated_at": "2026-10-21T22:02:10Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -337,7 +382,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 380,
+    "stars": 381,
     "updated_at": "2026-10-21T20:25:28Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -378,15 +423,6 @@
     "url": "https://github.com/LLPhant/LLPhant"
   },
   {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1640,
-    "updated_at": "2026-10-21T21:35:36Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "An index for ambient learning applications.",
     "id": "rao-studios/AII",
     "language": "Swift",
@@ -412,41 +448,5 @@
     "stars": 49,
     "updated_at": "2026-10-21T19:55:15Z",
     "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-21T19:52:59Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "HNSW approximate nearest-neighbour index from the paper in pure Go: deletes, persistence, HTTP API, benchmarks",
-    "id": "rohanreddy79/hnswgo",
-    "language": "Go",
-    "name": "rohanreddy79/hnswgo",
-    "stars": 0,
-    "updated_at": "2026-10-21T19:43:27Z",
-    "url": "https://github.com/rohanreddy79/hnswgo"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 17,
-    "updated_at": "2026-10-21T19:38:54Z",
-    "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67407,
-    "updated_at": "2026-10-21T19:38:31Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   }
 ]
