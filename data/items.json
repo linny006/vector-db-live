@@ -1,30 +1,12 @@
 [
   {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-21T10:29:07Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-21T10:30:15Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-21T10:26:06Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T10:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -32,8 +14,107 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-21T10:22:44Z",
+    "updated_at": "2026-10-21T10:43:39Z",
     "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-21T10:41:11Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-21T10:40:19Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T10:39:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-21T10:37:27Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat",
+    "id": "Ashutosh3021/TazaKhabar",
+    "language": "Python",
+    "name": "Ashutosh3021/TazaKhabar",
+    "stars": 3,
+    "updated_at": "2026-10-21T10:35:34Z",
+    "url": "https://github.com/Ashutosh3021/TazaKhabar"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-21T10:35:35Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with",
+    "id": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
+    "language": "TypeScript",
+    "name": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
+    "stars": 4,
+    "updated_at": "2026-10-21T10:33:16Z",
+    "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32618,
+    "updated_at": "2026-10-21T10:31:45Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1916,
+    "updated_at": "2026-10-21T10:30:38Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T10:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-21T10:29:07Z",
+    "url": "https://github.com/motedb/motedb"
   },
   {
     "description": "The AI search platform",
@@ -45,40 +126,13 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat",
-    "id": "Ashutosh3021/TazaKhabar",
-    "language": "Python",
-    "name": "Ashutosh3021/TazaKhabar",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:20:48Z",
-    "url": "https://github.com/Ashutosh3021/TazaKhabar"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39416,
+    "stars": 39417,
     "updated_at": "2026-10-21T10:19:20Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self improving agents through iterations",
@@ -103,18 +157,9 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40493,
+    "stars": 40495,
     "updated_at": "2026-10-21T10:10:39Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T10:08:31Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -203,7 +248,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8396,
-    "updated_at": "2026-10-21T10:27:45Z",
+    "updated_at": "2026-10-21T10:32:06Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -221,7 +266,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-21T09:58:51Z",
+    "updated_at": "2026-10-21T10:31:56Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9471,
-    "updated_at": "2026-10-21T10:29:22Z",
+    "updated_at": "2026-10-21T10:31:48Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T09:31:54Z",
     "url": "https://github.com/zerotropism/local-rag"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32617,
-    "updated_at": "2026-10-21T10:04:01Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-21T08:15:45Z",
     "url": "https://github.com/GenAIwithMS/OpenGPT"
-  },
-  {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-21T08:15:00Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-21T08:31:56Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Portable semantic memory layer for LLM agents over MCP",
-    "id": "fazerluga-creator/shared-memory",
-    "language": "Python",
-    "name": "fazerluga-creator/shared-memory",
-    "stars": 2,
-    "updated_at": "2026-10-21T08:09:17Z",
-    "url": "https://github.com/fazerluga-creator/shared-memory"
-  },
-  {
-    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
-    "id": "yashbhosale789/yashbhosale789",
-    "language": "\u2014",
-    "name": "yashbhosale789/yashbhosale789",
-    "stars": 0,
-    "updated_at": "2026-10-21T08:06:33Z",
-    "url": "https://github.com/yashbhosale789/yashbhosale789"
   }
 ]
