@@ -1,12 +1,120 @@
 [
   {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2388,
+    "updated_at": "2026-10-21T10:10:58Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40493,
+    "updated_at": "2026-10-21T10:10:39Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T10:08:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-21T10:07:45Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
+    "id": "ZenSystemAI/Zengram",
+    "language": "JavaScript",
+    "name": "ZenSystemAI/Zengram",
+    "stars": 64,
+    "updated_at": "2026-10-21T10:08:30Z",
+    "url": "https://github.com/ZenSystemAI/Zengram"
+  },
+  {
+    "description": "Backend for movies recomendations for groups ",
+    "id": "Biccamor/Moovy",
+    "language": "Python",
+    "name": "Biccamor/Moovy",
+    "stars": 0,
+    "updated_at": "2026-10-21T10:07:48Z",
+    "url": "https://github.com/Biccamor/Moovy"
+  },
+  {
     "description": "Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, questi",
     "id": "milvus-io/bootcamp",
     "language": "Jupyter Notebook",
     "name": "milvus-io/bootcamp",
     "stars": 2449,
-    "updated_at": "2026-10-21T10:00:14Z",
+    "updated_at": "2026-10-21T10:07:19Z",
     "url": "https://github.com/milvus-io/bootcamp"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-21T10:06:23Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4445,
+    "updated_at": "2026-10-21T10:06:39Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat",
+    "id": "Ashutosh3021/TazaKhabar",
+    "language": "Python",
+    "name": "Ashutosh3021/TazaKhabar",
+    "stars": 3,
+    "updated_at": "2026-10-21T10:03:58Z",
+    "url": "https://github.com/Ashutosh3021/TazaKhabar"
+  },
+  {
+    "description": "Rest client for Qdrant vector database",
+    "id": "quarkiverse/quarkus-qdrant",
+    "language": "Java",
+    "name": "quarkiverse/quarkus-qdrant",
+    "stars": 2,
+    "updated_at": "2026-10-21T10:03:34Z",
+    "url": "https://github.com/quarkiverse/quarkus-qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T10:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T10:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -36,40 +144,13 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40493,
-    "updated_at": "2026-10-21T09:50:55Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4445,
-    "updated_at": "2026-10-21T09:52:06Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46454,
+    "stars": 46453,
     "updated_at": "2026-10-21T09:49:51Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T09:49:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -77,7 +158,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8396,
-    "updated_at": "2026-10-21T09:49:17Z",
+    "updated_at": "2026-10-21T10:12:38Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -88,33 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T10:00:19Z",
     "url": "https://github.com/Sharathvc23/forgetproof"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-21T09:57:56Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T09:39:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32617,
-    "updated_at": "2026-10-21T09:29:29Z",
+    "updated_at": "2026-10-21T10:04:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T09:25:58Z",
     "url": "https://github.com/IdoY12/awesome-free-ai-apis"
-  },
-  {
-    "description": "Done pretending LinkedIn job posts are real. Done refreshing for rejections that never come. TazaKhabar pulls raw HN dat",
-    "id": "Ashutosh3021/TazaKhabar",
-    "language": "Python",
-    "name": "Ashutosh3021/TazaKhabar",
-    "stars": 3,
-    "updated_at": "2026-10-21T09:19:12Z",
-    "url": "https://github.com/Ashutosh3021/TazaKhabar"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -225,15 +270,6 @@
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-21T09:06:50Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "AI\u00b7\ubc18\ub3c4\uccb4 \uc815\ucc45 \ub9ac\ud3ec\ud2b8 RAG: Dense \u2192 Hybrid(BM25+RRF) \u2192 Rerank \uac80\uc0c9 \ud488\uc9c8 \ube44\uad50 + RAGAS \ud3c9\uac00",
     "id": "XXXXXim/vectordb-rag",
     "language": "Jupyter Notebook",
@@ -252,13 +288,13 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2388,
-    "updated_at": "2026-10-21T08:53:12Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9425,
+    "updated_at": "2026-10-21T09:02:00Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
@@ -284,7 +320,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35169,
-    "updated_at": "2026-10-21T09:56:14Z",
+    "updated_at": "2026-10-21T10:01:38Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T07:48:35Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "",
-    "id": "elastic/mcp-server-elasticsearch",
-    "language": "Rust",
-    "name": "elastic/mcp-server-elasticsearch",
-    "stars": 723,
-    "updated_at": "2026-10-21T07:47:26Z",
-    "url": "https://github.com/elastic/mcp-server-elasticsearch"
-  },
-  {
-    "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
-    "id": "ChromaDotNet/ChromaDB.Local",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Local",
-    "stars": 1,
-    "updated_at": "2026-10-21T08:14:14Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
-  },
-  {
-    "description": "Production-ready RAG framework for Python \u2014 multi-tenant chatbots with streaming, tool calling, agent mode (LangGraph), ",
-    "id": "ENDEVSOLS/Long-Trainer",
-    "language": "Python",
-    "name": "ENDEVSOLS/Long-Trainer",
-    "stars": 30,
-    "updated_at": "2026-10-21T07:34:33Z",
-    "url": "https://github.com/ENDEVSOLS/Long-Trainer"
-  },
-  {
-    "description": "JavaScript/Typescript SDK for Qdrant Vector Database",
-    "id": "qdrant/qdrant-js",
-    "language": "TypeScript",
-    "name": "qdrant/qdrant-js",
-    "stars": 466,
-    "updated_at": "2026-10-21T07:31:44Z",
-    "url": "https://github.com/qdrant/qdrant-js"
   }
 ]
