@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T03:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40462,
+    "updated_at": "2026-10-21T03:30:13Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1639,
+    "updated_at": "2026-10-21T03:29:40Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-21T03:29:49Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16127,
+    "updated_at": "2026-10-21T03:22:11Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "An AI-powered study assistant built with Next.js, Node.js, and OpenAI/Gemini. Features a RAG pipeline for context-aware ",
+    "id": "Karan-1108/NoteGenie",
+    "language": "TypeScript",
+    "name": "Karan-1108/NoteGenie",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:17:50Z",
+    "url": "https://github.com/Karan-1108/NoteGenie"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T03:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -18,15 +81,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40459,
-    "updated_at": "2026-10-21T03:04:48Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
@@ -34,33 +88,6 @@
     "stars": 6,
     "updated_at": "2026-10-21T03:00:57Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 16127,
-    "updated_at": "2026-10-21T03:00:50Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T03:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T03:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11720,
-    "updated_at": "2026-10-21T02:40:23Z",
+    "updated_at": "2026-10-21T03:29:22Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -103,7 +130,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 52588,
+    "stars": 52589,
     "updated_at": "2026-10-21T02:34:58Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -113,17 +140,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46452,
-    "updated_at": "2026-10-21T02:31:52Z",
+    "updated_at": "2026-10-21T03:23:58Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-21T02:30:30Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "zvec java binding",
@@ -221,7 +239,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8394,
-    "updated_at": "2026-10-21T01:32:31Z",
+    "updated_at": "2026-10-21T03:20:45Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -229,7 +247,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32601,
+    "stars": 32602,
     "updated_at": "2026-10-21T01:30:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -306,15 +324,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1639,
-    "updated_at": "2026-10-21T02:50:50Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "In-memory vector search engine with event-based co-occurrence tracking",
     "id": "libraz/nvecd",
     "language": "C++",
@@ -338,7 +347,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9424,
-    "updated_at": "2026-10-21T00:45:33Z",
+    "updated_at": "2026-10-21T03:18:45Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -427,7 +436,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67370,
+    "stars": 67371,
     "updated_at": "2026-10-21T00:01:57Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -439,14 +448,5 @@
     "stars": 65,
     "updated_at": "2026-10-21T00:32:22Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
-    "id": "StarTrail-org/LEANN",
-    "language": "Python",
-    "name": "StarTrail-org/LEANN",
-    "stars": 13043,
-    "updated_at": "2026-10-20T23:56:36Z",
-    "url": "https://github.com/StarTrail-org/LEANN"
   }
 ]
