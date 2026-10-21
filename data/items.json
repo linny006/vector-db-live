@@ -1,5 +1,95 @@
 [
   {
+    "description": "software for simulating human-like interaction with AI using a cognitive approach",
+    "id": "sriramsme/pragYantra",
+    "language": "Python",
+    "name": "sriramsme/pragYantra",
+    "stars": 8,
+    "updated_at": "2026-10-21T23:44:08Z",
+    "url": "https://github.com/sriramsme/pragYantra"
+  },
+  {
+    "description": "A structured guide covering LLMs - architecture, capabilities, types, and how RAG enhances them",
+    "id": "SUBHASHSUSHIL/RAG",
+    "language": "\u2014",
+    "name": "SUBHASHSUSHIL/RAG",
+    "stars": 1,
+    "updated_at": "2026-10-21T23:42:16Z",
+    "url": "https://github.com/SUBHASHSUSHIL/RAG"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67410,
+    "updated_at": "2026-10-21T23:41:16Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-21T23:43:47Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-21T23:37:21Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T23:36:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-21T23:34:55Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-21T23:33:15Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Learn vector databases from scratch \u2014 embeddings, chunking, and semantic search using Pinecone and sentence-transformers",
+    "id": "SUBHASHSUSHIL/vector_db",
+    "language": "Python",
+    "name": "SUBHASHSUSHIL/vector_db",
+    "stars": 1,
+    "updated_at": "2026-10-21T23:32:42Z",
+    "url": "https://github.com/SUBHASHSUSHIL/vector_db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T23:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A personal RAG (Retrieval-Augmented Generation) chatbot built with Streamlit and LangChain. Upload PDFs and chat with th",
     "id": "khalidkanane/personal-rag-chatbot",
     "language": "Python",
@@ -23,17 +113,8 @@
     "language": "Python",
     "name": "mdmonsurali/Advanced-Hybrid-RAG",
     "stars": 0,
-    "updated_at": "2026-10-21T23:26:46Z",
+    "updated_at": "2026-10-21T23:42:05Z",
     "url": "https://github.com/mdmonsurali/Advanced-Hybrid-RAG"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-21T23:23:22Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "An index for ambient learning applications.",
@@ -54,31 +135,13 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T23:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-21T23:15:21Z",
+    "updated_at": "2026-10-21T23:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-21T23:14:28Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -86,26 +149,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-21T23:14:31Z",
+    "updated_at": "2026-10-21T23:35:34Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T23:07:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-21T23:07:08Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin",
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9430,
-    "updated_at": "2026-10-21T23:24:23Z",
+    "updated_at": "2026-10-21T23:35:11Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39435,
-    "updated_at": "2026-10-21T23:29:06Z",
+    "updated_at": "2026-10-21T23:44:53Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -257,7 +302,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8403,
-    "updated_at": "2026-10-21T21:53:25Z",
+    "updated_at": "2026-10-21T23:36:04Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -286,15 +331,6 @@
     "stars": 1213,
     "updated_at": "2026-10-21T22:57:41Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-21T23:11:36Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-21T20:57:36Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
-    "id": "Faraz6180/Insightpilot-ai",
-    "language": "Python",
-    "name": "Faraz6180/Insightpilot-ai",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:54:55Z",
-    "url": "https://github.com/Faraz6180/Insightpilot-ai"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-21T21:16:16Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1487,
-    "updated_at": "2026-10-21T23:14:54Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Python client for Qdrant vector search engine",
-    "id": "qdrant/qdrant-client",
-    "language": "Python",
-    "name": "qdrant/qdrant-client",
-    "stars": 1373,
-    "updated_at": "2026-10-21T20:35:35Z",
-    "url": "https://github.com/qdrant/qdrant-client"
   }
 ]
