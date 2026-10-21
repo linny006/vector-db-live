@@ -1,5 +1,113 @@
 [
   {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-21T06:30:07Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-21T06:28:18Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
+    "id": "tapiruslab/TapirusDB",
+    "language": "Rust",
+    "name": "tapiruslab/TapirusDB",
+    "stars": 0,
+    "updated_at": "2026-10-21T06:28:12Z",
+    "url": "https://github.com/tapiruslab/TapirusDB"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40474,
+    "updated_at": "2026-10-21T06:26:45Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 274,
+    "updated_at": "2026-10-21T06:26:59Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
+    "id": "gxc02529-jpg/KnowLoop",
+    "language": "Python",
+    "name": "gxc02529-jpg/KnowLoop",
+    "stars": 0,
+    "updated_at": "2026-10-21T06:24:58Z",
+    "url": "https://github.com/gxc02529-jpg/KnowLoop"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 260,
+    "updated_at": "2026-10-21T06:23:40Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35166,
+    "updated_at": "2026-10-21T06:23:07Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-21T06:24:15Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11720,
+    "updated_at": "2026-10-21T06:28:10Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T06:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T06:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -41,17 +149,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2056,
-    "updated_at": "2026-10-21T06:08:20Z",
+    "updated_at": "2026-10-21T06:23:23Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 274,
-    "updated_at": "2026-10-21T06:07:45Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -79,33 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T06:01:11Z",
     "url": "https://github.com/bosekarmegam/vecforge"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T06:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T06:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40473,
-    "updated_at": "2026-10-21T06:00:14Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -149,7 +221,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-21T06:09:43Z",
+    "updated_at": "2026-10-21T06:25:25Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -257,17 +329,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1213,
-    "updated_at": "2026-10-21T06:02:08Z",
+    "updated_at": "2026-10-21T06:21:52Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11720,
-    "updated_at": "2026-10-21T04:47:14Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -322,15 +385,6 @@
     "stars": 9,
     "updated_at": "2026-10-21T04:11:33Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-21T05:53:17Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
     "description": "A unified python SDK supports OceanBase or OceanBase seekdb, more efficient and easy-to-use.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T03:32:11Z",
     "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
-    "id": "schwabauerbriantomas-gif/splatdb",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/splatdb",
-    "stars": 0,
-    "updated_at": "2026-10-21T03:31:03Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1639,
-    "updated_at": "2026-10-21T03:29:40Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 16128,
-    "updated_at": "2026-10-21T03:22:11Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "An AI-powered study assistant built with Next.js, Node.js, and OpenAI/Gemini. Features a RAG pipeline for context-aware ",
-    "id": "Karan-1108/NoteGenie",
-    "language": "TypeScript",
-    "name": "Karan-1108/NoteGenie",
-    "stars": 0,
-    "updated_at": "2026-10-21T03:17:50Z",
-    "url": "https://github.com/Karan-1108/NoteGenie"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35165,
-    "updated_at": "2026-10-21T03:14:05Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "HTML",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-21T05:47:40Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   }
 ]
