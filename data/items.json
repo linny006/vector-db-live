@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-21T04:55:15Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11720,
+    "updated_at": "2026-10-21T04:47:14Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T04:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T04:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-21T04:41:58Z",
+    "updated_at": "2026-10-21T04:56:59Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -34,24 +70,6 @@
     "stars": 2,
     "updated_at": "2026-10-21T04:34:20Z",
     "url": "https://github.com/PunGrumpy/vecstore-sdk"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T04:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T04:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -68,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1213,
-    "updated_at": "2026-10-21T04:39:37Z",
+    "updated_at": "2026-10-21T04:57:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -121,7 +139,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40467,
+    "stars": 40469,
     "updated_at": "2026-10-21T04:09:08Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -142,15 +160,6 @@
     "stars": 291,
     "updated_at": "2026-10-21T04:05:48Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11720,
-    "updated_at": "2026-10-21T04:42:22Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "A unified python SDK supports OceanBase or OceanBase seekdb, more efficient and easy-to-use.",
@@ -176,7 +185,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-21T04:34:28Z",
+    "updated_at": "2026-10-21T04:49:59Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -401,7 +410,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8394,
-    "updated_at": "2026-10-21T04:23:32Z",
+    "updated_at": "2026-10-21T04:45:54Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 32603,
     "updated_at": "2026-10-21T01:30:20Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-21T04:44:39Z",
-    "url": "https://github.com/miniaxolotl/grove"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
