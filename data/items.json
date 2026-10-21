@@ -1,11 +1,92 @@
 [
   {
+    "description": "Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, questi",
+    "id": "milvus-io/bootcamp",
+    "language": "Jupyter Notebook",
+    "name": "milvus-io/bootcamp",
+    "stars": 2449,
+    "updated_at": "2026-10-21T10:00:14Z",
+    "url": "https://github.com/milvus-io/bootcamp"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-21T09:58:01Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-21T09:57:07Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7138,
+    "updated_at": "2026-10-21T09:58:50Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40493,
+    "updated_at": "2026-10-21T09:50:55Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4445,
+    "updated_at": "2026-10-21T09:52:06Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46454,
+    "updated_at": "2026-10-21T09:49:51Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T09:49:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8396,
+    "updated_at": "2026-10-21T09:49:17Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Detect and erase deleted records left on disk by Chroma, Postgres/pgvector and SQLite stores, with signed receipts.",
     "id": "Sharathvc23/forgetproof",
     "language": "Python",
     "name": "Sharathvc23/forgetproof",
     "stars": 0,
-    "updated_at": "2026-10-21T09:48:18Z",
+    "updated_at": "2026-10-21T10:00:19Z",
     "url": "https://github.com/Sharathvc23/forgetproof"
   },
   {
@@ -14,17 +95,8 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-21T09:47:28Z",
+    "updated_at": "2026-10-21T09:57:56Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T09:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-21T09:45:22Z",
+    "updated_at": "2026-10-21T10:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -50,7 +122,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-21T09:38:19Z",
+    "updated_at": "2026-10-21T09:58:51Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -63,21 +135,12 @@
     "url": "https://github.com/kividbio/kividb"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40494,
-    "updated_at": "2026-10-21T09:48:30Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
-    "stars": 9472,
-    "updated_at": "2026-10-21T09:33:38Z",
+    "stars": 9471,
+    "updated_at": "2026-10-21T10:00:15Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -94,7 +157,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32616,
+    "stars": 32617,
     "updated_at": "2026-10-21T09:29:29Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -133,15 +196,6 @@
     "stars": 6537,
     "updated_at": "2026-10-21T09:19:08Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4445,
-    "updated_at": "2026-10-21T09:37:02Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -225,21 +279,12 @@
     "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46455,
-    "updated_at": "2026-10-21T09:21:54Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35169,
-    "updated_at": "2026-10-21T09:36:40Z",
+    "updated_at": "2026-10-21T09:56:14Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/qdrant/java-client"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7138,
-    "updated_at": "2026-10-21T09:28:52Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
     "id": "rifqifitriady/ZAAFPulse",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 466,
     "updated_at": "2026-10-21T07:31:44Z",
     "url": "https://github.com/qdrant/qdrant-js"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-21T09:49:17Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Mojo",
-    "name": "pavelhorak/pion",
-    "stars": 2,
-    "updated_at": "2026-10-21T07:22:50Z",
-    "url": "https://github.com/pavelhorak/pion"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9424,
-    "updated_at": "2026-10-21T09:02:00Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-21T09:28:22Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   }
 ]
