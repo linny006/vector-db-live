@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T03:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
+    "id": "schwabauerbriantomas-gif/splatdb",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/splatdb",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:59:24Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
+  },
+  {
+    "description": "working university chatbot ",
+    "id": "Arifkhan171/multi-agent-university-assistant",
+    "language": "Python",
+    "name": "Arifkhan171/multi-agent-university-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:50:57Z",
+    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16127,
+    "updated_at": "2026-10-21T02:51:55Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T02:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -36,13 +81,13 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
+    "description": "LlamaIndex is the document processing platform for AI",
+    "id": "run-llama/llama_index",
     "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-21T02:36:09Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
+    "name": "run-llama/llama_index",
+    "stars": 52588,
+    "updated_at": "2026-10-21T02:34:58Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -61,24 +106,6 @@
     "stars": 2056,
     "updated_at": "2026-10-21T02:30:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T02:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T02:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "zvec java binding",
@@ -238,7 +265,7 @@
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
-    "stars": 273,
+    "stars": 274,
     "updated_at": "2026-10-21T01:06:07Z",
     "url": "https://github.com/codecoradev/uteke"
   },
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1639,
-    "updated_at": "2026-10-21T01:17:04Z",
+    "updated_at": "2026-10-21T02:50:50Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -301,7 +328,7 @@
     "id": "tickernelz/opencode-mem",
     "language": "TypeScript",
     "name": "tickernelz/opencode-mem",
-    "stars": 1772,
+    "stars": 1773,
     "updated_at": "2026-10-21T00:34:48Z",
     "url": "https://github.com/tickernelz/opencode-mem"
   },
@@ -382,7 +409,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67369,
+    "stars": 67370,
     "updated_at": "2026-10-21T00:01:57Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T23:53:16Z",
     "url": "https://github.com/CodesbyFebin/Open-Source-Ai-Full-Stack"
-  },
-  {
-    "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 21,
-    "updated_at": "2026-10-20T23:39:33Z",
-    "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35165,
-    "updated_at": "2026-10-21T02:13:55Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Official repository of the kANNolo library.",
-    "id": "tusKANNy/kannolo",
-    "language": "Rust",
-    "name": "tusKANNy/kannolo",
-    "stars": 77,
-    "updated_at": "2026-10-20T22:59:07Z",
-    "url": "https://github.com/tusKANNy/kannolo"
   }
 ]
