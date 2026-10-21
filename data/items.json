@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T22:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-21T21:56:54Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Production-ready RAG pipeline with hybrid search, cross-encoder reranking, and an evaluation harness for retrieval recal",
+    "id": "aftabjeelani57-cpu/Rag-eval-ask-my-docs",
+    "language": "Python",
+    "name": "aftabjeelani57-cpu/Rag-eval-ask-my-docs",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:52:18Z",
+    "url": "https://github.com/aftabjeelani57-cpu/Rag-eval-ask-my-docs"
+  },
+  {
+    "description": "Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin",
+    "id": "dolev31/lasagna",
+    "language": "Python",
+    "name": "dolev31/lasagna",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:49:13Z",
+    "url": "https://github.com/dolev31/lasagna"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-21T21:55:18Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 8,
+    "updated_at": "2026-10-21T21:47:48Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-21T21:46:21Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T21:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -27,15 +99,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 8,
-    "updated_at": "2026-10-21T21:43:22Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -49,7 +112,7 @@
     "id": "redis-developer/redis-ai-resources",
     "language": "Jupyter Notebook",
     "name": "redis-developer/redis-ai-resources",
-    "stars": 497,
+    "stars": 498,
     "updated_at": "2026-10-21T21:37:09Z",
     "url": "https://github.com/redis-developer/redis-ai-resources"
   },
@@ -63,24 +126,6 @@
     "url": "https://github.com/sarumaj/langchain-memvid"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-21T21:40:38Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-21T21:40:13Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Detect and erase deleted records left on disk by Chroma, Postgres/pgvector and SQLite stores, with signed receipts.",
     "id": "Sharathvc23/forgetproof",
     "language": "Python",
@@ -88,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T21:30:59Z",
     "url": "https://github.com/Sharathvc23/forgetproof"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T21:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T21:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -167,26 +194,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-21T21:29:23Z",
+    "updated_at": "2026-10-21T21:58:42Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Production-ready RAG pipeline with hybrid search, cross-encoder reranking, and an evaluation harness for retrieval recal",
-    "id": "aftabjeelani57-cpu/Rag-eval-ask-my-docs",
-    "language": "Python",
-    "name": "aftabjeelani57-cpu/Rag-eval-ask-my-docs",
-    "stars": 0,
-    "updated_at": "2026-10-21T21:17:35Z",
-    "url": "https://github.com/aftabjeelani57-cpu/Rag-eval-ask-my-docs"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-21T21:44:55Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9429,
-    "updated_at": "2026-10-21T21:43:55Z",
+    "updated_at": "2026-10-21T21:53:45Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 6,
     "updated_at": "2026-10-21T21:10:30Z",
     "url": "https://github.com/ian-cowley/Glacier.Vector"
-  },
-  {
-    "description": "Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin",
-    "id": "dolev31/lasagna",
-    "language": "Python",
-    "name": "dolev31/lasagna",
-    "stars": 1,
-    "updated_at": "2026-10-21T21:08:58Z",
-    "url": "https://github.com/dolev31/lasagna"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -337,7 +337,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 379,
+    "stars": 380,
     "updated_at": "2026-10-21T20:25:28Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -445,7 +445,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67406,
+    "stars": 67407,
     "updated_at": "2026-10-21T19:38:31Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   }
