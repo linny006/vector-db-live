@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-21T22:30:22Z",
+    "updated_at": "2026-10-21T22:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1640,
+    "updated_at": "2026-10-21T22:40:20Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-21T22:38:44Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-21T22:38:36Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9429,
+    "updated_at": "2026-10-21T22:42:51Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T22:37:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
+    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-21T22:36:47Z",
+    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-21T22:35:34Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 129,
+    "updated_at": "2026-10-21T22:35:42Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T22:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 17,
+    "updated_at": "2026-10-21T22:30:27Z",
+    "url": "https://github.com/ppossanzini/Jigen"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-21T22:30:24Z",
+    "updated_at": "2026-10-21T22:31:12Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -54,15 +144,6 @@
     "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T22:20:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin",
     "id": "dolev31/lasagna",
     "language": "Python",
@@ -77,17 +158,8 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 4,
-    "updated_at": "2026-10-21T22:14:23Z",
+    "updated_at": "2026-10-21T22:44:59Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-21T22:12:46Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -108,24 +180,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T22:07:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 129,
-    "updated_at": "2026-10-21T22:19:07Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -133,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T22:06:11Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9429,
-    "updated_at": "2026-10-21T22:29:06Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1640,
-    "updated_at": "2026-10-21T22:11:24Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -382,7 +418,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 381,
+    "stars": 382,
     "updated_at": "2026-10-21T20:25:28Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T20:03:31Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
-    "id": "LLPhant/LLPhant",
-    "language": "PHP",
-    "name": "LLPhant/LLPhant",
-    "stars": 1722,
-    "updated_at": "2026-10-21T20:00:20Z",
-    "url": "https://github.com/LLPhant/LLPhant"
-  },
-  {
-    "description": "An index for ambient learning applications.",
-    "id": "rao-studios/AII",
-    "language": "Swift",
-    "name": "rao-studios/AII",
-    "stars": 0,
-    "updated_at": "2026-10-21T19:59:56Z",
-    "url": "https://github.com/rao-studios/AII"
-  },
-  {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
-    "language": "Rust",
-    "name": "Mid-D-Man/msx",
-    "stars": 0,
-    "updated_at": "2026-10-21T19:55:33Z",
-    "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-21T19:55:15Z",
-    "url": "https://github.com/motedb/motedb"
   }
 ]
