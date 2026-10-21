@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2029,
+    "updated_at": "2026-10-21T18:12:07Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T18:11:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-21T18:06:31Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1213,
+    "updated_at": "2026-10-21T18:12:30Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9427,
+    "updated_at": "2026-10-21T18:14:51Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T18:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T18:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -45,30 +108,12 @@
     "url": "https://github.com/api-evangelist/datastax"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T17:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T18:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35179,
-    "updated_at": "2026-10-21T17:51:25Z",
+    "updated_at": "2026-10-21T18:04:44Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -97,24 +142,6 @@
     "stars": 1357,
     "updated_at": "2026-10-21T17:37:41Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T17:37:00Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1214,
-    "updated_at": "2026-10-21T17:58:57Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 129,
-    "updated_at": "2026-10-21T17:38:19Z",
+    "updated_at": "2026-10-21T18:02:16Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -180,13 +207,13 @@
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2029,
-    "updated_at": "2026-10-21T17:20:24Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11733,
+    "updated_at": "2026-10-21T17:18:41Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -265,7 +292,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 372,
+    "stars": 373,
     "updated_at": "2026-10-21T16:50:18Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -315,20 +342,11 @@
     "url": "https://github.com/qdrant/qdrant-client"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9427,
-    "updated_at": "2026-10-21T17:59:40Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59623,
+    "stars": 59624,
     "updated_at": "2026-10-21T16:24:56Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -376,15 +394,6 @@
     "stars": 6,
     "updated_at": "2026-10-21T16:03:43Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-21T16:00:08Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T15:49:05Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 88,
-    "updated_at": "2026-10-21T15:47:01Z",
-    "url": "https://github.com/weaviate/weaviate-io"
   }
 ]
