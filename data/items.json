@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-21T04:15:21Z",
+    "updated_at": "2026-10-21T04:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 388,
+    "updated_at": "2026-10-21T04:29:45Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1213,
+    "updated_at": "2026-10-21T04:28:41Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-21T04:29:08Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-10-21T04:26:28Z",
+    "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "Transform your documents into interactive knowledge bases with AI-powered chat, notes, and multimedia content generation",
+    "id": "shakibweg/infera-notebook",
+    "language": "TypeScript",
+    "name": "shakibweg/infera-notebook",
+    "stars": 0,
+    "updated_at": "2026-10-21T04:25:03Z",
+    "url": "https://github.com/shakibweg/infera-notebook"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-21T04:19:59Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T04:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -63,21 +126,12 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T04:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11720,
-    "updated_at": "2026-10-21T04:05:40Z",
+    "updated_at": "2026-10-21T04:22:22Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-21T04:14:00Z",
+    "updated_at": "2026-10-21T04:28:19Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -189,15 +243,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-21T04:11:11Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -223,15 +268,6 @@
     "stars": 35166,
     "updated_at": "2026-10-21T03:14:05Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1213,
-    "updated_at": "2026-10-21T04:13:06Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "working university chatbot ",
@@ -347,7 +383,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8394,
-    "updated_at": "2026-10-21T03:36:11Z",
+    "updated_at": "2026-10-21T04:23:32Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -355,7 +391,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32602,
+    "stars": 32603,
     "updated_at": "2026-10-21T01:30:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -410,43 +446,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 274,
-    "updated_at": "2026-10-21T04:14:52Z",
+    "updated_at": "2026-10-21T04:20:56Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 464,
-    "updated_at": "2026-10-21T01:04:44Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-21T01:04:26Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "In-memory vector search engine with event-based co-occurrence tracking",
-    "id": "libraz/nvecd",
-    "language": "C++",
-    "name": "libraz/nvecd",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:08:35Z",
-    "url": "https://github.com/libraz/nvecd"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-21T00:49:58Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
