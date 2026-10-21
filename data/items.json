@@ -1,11 +1,92 @@
 [
   {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 125,
+    "updated_at": "2026-10-21T00:12:15Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9423,
+    "updated_at": "2026-10-21T00:14:31Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "The unified database engine: native SQL, vector search (HNSW), and columnar storage in one Rust engine \u2014 from an embedde",
+    "id": "alopex-db/alopex",
+    "language": "Rust",
+    "name": "alopex-db/alopex",
+    "stars": 3,
+    "updated_at": "2026-10-21T00:09:06Z",
+    "url": "https://github.com/alopex-db/alopex"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1486,
+    "updated_at": "2026-10-21T00:08:17Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-21T00:07:41Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-21T00:06:24Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-21T00:04:26Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67363,
+    "updated_at": "2026-10-21T00:01:57Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 65,
+    "updated_at": "2026-10-21T00:13:32Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-21T00:00:24Z",
+    "updated_at": "2026-10-21T00:01:15Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -16,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T00:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 65,
-    "updated_at": "2026-10-20T23:59:34Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -43,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T23:55:34Z",
     "url": "https://github.com/pratyushpad/Lumina"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 125,
-    "updated_at": "2026-10-20T23:59:56Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
     "description": "\ud83d\udee0Open Source Ai Ecosystem by CodesbyFebin \u2013 all open-source AI agent & LLM stacks in one repo: LLM gateways, free LLM AP",
@@ -90,15 +153,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1486,
-    "updated_at": "2026-10-20T23:29:34Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
     "id": "writerslogic/holographic-memory",
     "language": "Rust",
@@ -112,7 +166,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35161,
+    "stars": 35162,
     "updated_at": "2026-10-20T23:21:17Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -126,21 +180,12 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9423,
-    "updated_at": "2026-10-20T23:56:49Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
     "id": "pixeltable/pixeltable",
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1639,
-    "updated_at": "2026-10-21T00:00:59Z",
+    "updated_at": "2026-10-21T00:02:13Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/tusKANNy/kannolo"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67362,
-    "updated_at": "2026-10-20T23:53:16Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
     "id": "schwabauerbriantomas-gif/splatdb",
     "language": "Rust",
@@ -184,9 +220,18 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 329,
+    "stars": 330,
     "updated_at": "2026-10-20T22:52:20Z",
     "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1519,
+    "updated_at": "2026-10-20T22:51:19Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Structure\u2011aware RAG platform with semantic search and citations.",
@@ -346,7 +391,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39372,
+    "stars": 39374,
     "updated_at": "2026-10-20T22:03:53Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -391,7 +436,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46448,
+    "stars": 46450,
     "updated_at": "2026-10-20T21:31:52Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-20T21:31:32Z",
     "url": "https://github.com/therajarshichakraborty/Gen-And-Agentic-AI"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 17,
-    "updated_at": "2026-10-20T21:23:15Z",
-    "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "A personal RAG (Retrieval-Augmented Generation) chatbot built with Streamlit and LangChain. Upload PDFs and chat with th",
-    "id": "khalidkanane/personal-rag-chatbot",
-    "language": "Python",
-    "name": "khalidkanane/personal-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-20T21:14:58Z",
-    "url": "https://github.com/khalidkanane/personal-rag-chatbot"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-20T21:11:18Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1357,
-    "updated_at": "2026-10-20T20:54:50Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "In-browser academic paper search engine with semantic search, knowledge graph visualization, and multi-source support (a",
-    "id": "sajid-nazir/Papyrus",
-    "language": "TypeScript",
-    "name": "sajid-nazir/Papyrus",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:50:59Z",
-    "url": "https://github.com/sajid-nazir/Papyrus"
   }
 ]
