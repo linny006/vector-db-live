@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-21T02:00:19Z",
+    "updated_at": "2026-10-21T02:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T02:13:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6533,
+    "updated_at": "2026-10-21T02:12:54Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46452,
+    "updated_at": "2026-10-21T02:11:51Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T02:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-21T01:59:27Z",
+    "updated_at": "2026-10-21T02:00:46Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -43,33 +79,6 @@
     "stars": 36,
     "updated_at": "2026-10-21T01:54:32Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46452,
-    "updated_at": "2026-10-21T01:55:53Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T01:47:12Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T01:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -103,7 +112,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8392,
+    "stars": 8394,
     "updated_at": "2026-10-21T01:32:31Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -112,7 +121,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32597,
+    "stars": 32600,
     "updated_at": "2026-10-21T01:30:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -248,7 +257,7 @@
     "language": "C",
     "name": "pg-cuvs/pg_cuvs",
     "stars": 7,
-    "updated_at": "2026-10-21T01:42:41Z",
+    "updated_at": "2026-10-21T02:10:57Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "alopex-db/alopex",
     "stars": 3,
-    "updated_at": "2026-10-21T01:56:33Z",
+    "updated_at": "2026-10-21T02:12:56Z",
     "url": "https://github.com/alopex-db/alopex"
   },
   {
@@ -364,18 +373,9 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35164,
-    "updated_at": "2026-10-20T23:21:17Z",
+    "stars": 35165,
+    "updated_at": "2026-10-21T02:13:55Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6533,
-    "updated_at": "2026-10-20T23:53:49Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Official repository of the kANNolo library.",
