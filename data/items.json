@@ -1,5 +1,122 @@
 [
   {
+    "description": "Top RAG LLM Data Frameworks (Opensource)  Star if you like it! ",
+    "id": "ishandutta2007/Awesome-RAG-LLM-Data-Frameworks",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-RAG-LLM-Data-Frameworks",
+    "stars": 1,
+    "updated_at": "2026-10-21T11:15:11Z",
+    "url": "https://github.com/ishandutta2007/Awesome-RAG-LLM-Data-Frameworks"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-21T11:14:52Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40496,
+    "updated_at": "2026-10-21T11:12:36Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7138,
+    "updated_at": "2026-10-21T11:14:44Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "LangGraph agent for contract review on public CUAD contracts: semantic search (Chroma), grounded extraction, determinist",
+    "id": "aurelien-henrion/contract-agent",
+    "language": "Python",
+    "name": "aurelien-henrion/contract-agent",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:08:54Z",
+    "url": "https://github.com/aurelien-henrion/contract-agent"
+  },
+  {
+    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
+    "id": "ZenSystemAI/Zengram",
+    "language": "JavaScript",
+    "name": "ZenSystemAI/Zengram",
+    "stars": 64,
+    "updated_at": "2026-10-21T11:09:12Z",
+    "url": "https://github.com/ZenSystemAI/Zengram"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-21T11:08:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 23,
+    "updated_at": "2026-10-21T11:06:16Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-21T11:06:03Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:04:41Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "AI-powered IT support assistant using Agentic RAG \u2014 answers employee questions from company documents, falls back to web",
+    "id": "Ariesjeev/FixPilot",
+    "language": "Python",
+    "name": "Ariesjeev/FixPilot",
+    "stars": 0,
+    "updated_at": "2026-10-21T11:01:17Z",
+    "url": "https://github.com/Ariesjeev/FixPilot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-21T11:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39418,
+    "updated_at": "2026-10-21T11:09:37Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -32,26 +149,8 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-21T10:45:46Z",
+    "updated_at": "2026-10-21T11:11:54Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T10:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-21T11:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
@@ -59,26 +158,8 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-10-21T10:43:39Z",
+    "updated_at": "2026-10-21T11:13:50Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-21T10:41:11Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-21T10:39:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -144,24 +225,6 @@
     "url": "https://github.com/motedb/motedb"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7138,
-    "updated_at": "2026-10-21T10:26:10Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39417,
-    "updated_at": "2026-10-21T11:00:16Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
@@ -180,15 +243,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40495,
-    "updated_at": "2026-10-21T10:10:39Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -196,15 +250,6 @@
     "stars": 2056,
     "updated_at": "2026-10-21T11:00:01Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
-    "id": "ZenSystemAI/Zengram",
-    "language": "JavaScript",
-    "name": "ZenSystemAI/Zengram",
-    "stars": 64,
-    "updated_at": "2026-10-21T10:08:30Z",
-    "url": "https://github.com/ZenSystemAI/Zengram"
   },
   {
     "description": "Backend for movies recomendations for groups ",
@@ -230,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-21T10:55:36Z",
+    "updated_at": "2026-10-21T11:05:04Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -266,7 +311,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8396,
-    "updated_at": "2026-10-21T10:54:49Z",
+    "updated_at": "2026-10-21T11:10:23Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -292,7 +337,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 355,
+    "stars": 356,
     "updated_at": "2026-10-21T09:34:12Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -382,7 +427,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13272,
+    "stars": 13273,
     "updated_at": "2026-10-21T09:04:30Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T08:48:45Z",
     "url": "https://github.com/bartvanbenthem/basis-ai"
-  },
-  {
-    "description": ".NET package with the default embedding function of Chroma: the same vectors as the Python client.",
-    "id": "ChromaDotNet/ChromaDB.Embeddings",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Embeddings",
-    "stars": 0,
-    "updated_at": "2026-10-21T08:52:28Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35169,
-    "updated_at": "2026-10-21T10:01:38Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-21T08:34:31Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59619,
-    "updated_at": "2026-10-21T08:32:28Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-21T08:30:05Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   }
 ]
