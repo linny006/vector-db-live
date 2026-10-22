@@ -1,12 +1,66 @@
 [
   {
-    "description": "Production-ready RAG framework for Python \u2014 multi-tenant chatbots with streaming, tool calling, agent mode (LangGraph), ",
-    "id": "ENDEVSOLS/Long-Trainer",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "ENDEVSOLS/Long-Trainer",
-    "stars": 30,
-    "updated_at": "2026-10-22T05:54:47Z",
-    "url": "https://github.com/ENDEVSOLS/Long-Trainer"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T06:15:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-22T06:14:59Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-22T06:14:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67420,
+    "updated_at": "2026-10-22T06:10:40Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-22T06:09:54Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-22T06:06:41Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T06:02:14Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +68,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-22T05:45:46Z",
+    "updated_at": "2026-10-22T06:00:21Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Production-ready RAG framework for Python \u2014 multi-tenant chatbots with streaming, tool calling, agent mode (LangGraph), ",
+    "id": "ENDEVSOLS/Long-Trainer",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T06:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "ENDEVSOLS/Long-Trainer",
+    "stars": 30,
+    "updated_at": "2026-10-22T05:54:47Z",
+    "url": "https://github.com/ENDEVSOLS/Long-Trainer"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -45,15 +99,6 @@
     "url": "https://github.com/pavelhorak/pion"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-22T05:39:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
     "id": "Niccher/Chege-Photos-Platform",
     "language": "PHP",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T05:38:39Z",
     "url": "https://github.com/Niccher/Chege-Photos-Platform"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T05:50:15Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A bare-metal C++20 HNSW vector search engine accelerated with ARM NEON SIMD, delivering 17K+ QPS.",
@@ -85,8 +121,8 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8404,
-    "updated_at": "2026-10-22T05:35:57Z",
+    "stars": 8405,
+    "updated_at": "2026-10-22T06:02:43Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T05:29:48Z",
     "url": "https://github.com/XXXXXim/vectordb-rag"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-22T05:58:34Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Full-stack TypeScript framework for real-time apps and agent-native APIs: Clean Architecture services, pluggable databas",
@@ -369,15 +396,6 @@
     "url": "https://github.com/abho7/vectordb-hnsw"
   },
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-22T02:51:40Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
     "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
     "id": "PrathameshDhande22/Portfolio-Website",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T02:18:59Z",
     "url": "https://github.com/Broikos-Nikos/need-to-know"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-22T02:13:15Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-22T02:12:23Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
