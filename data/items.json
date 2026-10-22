@@ -1,11 +1,47 @@
 [
   {
+    "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
+    "id": "lychee888/Rag-Kit",
+    "language": "Python",
+    "name": "lychee888/Rag-Kit",
+    "stars": 0,
+    "updated_at": "2026-10-22T01:42:39Z",
+    "url": "https://github.com/lychee888/Rag-Kit"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-22T01:37:42Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Ask a question as a department, and get an answer built only from what that department may read. In 5,760 searches no ro",
+    "id": "Broikos-Nikos/need-to-know",
+    "language": "Python",
+    "name": "Broikos-Nikos/need-to-know",
+    "stars": 0,
+    "updated_at": "2026-10-22T01:30:33Z",
+    "url": "https://github.com/Broikos-Nikos/need-to-know"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T01:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T01:30:10Z",
+    "updated_at": "2026-10-22T01:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -72,15 +108,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T01:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
     "id": "yunaremaia/memwatch",
     "language": "Python",
@@ -108,24 +135,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-22T01:12:32Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Ask a question as a department, and get an answer built only from what that department may read. In 5,760 searches no ro",
-    "id": "Broikos-Nikos/need-to-know",
-    "language": "Python",
-    "name": "Broikos-Nikos/need-to-know",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:12:27Z",
-    "url": "https://github.com/Broikos-Nikos/need-to-know"
-  },
-  {
     "description": "Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin",
     "id": "dolev31/lasagna",
     "language": "Python",
@@ -149,7 +158,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9430,
-    "updated_at": "2026-10-22T01:27:04Z",
+    "updated_at": "2026-10-22T01:35:26Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1213,
-    "updated_at": "2026-10-22T01:25:17Z",
+    "updated_at": "2026-10-22T01:43:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -266,7 +275,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 67410,
-    "updated_at": "2026-10-22T00:20:31Z",
+    "updated_at": "2026-10-22T01:37:54Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -277,15 +286,6 @@
     "stars": 8403,
     "updated_at": "2026-10-22T00:19:40Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
-    "id": "lychee888/Rag-Kit",
-    "language": "Python",
-    "name": "lychee888/Rag-Kit",
-    "stars": 0,
-    "updated_at": "2026-10-22T00:18:28Z",
-    "url": "https://github.com/lychee888/Rag-Kit"
   },
   {
     "description": "\u26a1 Curated directory of 180+ Free AI APIs & Models: LLMs, Multi-Modal Vision, Image Gen, Voice, Embeddings & RAG with Fre",
