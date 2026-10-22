@@ -1,5 +1,95 @@
 [
   {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:58:08Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T06:58:12Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-22T06:56:40Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 4,
+    "updated_at": "2026-10-22T06:53:20Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-22T06:52:46Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A bare-metal C++20 HNSW vector search engine accelerated with ARM NEON SIMD, delivering 17K+ QPS.",
+    "id": "Anshuman13-code/VectorCore",
+    "language": "C++",
+    "name": "Anshuman13-code/VectorCore",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:48:08Z",
+    "url": "https://github.com/Anshuman13-code/VectorCore"
+  },
+  {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xGraph/10xGraph",
+    "language": "Python",
+    "name": "10xGraph/10xGraph",
+    "stars": 27,
+    "updated_at": "2026-10-22T06:48:09Z",
+    "url": "https://github.com/10xGraph/10xGraph"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11738,
+    "updated_at": "2026-10-22T06:47:10Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T06:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T07:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -31,7 +121,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40553,
+    "stars": 40555,
     "updated_at": "2026-10-22T06:42:04Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -63,31 +153,13 @@
     "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T06:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "In-memory knowledge store for AI agents",
     "id": "FraiseHQ/fraise",
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 8,
-    "updated_at": "2026-10-22T06:39:53Z",
+    "updated_at": "2026-10-22T06:47:37Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T06:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -95,7 +167,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46457,
-    "updated_at": "2026-10-22T06:30:30Z",
+    "updated_at": "2026-10-22T06:45:54Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -121,7 +193,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67421,
+    "stars": 67422,
     "updated_at": "2026-10-22T06:26:35Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -133,15 +205,6 @@
     "stars": 121,
     "updated_at": "2026-10-22T06:25:07Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T06:24:13Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -167,17 +230,8 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-22T06:19:26Z",
+    "updated_at": "2026-10-22T06:49:45Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11737,
-    "updated_at": "2026-10-22T06:18:30Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -187,15 +241,6 @@
     "stars": 1417,
     "updated_at": "2026-10-22T06:35:46Z",
     "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-22T06:14:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -216,15 +261,6 @@
     "url": "https://github.com/ENDEVSOLS/Long-Trainer"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-22T06:40:05Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": "Pion \u2014 the memory engine for AI inference",
     "id": "pavelhorak/pion",
     "language": "Mojo",
@@ -243,21 +279,12 @@
     "url": "https://github.com/Niccher/Chege-Photos-Platform"
   },
   {
-    "description": "A bare-metal C++20 HNSW vector search engine accelerated with ARM NEON SIMD, delivering 17K+ QPS.",
-    "id": "Anshuman13-code/VectorCore",
-    "language": "C++",
-    "name": "Anshuman13-code/VectorCore",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:36:29Z",
-    "url": "https://github.com/Anshuman13-code/VectorCore"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8405,
-    "updated_at": "2026-10-22T06:38:20Z",
+    "updated_at": "2026-10-22T06:56:32Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-22T06:34:54Z",
+    "updated_at": "2026-10-22T06:53:07Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -304,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T05:06:16Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
-    "id": "YunanJeong/rag-git-docs",
-    "language": "Python",
-    "name": "YunanJeong/rag-git-docs",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:03:28Z",
-    "url": "https://github.com/YunanJeong/rag-git-docs"
   },
   {
     "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-22T03:14:12Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-22T03:01:56Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Local-first MCP server for persistent semantic memory, backed by an HNSW vector index and an on-device ONNX embedder",
-    "id": "abho7/mcp-memory-server",
-    "language": "Python",
-    "name": "abho7/mcp-memory-server",
-    "stars": 0,
-    "updated_at": "2026-10-22T03:00:23Z",
-    "url": "https://github.com/abho7/mcp-memory-server"
   }
 ]
