@@ -1,12 +1,120 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T15:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rest client for Qdrant vector database",
+    "id": "quarkiverse/quarkus-qdrant",
+    "language": "Java",
+    "name": "quarkiverse/quarkus-qdrant",
+    "stars": 2,
+    "updated_at": "2026-10-22T15:29:12Z",
+    "url": "https://github.com/quarkiverse/quarkus-qdrant"
+  },
+  {
+    "description": "High-performance RAG service with hybrid search and multi-format document ingestion ",
+    "id": "hoanganhxtah/rag-service",
+    "language": "Python",
+    "name": "hoanganhxtah/rag-service",
+    "stars": 1,
+    "updated_at": "2026-10-22T15:28:03Z",
+    "url": "https://github.com/hoanganhxtah/rag-service"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-22T15:24:18Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-22T15:21:21Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "RAG-powered Streamlit app for asking questions about uploaded university lecture notes using PyMuPDF, Sentence Transform",
+    "id": "JesseSaarinen/AI-study-assistant",
+    "language": "Python",
+    "name": "JesseSaarinen/AI-study-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-22T15:19:08Z",
+    "url": "https://github.com/JesseSaarinen/AI-study-assistant"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 23,
+    "updated_at": "2026-10-22T15:19:04Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40583,
+    "updated_at": "2026-10-22T15:18:17Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T15:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Natively compiled TypeScript, with the whole stack built in: a modern web framework and server, OLTP and OLAP SQL (Postg",
     "id": "gizai/gizlang",
     "language": "TypeScript",
     "name": "gizai/gizlang",
     "stars": 1,
-    "updated_at": "2026-10-22T15:12:39Z",
+    "updated_at": "2026-10-22T15:15:09Z",
     "url": "https://github.com/gizai/gizlang"
+  },
+  {
+    "description": "AI-assisted workflow for pre-owned automotive retail",
+    "id": "Rachit47/IdatenOps",
+    "language": "Python",
+    "name": "Rachit47/IdatenOps",
+    "stars": 0,
+    "updated_at": "2026-10-22T15:14:52Z",
+    "url": "https://github.com/Rachit47/IdatenOps"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 436,
+    "updated_at": "2026-10-22T15:20:51Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6542,
+    "updated_at": "2026-10-22T15:12:38Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,7 +122,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1213,
-    "updated_at": "2026-10-22T15:11:55Z",
+    "updated_at": "2026-10-22T15:21:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -54,15 +162,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 434,
-    "updated_at": "2026-10-22T15:04:58Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -72,21 +171,12 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-22T15:04:28Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-22T15:15:02Z",
+    "updated_at": "2026-10-22T15:28:56Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -97,33 +187,6 @@
     "stars": 132,
     "updated_at": "2026-10-22T15:01:07Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T15:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T15:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40582,
-    "updated_at": "2026-10-22T15:12:06Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -157,7 +220,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59629,
+    "stars": 59631,
     "updated_at": "2026-10-22T14:36:57Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -207,15 +270,6 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6542,
-    "updated_at": "2026-10-22T15:12:36Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
     "id": "gonicolas12/My_AI",
     "language": "Python",
@@ -239,7 +293,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-22T14:15:26Z",
+    "updated_at": "2026-10-22T15:28:30Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -311,17 +365,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8410,
-    "updated_at": "2026-10-22T15:05:54Z",
+    "updated_at": "2026-10-22T15:26:15Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-22T14:57:18Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "Vector databases and retrieval infrastructure for clinical AI and retrieval-augmented generation: 39 open-source pull re",
@@ -383,7 +428,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9431,
-    "updated_at": "2026-10-22T15:07:51Z",
+    "updated_at": "2026-10-22T15:21:39Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T13:14:49Z",
     "url": "https://github.com/iwyl2/document-intelligence"
-  },
-  {
-    "description": "Production-ready KV-backed HNSW implementation in Rust using LMDB",
-    "id": "nnethercott/hannoy",
-    "language": "Rust",
-    "name": "nnethercott/hannoy",
-    "stars": 87,
-    "updated_at": "2026-10-22T13:14:25Z",
-    "url": "https://github.com/nnethercott/hannoy"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-22T13:12:14Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Training-free vector quantization (4/5/6-bit) and search \u2014 the SQLite profile for edge vector storage",
-    "id": "codecoradev/vecq",
-    "language": "Rust",
-    "name": "codecoradev/vecq",
-    "stars": 1,
-    "updated_at": "2026-10-22T13:11:46Z",
-    "url": "https://github.com/codecoradev/vecq"
-  },
-  {
-    "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
-    "id": "Dakera-AI/dakera-cli",
-    "language": "Rust",
-    "name": "Dakera-AI/dakera-cli",
-    "stars": 8,
-    "updated_at": "2026-10-22T13:11:47Z",
-    "url": "https://github.com/Dakera-AI/dakera-cli"
-  },
-  {
-    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
-    "id": "Dakera-AI/dakera-rs",
-    "language": "Rust",
-    "name": "Dakera-AI/dakera-rs",
-    "stars": 5,
-    "updated_at": "2026-10-22T13:11:36Z",
-    "url": "https://github.com/Dakera-AI/dakera-rs"
   }
 ]
