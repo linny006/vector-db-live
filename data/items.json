@@ -1,5 +1,41 @@
 [
   {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-22T11:12:43Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-22T11:12:16Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T11:12:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T11:12:01Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -23,17 +59,8 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-22T11:08:03Z",
+    "updated_at": "2026-10-22T11:12:04Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T11:06:00Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -45,31 +72,13 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T11:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T11:00:20Z",
+    "updated_at": "2026-10-22T11:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:58:36Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
@@ -86,7 +95,7 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 88,
-    "updated_at": "2026-10-22T10:55:50Z",
+    "updated_at": "2026-10-22T11:12:16Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -97,6 +106,15 @@
     "stars": 77,
     "updated_at": "2026-10-22T10:45:38Z",
     "url": "https://github.com/tusKANNy/kannolo"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46454,
+    "updated_at": "2026-10-22T10:43:53Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
@@ -115,15 +133,6 @@
     "stars": 32656,
     "updated_at": "2026-10-22T11:10:37Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-22T11:10:31Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -358,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T09:28:55Z",
     "url": "https://github.com/IdoY12/awesome-free-ai-apis"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46454,
-    "updated_at": "2026-10-22T10:43:53Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
