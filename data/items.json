@@ -1,21 +1,66 @@
 [
   {
-    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
-    "id": "xavidop/tobira",
-    "language": "Go",
-    "name": "xavidop/tobira",
-    "stars": 0,
-    "updated_at": "2026-10-22T22:46:31Z",
-    "url": "https://github.com/xavidop/tobira"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 67456,
-    "updated_at": "2026-10-22T22:46:10Z",
+    "updated_at": "2026-10-22T22:56:19Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
+    "id": "xavidop/tobira",
+    "language": "Go",
+    "name": "xavidop/tobira",
+    "stars": 0,
+    "updated_at": "2026-10-22T22:58:20Z",
+    "url": "https://github.com/xavidop/tobira"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-22T22:52:23Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T22:50:20Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 22,
+    "updated_at": "2026-10-22T22:49:19Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
+    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-22T22:48:18Z",
+    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-22T22:48:02Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-22T22:45:24Z",
+    "updated_at": "2026-10-22T22:47:01Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -32,8 +77,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T22:45:20Z",
+    "updated_at": "2026-10-22T23:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 462,
+    "updated_at": "2026-10-22T22:45:02Z",
+    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "RAG Engineer interview questions & answers for 2026: retrieval, embeddings, chunking, re-ranking, eval, production & sec",
@@ -54,24 +108,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
-    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-22T22:39:01Z",
-    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T22:36:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32678,
-    "updated_at": "2026-10-22T22:36:24Z",
+    "updated_at": "2026-10-22T22:50:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -99,15 +135,6 @@
     "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-22T22:28:15Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
     "description": "Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object.",
     "id": "equationalapplications/sqlite-s3-agent-tutorial",
     "language": "TypeScript",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T22:25:23Z",
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 461,
-    "updated_at": "2026-10-22T22:45:02Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Jigen DB is vector database written from scratch in c#",
@@ -149,7 +167,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8421,
-    "updated_at": "2026-10-22T22:13:36Z",
+    "updated_at": "2026-10-22T22:52:50Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9433,
-    "updated_at": "2026-10-22T22:46:47Z",
+    "updated_at": "2026-10-22T22:53:30Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-10-22T21:36:10Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 22,
-    "updated_at": "2026-10-22T21:30:26Z",
-    "url": "https://github.com/waynewbishop/quiver"
   },
   {
     "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
@@ -385,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T20:49:27Z",
     "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
-    "stars": 0,
-    "updated_at": "2026-10-22T20:48:56Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
     "description": "The LangChain wrapper of Milvus vector database for efficient vector search, full-text search, hybrid retrieval and RAG.",
