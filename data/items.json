@@ -1,11 +1,65 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T23:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-22T23:09:19Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-10-22T23:06:25Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-10-22T23:05:22Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-10-22T23:05:50Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T23:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 67456,
-    "updated_at": "2026-10-22T22:56:19Z",
+    "updated_at": "2026-10-22T23:05:37Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "xavidop/tobira",
     "stars": 0,
-    "updated_at": "2026-10-22T22:58:20Z",
+    "updated_at": "2026-10-22T23:12:07Z",
     "url": "https://github.com/xavidop/tobira"
   },
   {
@@ -63,24 +117,6 @@
     "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T22:47:01Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T23:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
@@ -122,17 +158,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32678,
-    "updated_at": "2026-10-22T22:50:51Z",
+    "updated_at": "2026-10-22T23:15:03Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-22T22:34:45Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object.",
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9433,
-    "updated_at": "2026-10-22T22:53:30Z",
+    "updated_at": "2026-10-22T23:14:22Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 4,
-    "updated_at": "2026-10-22T21:25:34Z",
+    "updated_at": "2026-10-22T23:09:53Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-22T20:18:57Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 131,
-    "updated_at": "2026-10-22T20:19:21Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-22T20:09:05Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-10-22T20:03:34Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
   }
 ]
