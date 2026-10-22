@@ -5,8 +5,53 @@
     "language": "TypeScript",
     "name": "gizai/gizlang",
     "stars": 1,
-    "updated_at": "2026-10-22T14:41:12Z",
+    "updated_at": "2026-10-22T14:56:20Z",
     "url": "https://github.com/gizai/gizlang"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T14:56:01Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7141,
+    "updated_at": "2026-10-22T14:53:28Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32663,
+    "updated_at": "2026-10-22T14:46:33Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T14:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T15:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
@@ -22,7 +67,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59629,
+    "stars": 59630,
     "updated_at": "2026-10-22T14:36:57Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -36,13 +81,13 @@
     "url": "https://github.com/zainmasri/utilforge"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32662,
-    "updated_at": "2026-10-22T14:35:30Z",
-    "url": "https://github.com/topoteretes/cognee"
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-22T14:36:45Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
   },
   {
     "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 6,
-    "updated_at": "2026-10-22T14:34:41Z",
+    "updated_at": "2026-10-22T14:46:35Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -59,7 +104,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-22T14:34:11Z",
+    "updated_at": "2026-10-22T14:51:46Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -72,30 +117,12 @@
     "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T14:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T14:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 291,
-    "updated_at": "2026-10-22T14:26:13Z",
+    "updated_at": "2026-10-22T14:52:08Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -157,7 +184,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 432,
+    "stars": 433,
     "updated_at": "2026-10-22T14:09:43Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -184,8 +211,8 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39455,
-    "updated_at": "2026-10-22T14:03:04Z",
+    "stars": 39456,
+    "updated_at": "2026-10-22T14:51:47Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -212,7 +239,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8410,
-    "updated_at": "2026-10-22T14:02:43Z",
+    "updated_at": "2026-10-22T14:52:58Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-10-22T13:52:33Z",
+    "updated_at": "2026-10-22T14:57:18Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40581,
-    "updated_at": "2026-10-22T13:25:25Z",
+    "updated_at": "2026-10-22T15:00:11Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9431,
-    "updated_at": "2026-10-22T14:43:24Z",
+    "updated_at": "2026-10-22T14:57:03Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -391,7 +418,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46448,
+    "stars": 46449,
     "updated_at": "2026-10-22T13:09:54Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T13:09:42Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-22T13:08:26Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Rest client for Qdrant vector database",
-    "id": "quarkiverse/quarkus-qdrant",
-    "language": "Java",
-    "name": "quarkiverse/quarkus-qdrant",
-    "stars": 2,
-    "updated_at": "2026-10-22T13:02:28Z",
-    "url": "https://github.com/quarkiverse/quarkus-qdrant"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11742,
-    "updated_at": "2026-10-22T12:56:25Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
