@@ -1,5 +1,122 @@
 [
   {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-22T09:58:51Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Official Java client for Qdrant ",
+    "id": "qdrant/java-client",
+    "language": "Java",
+    "name": "qdrant/java-client",
+    "stars": 100,
+    "updated_at": "2026-10-22T10:00:07Z",
+    "url": "https://github.com/qdrant/java-client"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-22T09:57:28Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32652,
+    "updated_at": "2026-10-22T09:56:24Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Python client for Qdrant vector search engine",
+    "id": "qdrant/qdrant-client",
+    "language": "Python",
+    "name": "qdrant/qdrant-client",
+    "stars": 1373,
+    "updated_at": "2026-10-22T09:54:44Z",
+    "url": "https://github.com/qdrant/qdrant-client"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 419,
+    "updated_at": "2026-10-22T09:53:34Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "T\u00fcrk\u00e7e fiziksel tarifle y\u00fcz arama: Gemini ile \u00e7eviri, CLIP + Qdrant anlamsal arama, FastAPI backend ve Telegram Mini App",
+    "id": "fazliddin-hamdam/faceidf.ai",
+    "language": "Python",
+    "name": "fazliddin-hamdam/faceidf.ai",
+    "stars": 0,
+    "updated_at": "2026-10-22T09:52:09Z",
+    "url": "https://github.com/fazliddin-hamdam/faceidf.ai"
+  },
+  {
+    "description": "Intelligent AI Customer Advisor system for high-ticket sales. Built with n8n and OpenAI, featuring lead qualification an",
+    "id": "tparzonka/expert-ai-sales-advisor-system",
+    "language": "\u2014",
+    "name": "tparzonka/expert-ai-sales-advisor-system",
+    "stars": 0,
+    "updated_at": "2026-10-22T09:50:55Z",
+    "url": "https://github.com/tparzonka/expert-ai-sales-advisor-system"
+  },
+  {
+    "description": "RAG-powered Streamlit app for asking questions about uploaded university lecture notes using PyMuPDF, Sentence Transform",
+    "id": "JesseSaarinen/AI-study-assistant",
+    "language": "Python",
+    "name": "JesseSaarinen/AI-study-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-22T09:50:16Z",
+    "url": "https://github.com/JesseSaarinen/AI-study-assistant"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13277,
+    "updated_at": "2026-10-22T09:49:49Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T09:59:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T09:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T09:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Python SDK for Milvus Vector Database",
     "id": "milvus-io/pymilvus",
     "language": "Python",
@@ -18,15 +135,6 @@
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-22T09:41:33Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -36,21 +144,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32651,
-    "updated_at": "2026-10-22T09:36:42Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-22T09:38:58Z",
+    "updated_at": "2026-10-22T09:57:23Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -63,40 +162,13 @@
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 417,
-    "updated_at": "2026-10-22T09:33:09Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40563,
-    "updated_at": "2026-10-22T09:31:36Z",
+    "stars": 40565,
+    "updated_at": "2026-10-22T09:58:12Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T09:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T09:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -121,9 +193,18 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39448,
+    "stars": 39449,
     "updated_at": "2026-10-22T09:25:36Z",
     "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46459,
+    "updated_at": "2026-10-22T09:25:20Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The AI search platform",
@@ -131,7 +212,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7141,
-    "updated_at": "2026-10-22T09:24:48Z",
+    "updated_at": "2026-10-22T09:50:51Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -230,17 +311,8 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 139,
-    "updated_at": "2026-10-22T08:57:18Z",
+    "updated_at": "2026-10-22T09:59:50Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46458,
-    "updated_at": "2026-10-22T09:25:20Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
@@ -257,26 +329,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8407,
-    "updated_at": "2026-10-22T09:41:27Z",
+    "updated_at": "2026-10-22T09:52:27Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13277,
-    "updated_at": "2026-10-22T08:44:00Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Python client for Qdrant vector search engine",
-    "id": "qdrant/qdrant-client",
-    "language": "Python",
-    "name": "qdrant/qdrant-client",
-    "stars": 1373,
-    "updated_at": "2026-10-22T09:40:17Z",
-    "url": "https://github.com/qdrant/qdrant-client"
   },
   {
     "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
@@ -304,15 +358,6 @@
     "stars": 1213,
     "updated_at": "2026-10-22T08:28:14Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T09:26:53Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -347,7 +392,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11740,
-    "updated_at": "2026-10-22T09:24:36Z",
+    "updated_at": "2026-10-22T09:53:30Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 243,
     "updated_at": "2026-10-22T07:52:21Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "working university chatbot ",
-    "id": "Arifkhan171/multi-agent-university-assistant",
-    "language": "Python",
-    "name": "Arifkhan171/multi-agent-university-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-22T07:49:21Z",
-    "url": "https://github.com/Arifkhan171/multi-agent-university-assistant"
-  },
-  {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
-    "language": "Rust",
-    "name": "Mid-D-Man/msx",
-    "stars": 0,
-    "updated_at": "2026-10-22T07:43:37Z",
-    "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "MCP server for LanceDB-backed long-term memory with hybrid retrieval (Vector + BM25), cross-encoder rerank, multi-scope ",
-    "id": "cablate/memory-lancedb-mcp",
-    "language": "TypeScript",
-    "name": "cablate/memory-lancedb-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-22T07:39:31Z",
-    "url": "https://github.com/cablate/memory-lancedb-mcp"
-  },
-  {
-    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
-    "id": "Niccher/Chege-Photos-Platform",
-    "language": "PHP",
-    "name": "Niccher/Chege-Photos-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-22T07:36:39Z",
-    "url": "https://github.com/Niccher/Chege-Photos-Platform"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-10-22T07:33:36Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   }
 ]
