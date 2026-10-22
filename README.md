@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-22 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-22 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
-| 3 | [pavelhorak/pion](https://github.com/pavelhorak/pion) | 2 | Mojo | 2026-10-22 | Pion — the memory engine for AI inference |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-22 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [Niccher/Chege-Photos-Platform](https://github.com/Niccher/Chege-Photos-Platform) | 0 | PHP | 2026-10-22 | High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging |
-| 6 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-22 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-22 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-22 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-22 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-22 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
+| 4 | [pavelhorak/pion](https://github.com/pavelhorak/pion) | 2 | Mojo | 2026-10-22 | Pion — the memory engine for AI inference |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-22 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [Niccher/Chege-Photos-Platform](https://github.com/Niccher/Chege-Photos-Platform) | 0 | PHP | 2026-10-22 | High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging |
+| 7 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-22 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 8 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 4 | Python | 2026-10-22 | Atlas — self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol |
 | 9 | [XXXXXim/vectordb-rag](https://github.com/XXXXXim/vectordb-rag) | 0 | Jupyter Notebook | 2026-10-22 | AI·반도체 정책 리포트 RAG: Dense → Hybrid(BM25+RRF) → Rerank 검색 품질 비교 + RAGAS 평가 |
 | 10 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-22 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
