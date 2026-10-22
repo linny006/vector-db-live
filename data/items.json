@@ -1,5 +1,77 @@
 [
   {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-22T16:11:27Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-22T16:15:20Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-22T16:12:02Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T16:06:24Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Distributed open-source vector database with persistence, replication, REST/gRPC APIs, and an operations dashboard.",
+    "id": "Bharanipbk/gideondb",
+    "language": "Go",
+    "name": "Bharanipbk/gideondb",
+    "stars": 0,
+    "updated_at": "2026-10-22T16:04:49Z",
+    "url": "https://github.com/Bharanipbk/gideondb"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-22T16:07:58Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T16:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T16:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -23,17 +95,8 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-22T15:56:35Z",
+    "updated_at": "2026-10-22T16:12:21Z",
     "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T15:53:04Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first, offline-capable Agent memory & knowledge service. REST + MCP dual-protocol, hybrid retrieval (vector + BM25",
@@ -54,20 +117,11 @@
     "url": "https://github.com/mdmonsurali/Advanced-Hybrid-RAG"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T16:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 437,
+    "stars": 439,
     "updated_at": "2026-10-22T15:45:01Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -104,17 +158,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1213,
-    "updated_at": "2026-10-22T15:37:43Z",
+    "updated_at": "2026-10-22T16:13:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Distributed open-source vector database with persistence, replication, REST/gRPC APIs, and an operations dashboard.",
-    "id": "Bharanipbk/gideondb",
-    "language": "Go",
-    "name": "Bharanipbk/gideondb",
-    "stars": 0,
-    "updated_at": "2026-10-22T15:36:12Z",
-    "url": "https://github.com/Bharanipbk/gideondb"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8411,
+    "updated_at": "2026-10-22T15:35:38Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -124,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-10-22T15:34:23Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T15:31:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Model Context Protocol (MCP) Bootcamp offers a deep dive into MCP architecture and its role in the Agentic AI ecosystem.",
@@ -149,7 +194,7 @@
     "language": "Java",
     "name": "quarkiverse/quarkus-qdrant",
     "stars": 2,
-    "updated_at": "2026-10-22T15:29:12Z",
+    "updated_at": "2026-10-22T16:13:50Z",
     "url": "https://github.com/quarkiverse/quarkus-qdrant"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "JesseSaarinen/AI-study-assistant",
     "stars": 0,
-    "updated_at": "2026-10-22T15:19:08Z",
+    "updated_at": "2026-10-22T16:04:59Z",
     "url": "https://github.com/JesseSaarinen/AI-study-assistant"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40586,
-    "updated_at": "2026-10-22T15:18:17Z",
+    "updated_at": "2026-10-22T16:02:47Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32664,
-    "updated_at": "2026-10-22T16:00:10Z",
+    "updated_at": "2026-10-22T16:09:24Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -247,7 +292,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39457,
+    "stars": 39458,
     "updated_at": "2026-10-22T15:03:34Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -257,7 +302,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-22T15:56:56Z",
+    "updated_at": "2026-10-22T16:14:38Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59631,
-    "updated_at": "2026-10-22T15:57:11Z",
+    "updated_at": "2026-10-22T16:14:20Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/BilalAamir4/Insightex-ASR-Hybrid-RAG-FYP"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-22T15:14:40Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
     "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
     "id": "gonicolas12/My_AI",
     "language": "Python",
@@ -374,7 +410,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-22T15:50:18Z",
+    "updated_at": "2026-10-22T16:05:10Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2392,
     "updated_at": "2026-10-22T14:03:27Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-22T13:54:49Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-22T13:54:39Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8410,
-    "updated_at": "2026-10-22T15:35:38Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Vector databases and retrieval infrastructure for clinical AI and retrieval-augmented generation: 39 open-source pull re",
-    "id": "rtmalikian/vector-databases-rag-clinical-ai-infrastructure",
-    "language": "\u2014",
-    "name": "rtmalikian/vector-databases-rag-clinical-ai-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-10-22T13:51:42Z",
-    "url": "https://github.com/rtmalikian/vector-databases-rag-clinical-ai-infrastructure"
   }
 ]
