@@ -1,5 +1,59 @@
 [
   {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-22T16:44:06Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-22T16:42:02Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-22T16:38:02Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T16:37:06Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-22T16:35:40Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T16:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +86,7 @@
     "language": "Java",
     "name": "quarkiverse/quarkus-qdrant",
     "stars": 2,
-    "updated_at": "2026-10-22T16:24:01Z",
+    "updated_at": "2026-10-22T16:40:27Z",
     "url": "https://github.com/quarkiverse/quarkus-qdrant"
   },
   {
@@ -40,27 +94,9 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59632,
+    "stars": 59633,
     "updated_at": "2026-10-22T16:19:11Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T16:18:40Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T16:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Grounded Retrieval-Augmented Generation (RAG) engine with strict page-level citation attribution and deterministic hallu",
@@ -72,22 +108,13 @@
     "url": "https://github.com/iwyl2/document-intelligence"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
     "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-22T16:11:27Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-22T16:22:36Z",
-    "url": "https://github.com/iberi22/xavier"
+    "name": "RediSearch/RediSearch",
+    "stars": 6242,
+    "updated_at": "2026-10-22T16:14:41Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -95,17 +122,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32665,
-    "updated_at": "2026-10-22T16:09:24Z",
+    "updated_at": "2026-10-22T16:38:51Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-22T16:23:21Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
     "description": "Distributed open-source vector database with persistence, replication, REST/gRPC APIs, and an operations dashboard.",
@@ -121,8 +139,8 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40589,
-    "updated_at": "2026-10-22T16:02:47Z",
+    "stars": 40591,
+    "updated_at": "2026-10-22T16:38:32Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46450,
-    "updated_at": "2026-10-22T15:57:54Z",
+    "updated_at": "2026-10-22T16:35:16Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -184,7 +202,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 440,
+    "stars": 441,
     "updated_at": "2026-10-22T15:45:01Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9474,
-    "updated_at": "2026-10-22T16:28:09Z",
+    "updated_at": "2026-10-22T16:40:32Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -319,8 +337,8 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39459,
-    "updated_at": "2026-10-22T15:03:34Z",
+    "stars": 39460,
+    "updated_at": "2026-10-22T16:37:43Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -329,7 +347,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-22T16:28:43Z",
+    "updated_at": "2026-10-22T16:42:58Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-22T16:05:10Z",
+    "updated_at": "2026-10-22T16:40:13Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T14:12:47Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-22T14:10:09Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-22T14:09:04Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
   }
 ]
