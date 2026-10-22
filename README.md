@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-22 20:30 UTC
+> ⏰ Last updated: 2026-10-22 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,49 +43,49 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-22 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [tradik/mddb](https://github.com/tradik/mddb) | 4 | Go | 2026-10-22 | A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo |
-| 3 | [langchain-ai/langchain-milvus](https://github.com/langchain-ai/langchain-milvus) | 59 | Python | 2026-10-22 | The LangChain wrapper of Milvus vector database for efficient vector search, full-text search, hybrid retrieval and RAG. |
-| 4 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9432 | Rust | 2026-10-22 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 5 | [kividbio/kividb](https://github.com/kividbio/kividb) | 454 | Rust | 2026-10-22 | A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear |
-| 6 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-10-22 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
-| 7 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2034 | Python | 2026-10-22 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
-| 8 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-22 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 9 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 131 | Python | 2026-10-22 | Self improving agents through iterations |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-22 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [Supersynergy/awesome-database-tools](https://github.com/Supersynergy/awesome-database-tools) | 0 | — | 2026-10-22 | 🗄️ Drop legacy database stacks. 50+ verified gamechanger tools — benchmarks, not vibes. DuckDB · SurrealDB · Turso · Neo |
-| 12 | [schmitech/orbit](https://github.com/schmitech/orbit) | 355 | Python | 2026-10-22 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 13 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-10-22 | Upstash — independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p |
-| 14 | [dhanoliya-ji/DOCMINDS](https://github.com/dhanoliya-ji/DOCMINDS) | 0 | Python | 2026-10-22 | Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t |
-| 15 | [api-evangelist/mixedbread-ai](https://github.com/api-evangelist/mixedbread-ai) | 1 | — | 2026-10-22 | Mixedbread — independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI |
-| 16 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-22 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
-| 17 | [api-evangelist/datastax](https://github.com/api-evangelist/datastax) | 0 | — | 2026-10-22 | DataStax — independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As |
-| 18 | [api-evangelist/contentstack](https://github.com/api-evangelist/contentstack) | 0 | — | 2026-10-22 | contentstack — independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r |
-| 19 | [HemashreeVI/TriageIQ](https://github.com/HemashreeVI/TriageIQ) | 1 | HTML | 2026-10-22 | Real-time LLM-powered support ticket triage system |
-| 20 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40595 | Python | 2026-10-22 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
-| 21 | [openpeeps/boogie](https://github.com/openpeeps/boogie) | 7 | Nim | 2026-10-22 | A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more |
-| 22 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11743 | Rust | 2026-10-22 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 23 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 4 | Python | 2026-10-22 | Atlas — self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol |
-| 24 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-22 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 25 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 5 | Python | 2026-10-22 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
-| 26 | [verygoodplugins/mcp-automem](https://github.com/verygoodplugins/mcp-automem) | 65 | TypeScript | 2026-10-22 | MCP client for AutoMem — give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation |
-| 27 | [kylebrodeur/modal-embedding-server](https://github.com/kylebrodeur/modal-embedding-server) | 0 | Python | 2026-10-22 | A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo |
-| 28 | [Rohit-Dnath/RAMen](https://github.com/Rohit-Dnath/RAMen) | 37 | Go | 2026-10-22 | RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti |
-| 29 | [pavelhorak/pion](https://github.com/pavelhorak/pion) | 2 | Mojo | 2026-10-22 | Pion — the memory engine for AI inference |
-| 30 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1213 | Java | 2026-10-22 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 31 | [Thisen-Ekanayake/Athena](https://github.com/Thisen-Ekanayake/Athena) | 1 | Python | 2026-10-22 | Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a |
-| 32 | [omerakben/omer-akben](https://github.com/omerakben/omer-akben) | 1 | TypeScript | 2026-10-22 | 🚀 AI-powered portfolio with proactive visitor engagement — featuring Ozzy, an intelligent assistant with 12 tools, episo |
-| 33 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-10-22 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
-| 34 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 916 | Go | 2026-10-22 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 35 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | Java | 2026-10-22 | Identity and Authorization Service with Vector and AI Integration |
-| 36 | [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) | 911 | Python | 2026-10-22 | A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time |
-| 37 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-22 |  Cognitive Memory Architecture for Agents |
-| 38 | [neuml/txtai](https://github.com/neuml/txtai) | 13027 | Python | 2026-10-22 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
-| 39 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-22 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 40 | [abho7/mcp-memory-server](https://github.com/abho7/mcp-memory-server) | 0 | Python | 2026-10-22 | Local-first MCP server for persistent semantic memory, backed by an HNSW vector index and an on-device ONNX embedder |
-| 41 | [cyborginc/cyborgdb-py](https://github.com/cyborginc/cyborgdb-py) | 8 | Python | 2026-10-22 | Python Client SDK for CyborgDB: The Encrypted Vector Database |
-| 42 | [MariaDB/server](https://github.com/MariaDB/server) | 8418 | C++ | 2026-10-22 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 43 | [dolev31/lasagna](https://github.com/dolev31/lasagna) | 10 | Python | 2026-10-22 | Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin |
-| 44 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 32672 | Python | 2026-10-22 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
+| 2 | [kividbio/kividb](https://github.com/kividbio/kividb) | 455 | Rust | 2026-10-22 | A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear |
+| 3 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 4 | Python | 2026-10-22 | Atlas — self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol |
+| 4 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-22 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
+| 5 | [dhanoliya-ji/DOCMINDS](https://github.com/dhanoliya-ji/DOCMINDS) | 0 | Python | 2026-10-22 | Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t |
+| 6 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2034 | Python | 2026-10-22 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-22 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 8 | [tradik/mddb](https://github.com/tradik/mddb) | 4 | Go | 2026-10-22 | A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo |
+| 9 | [langchain-ai/langchain-milvus](https://github.com/langchain-ai/langchain-milvus) | 59 | Python | 2026-10-22 | The LangChain wrapper of Milvus vector database for efficient vector search, full-text search, hybrid retrieval and RAG. |
+| 10 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9432 | Rust | 2026-10-22 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 11 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-10-22 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
+| 12 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-22 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 13 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 131 | Python | 2026-10-22 | Self improving agents through iterations |
+| 14 | [Supersynergy/awesome-database-tools](https://github.com/Supersynergy/awesome-database-tools) | 0 | — | 2026-10-22 | 🗄️ Drop legacy database stacks. 50+ verified gamechanger tools — benchmarks, not vibes. DuckDB · SurrealDB · Turso · Neo |
+| 15 | [schmitech/orbit](https://github.com/schmitech/orbit) | 355 | Python | 2026-10-22 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 16 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-10-22 | Upstash — independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p |
+| 17 | [api-evangelist/mixedbread-ai](https://github.com/api-evangelist/mixedbread-ai) | 1 | — | 2026-10-22 | Mixedbread — independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI |
+| 18 | [api-evangelist/datastax](https://github.com/api-evangelist/datastax) | 0 | — | 2026-10-22 | DataStax — independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As |
+| 19 | [api-evangelist/contentstack](https://github.com/api-evangelist/contentstack) | 0 | — | 2026-10-22 | contentstack — independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r |
+| 20 | [HemashreeVI/TriageIQ](https://github.com/HemashreeVI/TriageIQ) | 1 | HTML | 2026-10-22 | Real-time LLM-powered support ticket triage system |
+| 21 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40595 | Python | 2026-10-22 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| 22 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 32673 | Python | 2026-10-22 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
+| 23 | [openpeeps/boogie](https://github.com/openpeeps/boogie) | 7 | Nim | 2026-10-22 | A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more |
+| 24 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11743 | Rust | 2026-10-22 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 25 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-22 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 26 | [imagodata/filter_mate](https://github.com/imagodata/filter_mate) | 5 | Python | 2026-10-22 | FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers |
+| 27 | [verygoodplugins/mcp-automem](https://github.com/verygoodplugins/mcp-automem) | 65 | TypeScript | 2026-10-22 | MCP client for AutoMem — give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation |
+| 28 | [kylebrodeur/modal-embedding-server](https://github.com/kylebrodeur/modal-embedding-server) | 0 | Python | 2026-10-22 | A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo |
+| 29 | [Rohit-Dnath/RAMen](https://github.com/Rohit-Dnath/RAMen) | 37 | Go | 2026-10-22 | RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti |
+| 30 | [pavelhorak/pion](https://github.com/pavelhorak/pion) | 2 | Mojo | 2026-10-22 | Pion — the memory engine for AI inference |
+| 31 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1213 | Java | 2026-10-22 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 32 | [Thisen-Ekanayake/Athena](https://github.com/Thisen-Ekanayake/Athena) | 1 | Python | 2026-10-22 | Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a |
+| 33 | [omerakben/omer-akben](https://github.com/omerakben/omer-akben) | 1 | TypeScript | 2026-10-22 | 🚀 AI-powered portfolio with proactive visitor engagement — featuring Ozzy, an intelligent assistant with 12 tools, episo |
+| 34 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-10-22 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
+| 35 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 916 | Go | 2026-10-22 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 36 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | Java | 2026-10-22 | Identity and Authorization Service with Vector and AI Integration |
+| 37 | [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) | 911 | Python | 2026-10-22 | A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time |
+| 38 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-22 |  Cognitive Memory Architecture for Agents |
+| 39 | [neuml/txtai](https://github.com/neuml/txtai) | 13027 | Python | 2026-10-22 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
+| 40 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-22 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 41 | [abho7/mcp-memory-server](https://github.com/abho7/mcp-memory-server) | 0 | Python | 2026-10-22 | Local-first MCP server for persistent semantic memory, backed by an HNSW vector index and an on-device ONNX embedder |
+| 42 | [cyborginc/cyborgdb-py](https://github.com/cyborginc/cyborgdb-py) | 8 | Python | 2026-10-22 | Python Client SDK for CyborgDB: The Encrypted Vector Database |
+| 43 | [MariaDB/server](https://github.com/MariaDB/server) | 8419 | C++ | 2026-10-22 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 44 | [dolev31/lasagna](https://github.com/dolev31/lasagna) | 10 | Python | 2026-10-22 | Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin |
 | 45 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35190 | Rust | 2026-10-22 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 46 | [wickra-lib/wickra-genome](https://github.com/wickra-lib/wickra-genome) | 1 | Rust | 2026-10-22 | A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry  |
 | 47 | [opencrawling/opencrawling](https://github.com/opencrawling/opencrawling) | 23 | Java | 2026-10-22 | Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor |
