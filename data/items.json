@@ -1,11 +1,119 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46455,
+    "updated_at": "2026-10-22T02:29:54Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
+    "id": "PunGrumpy/vecstore-sdk",
+    "language": "TypeScript",
+    "name": "PunGrumpy/vecstore-sdk",
+    "stars": 2,
+    "updated_at": "2026-10-22T02:30:00Z",
+    "url": "https://github.com/PunGrumpy/vecstore-sdk"
+  },
+  {
+    "description": "- ",
+    "id": "Scaibu/llm-observability-platform",
+    "language": "Python",
+    "name": "Scaibu/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-10-22T02:29:25Z",
+    "url": "https://github.com/Scaibu/llm-observability-platform"
+  },
+  {
+    "description": "A visual sandbox for experimenting with RAG configurations. Interactive tools for document parsing, chunking, embeddings",
+    "id": "jvorndran/RAG-Visualizer",
+    "language": "Python",
+    "name": "jvorndran/RAG-Visualizer",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:26:49Z",
+    "url": "https://github.com/jvorndran/RAG-Visualizer"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 275,
+    "updated_at": "2026-10-22T02:26:21Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:22:42Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 36,
+    "updated_at": "2026-10-22T02:20:21Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "Memory module for LLMs and Agents with MCP",
+    "id": "kurcontko/mnemotree",
+    "language": "Python",
+    "name": "kurcontko/mnemotree",
+    "stars": 6,
+    "updated_at": "2026-10-22T02:23:48Z",
+    "url": "https://github.com/kurcontko/mnemotree"
+  },
+  {
+    "description": "Ask a question as a department, and get an answer built only from what that department may read. In 5,760 searches no ro",
+    "id": "Broikos-Nikos/need-to-know",
+    "language": "Python",
+    "name": "Broikos-Nikos/need-to-know",
+    "stars": 0,
+    "updated_at": "2026-10-22T02:18:59Z",
+    "url": "https://github.com/Broikos-Nikos/need-to-know"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:18:54Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T02:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T02:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-22T02:14:17Z",
+    "updated_at": "2026-10-22T02:21:07Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -45,15 +153,6 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46454,
-    "updated_at": "2026-10-22T02:03:52Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti",
     "id": "rvarun03/ARIOS",
     "language": "Python",
@@ -63,29 +162,11 @@
     "url": "https://github.com/rvarun03/ARIOS"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T02:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T02:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67411,
+    "stars": 67412,
     "updated_at": "2026-10-22T01:59:45Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -97,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-10-22T01:58:55Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 275,
-    "updated_at": "2026-10-22T02:14:16Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T01:42:39Z",
     "url": "https://github.com/lychee888/Rag-Kit"
-  },
-  {
-    "description": "Ask a question as a department, and get an answer built only from what that department may read. In 5,760 searches no ro",
-    "id": "Broikos-Nikos/need-to-know",
-    "language": "Python",
-    "name": "Broikos-Nikos/need-to-know",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:30:33Z",
-    "url": "https://github.com/Broikos-Nikos/need-to-know"
   },
   {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
@@ -230,7 +293,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9430,
-    "updated_at": "2026-10-22T02:14:32Z",
+    "updated_at": "2026-10-22T02:29:27Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -261,21 +324,12 @@
     "url": "https://github.com/yielab/adapta"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-22T02:12:45Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1213,
-    "updated_at": "2026-10-22T01:51:13Z",
+    "updated_at": "2026-10-22T02:20:41Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -355,7 +409,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39436,
+    "stars": 39437,
     "updated_at": "2026-10-21T23:44:53Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -394,59 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-21T23:33:15Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Learn vector databases from scratch \u2014 embeddings, chunking, and semantic search using Pinecone and sentence-transformers",
-    "id": "SUBHASHSUSHIL/vector_db",
-    "language": "Python",
-    "name": "SUBHASHSUSHIL/vector_db",
-    "stars": 1,
-    "updated_at": "2026-10-21T23:32:42Z",
-    "url": "https://github.com/SUBHASHSUSHIL/vector_db"
-  },
-  {
-    "description": "A personal RAG (Retrieval-Augmented Generation) chatbot built with Streamlit and LangChain. Upload PDFs and chat with th",
-    "id": "khalidkanane/personal-rag-chatbot",
-    "language": "Python",
-    "name": "khalidkanane/personal-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-21T23:29:02Z",
-    "url": "https://github.com/khalidkanane/personal-rag-chatbot"
-  },
-  {
-    "description": "An index for ambient learning applications.",
-    "id": "rao-studios/AII",
-    "language": "Swift",
-    "name": "rao-studios/AII",
-    "stars": 0,
-    "updated_at": "2026-10-21T23:20:32Z",
-    "url": "https://github.com/rao-studios/AII"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1640,
-    "updated_at": "2026-10-21T23:17:42Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-21T23:35:34Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
-    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-21T22:47:28Z",
-    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
   }
 ]
