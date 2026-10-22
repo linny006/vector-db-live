@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T00:00:20Z",
+    "updated_at": "2026-10-22T00:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 4,
+    "updated_at": "2026-10-22T00:12:58Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "HTML",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-22T00:08:49Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-22T00:12:43Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-22T00:05:36Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T00:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted microservice RAG on a single 6 GB GPU: Docling OCR, Qwen3.5-4B on SGLang, Qdrant hybrid search (bge-m3 + BM2",
@@ -23,7 +68,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8403,
-    "updated_at": "2026-10-21T23:52:20Z",
+    "updated_at": "2026-10-22T00:10:43Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -41,17 +86,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-21T23:50:52Z",
+    "updated_at": "2026-10-22T00:02:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 4,
-    "updated_at": "2026-10-21T23:56:53Z",
-    "url": "https://github.com/tradik/mddb"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -67,7 +103,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67410,
+    "stars": 67411,
     "updated_at": "2026-10-21T23:47:59Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -79,15 +115,6 @@
     "stars": 2389,
     "updated_at": "2026-10-21T23:45:59Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-21T23:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "software for simulating human-like interaction with AI using a cognitive approach",
@@ -124,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-10-21T23:36:12Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-21T23:34:55Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9430,
-    "updated_at": "2026-10-21T23:48:57Z",
+    "updated_at": "2026-10-22T00:12:07Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -261,6 +279,15 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 130,
+    "updated_at": "2026-10-21T22:35:42Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
     "id": "PersonalClaw/PersonalClawApps",
     "language": "Python",
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T22:35:34Z",
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 129,
-    "updated_at": "2026-10-21T22:35:42Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
     "description": "Jigen DB is vector database written from scratch in c#",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T21:12:14Z",
     "url": "https://github.com/kennielima/OpsIQ"
-  },
-  {
-    "description": "High-performance, SIMD-accelerated vector search engine and MCP server for .NET 10. Optimized for LLM embeddings and sem",
-    "id": "ian-cowley/Glacier.Vector",
-    "language": "C#",
-    "name": "ian-cowley/Glacier.Vector",
-    "stars": 6,
-    "updated_at": "2026-10-21T21:10:30Z",
-    "url": "https://github.com/ian-cowley/Glacier.Vector"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-21T21:14:27Z",
-    "url": "https://github.com/miniaxolotl/grove"
   }
 ]
