@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T05:15:21Z",
+    "updated_at": "2026-10-22T05:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-22T05:29:54Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "AI\u00b7\ubc18\ub3c4\uccb4 \uc815\ucc45 \ub9ac\ud3ec\ud2b8 RAG: Dense \u2192 Hybrid(BM25+RRF) \u2192 Rerank \uac80\uc0c9 \ud488\uc9c8 \ube44\uad50 + RAGAS \ud3c9\uac00",
+    "id": "XXXXXim/vectordb-rag",
+    "language": "Jupyter Notebook",
+    "name": "XXXXXim/vectordb-rag",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:29:48Z",
+    "url": "https://github.com/XXXXXim/vectordb-rag"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-22T05:23:50Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Full-stack TypeScript framework for real-time apps and agent-native APIs: Clean Architecture services, pluggable databas",
+    "id": "MantleJs/mantle",
+    "language": "TypeScript",
+    "name": "MantleJs/mantle",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:29:39Z",
+    "url": "https://github.com/MantleJs/mantle"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-22T05:19:56Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9472,
+    "updated_at": "2026-10-22T05:26:47Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T05:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -36,15 +99,6 @@
     "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-22T05:14:07Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
     "id": "YunanJeong/rag-git-docs",
     "language": "Python",
@@ -61,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T05:02:25Z",
     "url": "https://github.com/gorigesravani288-cmd/RepoMind"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T05:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-22T04:57:03Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -104,26 +140,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9430,
-    "updated_at": "2026-10-22T05:05:46Z",
+    "updated_at": "2026-10-22T05:23:54Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9472,
-    "updated_at": "2026-10-22T05:08:14Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-22T05:12:31Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-22T04:32:55Z",
+    "updated_at": "2026-10-22T05:18:59Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -178,6 +196,15 @@
     "stars": 2,
     "updated_at": "2026-10-22T04:24:41Z",
     "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40546,
+    "updated_at": "2026-10-22T04:15:46Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -238,18 +265,9 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11733,
+    "stars": 11734,
     "updated_at": "2026-10-22T03:27:11Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40545,
-    "updated_at": "2026-10-22T04:15:46Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "",
@@ -400,7 +418,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67417,
+    "stars": 67419,
     "updated_at": "2026-10-22T01:59:45Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T01:27:52Z",
     "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:27:25Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Ragger \u2014 RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search.",
-    "id": "diskerror/ragger.cpp",
-    "language": "C++",
-    "name": "diskerror/ragger.cpp",
-    "stars": 1,
-    "updated_at": "2026-10-22T01:20:36Z",
-    "url": "https://github.com/diskerror/ragger.cpp"
   }
 ]
