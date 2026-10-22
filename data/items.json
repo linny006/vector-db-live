@@ -1,11 +1,83 @@
 [
   {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:59:31Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 275,
+    "updated_at": "2026-10-22T02:58:55Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "HNSW (Hierarchical Navigable Small World) vector index built from scratch in Python/NumPy: no FAISS, no hnswlib. recall@",
+    "id": "abho7/vectordb-hnsw",
+    "language": "Python",
+    "name": "abho7/vectordb-hnsw",
+    "stars": 1,
+    "updated_at": "2026-10-22T02:57:43Z",
+    "url": "https://github.com/abho7/vectordb-hnsw"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-22T02:57:24Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40541,
+    "updated_at": "2026-10-22T02:52:22Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-22T02:51:40Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
+    "id": "PrathameshDhande22/Portfolio-Website",
+    "language": "TypeScript",
+    "name": "PrathameshDhande22/Portfolio-Website",
+    "stars": 2,
+    "updated_at": "2026-10-22T02:49:43Z",
+    "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T02:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T02:45:18Z",
+    "updated_at": "2026-10-22T03:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-22T02:45:03Z",
+    "updated_at": "2026-10-22T02:55:44Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -50,17 +122,8 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-22T02:44:21Z",
+    "updated_at": "2026-10-22T02:56:47Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T02:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -88,24 +151,6 @@
     "stars": 6,
     "updated_at": "2026-10-22T02:29:25Z",
     "url": "https://github.com/Scaibu/llm-observability-platform"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 275,
-    "updated_at": "2026-10-22T02:42:00Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
-    "id": "LuisinTheLegend/ConciergeGraph",
-    "language": "Python",
-    "name": "LuisinTheLegend/ConciergeGraph",
-    "stars": 1,
-    "updated_at": "2026-10-22T02:22:42Z",
-    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-22T02:43:08Z",
+    "updated_at": "2026-10-22T02:50:28Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 67414,
     "updated_at": "2026-10-22T01:59:45Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-22T01:58:55Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -293,7 +329,7 @@
     "language": "HTML",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-10-22T01:10:54Z",
+    "updated_at": "2026-10-22T02:52:20Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9430,
-    "updated_at": "2026-10-22T02:38:37Z",
+    "updated_at": "2026-10-22T02:59:41Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1213,
-    "updated_at": "2026-10-22T02:44:27Z",
+    "updated_at": "2026-10-22T02:53:46Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/itismemuhammadali/Awesome-Free-AI-APIs"
   },
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-22T00:15:47Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
     "description": "Self-hosted microservice RAG on a single 6 GB GPU: Docling OCR, Qwen3.5-4B on SGLang, Qdrant hybrid search (bge-m3 + BM2",
     "id": "mdmonsurali/Advanced-Hybrid-RAG",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 39438,
     "updated_at": "2026-10-21T23:44:53Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "software for simulating human-like interaction with AI using a cognitive approach",
-    "id": "sriramsme/pragYantra",
-    "language": "Python",
-    "name": "sriramsme/pragYantra",
-    "stars": 8,
-    "updated_at": "2026-10-21T23:44:08Z",
-    "url": "https://github.com/sriramsme/pragYantra"
-  },
-  {
-    "description": "A structured guide covering LLMs - architecture, capabilities, types, and how RAG enhances them",
-    "id": "SUBHASHSUSHIL/RAG",
-    "language": "\u2014",
-    "name": "SUBHASHSUSHIL/RAG",
-    "stars": 1,
-    "updated_at": "2026-10-21T23:42:16Z",
-    "url": "https://github.com/SUBHASHSUSHIL/RAG"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-21T23:33:15Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   }
 ]
