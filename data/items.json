@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T22:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-22T22:28:15Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object.",
+    "id": "equationalapplications/sqlite-s3-agent-tutorial",
+    "language": "TypeScript",
+    "name": "equationalapplications/sqlite-s3-agent-tutorial",
+    "stars": 0,
+    "updated_at": "2026-10-22T22:25:23Z",
+    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 17,
+    "updated_at": "2026-10-22T22:21:22Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "OramaCore is the complete runtime you need for your projects, answer engines, copilots, and search. It includes a fully-",
+    "id": "oramasearch/oramacore",
+    "language": "Rust",
+    "name": "oramasearch/oramacore",
+    "stars": 263,
+    "updated_at": "2026-10-22T22:17:31Z",
+    "url": "https://github.com/oramasearch/oramacore"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T22:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32677,
+    "updated_at": "2026-10-22T22:29:04Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "RAG Engineer interview questions & answers for 2026: retrieval, embeddings, chunking, re-ranking, eval, production & sec",
     "id": "landedjobs/rag-engineer-interview-questions",
     "language": "\u2014",
@@ -9,12 +72,21 @@
     "url": "https://github.com/landedjobs/rag-engineer-interview-questions"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8421,
+    "updated_at": "2026-10-22T22:13:36Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-22T22:11:14Z",
+    "updated_at": "2026-10-22T22:19:49Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9433,
-    "updated_at": "2026-10-22T22:14:59Z",
+    "updated_at": "2026-10-22T22:23:19Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -52,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T22:02:23Z",
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T22:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T22:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -99,15 +153,6 @@
     "url": "https://github.com/Broikos-Nikos/need-to-know"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32676,
-    "updated_at": "2026-10-22T22:15:02Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
     "id": "NirDiamant/Agent_Memory_Techniques",
     "language": "Jupyter Notebook",
@@ -133,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-10-22T21:36:10Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-22T21:31:42Z",
-    "url": "https://github.com/d3uceY/vectile"
   },
   {
     "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 460,
-    "updated_at": "2026-10-22T22:03:39Z",
+    "updated_at": "2026-10-22T22:23:14Z",
     "url": "https://github.com/kividbio/kividb"
   },
   {
@@ -400,7 +436,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40596,
+    "stars": 40597,
     "updated_at": "2026-10-22T19:59:28Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -412,41 +448,5 @@
     "stars": 11743,
     "updated_at": "2026-10-22T22:06:39Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-22T19:40:24Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 65,
-    "updated_at": "2026-10-22T19:37:41Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "RAMen is a fast in-memory data store like Redis, but built for AI: drop-in Redis protocol, native vector search, semanti",
-    "id": "Rohit-Dnath/RAMen",
-    "language": "Go",
-    "name": "Rohit-Dnath/RAMen",
-    "stars": 37,
-    "updated_at": "2026-10-22T19:34:53Z",
-    "url": "https://github.com/Rohit-Dnath/RAMen"
-  },
-  {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Mojo",
-    "name": "pavelhorak/pion",
-    "stars": 2,
-    "updated_at": "2026-10-22T19:31:35Z",
-    "url": "https://github.com/pavelhorak/pion"
   }
 ]
