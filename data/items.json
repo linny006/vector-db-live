@@ -1,21 +1,84 @@
 [
   {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-22T04:44:07Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
     "id": "writerslogic/holographic-memory",
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-22T04:29:39Z",
+    "updated_at": "2026-10-22T04:43:35Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-10-22T04:24:41Z",
-    "url": "https://github.com/caoergou/dify-installer"
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-22T04:42:31Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "HTML",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-22T04:41:59Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
+    "id": "gorigesravani288-cmd/RepoMind",
+    "language": "Python",
+    "name": "gorigesravani288-cmd/RepoMind",
+    "stars": 1,
+    "updated_at": "2026-10-22T04:41:38Z",
+    "url": "https://github.com/gorigesravani288-cmd/RepoMind"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-22T04:40:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1640,
+    "updated_at": "2026-10-22T04:39:34Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "High-density streaming VDB. Built on Hnswlib. 100% memory-safe under extreme data bursts.",
+    "id": "CantorAI/Quanta",
+    "language": "C++",
+    "name": "CantorAI/Quanta",
+    "stars": 1,
+    "updated_at": "2026-10-22T04:34:01Z",
+    "url": "https://github.com/CantorAI/Quanta"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T04:32:55Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-22T04:15:26Z",
+    "updated_at": "2026-10-22T04:30:25Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -34,6 +97,15 @@
     "stars": 3,
     "updated_at": "2026-10-22T04:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-10-22T04:24:41Z",
+    "url": "https://github.com/caoergou/dify-installer"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -50,17 +122,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-22T04:10:19Z",
+    "updated_at": "2026-10-22T04:32:22Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-22T04:09:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -88,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T04:07:17Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-22T04:09:55Z",
-    "url": "https://github.com/miniaxolotl/grove"
   },
   {
     "description": "Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin",
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-22T04:22:41Z",
+    "updated_at": "2026-10-22T04:44:26Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 7,
     "updated_at": "2026-10-22T03:14:12Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T04:18:00Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-22T01:15:11Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-22T01:13:29Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "HTML",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-22T02:52:20Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "A distributed ML platform composing a Raft engine, an HNSW vector index, and a distributed training framework, with cros",
-    "id": "abho7/ml-infra-platform",
-    "language": "Python",
-    "name": "abho7/ml-infra-platform",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:06:19Z",
-    "url": "https://github.com/abho7/ml-infra-platform"
-  },
-  {
-    "description": "OceanBase is the unified distributed database for the AI era \u2014 open-source, multi-model, one engine for your most demand",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10347,
-    "updated_at": "2026-10-22T01:00:28Z",
-    "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 466,
-    "updated_at": "2026-10-22T00:49:22Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   }
 ]
