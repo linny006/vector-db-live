@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T05:30:18Z",
+    "updated_at": "2026-10-22T05:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-22T05:41:39Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 2,
+    "updated_at": "2026-10-22T05:43:52Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-22T05:39:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
+    "id": "Niccher/Chege-Photos-Platform",
+    "language": "PHP",
+    "name": "Niccher/Chege-Photos-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:38:39Z",
+    "url": "https://github.com/Niccher/Chege-Photos-Platform"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T05:37:37Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T05:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-22T05:23:50Z",
+    "updated_at": "2026-10-22T05:44:07Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -50,7 +104,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-22T05:19:56Z",
+    "updated_at": "2026-10-22T05:37:17Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 9472,
     "updated_at": "2026-10-22T05:26:47Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T05:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-22T05:08:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "",
@@ -117,15 +153,6 @@
     "url": "https://github.com/gorigesravani288-cmd/RepoMind"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-22T05:06:38Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
     "id": "motedb/motedb",
     "language": "Rust",
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9430,
-    "updated_at": "2026-10-22T05:23:54Z",
+    "updated_at": "2026-10-22T05:40:38Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1640,
-    "updated_at": "2026-10-22T04:39:34Z",
+    "updated_at": "2026-10-22T05:37:08Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T04:34:01Z",
     "url": "https://github.com/CantorAI/Quanta"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T05:18:59Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
@@ -202,7 +220,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40546,
+    "stars": 40545,
     "updated_at": "2026-10-22T04:15:46Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -211,7 +229,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46456,
+    "stars": 46457,
     "updated_at": "2026-10-22T03:59:52Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -265,7 +283,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11734,
+    "stars": 11735,
     "updated_at": "2026-10-22T03:27:11Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T01:42:39Z",
     "url": "https://github.com/lychee888/Rag-Kit"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 4,
-    "updated_at": "2026-10-22T01:29:46Z",
-    "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:27:52Z",
-    "url": "https://github.com/api-evangelist/gel-data"
   }
 ]
