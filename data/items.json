@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-22T12:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG-powered Streamlit app for asking questions about uploaded university lecture notes using PyMuPDF, Sentence Transform",
+    "id": "JesseSaarinen/AI-study-assistant",
+    "language": "Python",
+    "name": "JesseSaarinen/AI-study-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-22T12:45:25Z",
+    "url": "https://github.com/JesseSaarinen/AI-study-assistant"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-22T12:44:21Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-22T12:44:01Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Production-ready KV-backed HNSW implementation in Rust using LMDB",
+    "id": "nnethercott/hannoy",
+    "language": "Rust",
+    "name": "nnethercott/hannoy",
+    "stars": 87,
+    "updated_at": "2026-10-22T12:43:08Z",
+    "url": "https://github.com/nnethercott/hannoy"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 388,
+    "updated_at": "2026-10-22T12:41:47Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-22T12:40:15Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T12:38:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
+    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-22T12:36:05Z",
+    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T12:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 36,
+    "updated_at": "2026-10-22T12:30:23Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -9,40 +108,13 @@
     "url": "https://github.com/d3uceY/vectile"
   },
   {
-    "description": "Production-ready KV-backed HNSW implementation in Rust using LMDB",
-    "id": "nnethercott/hannoy",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
     "language": "Rust",
-    "name": "nnethercott/hannoy",
-    "stars": 87,
-    "updated_at": "2026-10-22T12:29:34Z",
-    "url": "https://github.com/nnethercott/hannoy"
-  },
-  {
-    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
-    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-22T12:29:06Z",
-    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-22T12:26:57Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "RAG-powered Streamlit app for asking questions about uploaded university lecture notes using PyMuPDF, Sentence Transform",
-    "id": "JesseSaarinen/AI-study-assistant",
-    "language": "Python",
-    "name": "JesseSaarinen/AI-study-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-22T12:29:41Z",
-    "url": "https://github.com/JesseSaarinen/AI-study-assistant"
+    "name": "qdrant/qdrant",
+    "stars": 35186,
+    "updated_at": "2026-10-22T12:30:11Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Chat with your PDFs: a RAG app built with FastAPI, ChromaDB and Gemini that answers with page-level citations and says s",
@@ -72,22 +144,13 @@
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 36,
-    "updated_at": "2026-10-22T12:30:18Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T12:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16133,
+    "updated_at": "2026-10-22T12:17:59Z",
+    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "Heros is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. Bayma",
@@ -99,13 +162,13 @@
     "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
     "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T12:12:24Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "name": "weaviate/weaviate",
+    "stars": 16900,
+    "updated_at": "2026-10-22T12:15:16Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "",
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T12:09:52Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-22T12:09:40Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40570,
-    "updated_at": "2026-10-22T12:18:42Z",
+    "updated_at": "2026-10-22T12:34:37Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9430,
-    "updated_at": "2026-10-22T12:29:48Z",
+    "updated_at": "2026-10-22T12:42:26Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32657,
-    "updated_at": "2026-10-22T11:30:33Z",
+    "updated_at": "2026-10-22T12:37:41Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -346,7 +400,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39451,
+    "stars": 39452,
     "updated_at": "2026-10-22T11:05:20Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T10:15:38Z",
     "url": "https://github.com/Niccher/Chege-Photos-Platform"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-22T10:16:14Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Python client for Qdrant vector search engine",
-    "id": "qdrant/qdrant-client",
-    "language": "Python",
-    "name": "qdrant/qdrant-client",
-    "stars": 1373,
-    "updated_at": "2026-10-22T12:03:12Z",
-    "url": "https://github.com/qdrant/qdrant-client"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35186,
-    "updated_at": "2026-10-22T12:30:11Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 427,
-    "updated_at": "2026-10-22T10:12:12Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16900,
-    "updated_at": "2026-10-22T12:15:16Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Vector databases and retrieval infrastructure for clinical AI and retrieval-augmented generation: 39 open-source pull re",
-    "id": "rtmalikian/vector-databases-rag-clinical-ai-infrastructure",
-    "language": "\u2014",
-    "name": "rtmalikian/vector-databases-rag-clinical-ai-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:09:14Z",
-    "url": "https://github.com/rtmalikian/vector-databases-rag-clinical-ai-infrastructure"
   }
 ]
