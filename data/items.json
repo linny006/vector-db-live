@@ -1,11 +1,92 @@
 [
   {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-22T08:59:19Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "JavaScript/Typescript SDK for Qdrant Vector Database",
+    "id": "qdrant/qdrant-js",
+    "language": "TypeScript",
+    "name": "qdrant/qdrant-js",
+    "stars": 467,
+    "updated_at": "2026-10-22T09:00:04Z",
+    "url": "https://github.com/qdrant/qdrant-js"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-22T08:57:18Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-22T08:57:01Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46458,
+    "updated_at": "2026-10-22T08:55:52Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AegisRAG is a security-first, auditable enterprise RAG backend for teams that care more about access control,traceabilit",
+    "id": "chyinan/AegisRAG",
+    "language": "Python",
+    "name": "chyinan/AegisRAG",
+    "stars": 4,
+    "updated_at": "2026-10-22T08:52:57Z",
+    "url": "https://github.com/chyinan/AegisRAG"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 409,
+    "updated_at": "2026-10-22T08:52:03Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8407,
+    "updated_at": "2026-10-22T08:49:10Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T08:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T08:45:21Z",
+    "updated_at": "2026-10-22T09:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +104,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 5,
-    "updated_at": "2026-10-22T08:43:55Z",
+    "updated_at": "2026-10-22T08:54:49Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -70,24 +151,6 @@
     "stars": 275,
     "updated_at": "2026-10-22T08:44:57Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46458,
-    "updated_at": "2026-10-22T08:31:54Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T08:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -153,20 +216,11 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-22T08:44:59Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11739,
+    "stars": 11740,
     "updated_at": "2026-10-22T08:13:30Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -229,7 +283,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32651,
+    "stars": 32652,
     "updated_at": "2026-10-22T08:01:03Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -241,15 +295,6 @@
     "stars": 243,
     "updated_at": "2026-10-22T07:52:21Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-22T07:51:15Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "working university chatbot ",
@@ -396,24 +441,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8406,
-    "updated_at": "2026-10-22T08:28:04Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
-    "id": "YunanJeong/rag-git-docs",
-    "language": "Python",
-    "name": "YunanJeong/rag-git-docs",
-    "stars": 0,
-    "updated_at": "2026-10-22T06:58:08Z",
-    "url": "https://github.com/YunanJeong/rag-git-docs"
-  },
-  {
     "description": "A bare-metal C++20 HNSW vector search engine accelerated with ARM NEON SIMD, delivering 17K+ QPS.",
     "id": "Anshuman13-code/VectorCore",
     "language": "C++",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T06:48:08Z",
     "url": "https://github.com/Anshuman13-code/VectorCore"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xGraph/10xGraph",
-    "language": "Python",
-    "name": "10xGraph/10xGraph",
-    "stars": 27,
-    "updated_at": "2026-10-22T06:48:09Z",
-    "url": "https://github.com/10xGraph/10xGraph"
-  },
-  {
-    "description": "Production-style Agentic Multimodal RAG platform with Hybrid Retrieval, LangGraph-style orchestration, Qdrant, Ollama, F",
-    "id": "madhukargoli1992G/orchestrix-veritas",
-    "language": "Python",
-    "name": "madhukargoli1992G/orchestrix-veritas",
-    "stars": 1,
-    "updated_at": "2026-10-22T06:43:04Z",
-    "url": "https://github.com/madhukargoli1992G/orchestrix-veritas"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35182,
-    "updated_at": "2026-10-22T06:42:22Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
