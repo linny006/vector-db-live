@@ -1,11 +1,20 @@
 [
   {
+    "description": "Production-ready RAG framework for Python \u2014 multi-tenant chatbots with streaming, tool calling, agent mode (LangGraph), ",
+    "id": "ENDEVSOLS/Long-Trainer",
+    "language": "Python",
+    "name": "ENDEVSOLS/Long-Trainer",
+    "stars": 30,
+    "updated_at": "2026-10-22T05:54:47Z",
+    "url": "https://github.com/ENDEVSOLS/Long-Trainer"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-22T05:45:25Z",
+    "updated_at": "2026-10-22T05:45:46Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T05:45:19Z",
+    "updated_at": "2026-10-22T06:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-22T05:41:39Z",
+    "updated_at": "2026-10-22T05:57:55Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -59,8 +68,26 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-22T05:37:37Z",
+    "updated_at": "2026-10-22T05:50:15Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A bare-metal C++20 HNSW vector search engine accelerated with ARM NEON SIMD, delivering 17K+ QPS.",
+    "id": "Anshuman13-code/VectorCore",
+    "language": "C++",
+    "name": "Anshuman13-code/VectorCore",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:36:29Z",
+    "url": "https://github.com/Anshuman13-code/VectorCore"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8404,
+    "updated_at": "2026-10-22T05:35:57Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-22T05:44:07Z",
+    "updated_at": "2026-10-22T05:58:34Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -104,7 +131,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-22T05:37:17Z",
+    "updated_at": "2026-10-22T05:53:57Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9472,
-    "updated_at": "2026-10-22T05:26:47Z",
+    "updated_at": "2026-10-22T06:00:11Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9430,
-    "updated_at": "2026-10-22T05:40:38Z",
+    "updated_at": "2026-10-22T05:59:07Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -185,7 +212,7 @@
     "language": "HTML",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-10-22T04:41:59Z",
+    "updated_at": "2026-10-22T05:53:09Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -220,7 +247,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40545,
+    "stars": 40546,
     "updated_at": "2026-10-22T04:15:46Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-22T02:12:23Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti",
-    "id": "rvarun03/ARIOS",
-    "language": "Python",
-    "name": "rvarun03/ARIOS",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:00:27Z",
-    "url": "https://github.com/rvarun03/ARIOS"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67419,
-    "updated_at": "2026-10-22T01:59:45Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
-    "id": "lychee888/Rag-Kit",
-    "language": "Python",
-    "name": "lychee888/Rag-Kit",
-    "stars": 0,
-    "updated_at": "2026-10-22T01:42:39Z",
-    "url": "https://github.com/lychee888/Rag-Kit"
   }
 ]
