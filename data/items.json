@@ -1,11 +1,92 @@
 [
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 917,
+    "updated_at": "2026-10-22T12:59:52Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 261,
+    "updated_at": "2026-10-22T12:54:56Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
+    "id": "bartvanbenthem/basis-ai",
+    "language": "TypeScript",
+    "name": "bartvanbenthem/basis-ai",
+    "stars": 1,
+    "updated_at": "2026-10-22T12:51:16Z",
+    "url": "https://github.com/bartvanbenthem/basis-ai"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-22T12:50:35Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "TeamDocs AI is an AI-powered RAG (Retrieval-Augmented Generation) assistant designed to help software development teams ",
+    "id": "HosseinHeydari2004/TeamDocs-AI",
+    "language": "Python",
+    "name": "HosseinHeydari2004/TeamDocs-AI",
+    "stars": 0,
+    "updated_at": "2026-10-22T12:50:17Z",
+    "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-22T12:49:16Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8409,
+    "updated_at": "2026-10-22T12:48:11Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 19,
+    "updated_at": "2026-10-22T12:48:15Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-22T12:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-22T12:45:22Z",
+    "updated_at": "2026-10-22T13:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,17 +95,8 @@
     "language": "Python",
     "name": "JesseSaarinen/AI-study-assistant",
     "stars": 0,
-    "updated_at": "2026-10-22T12:45:25Z",
+    "updated_at": "2026-10-22T12:50:53Z",
     "url": "https://github.com/JesseSaarinen/AI-study-assistant"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-22T12:44:21Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
@@ -72,6 +144,15 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32658,
+    "updated_at": "2026-10-22T12:52:57Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
     "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
     "language": "Shell",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T12:36:05Z",
     "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-22T12:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -131,7 +203,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-22T12:23:54Z",
+    "updated_at": "2026-10-22T12:59:42Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -171,15 +243,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-22T12:09:52Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -187,15 +250,6 @@
     "stars": 2391,
     "updated_at": "2026-10-22T12:09:30Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
-    "id": "bartvanbenthem/basis-ai",
-    "language": "TypeScript",
-    "name": "bartvanbenthem/basis-ai",
-    "stars": 1,
-    "updated_at": "2026-10-22T12:07:26Z",
-    "url": "https://github.com/bartvanbenthem/basis-ai"
   },
   {
     "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40570,
-    "updated_at": "2026-10-22T12:34:37Z",
+    "updated_at": "2026-10-22T12:58:38Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -248,7 +302,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11740,
-    "updated_at": "2026-10-22T12:02:01Z",
+    "updated_at": "2026-10-22T12:56:25Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -320,17 +374,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9430,
-    "updated_at": "2026-10-22T12:42:26Z",
+    "updated_at": "2026-10-22T12:46:12Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32657,
-    "updated_at": "2026-10-22T12:37:41Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-22T11:15:31Z",
+    "updated_at": "2026-10-22T12:57:36Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 39452,
     "updated_at": "2026-10-22T11:05:20Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Official repository of the kANNolo library.",
-    "id": "tusKANNy/kannolo",
-    "language": "Rust",
-    "name": "tusKANNy/kannolo",
-    "stars": 77,
-    "updated_at": "2026-10-22T10:45:38Z",
-    "url": "https://github.com/tusKANNy/kannolo"
-  },
-  {
-    "description": "A bare-metal C++20 HNSW vector search engine accelerated with ARM NEON SIMD, delivering 17K+ QPS.",
-    "id": "Anshuman13-code/VectorCore",
-    "language": "C++",
-    "name": "Anshuman13-code/VectorCore",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:26:02Z",
-    "url": "https://github.com/Anshuman13-code/VectorCore"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2033,
-    "updated_at": "2026-10-22T10:19:07Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3734,
-    "updated_at": "2026-10-22T10:17:43Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "High-performance self-hosted photo management platform featuring AI face recognition, CLIP semantic search, YOLO tagging",
-    "id": "Niccher/Chege-Photos-Platform",
-    "language": "PHP",
-    "name": "Niccher/Chege-Photos-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:15:38Z",
-    "url": "https://github.com/Niccher/Chege-Photos-Platform"
   }
 ]
