@@ -1,11 +1,83 @@
 [
   {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-22T00:59:36Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-22T00:59:55Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-22T00:54:22Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9430,
+    "updated_at": "2026-10-22T00:52:11Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 275,
+    "updated_at": "2026-10-22T01:00:20Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin",
+    "id": "dolev31/lasagna",
+    "language": "Python",
+    "name": "dolev31/lasagna",
+    "stars": 1,
+    "updated_at": "2026-10-22T00:49:23Z",
+    "url": "https://github.com/dolev31/lasagna"
+  },
+  {
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 467,
+    "updated_at": "2026-10-22T00:49:22Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-22T00:48:51Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-22T00:45:24Z",
+    "updated_at": "2026-10-22T00:47:29Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -18,24 +90,6 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin",
-    "id": "dolev31/lasagna",
-    "language": "Python",
-    "name": "dolev31/lasagna",
-    "stars": 1,
-    "updated_at": "2026-10-22T00:45:07Z",
-    "url": "https://github.com/dolev31/lasagna"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 275,
-    "updated_at": "2026-10-22T00:44:44Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "Self-hosted platform to specialize and serve private LLMs \u2014 Knowledge (RAG) + Fine-tuning (LoRA/QLoRA), including image-",
     "id": "yielab/adapta",
     "language": "Python",
@@ -43,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-22T00:40:37Z",
     "url": "https://github.com/yielab/adapta"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 467,
-    "updated_at": "2026-10-22T00:39:55Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-22T00:47:14Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -86,7 +122,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1213,
-    "updated_at": "2026-10-22T00:32:58Z",
+    "updated_at": "2026-10-22T00:58:23Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-10-22T00:29:55Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-22T00:22:02Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -216,15 +243,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T00:31:05Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "software for simulating human-like interaction with AI using a cognitive approach",
     "id": "sriramsme/pragYantra",
     "language": "Python",
@@ -248,7 +266,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-22T00:16:40Z",
+    "updated_at": "2026-10-22T00:49:54Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T23:05:20Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9430,
-    "updated_at": "2026-10-22T00:45:32Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -401,7 +410,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11733,
-    "updated_at": "2026-10-21T22:11:39Z",
+    "updated_at": "2026-10-22T00:55:21Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-21T21:47:48Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
-    "id": "redis-developer/redis-ai-resources",
-    "language": "Jupyter Notebook",
-    "name": "redis-developer/redis-ai-resources",
-    "stars": 498,
-    "updated_at": "2026-10-21T21:37:09Z",
-    "url": "https://github.com/redis-developer/redis-ai-resources"
   }
 ]
