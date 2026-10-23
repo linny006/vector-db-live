@@ -1,5 +1,113 @@
 [
   {
+    "description": "Unofficial Terraform provider for turbopuffer \u2014 manage vector database namespaces, attribute schemas, and pinning declar",
+    "id": "somoore/terraform-provider-tpuf",
+    "language": "Go",
+    "name": "somoore/terraform-provider-tpuf",
+    "stars": 1,
+    "updated_at": "2026-10-23T15:13:15Z",
+    "url": "https://github.com/somoore/terraform-provider-tpuf"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 508,
+    "updated_at": "2026-10-23T15:11:55Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "\ud83e\udd16 Intelligent RAG chatbot with dual modes: COVID-19 medical assistant + custom document Q&A. Built with LangChain, Chrom",
+    "id": "fomativeh/RAG-Chatbot",
+    "language": "Python",
+    "name": "fomativeh/RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:11:21Z",
+    "url": "https://github.com/fomativeh/RAG-Chatbot"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "Java",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-10-23T15:10:32Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Evaluation-driven RAG assistant over the FastAPI docs: hybrid retrieval (BGE + ChromaDB + BM25/RRF), streaming answers w",
+    "id": "kinshuk-coder/rag-fastapi-docs",
+    "language": "Python",
+    "name": "kinshuk-coder/rag-fastapi-docs",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:09:53Z",
+    "url": "https://github.com/kinshuk-coder/rag-fastapi-docs"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-23T15:11:55Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-23T15:14:46Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-23T15:02:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+    "id": "LLPhant/LLPhant",
+    "language": "PHP",
+    "name": "LLPhant/LLPhant",
+    "stars": 1722,
+    "updated_at": "2026-10-23T15:01:10Z",
+    "url": "https://github.com/LLPhant/LLPhant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T15:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T15:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 263,
+    "updated_at": "2026-10-23T14:59:52Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
     "id": "GCTRL-TECH/platform",
     "language": "TypeScript",
@@ -27,6 +135,15 @@
     "url": "https://github.com/newfoundcodes/amaquet"
   },
   {
+    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
+    "id": "api-evangelist/surrealdb",
+    "language": "\u2014",
+    "name": "api-evangelist/surrealdb",
+    "stars": 0,
+    "updated_at": "2026-10-23T14:52:54Z",
+    "url": "https://github.com/api-evangelist/surrealdb"
+  },
+  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -34,24 +151,6 @@
     "stars": 59642,
     "updated_at": "2026-10-23T14:46:02Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T14:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T15:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
@@ -81,15 +180,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-23T14:35:00Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -104,7 +194,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9476,
-    "updated_at": "2026-10-23T14:32:42Z",
+    "updated_at": "2026-10-23T15:05:45Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -203,7 +293,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-23T14:57:04Z",
+    "updated_at": "2026-10-23T15:12:02Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -211,7 +301,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39537,
+    "stars": 39540,
     "updated_at": "2026-10-23T14:07:10Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -266,7 +356,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-23T13:57:54Z",
+    "updated_at": "2026-10-23T15:08:23Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -320,7 +410,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46462,
-    "updated_at": "2026-10-23T13:37:55Z",
+    "updated_at": "2026-10-23T15:04:30Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -331,24 +421,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T13:36:09Z",
     "url": "https://github.com/imkausarbd/imkausarbd"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 508,
-    "updated_at": "2026-10-23T14:54:57Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-23T14:11:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
@@ -369,15 +441,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-23T13:45:43Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
     "id": "SwineCoder101/hvec",
     "language": "Rust",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T12:57:45Z",
     "url": "https://github.com/SwineCoder101/hvec"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8427,
-    "updated_at": "2026-10-23T14:59:53Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents and audio or video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 371,
-    "updated_at": "2026-10-23T12:46:57Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-23T13:23:22Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Chat with your PDFs: a RAG app built with FastAPI, ChromaDB and Gemini that answers with page-level citations and says s",
-    "id": "sherakram/docchat-rag-assistant",
-    "language": "Python",
-    "name": "sherakram/docchat-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:40:05Z",
-    "url": "https://github.com/sherakram/docchat-rag-assistant"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-23T12:37:26Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-23T14:28:11Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-23T12:32:44Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
