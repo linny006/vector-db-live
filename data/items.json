@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T16:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Kubernetes operator for K8ssandra",
+    "id": "k8ssandra/k8ssandra-operator",
+    "language": "Go",
+    "name": "k8ssandra/k8ssandra-operator",
+    "stars": 243,
+    "updated_at": "2026-10-23T15:58:03Z",
+    "url": "https://github.com/k8ssandra/k8ssandra-operator"
+  },
+  {
+    "description": "Detect and erase deleted records left on disk by Chroma, Postgres/pgvector and SQLite stores, with signed receipts.",
+    "id": "Sharathvc23/forgetproof",
+    "language": "Python",
+    "name": "Sharathvc23/forgetproof",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:56:43Z",
+    "url": "https://github.com/Sharathvc23/forgetproof"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-23T15:56:32Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-23T15:55:34Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T15:55:15Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
     "id": "Yoruxyv/semantix",
     "language": "Python",
@@ -45,22 +99,13 @@
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T15:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T15:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "VectifyAI/PageIndex",
+    "stars": 39542,
+    "updated_at": "2026-10-23T15:46:30Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -144,15 +189,6 @@
     "url": "https://github.com/kividbio/kividb"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39541,
-    "updated_at": "2026-10-23T15:46:30Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
     "id": "redis-developer/redis-ai-resources",
     "language": "Jupyter Notebook",
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T15:28:19Z",
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-23T15:48:27Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
@@ -220,8 +247,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32698,
-    "updated_at": "2026-10-23T15:46:52Z",
+    "stars": 32699,
+    "updated_at": "2026-10-23T15:58:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-23T15:51:12Z",
+    "updated_at": "2026-10-23T15:56:59Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -322,15 +349,6 @@
     "stars": 59642,
     "updated_at": "2026-10-23T14:46:02Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-23T15:53:16Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -430,23 +448,5 @@
     "stars": 35,
     "updated_at": "2026-10-23T14:02:26Z",
     "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "\u9762\u5411\u4f7f\u7528 FastAPI \u7684\u540e\u7aef\u5f00\u53d1\u8005\uff1a\u7528\u4e2d\u6587\u63d0\u95ee\uff0c\u7cfb\u7edf\u4ece\u5b98\u65b9\u82f1\u6587\u6587\u6863\u4e2d\u68c0\u7d22\u76f8\u5173\u6bb5\u843d\uff0c \u6309\u76f8\u5173\u6027\u9608\u503c\u7b5b\u6389\u65e0\u5173\u5185\u5bb9\u540e\u751f\u6210\u4e2d\u6587\u56de\u7b54\uff0c\u5e76\u6807\u6ce8\u6bcf\u6bb5\u7ed3\u8bba\u51fa\u81ea\u54ea\u4e2a\u6587\u4ef6\uff0c \u53ef\u9010\u6761\u56de\u6eaf\u539f\u6587\u3002\u5185\u7f6e 50 \u9898\u8bc4\u6d4b\u96c6\u4e0e 113 \u6761\u56de\u5f52\u6d4b\u8bd5\uff0c\u68c0\u7d22\u6548\u679c\u4e0e\u6bcf\u6b21\u6539\u52a8\u90fd\u53ef",
-    "id": "yun-248710/fastapi-docs-rag",
-    "language": "Python",
-    "name": "yun-248710/fastapi-docs-rag",
-    "stars": 0,
-    "updated_at": "2026-10-23T13:59:49Z",
-    "url": "https://github.com/yun-248710/fastapi-docs-rag"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1215,
-    "updated_at": "2026-10-23T14:44:58Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
