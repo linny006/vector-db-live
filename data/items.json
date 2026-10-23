@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T00:15:20Z",
+    "updated_at": "2026-10-23T00:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-23T00:25:00Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Semantic search engine with Flat and IVF vector indexes written from scratch, REST API and web UI. IVF ~9x faster than e",
+    "id": "AceAtDev/VecterDB-Q",
+    "language": "Python",
+    "name": "AceAtDev/VecterDB-Q",
+    "stars": 1,
+    "updated_at": "2026-10-23T00:24:41Z",
+    "url": "https://github.com/AceAtDev/VecterDB-Q"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-23T00:22:34Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-23T00:21:36Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object.",
+    "id": "equationalapplications/sqlite-s3-agent-tutorial",
+    "language": "TypeScript",
+    "name": "equationalapplications/sqlite-s3-agent-tutorial",
+    "stars": 0,
+    "updated_at": "2026-10-23T00:20:41Z",
+    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T00:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Plan de controle Qdrant - dashboard 3D de similarite + serveur MCP (9 outils, lecture seule). Python stdlib, 100% local,",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9433,
-    "updated_at": "2026-10-23T00:10:48Z",
+    "updated_at": "2026-10-23T00:23:14Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -45,31 +99,13 @@
     "url": "https://github.com/motedb/motedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T00:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
     "id": "writerslogic/holographic-memory",
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T00:01:55Z",
+    "updated_at": "2026-10-23T00:25:23Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-22T23:52:33Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
@@ -124,6 +160,15 @@
     "stars": 2,
     "updated_at": "2026-10-22T23:30:02Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8421,
+    "updated_at": "2026-10-22T23:22:47Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
@@ -234,15 +279,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object.",
-    "id": "equationalapplications/sqlite-s3-agent-tutorial",
-    "language": "TypeScript",
-    "name": "equationalapplications/sqlite-s3-agent-tutorial",
-    "stars": 0,
-    "updated_at": "2026-10-23T00:09:24Z",
-    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
-  },
-  {
     "description": "Jigen DB is vector database written from scratch in c#",
     "id": "ppossanzini/Jigen",
     "language": "C#",
@@ -259,15 +295,6 @@
     "stars": 263,
     "updated_at": "2026-10-22T22:17:31Z",
     "url": "https://github.com/oramasearch/oramacore"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8421,
-    "updated_at": "2026-10-22T23:22:47Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -295,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T22:02:23Z",
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-22T21:57:54Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "\ud83d\uddc4\ufe0f Drop legacy database stacks. 50+ verified gamechanger tools \u2014 benchmarks, not vibes. DuckDB \u00b7 SurrealDB \u00b7 Turso \u00b7 Neo",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T21:14:38Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:10:29Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 27,
-    "updated_at": "2026-10-22T20:55:20Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   }
 ]
