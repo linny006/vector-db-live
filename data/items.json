@@ -1,11 +1,92 @@
 [
   {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-23T20:14:58Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Self-hosted microservice RAG on a single 6 GB GPU: Docling OCR, Qwen3.5-4B on SGLang, Qdrant hybrid search (bge-m3 + BM2",
+    "id": "mdmonsurali/Advanced-Hybrid-RAG",
+    "language": "Python",
+    "name": "mdmonsurali/Advanced-Hybrid-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-23T20:14:13Z",
+    "url": "https://github.com/mdmonsurali/Advanced-Hybrid-RAG"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-23T20:14:12Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
+    "id": "livendb/liven",
+    "language": "Rust",
+    "name": "livendb/liven",
+    "stars": 1,
+    "updated_at": "2026-10-23T20:10:45Z",
+    "url": "https://github.com/livendb/liven"
+  },
+  {
+    "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 22,
+    "updated_at": "2026-10-23T20:10:35Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-23T20:09:03Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "local-first semantic code search engine",
+    "id": "kantord/SeaGOAT",
+    "language": "Python",
+    "name": "kantord/SeaGOAT",
+    "stars": 1314,
+    "updated_at": "2026-10-23T20:15:07Z",
+    "url": "https://github.com/kantord/SeaGOAT"
+  },
+  {
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-23T20:06:45Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T20:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T20:00:23Z",
+    "updated_at": "2026-10-23T20:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-23T19:59:09Z",
+    "updated_at": "2026-10-23T20:13:53Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -63,15 +144,6 @@
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-23T19:59:00Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "Vector graphics format authored in DixScript, compressed with MBFA",
     "id": "Mid-D-Man/msx",
     "language": "Rust",
@@ -81,21 +153,12 @@
     "url": "https://github.com/Mid-D-Man/msx"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T19:47:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11754,
-    "updated_at": "2026-10-23T19:59:30Z",
+    "updated_at": "2026-10-23T20:10:20Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -126,15 +189,6 @@
     "url": "https://github.com/eggspot/EggDB"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:56:39Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
@@ -149,7 +203,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8431,
-    "updated_at": "2026-10-23T19:36:55Z",
+    "updated_at": "2026-10-23T20:11:42Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-10-23T19:35:49Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
-    "id": "livendb/liven",
-    "language": "Rust",
-    "name": "livendb/liven",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:59:54Z",
-    "url": "https://github.com/livendb/liven"
   },
   {
     "description": "Building multi-tenant Retrieval Augmented Generation platform ",
@@ -329,7 +374,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-23T19:36:28Z",
+    "updated_at": "2026-10-23T20:14:32Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T18:32:26Z",
     "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:31:31Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:31:11Z",
-    "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:24:53Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-23T18:25:21Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
-    "id": "api-evangelist/ragflow",
-    "language": "\u2014",
-    "name": "api-evangelist/ragflow",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:13:53Z",
-    "url": "https://github.com/api-evangelist/ragflow"
   }
 ]
