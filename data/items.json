@@ -1,5 +1,131 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T15:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-23T15:30:06Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 510,
+    "updated_at": "2026-10-23T15:29:49Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39540,
+    "updated_at": "2026-10-23T15:29:35Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
+    "id": "redis-developer/redis-ai-resources",
+    "language": "Jupyter Notebook",
+    "name": "redis-developer/redis-ai-resources",
+    "stars": 497,
+    "updated_at": "2026-10-23T15:28:51Z",
+    "url": "https://github.com/redis-developer/redis-ai-resources"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:28:19Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-23T15:27:34Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+    "id": "LLPhant/LLPhant",
+    "language": "PHP",
+    "name": "LLPhant/LLPhant",
+    "stars": 1722,
+    "updated_at": "2026-10-23T15:24:01Z",
+    "url": "https://github.com/LLPhant/LLPhant"
+  },
+  {
+    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
+    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "language": "HTML",
+    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:22:55Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-23T15:21:53Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13288,
+    "updated_at": "2026-10-23T15:30:12Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "A multi-user load benchmark for Long-Term Memory (LTM) systems",
+    "id": "skhynix/LTM100",
+    "language": "Python",
+    "name": "skhynix/LTM100",
+    "stars": 4,
+    "updated_at": "2026-10-23T15:17:52Z",
+    "url": "https://github.com/skhynix/LTM100"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32698,
+    "updated_at": "2026-10-23T15:16:46Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T15:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Unofficial Terraform provider for turbopuffer \u2014 manage vector database namespaces, attribute schemas, and pinning declar",
     "id": "somoore/terraform-provider-tpuf",
     "language": "Go",
@@ -7,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T15:13:15Z",
     "url": "https://github.com/somoore/terraform-provider-tpuf"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 508,
-    "updated_at": "2026-10-23T15:11:55Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "\ud83e\udd16 Intelligent RAG chatbot with dual modes: COVID-19 medical assistant + custom document Q&A. Built with LangChain, Chrom",
@@ -50,7 +167,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-23T15:11:55Z",
+    "updated_at": "2026-10-23T15:22:48Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -72,33 +189,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
-    "id": "LLPhant/LLPhant",
-    "language": "PHP",
-    "name": "LLPhant/LLPhant",
-    "stars": 1722,
-    "updated_at": "2026-10-23T15:01:10Z",
-    "url": "https://github.com/LLPhant/LLPhant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T15:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T15:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
     "id": "qdrant/skills",
     "language": "Python",
@@ -115,15 +205,6 @@
     "stars": 7,
     "updated_at": "2026-10-23T14:57:40Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32696,
-    "updated_at": "2026-10-23T14:56:17Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
@@ -166,7 +247,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40671,
+    "stars": 40672,
     "updated_at": "2026-10-23T14:38:21Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -194,7 +275,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9476,
-    "updated_at": "2026-10-23T15:05:45Z",
+    "updated_at": "2026-10-23T15:16:17Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -261,15 +342,6 @@
     "url": "https://github.com/livendb/liven"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-23T14:21:29Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
     "id": "motedb/motedb",
     "language": "Rust",
@@ -288,38 +360,11 @@
     "url": "https://github.com/waynewbishop/quiver"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-23T15:12:02Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39540,
-    "updated_at": "2026-10-23T14:07:10Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13288,
-    "updated_at": "2026-10-23T14:57:00Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35211,
+    "stars": 35212,
     "updated_at": "2026-10-23T14:03:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -383,7 +428,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 120,
-    "updated_at": "2026-10-23T13:57:02Z",
+    "updated_at": "2026-10-23T15:24:18Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 291,
     "updated_at": "2026-10-23T13:42:18Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46462,
-    "updated_at": "2026-10-23T15:04:30Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI Automation Engineer building AI agents, n8n workflows, RAG chatbots, and MCP integrations using Claude AI and ChatGPT",
-    "id": "imkausarbd/imkausarbd",
-    "language": "\u2014",
-    "name": "imkausarbd/imkausarbd",
-    "stars": 0,
-    "updated_at": "2026-10-23T13:36:09Z",
-    "url": "https://github.com/imkausarbd/imkausarbd"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 12,
-    "updated_at": "2026-10-23T13:15:15Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-23T13:08:42Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
-    "id": "SwineCoder101/hvec",
-    "language": "Rust",
-    "name": "SwineCoder101/hvec",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:57:45Z",
-    "url": "https://github.com/SwineCoder101/hvec"
   }
 ]
