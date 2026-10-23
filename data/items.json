@@ -1,5 +1,32 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-23T22:58:17Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-23T22:55:52Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T22:54:07Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "German news topic classification (10kGNAD): embeddings + Qdrant kNN vs fine-tuned DistilBERT, 0.897 macro-F1",
     "id": "abhisheklakhani-it/german-text-classifier",
     "language": "Python",
@@ -25,24 +52,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T22:46:37Z",
     "url": "https://github.com/Biccamor/Moovy"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-23T22:45:51Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T22:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -104,7 +113,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 67492,
-    "updated_at": "2026-10-23T22:53:28Z",
+    "updated_at": "2026-10-23T22:59:56Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -140,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9436,
-    "updated_at": "2026-10-23T22:48:11Z",
+    "updated_at": "2026-10-23T22:58:43Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -247,7 +256,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 528,
+    "stars": 529,
     "updated_at": "2026-10-23T21:45:05Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -275,7 +284,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-23T21:51:46Z",
+    "updated_at": "2026-10-23T22:54:36Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -373,7 +382,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35218,
+    "stars": 35219,
     "updated_at": "2026-10-23T20:34:01Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -412,15 +421,6 @@
     "stars": 22,
     "updated_at": "2026-10-23T20:10:35Z",
     "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-23T19:51:56Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Self improving agents through iterations",
