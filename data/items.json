@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T03:30:21Z",
+    "updated_at": "2026-10-23T03:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-23T03:29:01Z",
-    "url": "https://github.com/miniaxolotl/grove"
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40611,
+    "updated_at": "2026-10-23T03:41:13Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -23,17 +23,26 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T03:28:50Z",
+    "updated_at": "2026-10-23T03:45:08Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 467,
+    "updated_at": "2026-10-23T03:40:48Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
+    "id": "lychee888/Rag-Kit",
     "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40610,
-    "updated_at": "2026-10-23T03:23:23Z",
-    "url": "https://github.com/volcengine/OpenViking"
+    "name": "lychee888/Rag-Kit",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:38:41Z",
+    "url": "https://github.com/lychee888/Rag-Kit"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -41,8 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-23T03:15:27Z",
+    "updated_at": "2026-10-23T03:30:27Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-23T03:38:04Z",
+    "url": "https://github.com/miniaxolotl/grove"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -76,7 +94,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 475,
+    "stars": 476,
     "updated_at": "2026-10-23T02:56:20Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9475,
-    "updated_at": "2026-10-23T02:51:36Z",
+    "updated_at": "2026-10-23T03:40:23Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46454,
-    "updated_at": "2026-10-23T03:21:54Z",
+    "updated_at": "2026-10-23T03:38:16Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T02:19:40Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 467,
-    "updated_at": "2026-10-23T02:04:48Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T23:23:26Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-22T22:52:23Z",
-    "url": "https://github.com/d3uceY/vectile"
   }
 ]
