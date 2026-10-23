@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T05:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-23T04:57:56Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-23T04:55:48Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-23T04:55:29Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Part of the LangChain.NET project. Has separate abstractions, does not contain dependencies on the main project and can ",
+    "id": "tryAGI/LangChain.Databases",
+    "language": "C#",
+    "name": "tryAGI/LangChain.Databases",
+    "stars": 12,
+    "updated_at": "2026-10-23T04:52:49Z",
+    "url": "https://github.com/tryAGI/LangChain.Databases"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-23T04:57:31Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
+    "id": "nambok/mentedb",
+    "language": "Rust",
+    "name": "nambok/mentedb",
+    "stars": 120,
+    "updated_at": "2026-10-23T04:55:24Z",
+    "url": "https://github.com/nambok/mentedb"
+  },
+  {
+    "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
+    "id": "newfoundcodes/amaquet",
+    "language": "Go",
+    "name": "newfoundcodes/amaquet",
+    "stars": 0,
+    "updated_at": "2026-10-23T04:46:49Z",
+    "url": "https://github.com/newfoundcodes/amaquet"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11746,
+    "updated_at": "2026-10-23T04:45:28Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T04:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -18,13 +108,13 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
-    "id": "newfoundcodes/amaquet",
-    "language": "Go",
-    "name": "newfoundcodes/amaquet",
-    "stars": 0,
-    "updated_at": "2026-10-23T04:44:05Z",
-    "url": "https://github.com/newfoundcodes/amaquet"
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40619,
+    "updated_at": "2026-10-23T04:41:36Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -32,17 +122,8 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T04:37:11Z",
+    "updated_at": "2026-10-23T04:52:34Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
-    "id": "nambok/mentedb",
-    "language": "Rust",
-    "name": "nambok/mentedb",
-    "stars": 120,
-    "updated_at": "2026-10-23T04:38:43Z",
-    "url": "https://github.com/nambok/mentedb"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -50,7 +131,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-23T04:36:45Z",
+    "updated_at": "2026-10-23T04:54:47Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -61,15 +142,6 @@
     "stars": 2057,
     "updated_at": "2026-10-23T04:41:02Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-23T04:37:29Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
@@ -90,24 +162,6 @@
     "url": "https://github.com/mahpate/Vlite"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T04:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T04:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
     "id": "caoergou/dify-installer",
     "language": "Shell",
@@ -115,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-23T04:29:48Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40616,
-    "updated_at": "2026-10-23T04:41:36Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "MantleJs/mantle",
     "stars": 0,
-    "updated_at": "2026-10-23T04:26:27Z",
+    "updated_at": "2026-10-23T04:49:32Z",
     "url": "https://github.com/MantleJs/mantle"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 291,
     "updated_at": "2026-10-23T04:27:03Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-23T04:43:36Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T03:58:06Z",
     "url": "https://github.com/kylebrodeur/modal-embedding-server"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-23T04:43:42Z",
-    "url": "https://github.com/miniaxolotl/grove"
   },
   {
     "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
@@ -247,7 +274,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 478,
+    "stars": 479,
     "updated_at": "2026-10-23T02:56:20Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -310,7 +337,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32680,
+    "stars": 32681,
     "updated_at": "2026-10-23T02:03:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -322,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T02:02:31Z",
     "url": "https://github.com/MlkBlk-IT/Mcp-QadGraph"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-23T02:01:04Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
     "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
@@ -430,23 +448,5 @@
     "stars": 67464,
     "updated_at": "2026-10-23T01:14:47Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-23T01:12:40Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Semantic search engine with Flat and IVF vector indexes written from scratch, REST API and web UI. IVF ~8x faster than e",
-    "id": "AceAtDev/VecterDB-Q",
-    "language": "Python",
-    "name": "AceAtDev/VecterDB-Q",
-    "stars": 1,
-    "updated_at": "2026-10-23T01:05:24Z",
-    "url": "https://github.com/AceAtDev/VecterDB-Q"
   }
 ]
