@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T23:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11754,
+    "updated_at": "2026-10-23T23:13:37Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9436,
+    "updated_at": "2026-10-23T23:15:14Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "A lightweight, minimal memory framework for AI agents",
+    "id": "SitanshuA091/memlib-ai",
+    "language": "Python",
+    "name": "SitanshuA091/memlib-ai",
+    "stars": 0,
+    "updated_at": "2026-10-23T23:04:27Z",
+    "url": "https://github.com/SitanshuA091/memlib-ai"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67493,
+    "updated_at": "2026-10-23T23:04:11Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-23T23:03:40Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T23:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -16,15 +79,6 @@
     "stars": 49,
     "updated_at": "2026-10-23T22:55:52Z",
     "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T22:54:07Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "German news topic classification (10kGNAD): embeddings + Qdrant kNN vs fine-tuned DistilBERT, 0.897 macro-F1",
@@ -52,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T22:46:37Z",
     "url": "https://github.com/Biccamor/Moovy"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T22:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A lightweight, minimal memory framework for AI agents",
-    "id": "SitanshuA091/memlib-ai",
-    "language": "Python",
-    "name": "SitanshuA091/memlib-ai",
-    "stars": 0,
-    "updated_at": "2026-10-23T22:43:48Z",
-    "url": "https://github.com/SitanshuA091/memlib-ai"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -108,15 +144,6 @@
     "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67492,
-    "updated_at": "2026-10-23T22:59:56Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Lightweight, sub-gigabyte long-term memory middleware for AI agents.",
     "id": "remenis-memory/remenis",
     "language": "Shell",
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T22:35:37Z",
+    "updated_at": "2026-10-23T23:14:21Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -140,17 +167,8 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 2038,
-    "updated_at": "2026-10-23T22:39:52Z",
+    "updated_at": "2026-10-23T23:10:51Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9436,
-    "updated_at": "2026-10-23T22:58:43Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-23T22:27:10Z",
     "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11754,
-    "updated_at": "2026-10-23T22:25:44Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -203,8 +212,17 @@
     "language": "Python",
     "name": "Empreiteiro/yoke-agent",
     "stars": 3,
-    "updated_at": "2026-10-23T22:15:34Z",
+    "updated_at": "2026-10-23T23:10:19Z",
     "url": "https://github.com/Empreiteiro/yoke-agent"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6545,
+    "updated_at": "2026-10-23T22:10:19Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "AnythingLLM Desktop \u2014 The enhanced all-in-one AI desktop app.",
@@ -256,18 +274,9 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 529,
+    "stars": 530,
     "updated_at": "2026-10-23T21:45:05Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-23T21:40:33Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Self-hosted microservice RAG on a single 6 GB GPU: Docling OCR, Qwen3.5-4B on SGLang, Qdrant hybrid search (bge-m3 + BM2",
@@ -295,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T22:27:16Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6546,
-    "updated_at": "2026-10-23T22:10:19Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
@@ -382,7 +382,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35219,
+    "stars": 35218,
     "updated_at": "2026-10-23T20:34:01Z",
     "url": "https://github.com/qdrant/qdrant"
   },
