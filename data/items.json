@@ -1,5 +1,131 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T18:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-10-23T18:00:18Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "\ud83e\udd85\ud83e\udebd Sovereign Self-Evolving AI Agent Framework: Hermes closed-loop skill evolution x OpenClaw <1.5K token frugality x Gem",
+    "id": "roedyrustam/opentalon",
+    "language": "TypeScript",
+    "name": "roedyrustam/opentalon",
+    "stars": 1,
+    "updated_at": "2026-10-23T17:59:00Z",
+    "url": "https://github.com/roedyrustam/opentalon"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-23T17:58:59Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:58:13Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
+    "id": "api-evangelist/lf-ai-and-data",
+    "language": "\u2014",
+    "name": "api-evangelist/lf-ai-and-data",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:55:41Z",
+    "url": "https://github.com/api-evangelist/lf-ai-and-data"
+  },
+  {
+    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:54:35Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "MDX",
+    "name": "lancedb/docs",
+    "stars": 12,
+    "updated_at": "2026-10-23T17:54:04Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11754,
+    "updated_at": "2026-10-23T17:52:47Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
+    "id": "RishabhMathur06/CASO-RAG",
+    "language": "Python",
+    "name": "RishabhMathur06/CASO-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:51:55Z",
+    "url": "https://github.com/RishabhMathur06/CASO-RAG"
+  },
+  {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:51:13Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama",
+    "id": "jeganxthan/Anvil",
+    "language": "TypeScript",
+    "name": "jeganxthan/Anvil",
+    "stars": 0,
+    "updated_at": "2026-10-23T17:50:27Z",
+    "url": "https://github.com/jeganxthan/Anvil"
+  },
+  {
+    "description": "Official Python SDK for the Pinecone vector database",
+    "id": "pinecone-io/python-sdk",
+    "language": "Python",
+    "name": "pinecone-io/python-sdk",
+    "stars": 453,
+    "updated_at": "2026-10-23T17:49:40Z",
+    "url": "https://github.com/pinecone-io/python-sdk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T17:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
@@ -23,7 +149,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 131,
-    "updated_at": "2026-10-23T17:44:49Z",
+    "updated_at": "2026-10-23T17:45:37Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -45,21 +171,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 12,
-    "updated_at": "2026-10-23T17:41:37Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9436,
-    "updated_at": "2026-10-23T17:40:21Z",
+    "updated_at": "2026-10-23T17:59:49Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -104,7 +221,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-23T17:32:49Z",
+    "updated_at": "2026-10-23T17:55:03Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -115,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T17:31:15Z",
     "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T17:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T17:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG with dockerized VectorDB x local Llama3.2 LLM",
@@ -176,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4445,
-    "updated_at": "2026-10-23T17:29:00Z",
+    "updated_at": "2026-10-23T17:47:32Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -261,30 +360,12 @@
     "url": "https://github.com/kldhsh123/Afterglow"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-23T17:43:07Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11754,
-    "updated_at": "2026-10-23T17:32:13Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
     "id": "miniaxolotl/grove",
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-23T17:43:01Z",
+    "updated_at": "2026-10-23T17:48:19Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -293,7 +374,7 @@
     "language": "HCL",
     "name": "gordonmurray/qdrant_terraform_aws",
     "stars": 0,
-    "updated_at": "2026-10-23T16:53:00Z",
+    "updated_at": "2026-10-23T17:53:16Z",
     "url": "https://github.com/gordonmurray/qdrant_terraform_aws"
   },
   {
@@ -333,15 +414,6 @@
     "url": "https://github.com/gordonmurray/qdrant_docker_compose"
   },
   {
-    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-10-23T16:43:59Z",
-    "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
     "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
     "id": "structured-world/coordinode-python",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 1215,
     "updated_at": "2026-10-23T16:36:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
-    "id": "livendb/liven",
-    "language": "Rust",
-    "name": "livendb/liven",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:36:14Z",
-    "url": "https://github.com/livendb/liven"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8430,
-    "updated_at": "2026-10-23T16:32:51Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:31:45Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and",
-    "id": "nehalvaghasiya/agentic-rag",
-    "language": "Python",
-    "name": "nehalvaghasiya/agentic-rag",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:26:27Z",
-    "url": "https://github.com/nehalvaghasiya/agentic-rag"
-  },
-  {
-    "description": "LangGraph agent (RAG + SQL tool routing) for e-commerce support with PII masking, prompt-injection detection, JSON-Schem",
-    "id": "YS-Pundir/cartmind-agentic-ecommerce-support",
-    "language": "Python",
-    "name": "YS-Pundir/cartmind-agentic-ecommerce-support",
-    "stars": 2,
-    "updated_at": "2026-10-23T16:22:22Z",
-    "url": "https://github.com/YS-Pundir/cartmind-agentic-ecommerce-support"
-  },
-  {
-    "description": "Agentic AI and Generative AI implementations using LangChain, LangGraph, CrewAI, AutoGen, and advanced RAG architectures",
-    "id": "Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure",
-    "stars": 2,
-    "updated_at": "2026-10-23T16:21:45Z",
-    "url": "https://github.com/Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure"
-  },
-  {
-    "description": ".NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9.",
-    "id": "ChromaDotNet/ChromaDB.Client",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Client",
-    "stars": 36,
-    "updated_at": "2026-10-23T16:21:04Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Client"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7144,
-    "updated_at": "2026-10-23T16:19:19Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
