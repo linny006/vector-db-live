@@ -1,11 +1,101 @@
 [
   {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-23T09:30:02Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1214,
+    "updated_at": "2026-10-23T09:25:52Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46459,
+    "updated_at": "2026-10-23T09:25:42Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-23T09:25:27Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
+    "id": "IdoY12/awesome-free-ai-apis",
+    "language": "JavaScript",
+    "name": "IdoY12/awesome-free-ai-apis",
+    "stars": 1,
+    "updated_at": "2026-10-23T09:25:03Z",
+    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 2,
+    "updated_at": "2026-10-23T09:25:01Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:20:39Z",
+    "url": "https://github.com/api-evangelist/crate-io"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32689,
+    "updated_at": "2026-10-23T09:15:33Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T09:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T09:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13286,
-    "updated_at": "2026-10-23T09:14:52Z",
+    "updated_at": "2026-10-23T09:24:32Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -23,7 +113,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8424,
-    "updated_at": "2026-10-23T09:09:47Z",
+    "updated_at": "2026-10-23T09:22:19Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -36,21 +126,12 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46459,
-    "updated_at": "2026-10-23T09:05:54Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 2035,
-    "updated_at": "2026-10-23T09:10:24Z",
+    "updated_at": "2026-10-23T09:16:56Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -81,58 +162,31 @@
     "url": "https://github.com/api-evangelist/contentstack"
   },
   {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 493,
+    "updated_at": "2026-10-23T09:00:48Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-23T09:00:33Z",
+    "updated_at": "2026-10-23T09:17:48Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T09:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 491,
-    "updated_at": "2026-10-23T09:00:48Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T09:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1214,
-    "updated_at": "2026-10-23T09:05:38Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
-    "id": "nikoma/bicdb",
-    "language": "Rust",
-    "name": "nikoma/bicdb",
-    "stars": 2,
-    "updated_at": "2026-10-23T08:53:18Z",
-    "url": "https://github.com/nikoma/bicdb"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16906,
+    "updated_at": "2026-10-23T08:55:08Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Ask a question as a department, and get an answer built only from what that department may read. In 5,760 searches no ro",
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T09:10:51Z",
+    "updated_at": "2026-10-23T09:16:47Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -187,6 +241,15 @@
     "stars": 0,
     "updated_at": "2026-10-23T08:43:23Z",
     "url": "https://github.com/zilliztech/gemini-cli-extension"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35206,
+    "updated_at": "2026-10-23T08:39:10Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Agent skill that teaches AI agents how to manage Zilliz Cloud vector databases through zilliz-cli",
@@ -223,24 +286,6 @@
     "stars": 3,
     "updated_at": "2026-10-23T08:30:02Z",
     "url": "https://github.com/zilliztech/zilliz-plugin"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32688,
-    "updated_at": "2026-10-23T09:14:33Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-23T09:14:30Z",
-    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
@@ -369,15 +414,6 @@
     "url": "https://github.com/mdmonsurali/Advanced-Hybrid-RAG"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35204,
-    "updated_at": "2026-10-23T08:39:10Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "TeamDocs AI is an AI-powered RAG (Retrieval-Augmented Generation) assistant designed to help software development teams ",
     "id": "HosseinHeydari2004/TeamDocs-AI",
     "language": "Python",
@@ -385,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T07:48:08Z",
     "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-23T07:46:37Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T07:33:49Z",
     "url": "https://github.com/Yourstandby/Material-Mind-Engine"
-  },
-  {
-    "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
-    "id": "kifayat-irfan/VectorMind",
-    "language": "Python",
-    "name": "kifayat-irfan/VectorMind",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:29:34Z",
-    "url": "https://github.com/kifayat-irfan/VectorMind"
-  },
-  {
-    "description": "40 Client-Side Developer & FinOps Utilities, 292 Cloud/LLM Cost Calculators & AI Workflow Marketplace \u2014 Live at https://",
-    "id": "zainmasri/utilforge",
-    "language": "JavaScript",
-    "name": "zainmasri/utilforge",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:28:20Z",
-    "url": "https://github.com/zainmasri/utilforge"
-  },
-  {
-    "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 12,
-    "updated_at": "2026-10-23T07:12:10Z",
-    "url": "https://github.com/gonicolas12/My_AI"
   }
 ]
