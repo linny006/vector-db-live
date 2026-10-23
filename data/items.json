@@ -1,5 +1,86 @@
 [
   {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 500,
+    "updated_at": "2026-10-23T12:15:13Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-23T12:13:59Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 249,
+    "updated_at": "2026-10-23T12:13:34Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-23T12:07:59Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-23T12:07:45Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:03:20Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "By combining chat histories from social media with a vector database, AI can more convincingly recreate someone\u2019s person",
+    "id": "kldhsh123/Afterglow",
+    "language": "Python",
+    "name": "kldhsh123/Afterglow",
+    "stars": 319,
+    "updated_at": "2026-10-23T12:02:40Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T12:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T12:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -45,24 +126,6 @@
     "url": "https://github.com/xavidop/tobira"
   },
   {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-23T11:49:40Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:49:21Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
     "description": "",
     "id": "giuliano0s/ifrs-canoas-rag",
     "language": "Python",
@@ -86,7 +149,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 139,
-    "updated_at": "2026-10-23T11:47:35Z",
+    "updated_at": "2026-10-23T12:06:46Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -99,6 +162,15 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6546,
+    "updated_at": "2026-10-23T11:46:47Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
     "id": "kifayat-irfan/VectorMind",
     "language": "Python",
@@ -108,30 +180,12 @@
     "url": "https://github.com/kifayat-irfan/VectorMind"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T11:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T11:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
     "id": "SeekStorm/SeekStorm",
     "language": "Rust",
     "name": "SeekStorm/SeekStorm",
     "stars": 1920,
-    "updated_at": "2026-10-23T11:45:14Z",
+    "updated_at": "2026-10-23T12:02:29Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 39531,
     "updated_at": "2026-10-23T11:36:21Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 499,
-    "updated_at": "2026-10-23T11:33:45Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
@@ -207,21 +252,12 @@
     "url": "https://github.com/actian-devs/awesome-selfhosted-ai"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-23T11:54:29Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
     "id": "dhanoliya-ji/DOCMINDS",
     "language": "Python",
     "name": "dhanoliya-ji/DOCMINDS",
     "stars": 0,
-    "updated_at": "2026-10-23T11:20:39Z",
+    "updated_at": "2026-10-23T12:14:40Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T11:53:36Z",
+    "updated_at": "2026-10-23T12:09:01Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -248,7 +284,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8426,
-    "updated_at": "2026-10-23T11:55:19Z",
+    "updated_at": "2026-10-23T12:07:48Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -297,15 +333,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6545,
-    "updated_at": "2026-10-23T11:46:47Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Quill is a full-stack AI document Q&A app that lets users upload PDFs and chat with their content using a modern Next.js",
     "id": "ShivamJuyal24/Quill",
     "language": "Python",
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9475,
-    "updated_at": "2026-10-23T11:36:24Z",
+    "updated_at": "2026-10-23T12:08:56Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13286,
-    "updated_at": "2026-10-23T11:57:43Z",
+    "updated_at": "2026-10-23T12:14:30Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T10:25:36Z",
     "url": "https://github.com/Sidd2k3/vectormind"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 24,
-    "updated_at": "2026-10-23T10:22:58Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:12:41Z",
-    "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:12:30Z",
-    "url": "https://github.com/api-evangelist/aerospike"
   }
 ]
