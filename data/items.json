@@ -1,21 +1,111 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T10:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
     "id": "writerslogic/holographic-memory",
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T10:44:49Z",
+    "updated_at": "2026-10-23T10:57:20Z",
     "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40655,
+    "updated_at": "2026-10-23T10:56:45Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6545,
+    "updated_at": "2026-10-23T10:52:50Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Quill is a full-stack AI document Q&A app that lets users upload PDFs and chat with their content using a modern Next.js",
+    "id": "ShivamJuyal24/Quill",
+    "language": "Python",
+    "name": "ShivamJuyal24/Quill",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:51:32Z",
+    "url": "https://github.com/ShivamJuyal24/Quill"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9475,
+    "updated_at": "2026-10-23T10:51:24Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46461,
+    "updated_at": "2026-10-23T10:49:54Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:49:50Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "Collects every item in the Steam Points Shop and stores them in a vector database for steam.style",
+    "id": "Steam-Style/ingestion",
+    "language": "Python",
+    "name": "Steam-Style/ingestion",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:48:25Z",
+    "url": "https://github.com/Steam-Style/ingestion"
+  },
+  {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:47:43Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T10:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T11:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8425,
+    "updated_at": "2026-10-23T10:58:04Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
@@ -95,7 +185,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32692,
-    "updated_at": "2026-10-23T10:31:38Z",
+    "updated_at": "2026-10-23T10:54:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -104,17 +194,8 @@
     "language": "Python",
     "name": "badhope/spark",
     "stars": 21,
-    "updated_at": "2026-10-23T10:30:43Z",
+    "updated_at": "2026-10-23T10:51:42Z",
     "url": "https://github.com/badhope/spark"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T10:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
@@ -131,17 +212,8 @@
     "language": "Go",
     "name": "xavidop/tobira",
     "stars": 1,
-    "updated_at": "2026-10-23T10:29:39Z",
+    "updated_at": "2026-10-23T10:57:18Z",
     "url": "https://github.com/xavidop/tobira"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:41:56Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
     "description": "A vector database built from scratch in Python (Brute Force, KD-Tree, HNSW) powering a fully local RAG assistant that an",
@@ -153,15 +225,6 @@
     "url": "https://github.com/Sidd2k3/vectormind"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46460,
-    "updated_at": "2026-10-23T10:23:23Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -171,15 +234,6 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40654,
-    "updated_at": "2026-10-23T10:22:49Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -187,6 +241,15 @@
     "stars": 6,
     "updated_at": "2026-10-23T10:28:29Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "\ud83e\udd85\ud83e\udebd Sovereign Self-Evolving AI Agent Framework: Hermes closed-loop skill evolution x OpenClaw <1.5K token frugality x Gem",
+    "id": "roedyrustam/opentalon",
+    "language": "TypeScript",
+    "name": "roedyrustam/opentalon",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:18:08Z",
+    "url": "https://github.com/roedyrustam/opentalon"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -225,6 +288,15 @@
     "url": "https://github.com/api-evangelist/aerospike"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11752,
+    "updated_at": "2026-10-23T10:07:05Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
     "id": "kifayat-irfan/VectorMind",
     "language": "Python",
@@ -247,7 +319,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35208,
+    "stars": 35209,
     "updated_at": "2026-10-23T10:00:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -295,15 +367,6 @@
     "stars": 2057,
     "updated_at": "2026-10-23T09:49:15Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11751,
-    "updated_at": "2026-10-23T10:07:05Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
@@ -360,15 +423,6 @@
     "url": "https://github.com/jvorndran/RAG-Visualizer"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8424,
-    "updated_at": "2026-10-23T10:45:07Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -392,61 +446,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7143,
-    "updated_at": "2026-10-23T09:06:51Z",
+    "updated_at": "2026-10-23T10:50:42Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:02:38Z",
-    "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 495,
-    "updated_at": "2026-10-23T09:00:48Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16906,
-    "updated_at": "2026-10-23T10:42:08Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-23T09:09:15Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Official repository of the kANNolo library.",
-    "id": "tusKANNy/kannolo",
-    "language": "Rust",
-    "name": "tusKANNy/kannolo",
-    "stars": 77,
-    "updated_at": "2026-10-23T08:44:24Z",
-    "url": "https://github.com/tusKANNy/kannolo"
-  },
-  {
-    "description": "Gemini CLI extension for driving Zilliz Cloud via zilliz-cli.",
-    "id": "zilliztech/gemini-cli-extension",
-    "language": "JavaScript",
-    "name": "zilliztech/gemini-cli-extension",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:43:23Z",
-    "url": "https://github.com/zilliztech/gemini-cli-extension"
   }
 ]
