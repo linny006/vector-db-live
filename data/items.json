@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T10:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46460,
+    "updated_at": "2026-10-23T10:13:54Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:12:41Z",
+    "url": "https://github.com/api-evangelist/crate-io"
+  },
+  {
+    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:12:30Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-23T10:09:36Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
+    "id": "kifayat-irfan/VectorMind",
+    "language": "Python",
+    "name": "kifayat-irfan/VectorMind",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:05:15Z",
+    "url": "https://github.com/kifayat-irfan/VectorMind"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2036,
+    "updated_at": "2026-10-23T10:05:02Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
     "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
     "id": "xavidop/tobira",
     "language": "Go",
     "name": "xavidop/tobira",
     "stars": 1,
-    "updated_at": "2026-10-23T09:58:34Z",
+    "updated_at": "2026-10-23T10:12:49Z",
     "url": "https://github.com/xavidop/tobira"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T10:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T09:59:43Z",
+    "updated_at": "2026-10-23T10:13:14Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -72,49 +144,13 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T09:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T10:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46460,
-    "updated_at": "2026-10-23T09:44:58Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11751,
-    "updated_at": "2026-10-23T09:40:12Z",
+    "updated_at": "2026-10-23T10:07:05Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-23T09:39:52Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35207,
-    "updated_at": "2026-10-23T09:37:13Z",
+    "updated_at": "2026-10-23T10:00:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -189,30 +225,12 @@
     "url": "https://github.com/nikoma/bicdb"
   },
   {
-    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:20:39Z",
-    "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2036,
-    "updated_at": "2026-10-23T09:33:52Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32689,
-    "updated_at": "2026-10-23T09:58:15Z",
+    "updated_at": "2026-10-23T10:03:26Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -230,7 +248,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8424,
-    "updated_at": "2026-10-23T09:56:44Z",
+    "updated_at": "2026-10-23T10:07:42Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -274,7 +292,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 493,
+    "stars": 494,
     "updated_at": "2026-10-23T09:00:48Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -284,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16906,
-    "updated_at": "2026-10-23T09:57:33Z",
+    "updated_at": "2026-10-23T10:13:36Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40654,
-    "updated_at": "2026-10-23T08:43:30Z",
+    "updated_at": "2026-10-23T10:13:13Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T08:01:40Z",
     "url": "https://github.com/remenis-memory/remenis"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9475,
-    "updated_at": "2026-10-23T09:13:48Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 8,
-    "updated_at": "2026-10-23T08:44:50Z",
-    "url": "https://github.com/FraiseHQ/fraise"
   }
 ]
