@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T04:00:19Z",
+    "updated_at": "2026-10-23T04:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-23T04:15:15Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-23T04:12:06Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-23T04:11:13Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
+    "id": "lancedb/docs",
+    "language": "Python",
+    "name": "lancedb/docs",
+    "stars": 12,
+    "updated_at": "2026-10-23T04:11:00Z",
+    "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46454,
+    "updated_at": "2026-10-23T04:05:53Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T04:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40613,
+    "updated_at": "2026-10-23T04:11:47Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
@@ -18,40 +81,13 @@
     "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40613,
-    "updated_at": "2026-10-23T03:59:19Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
     "id": "miniaxolotl/grove",
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-23T03:51:12Z",
+    "updated_at": "2026-10-23T04:13:52Z",
     "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T03:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-23T03:57:01Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
@@ -103,7 +139,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 476,
+    "stars": 477,
     "updated_at": "2026-10-23T02:56:20Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9475,
-    "updated_at": "2026-10-23T03:40:23Z",
+    "updated_at": "2026-10-23T04:06:27Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -135,30 +171,12 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-23T02:33:45Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46454,
-    "updated_at": "2026-10-23T03:38:16Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-23T03:53:49Z",
+    "updated_at": "2026-10-23T04:03:42Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 4,
-    "updated_at": "2026-10-23T01:19:07Z",
+    "updated_at": "2026-10-23T04:13:38Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -365,7 +383,7 @@
     "language": "HTML",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-10-23T00:34:35Z",
+    "updated_at": "2026-10-23T04:13:58Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6543,
     "updated_at": "2026-10-22T23:34:54Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8422,
-    "updated_at": "2026-10-23T02:51:05Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-10-22T23:06:25Z",
-    "url": "https://github.com/api-evangelist/datastax"
   }
 ]
