@@ -1,5 +1,104 @@
 [
   {
+    "description": "Privacy-first document intelligence engine \u2014 parse PDFs, DOCX, PPTX, XLSX & CSV into AI-ready chunks for RAG pipelines. ",
+    "id": "ENDEVSOLS/LongParser",
+    "language": "Python",
+    "name": "ENDEVSOLS/LongParser",
+    "stars": 30,
+    "updated_at": "2026-10-23T07:00:21Z",
+    "url": "https://github.com/ENDEVSOLS/LongParser"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T07:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-23T06:59:15Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-23T06:58:43Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 17,
+    "updated_at": "2026-10-23T06:57:28Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-23T06:57:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9475,
+    "updated_at": "2026-10-23T06:55:19Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "",
+    "id": "Yourstandby/Material-Mind-Engine",
+    "language": "Python",
+    "name": "Yourstandby/Material-Mind-Engine",
+    "stars": 0,
+    "updated_at": "2026-10-23T06:54:03Z",
+    "url": "https://github.com/Yourstandby/Material-Mind-Engine"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7143,
+    "updated_at": "2026-10-23T06:57:23Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-23T06:50:53Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T06:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Lightweight, sub-gigabyte long-term memory middleware for AI agents.",
     "id": "remenis-memory/remenis",
     "language": "Shell",
@@ -14,17 +113,8 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T06:42:33Z",
+    "updated_at": "2026-10-23T06:55:02Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-23T06:42:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
@@ -54,20 +144,11 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-23T06:40:00Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39513,
+    "stars": 39514,
     "updated_at": "2026-10-23T06:33:12Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -79,24 +160,6 @@
     "stars": 8423,
     "updated_at": "2026-10-23T06:31:38Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T06:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T06:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Quill is a full-stack AI document Q&A app that lets users upload PDFs and chat with their content using a modern Next.js",
@@ -162,15 +225,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-23T05:49:38Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -193,7 +247,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40629,
+    "stars": 40633,
     "updated_at": "2026-10-23T05:38:03Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T05:23:23Z",
     "url": "https://github.com/Thameempp/Practiq"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7143,
-    "updated_at": "2026-10-23T05:18:55Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
@@ -403,50 +448,5 @@
     "stars": 12,
     "updated_at": "2026-10-23T04:11:00Z",
     "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
-    "stars": 0,
-    "updated_at": "2026-10-23T03:58:06Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 467,
-    "updated_at": "2026-10-23T03:40:48Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2393,
-    "updated_at": "2026-10-23T03:13:49Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Spring AI RAG\uff1aEmbedding\u3001\u5411\u91cf\u5e93\u4e0e\u68c0\u7d22\u589e\u5f3a\u751f\u6210\u793a\u4f8b",
-    "id": "zhijunio/spring-ai-samples",
-    "language": "Java",
-    "name": "zhijunio/spring-ai-samples",
-    "stars": 0,
-    "updated_at": "2026-10-23T03:09:39Z",
-    "url": "https://github.com/zhijunio/spring-ai-samples"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents and audio or video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 371,
-    "updated_at": "2026-10-23T03:00:41Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   }
 ]
