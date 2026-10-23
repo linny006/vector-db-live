@@ -1,12 +1,93 @@
 [
   {
+    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-10-23T16:44:47Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "Production-shaped local Qdrant: 3-node cluster behind HAProxy with API-key auth, replication, Prometheus, Grafana, backu",
+    "id": "gordonmurray/qdrant_docker_compose",
+    "language": "Shell",
+    "name": "gordonmurray/qdrant_docker_compose",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:44:09Z",
+    "url": "https://github.com/gordonmurray/qdrant_docker_compose"
+  },
+  {
+    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:43:59Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
+    "id": "structured-world/coordinode-python",
+    "language": "Python",
+    "name": "structured-world/coordinode-python",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:42:09Z",
+    "url": "https://github.com/structured-world/coordinode-python"
+  },
+  {
+    "description": "RAG with dockerized VectorDB x local Llama3.2 LLM",
+    "id": "HristiyanIvanovski/viivii",
+    "language": "Python",
+    "name": "HristiyanIvanovski/viivii",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:44:47Z",
+    "url": "https://github.com/HristiyanIvanovski/viivii"
+  },
+  {
+    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
+    "id": "originchaindb/originchadb",
+    "language": "TypeScript",
+    "name": "originchaindb/originchadb",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:38:49Z",
+    "url": "https://github.com/originchaindb/originchadb"
+  },
+  {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-23T16:38:35Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1215,
+    "updated_at": "2026-10-23T16:36:47Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
     "id": "livendb/liven",
     "language": "Rust",
     "name": "livendb/liven",
     "stars": 1,
-    "updated_at": "2026-10-23T16:28:34Z",
+    "updated_at": "2026-10-23T16:36:14Z",
     "url": "https://github.com/livendb/liven"
+  },
+  {
+    "description": "SNKV \u2014 a lightweight key-value store focused on simplicity, security and performance file based database , written using",
+    "id": "hash-anu/snkv",
+    "language": "C",
+    "name": "hash-anu/snkv",
+    "stars": 78,
+    "updated_at": "2026-10-23T16:35:51Z",
+    "url": "https://github.com/hash-anu/snkv"
   },
   {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
@@ -14,8 +95,26 @@
     "language": "Python",
     "name": "lancedb/docs",
     "stars": 12,
-    "updated_at": "2026-10-23T16:28:21Z",
+    "updated_at": "2026-10-23T16:32:40Z",
     "url": "https://github.com/lancedb/docs"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-23T16:31:45Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T16:30:46Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and",
@@ -72,20 +171,11 @@
     "url": "https://github.com/ChromaDotNet/ChromaDB.Client"
   },
   {
-    "description": "SNKV \u2014 a lightweight key-value store focused on simplicity, security and performance file based database , written using",
-    "id": "hash-anu/snkv",
-    "language": "C",
-    "name": "hash-anu/snkv",
-    "stars": 78,
-    "updated_at": "2026-10-23T16:17:16Z",
-    "url": "https://github.com/hash-anu/snkv"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40678,
+    "stars": 40679,
     "updated_at": "2026-10-23T16:17:11Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -99,15 +189,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T16:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -115,6 +196,15 @@
     "stars": 3,
     "updated_at": "2026-10-23T16:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A full-stack AI-powered Industry-Centric assistant built with React, Node.js, TypeScript, PostgreSQL, and pgvector. Inte",
+    "id": "saisrikarbommisetty/Industry-Centric-AI-Chatbot-Platform",
+    "language": "TypeScript",
+    "name": "saisrikarbommisetty/Industry-Centric-AI-Chatbot-Platform",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:14:35Z",
+    "url": "https://github.com/saisrikarbommisetty/Industry-Centric-AI-Chatbot-Platform"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -139,7 +229,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39545,
+    "stars": 39546,
     "updated_at": "2026-10-23T16:08:12Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -175,7 +265,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32700,
+    "stars": 32699,
     "updated_at": "2026-10-23T15:58:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -189,22 +279,58 @@
     "url": "https://github.com/Sharathvc23/forgetproof"
   },
   {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:29:46Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+    "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-rust",
+    "language": "Rust",
+    "name": "originchaindb/originchaindb-rust",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:54:04Z",
+    "url": "https://github.com/originchaindb/originchaindb-rust"
   },
   {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
+    "description": "Official OriginChainDB PHP SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-php",
+    "language": "PHP",
+    "name": "originchaindb/originchaindb-php",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:53:57Z",
+    "url": "https://github.com/originchaindb/originchaindb-php"
+  },
+  {
+    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-ruby",
+    "language": "Ruby",
+    "name": "originchaindb/originchaindb-ruby",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:53:49Z",
+    "url": "https://github.com/originchaindb/originchaindb-ruby"
+  },
+  {
+    "description": "Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-csharp",
+    "language": "C#",
+    "name": "originchaindb/originchaindb-csharp",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:53:38Z",
+    "url": "https://github.com/originchaindb/originchaindb-csharp"
+  },
+  {
+    "description": "Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-java",
+    "language": "Java",
+    "name": "originchaindb/originchaindb-java",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:53:29Z",
+    "url": "https://github.com/originchaindb/originchaindb-java"
+  },
+  {
+    "description": "Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-go",
     "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-23T16:28:10Z",
-    "url": "https://github.com/Yoruxyv/semantix"
+    "name": "originchaindb/originchaindb-go",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:53:20Z",
+    "url": "https://github.com/originchaindb/originchaindb-go"
   },
   {
     "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
@@ -248,7 +374,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8429,
-    "updated_at": "2026-10-23T15:46:59Z",
+    "updated_at": "2026-10-23T16:32:51Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 497,
     "updated_at": "2026-10-23T15:28:51Z",
     "url": "https://github.com/redis-developer/redis-ai-resources"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:28:19Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
-    "id": "LLPhant/LLPhant",
-    "language": "PHP",
-    "name": "LLPhant/LLPhant",
-    "stars": 1722,
-    "updated_at": "2026-10-23T15:24:01Z",
-    "url": "https://github.com/LLPhant/LLPhant"
-  },
-  {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "HTML",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:22:55Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-23T15:42:39Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "A multi-user load benchmark for Long-Term Memory (LTM) systems",
-    "id": "skhynix/LTM100",
-    "language": "Python",
-    "name": "skhynix/LTM100",
-    "stars": 4,
-    "updated_at": "2026-10-23T15:17:52Z",
-    "url": "https://github.com/skhynix/LTM100"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9477,
-    "updated_at": "2026-10-23T16:24:45Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Unofficial Terraform provider for turbopuffer \u2014 manage vector database namespaces, attribute schemas, and pinning declar",
-    "id": "somoore/terraform-provider-tpuf",
-    "language": "Go",
-    "name": "somoore/terraform-provider-tpuf",
-    "stars": 1,
-    "updated_at": "2026-10-23T15:13:15Z",
-    "url": "https://github.com/somoore/terraform-provider-tpuf"
-  },
-  {
-    "description": "\ud83e\udd16 Intelligent RAG chatbot with dual modes: COVID-19 medical assistant + custom document Q&A. Built with LangChain, Chrom",
-    "id": "fomativeh/RAG-Chatbot",
-    "language": "Python",
-    "name": "fomativeh/RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:11:21Z",
-    "url": "https://github.com/fomativeh/RAG-Chatbot"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-23T15:10:32Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Evaluation-driven RAG assistant over the FastAPI docs: hybrid retrieval (BGE + ChromaDB + BM25/RRF), streaming answers w",
-    "id": "kinshuk-coder/rag-fastapi-docs",
-    "language": "Python",
-    "name": "kinshuk-coder/rag-fastapi-docs",
-    "stars": 0,
-    "updated_at": "2026-10-23T15:09:53Z",
-    "url": "https://github.com/kinshuk-coder/rag-fastapi-docs"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-23T15:02:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 263,
-    "updated_at": "2026-10-23T14:59:52Z",
-    "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
-    "id": "newfoundcodes/amaquet",
-    "language": "Go",
-    "name": "newfoundcodes/amaquet",
-    "stars": 0,
-    "updated_at": "2026-10-23T14:54:52Z",
-    "url": "https://github.com/newfoundcodes/amaquet"
-  },
-  {
-    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-10-23T14:52:54Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
   }
 ]
