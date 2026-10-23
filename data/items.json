@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T23:15:21Z",
+    "updated_at": "2026-10-23T23:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-23T23:22:42Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "A lightweight, minimal memory framework for AI agents",
+    "id": "SitanshuA091/memlib-ai",
+    "language": "Python",
+    "name": "SitanshuA091/memlib-ai",
+    "stars": 0,
+    "updated_at": "2026-10-23T23:19:10Z",
+    "url": "https://github.com/SitanshuA091/memlib-ai"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2038,
+    "updated_at": "2026-10-23T23:16:01Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T23:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -23,24 +59,15 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9436,
-    "updated_at": "2026-10-23T23:15:14Z",
+    "updated_at": "2026-10-23T23:26:33Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "A lightweight, minimal memory framework for AI agents",
-    "id": "SitanshuA091/memlib-ai",
-    "language": "Python",
-    "name": "SitanshuA091/memlib-ai",
-    "stars": 0,
-    "updated_at": "2026-10-23T23:04:27Z",
-    "url": "https://github.com/SitanshuA091/memlib-ai"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67493,
+    "stars": 67492,
     "updated_at": "2026-10-23T23:04:11Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -50,17 +77,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-23T23:03:40Z",
+    "updated_at": "2026-10-23T23:20:49Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T23:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -126,15 +144,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-23T22:42:14Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
     "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
     "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
     "language": "Shell",
@@ -158,17 +167,8 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T23:14:21Z",
+    "updated_at": "2026-10-23T23:24:40Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2038,
-    "updated_at": "2026-10-23T23:10:51Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
     "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
@@ -275,7 +275,7 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 530,
-    "updated_at": "2026-10-23T21:45:05Z",
+    "updated_at": "2026-10-23T23:28:27Z",
     "url": "https://github.com/kividbio/kividb"
   },
   {

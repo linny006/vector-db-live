@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-23 23:15 UTC
+> ⏰ Last updated: 2026-10-23 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,24 +43,24 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11754 | Rust | 2026-10-23 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 3 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9436 | Rust | 2026-10-23 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 4 | [SitanshuA091/memlib-ai](https://github.com/SitanshuA091/memlib-ai) | 0 | Python | 2026-10-23 | A lightweight, minimal memory framework for AI agents |
-| 5 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 67493 | JavaScript | 2026-10-23 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 6 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-23 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-23 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 9 | [motedb/motedb](https://github.com/motedb/motedb) | 49 | Rust | 2026-10-23 | AI-native embedded multimodal database for embodied AI & robotics — vectors, time series, full text and binary in one em |
-| 10 | [abhisheklakhani-it/german-text-classifier](https://github.com/abhisheklakhani-it/german-text-classifier) | 1 | Python | 2026-10-23 | German news topic classification (10kGNAD): embeddings + Qdrant kNN vs fine-tuned DistilBERT, 0.897 macro-F1 |
-| 11 | [abhisheklakhani-it/semantic-search-api](https://github.com/abhisheklakhani-it/semantic-search-api) | 1 | Python | 2026-10-23 | Production-style semantic search API: FastAPI + Qdrant, hybrid dense + BM25 retrieval, optional cross-encoder reranking, |
-| 12 | [Biccamor/Moovy](https://github.com/Biccamor/Moovy) | 0 | Python | 2026-10-23 | Backend for movies recomendations for groups  |
-| 13 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-23 |  Cognitive Memory Architecture for Agents |
-| 14 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-23 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 15 | [hbar-systems/brainfoundry-nous](https://github.com/hbar-systems/brainfoundry-nous) | 1 | Python | 2026-10-23 | Self-hosted sovereign AI brain — persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL |
-| 16 | [heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose) | 0 | Shell | 2026-10-23 | AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam |
-| 17 | [remenis-memory/remenis](https://github.com/remenis-memory/remenis) | 0 | Shell | 2026-10-23 | Lightweight, sub-gigabyte long-term memory middleware for AI agents. |
-| 18 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-23 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
-| 19 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2038 | Python | 2026-10-23 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 2 | [hbar-systems/brainfoundry-nous](https://github.com/hbar-systems/brainfoundry-nous) | 1 | Python | 2026-10-23 | Self-hosted sovereign AI brain — persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL |
+| 3 | [SitanshuA091/memlib-ai](https://github.com/SitanshuA091/memlib-ai) | 0 | Python | 2026-10-23 | A lightweight, minimal memory framework for AI agents |
+| 4 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2038 | Python | 2026-10-23 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11754 | Rust | 2026-10-23 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 7 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9436 | Rust | 2026-10-23 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 8 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 67492 | JavaScript | 2026-10-23 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 9 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-23 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 10 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-23 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 11 | [motedb/motedb](https://github.com/motedb/motedb) | 49 | Rust | 2026-10-23 | AI-native embedded multimodal database for embodied AI & robotics — vectors, time series, full text and binary in one em |
+| 12 | [abhisheklakhani-it/german-text-classifier](https://github.com/abhisheklakhani-it/german-text-classifier) | 1 | Python | 2026-10-23 | German news topic classification (10kGNAD): embeddings + Qdrant kNN vs fine-tuned DistilBERT, 0.897 macro-F1 |
+| 13 | [abhisheklakhani-it/semantic-search-api](https://github.com/abhisheklakhani-it/semantic-search-api) | 1 | Python | 2026-10-23 | Production-style semantic search API: FastAPI + Qdrant, hybrid dense + BM25 retrieval, optional cross-encoder reranking, |
+| 14 | [Biccamor/Moovy](https://github.com/Biccamor/Moovy) | 0 | Python | 2026-10-23 | Backend for movies recomendations for groups  |
+| 15 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-23 |  Cognitive Memory Architecture for Agents |
+| 16 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-23 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 17 | [heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose) | 0 | Shell | 2026-10-23 | AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam |
+| 18 | [remenis-memory/remenis](https://github.com/remenis-memory/remenis) | 0 | Shell | 2026-10-23 | Lightweight, sub-gigabyte long-term memory middleware for AI agents. |
+| 19 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-23 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
 | 20 | [mahpate/Vlite](https://github.com/mahpate/Vlite) | 2 | Rust | 2026-10-23 | Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar |
 | 21 | [vicquick/nobrainr](https://github.com/vicquick/nobrainr) | 1 | Python | 2026-10-23 | Persistent memory and knowledge graph for AI agents via MCP — PostgreSQL + pgvector + Ollama |
 | 22 | [Cognipeer/console](https://github.com/Cognipeer/console) | 26 | TypeScript | 2026-10-23 | Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub,  |
