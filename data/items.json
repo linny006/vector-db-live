@@ -1,11 +1,56 @@
 [
   {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-10-23T04:29:48Z",
+    "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 1,
+    "updated_at": "2026-10-23T04:27:37Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "Full-stack TypeScript framework for real-time apps and agent-native APIs: Clean Architecture services, pluggable databas",
+    "id": "MantleJs/mantle",
+    "language": "TypeScript",
+    "name": "MantleJs/mantle",
+    "stars": 0,
+    "updated_at": "2026-10-23T04:26:27Z",
+    "url": "https://github.com/MantleJs/mantle"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-23T04:27:03Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T04:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T04:15:22Z",
+    "updated_at": "2026-10-23T04:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T04:15:15Z",
+    "updated_at": "2026-10-23T04:21:53Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -23,8 +68,17 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-23T04:12:06Z",
+    "updated_at": "2026-10-23T04:25:36Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40614,
+    "updated_at": "2026-10-23T04:27:50Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -52,24 +106,6 @@
     "stars": 46454,
     "updated_at": "2026-10-23T04:05:53Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T04:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40613,
-    "updated_at": "2026-10-23T04:11:47Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
@@ -139,7 +175,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 477,
+    "stars": 478,
     "updated_at": "2026-10-23T02:56:20Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -158,7 +194,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9475,
-    "updated_at": "2026-10-23T04:06:27Z",
+    "updated_at": "2026-10-23T04:17:57Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:20:41Z",
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11746,
-    "updated_at": "2026-10-23T00:13:42Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
-    "id": "xavidop/tobira",
-    "language": "Go",
-    "name": "xavidop/tobira",
-    "stars": 0,
-    "updated_at": "2026-10-23T00:06:41Z",
-    "url": "https://github.com/xavidop/tobira"
-  },
-  {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-10-22T23:45:04Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6543,
-    "updated_at": "2026-10-22T23:34:54Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
