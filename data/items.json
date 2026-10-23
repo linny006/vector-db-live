@@ -1,12 +1,102 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T05:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-23T05:29:43Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8422,
+    "updated_at": "2026-10-23T05:29:12Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "HTML",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-23T05:28:47Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:28:01Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-23T05:29:56Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-23T05:30:20Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46454,
+    "updated_at": "2026-10-23T05:23:54Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
     "id": "newfoundcodes/amaquet",
     "language": "Go",
     "name": "newfoundcodes/amaquet",
     "stars": 0,
-    "updated_at": "2026-10-23T05:13:05Z",
+    "updated_at": "2026-10-23T05:20:20Z",
     "url": "https://github.com/newfoundcodes/amaquet"
+  },
+  {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:18:00Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T05:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -36,15 +126,6 @@
     "url": "https://github.com/waynewbishop/quiver"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-23T05:13:59Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "Official Java client for Qdrant ",
     "id": "qdrant/java-client",
     "language": "Java",
@@ -54,24 +135,6 @@
     "url": "https://github.com/qdrant/java-client"
   },
   {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-23T05:03:35Z",
-    "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "HTML",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-23T05:03:07Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
     "description": "Multi-agent financial intelligence platform: LangGraph + Groq LLM + ChromaDB RAG + yFinance ; deployed on AWS EC2. Ask q",
     "id": "ParthSharma-2/Finsight-AI",
     "language": "Python",
@@ -79,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T05:00:53Z",
     "url": "https://github.com/ParthSharma-2/Finsight-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T05:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T05:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -166,18 +211,9 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40619,
+    "stars": 40623,
     "updated_at": "2026-10-23T04:41:36Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-23T05:09:54Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-23T05:08:38Z",
+    "updated_at": "2026-10-23T05:29:29Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -230,7 +266,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 291,
-    "updated_at": "2026-10-23T04:27:03Z",
+    "updated_at": "2026-10-23T05:19:42Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 12,
     "updated_at": "2026-10-23T04:11:00Z",
     "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46454,
-    "updated_at": "2026-10-23T04:05:53Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
@@ -310,18 +337,9 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 479,
+    "stars": 480,
     "updated_at": "2026-10-23T02:56:20Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-23T05:03:15Z",
-    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -373,7 +391,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32681,
+    "stars": 32682,
     "updated_at": "2026-10-23T02:03:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 49,
     "updated_at": "2026-10-23T01:32:22Z",
     "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-23T04:40:20Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "Git-diffable memory for AI agents \u2014 six-layer architecture, plain-text source of truth, Obsidian graph projection. MIT.",
-    "id": "albaozhen-eng/coremem",
-    "language": "Python",
-    "name": "albaozhen-eng/coremem",
-    "stars": 1,
-    "updated_at": "2026-10-23T01:18:44Z",
-    "url": "https://github.com/albaozhen-eng/coremem"
   }
 ]
