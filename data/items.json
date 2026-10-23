@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-23T19:28:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-23T19:28:39Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11754,
+    "updated_at": "2026-10-23T19:27:32Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 3,
+    "updated_at": "2026-10-23T19:26:01Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-23T19:30:19Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
+    "id": "livendb/liven",
+    "language": "Rust",
+    "name": "livendb/liven",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:23:56Z",
+    "url": "https://github.com/livendb/liven"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:23:17Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:19:33Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T19:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T19:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Terraform module to self-host a Qdrant vector database cluster on AWS (EC2 + EBS): replicated, backed up to S3, monitore",
     "id": "gordonmurray/qdrant_terraform_aws",
     "language": "HCL",
@@ -27,15 +117,6 @@
     "url": "https://github.com/zilliztech/milvus-operator"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-23T19:09:06Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
@@ -43,24 +124,6 @@
     "stars": 23,
     "updated_at": "2026-10-23T19:06:44Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-23T19:13:10Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
-    "id": "livendb/liven",
-    "language": "Rust",
-    "name": "livendb/liven",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:02:19Z",
-    "url": "https://github.com/livendb/liven"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -79,24 +142,6 @@
     "stars": 7144,
     "updated_at": "2026-10-23T19:04:59Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T19:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T19:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LangGraph agent (RAG + SQL tool routing) for e-commerce support with PII masking, prompt-injection detection, JSON-Schem",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35217,
-    "updated_at": "2026-10-23T19:11:10Z",
+    "updated_at": "2026-10-23T19:18:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T18:37:23Z",
     "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:35:07Z",
-    "url": "https://github.com/eggspot/EggDB"
   },
   {
     "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
@@ -383,17 +419,8 @@
     "language": "MDX",
     "name": "lancedb/docs",
     "stars": 12,
-    "updated_at": "2026-10-23T17:54:04Z",
+    "updated_at": "2026-10-23T19:18:47Z",
     "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11754,
-    "updated_at": "2026-10-23T18:41:27Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
@@ -421,32 +448,5 @@
     "stars": 3750,
     "updated_at": "2026-10-23T17:45:13Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:09:46Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 131,
-    "updated_at": "2026-10-23T17:45:37Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:43:27Z",
-    "url": "https://github.com/api-evangelist/gel-data"
   }
 ]
