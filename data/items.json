@@ -1,11 +1,119 @@
 [
   {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:43:37Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:43:29Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-23T19:44:17Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:39:22Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-23T19:38:45Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8431,
+    "updated_at": "2026-10-23T19:36:55Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-23T19:35:49Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
+    "id": "livendb/liven",
+    "language": "Rust",
+    "name": "livendb/liven",
+    "stars": 1,
+    "updated_at": "2026-10-23T19:33:48Z",
+    "url": "https://github.com/livendb/liven"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 131,
+    "updated_at": "2026-10-23T19:40:00Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Building multi-tenant Retrieval Augmented Generation platform ",
+    "id": "kennielima/OpsIQ",
+    "language": "C#",
+    "name": "kennielima/OpsIQ",
+    "stars": 0,
+    "updated_at": "2026-10-23T19:31:08Z",
+    "url": "https://github.com/kennielima/OpsIQ"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T19:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T19:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-23T19:28:43Z",
+    "updated_at": "2026-10-23T19:33:45Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -36,33 +144,6 @@
     "url": "https://github.com/pavelhorak/pion"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-23T19:30:19Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
-    "id": "livendb/liven",
-    "language": "Rust",
-    "name": "livendb/liven",
-    "stars": 1,
-    "updated_at": "2026-10-23T19:23:56Z",
-    "url": "https://github.com/livendb/liven"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-23T19:23:17Z",
-    "url": "https://github.com/eggspot/EggDB"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -70,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T19:19:33Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T19:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T19:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Terraform module to self-host a Qdrant vector database cluster on AWS (EC2 + EBS): replicated, backed up to S3, monitore",
@@ -194,7 +257,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35217,
-    "updated_at": "2026-10-23T19:18:55Z",
+    "updated_at": "2026-10-23T19:44:09Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -212,17 +275,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-23T19:03:40Z",
+    "updated_at": "2026-10-23T19:36:28Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:44:37Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
     "description": ".NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9.",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T18:00:43Z",
     "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-10-23T18:00:18Z",
-    "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
-    "id": "api-evangelist/lf-ai-and-data",
-    "language": "\u2014",
-    "name": "api-evangelist/lf-ai-and-data",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:55:41Z",
-    "url": "https://github.com/api-evangelist/lf-ai-and-data"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "MDX",
-    "name": "lancedb/docs",
-    "stars": 12,
-    "updated_at": "2026-10-23T19:18:47Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
-    "id": "api-evangelist/ironcore-labs",
-    "language": "\u2014",
-    "name": "api-evangelist/ironcore-labs",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:51:13Z",
-    "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama",
-    "id": "jeganxthan/Anvil",
-    "language": "TypeScript",
-    "name": "jeganxthan/Anvil",
-    "stars": 0,
-    "updated_at": "2026-10-23T17:50:27Z",
-    "url": "https://github.com/jeganxthan/Anvil"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3750,
-    "updated_at": "2026-10-23T17:45:13Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   }
 ]
