@@ -1,21 +1,75 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T11:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 498,
+    "updated_at": "2026-10-23T11:28:47Z",
+    "url": "https://github.com/kividbio/kividb"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-23T11:14:18Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 371,
+    "updated_at": "2026-10-23T11:28:18Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-10-23T11:25:56Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
+    "description": "Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData.",
+    "id": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
+    "stars": 3,
+    "updated_at": "2026-10-23T11:25:21Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
+  },
+  {
+    "description": "Exhaustive curated list of self-hosted AI tools: models, inference, embeddings, vector databases, agents, evals, GPUs an",
+    "id": "actian-devs/awesome-selfhosted-ai",
+    "language": "Python",
+    "name": "actian-devs/awesome-selfhosted-ai",
+    "stars": 0,
+    "updated_at": "2026-10-23T11:22:25Z",
+    "url": "https://github.com/actian-devs/awesome-selfhosted-ai"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-23T11:20:45Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-23T11:20:39Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-23T11:27:29Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
@@ -23,7 +77,7 @@
     "language": "Go",
     "name": "xavidop/tobira",
     "stars": 1,
-    "updated_at": "2026-10-23T11:14:31Z",
+    "updated_at": "2026-10-23T11:19:06Z",
     "url": "https://github.com/xavidop/tobira"
   },
   {
@@ -32,8 +86,44 @@
     "language": "Python",
     "name": "gyr0byte/Generative-AI",
     "stars": 0,
-    "updated_at": "2026-10-23T11:08:35Z",
+    "updated_at": "2026-10-23T11:16:34Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T11:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T11:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-23T11:17:20Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8426,
+    "updated_at": "2026-10-23T11:23:44Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -52,15 +142,6 @@
     "stars": 21,
     "updated_at": "2026-10-23T11:05:06Z",
     "url": "https://github.com/badhope/spark"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-23T11:03:59Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-23T11:01:27Z",
+    "updated_at": "2026-10-23T11:23:14Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -103,34 +184,16 @@
     "id": "roedyrustam/opentalon",
     "language": "TypeScript",
     "name": "roedyrustam/opentalon",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-23T11:00:30Z",
     "url": "https://github.com/roedyrustam/opentalon"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T11:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-23T11:14:06Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40656,
+    "stars": 40660,
     "updated_at": "2026-10-23T10:56:45Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -167,7 +230,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9475,
-    "updated_at": "2026-10-23T10:51:24Z",
+    "updated_at": "2026-10-23T11:23:57Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 46461,
     "updated_at": "2026-10-23T10:49:54Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DOCMINDS",
-    "language": "Python",
-    "name": "dhanoliya-ji/DOCMINDS",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:06:36Z",
-    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
     "description": "Collects every item in the Steam Points Shop and stores them in a vector database for steam.style",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T10:47:43Z",
     "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8425,
-    "updated_at": "2026-10-23T11:12:01Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
@@ -365,7 +410,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35209,
-    "updated_at": "2026-10-23T10:00:27Z",
+    "updated_at": "2026-10-23T11:22:31Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 139,
     "updated_at": "2026-10-23T09:50:53Z",
     "url": "https://github.com/tusKANNy/seismic"
-  },
-  {
-    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:37:23Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Exhaustive curated list of self-hosted AI tools: models, inference, embeddings, vector databases, agents, evals, GPUs an",
-    "id": "actian-devs/awesome-selfhosted-ai",
-    "language": "\u2014",
-    "name": "actian-devs/awesome-selfhosted-ai",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:29:16Z",
-    "url": "https://github.com/actian-devs/awesome-selfhosted-ai"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1215,
-    "updated_at": "2026-10-23T09:25:52Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
-    "id": "IdoY12/awesome-free-ai-apis",
-    "language": "JavaScript",
-    "name": "IdoY12/awesome-free-ai-apis",
-    "stars": 1,
-    "updated_at": "2026-10-23T09:25:03Z",
-    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
-  },
-  {
-    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
-    "id": "nikoma/bicdb",
-    "language": "Rust",
-    "name": "nikoma/bicdb",
-    "stars": 2,
-    "updated_at": "2026-10-23T09:25:01Z",
-    "url": "https://github.com/nikoma/bicdb"
   }
 ]
