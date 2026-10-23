@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T02:45:22Z",
+    "updated_at": "2026-10-23T03:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 474,
+    "updated_at": "2026-10-23T02:56:20Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40608,
+    "updated_at": "2026-10-23T02:54:42Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-23T02:54:11Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 3,
+    "updated_at": "2026-10-23T02:50:43Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T02:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-23T02:43:23Z",
+    "updated_at": "2026-10-23T02:50:45Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 6,
     "updated_at": "2026-10-23T02:33:45Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T02:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -59,7 +95,7 @@
     "language": "TypeScript",
     "name": "PunGrumpy/vecstore-sdk",
     "stars": 2,
-    "updated_at": "2026-10-23T02:39:54Z",
+    "updated_at": "2026-10-23T02:47:46Z",
     "url": "https://github.com/PunGrumpy/vecstore-sdk"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40607,
-    "updated_at": "2026-10-23T02:20:33Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
     "id": "api-evangelist/aerospike",
     "language": "\u2014",
@@ -104,7 +131,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T02:40:40Z",
+    "updated_at": "2026-10-23T02:57:47Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -247,7 +274,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67462,
+    "stars": 67463,
     "updated_at": "2026-10-23T01:14:47Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -295,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:45:59Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 3,
-    "updated_at": "2026-10-23T02:37:59Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -383,7 +401,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8422,
-    "updated_at": "2026-10-22T23:22:47Z",
+    "updated_at": "2026-10-23T02:51:05Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T22:48:02Z",
     "url": "https://github.com/kylebrodeur/modal-embedding-server"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 473,
-    "updated_at": "2026-10-22T22:45:02Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "RAG Engineer interview questions & answers for 2026: retrieval, embeddings, chunking, re-ranking, eval, production & sec",
-    "id": "landedjobs/rag-engineer-interview-questions",
-    "language": "\u2014",
-    "name": "landedjobs/rag-engineer-interview-questions",
-    "stars": 5,
-    "updated_at": "2026-10-22T22:43:40Z",
-    "url": "https://github.com/landedjobs/rag-engineer-interview-questions"
   }
 ]
