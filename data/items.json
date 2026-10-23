@@ -1,5 +1,50 @@
 [
   {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-23T05:59:36Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11747,
+    "updated_at": "2026-10-23T05:51:41Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:50:23Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-23T05:49:38Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T05:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -41,7 +86,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T05:43:44Z",
+    "updated_at": "2026-10-23T05:57:36Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -99,30 +144,12 @@
     "url": "https://github.com/newfoundcodes/amaquet"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T05:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-23T05:29:43Z",
-    "url": "https://github.com/mahpate/Vlite"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8422,
-    "updated_at": "2026-10-23T05:29:12Z",
+    "updated_at": "2026-10-23T05:58:41Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46454,
-    "updated_at": "2026-10-23T05:23:54Z",
+    "updated_at": "2026-10-23T05:56:00Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -243,15 +270,6 @@
     "url": "https://github.com/nambok/mentedb"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11746,
-    "updated_at": "2026-10-23T04:45:28Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -268,15 +286,6 @@
     "stars": 11,
     "updated_at": "2026-10-23T04:42:00Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-23T04:41:02Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T02:02:31Z",
     "url": "https://github.com/MlkBlk-IT/Mcp-QadGraph"
-  },
-  {
-    "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
-    "id": "api-evangelist/objectbox",
-    "language": "\u2014",
-    "name": "api-evangelist/objectbox",
-    "stars": 0,
-    "updated_at": "2026-10-23T01:59:20Z",
-    "url": "https://github.com/api-evangelist/objectbox"
   }
 ]
