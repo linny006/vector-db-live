@@ -1,12 +1,57 @@
 [
   {
-    "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
-    "id": "api-evangelist/objectbox",
-    "language": "\u2014",
-    "name": "api-evangelist/objectbox",
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-23T02:08:46Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2393,
+    "updated_at": "2026-10-23T02:06:29Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 467,
+    "updated_at": "2026-10-23T02:04:48Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Qdrant control plane \u2014 3D similarity dashboard + read-only MCP server (9 tools). Python stdlib, 100% local, 0 paid API.",
+    "id": "MlkBlk-IT/Mcp-QadGraph",
+    "language": "JavaScript",
+    "name": "MlkBlk-IT/Mcp-QadGraph",
     "stars": 0,
-    "updated_at": "2026-10-23T01:59:20Z",
-    "url": "https://github.com/api-evangelist/objectbox"
+    "updated_at": "2026-10-23T02:02:31Z",
+    "url": "https://github.com/MlkBlk-IT/Mcp-QadGraph"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-23T02:01:04Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T02:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -16,6 +61,15 @@
     "stars": 3,
     "updated_at": "2026-10-23T02:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:59:20Z",
+    "url": "https://github.com/api-evangelist/objectbox"
   },
   {
     "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
@@ -45,24 +99,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-23T01:59:24Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-23T01:53:17Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
     "id": "waynewbishop/quiver",
     "language": "Swift",
@@ -90,21 +126,12 @@
     "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T01:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32680,
-    "updated_at": "2026-10-23T01:45:45Z",
+    "updated_at": "2026-10-23T02:03:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -117,31 +144,13 @@
     "url": "https://github.com/motedb/motedb"
   },
   {
-    "description": "Qdrant control plane \u2014 3D similarity dashboard + read-only MCP server (9 tools). Python stdlib, 100% local, 0 paid API.",
-    "id": "MlkBlk-IT/Mcp-QadGraph",
-    "language": "JavaScript",
-    "name": "MlkBlk-IT/Mcp-QadGraph",
-    "stars": 0,
-    "updated_at": "2026-10-23T01:26:41Z",
-    "url": "https://github.com/MlkBlk-IT/Mcp-QadGraph"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-23T01:30:58Z",
+    "updated_at": "2026-10-23T02:05:29Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 467,
-    "updated_at": "2026-10-23T01:21:35Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
@@ -193,7 +202,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67461,
+    "stars": 67462,
     "updated_at": "2026-10-23T01:14:47Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -266,7 +275,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9434,
-    "updated_at": "2026-10-23T00:43:50Z",
+    "updated_at": "2026-10-23T02:08:11Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -382,7 +391,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 470,
+    "stars": 471,
     "updated_at": "2026-10-22T22:45:02Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T22:02:23Z",
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Drop legacy database stacks. 50+ verified gamechanger tools \u2014 benchmarks, not vibes. DuckDB \u00b7 SurrealDB \u00b7 Turso \u00b7 Neo",
-    "id": "Supersynergy/awesome-database-tools",
-    "language": "\u2014",
-    "name": "Supersynergy/awesome-database-tools",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:55:45Z",
-    "url": "https://github.com/Supersynergy/awesome-database-tools"
   }
 ]
