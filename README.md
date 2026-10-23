@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-23 01:13 UTC
+> ⏰ Last updated: 2026-10-23 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-23 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 2 | [AceAtDev/VecterDB-Q](https://github.com/AceAtDev/VecterDB-Q) | 1 | Python | 2026-10-23 | Semantic search engine with Flat and IVF vector indexes written from scratch, REST API and web UI. IVF ~8x faster than e |
-| 3 | [thameema/memnos](https://github.com/thameema/memnos) | 4 | Python | 2026-10-23 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
-| 4 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-10-23 | Milvus — independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-23 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 3 | [AceAtDev/VecterDB-Q](https://github.com/AceAtDev/VecterDB-Q) | 1 | Python | 2026-10-23 | Semantic search engine with Flat and IVF vector indexes written from scratch, REST API and web UI. IVF ~8x faster than e |
+| 4 | [thameema/memnos](https://github.com/thameema/memnos) | 4 | Python | 2026-10-23 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
+| 5 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-10-23 | Milvus — independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source |
 | 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 7 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-23 |  Cognitive Memory Architecture for Agents |
 | 8 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 131 | Python | 2026-10-23 | Self improving agents through iterations |
