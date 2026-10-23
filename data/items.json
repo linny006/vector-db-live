@@ -1,11 +1,47 @@
 [
   {
+    "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:59:20Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T02:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:57:23Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:55:57Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46453,
-    "updated_at": "2026-10-23T01:35:52Z",
+    "updated_at": "2026-10-23T01:53:53Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -14,7 +50,7 @@
     "language": "JavaScript",
     "name": "rifqifitriady/ZAAFPulse",
     "stars": 1,
-    "updated_at": "2026-10-23T01:35:35Z",
+    "updated_at": "2026-10-23T01:59:24Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
@@ -23,8 +59,44 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T01:34:59Z",
+    "updated_at": "2026-10-23T01:53:17Z",
     "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 22,
+    "updated_at": "2026-10-23T01:51:04Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-23T01:50:37Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-23T01:45:37Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T01:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32680,
-    "updated_at": "2026-10-23T01:33:55Z",
+    "updated_at": "2026-10-23T01:45:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -43,24 +115,6 @@
     "stars": 49,
     "updated_at": "2026-10-23T01:32:22Z",
     "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T01:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T01:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Qdrant control plane \u2014 3D similarity dashboard + read-only MCP server (9 tools). Python stdlib, 100% local, 0 paid API.",
@@ -79,15 +133,6 @@
     "stars": 2057,
     "updated_at": "2026-10-23T01:30:58Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-23T01:25:26Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
@@ -148,7 +193,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67459,
+    "stars": 67461,
     "updated_at": "2026-10-23T01:14:47Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:45:59Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 22,
-    "updated_at": "2026-10-23T00:45:23Z",
-    "url": "https://github.com/waynewbishop/quiver"
   },
   {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
@@ -286,15 +322,6 @@
     "stars": 6543,
     "updated_at": "2026-10-22T23:34:54Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-22T23:30:02Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T21:55:45Z",
     "url": "https://github.com/Supersynergy/awesome-database-tools"
-  },
-  {
-    "description": "Ask a question as a department, and get an answer built only from what that department may read. In 5,760 searches no ro",
-    "id": "Broikos-Nikos/need-to-know",
-    "language": "Python",
-    "name": "Broikos-Nikos/need-to-know",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:57:35Z",
-    "url": "https://github.com/Broikos-Nikos/need-to-know"
-  },
-  {
-    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
-    "id": "NirDiamant/Agent_Memory_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/Agent_Memory_Techniques",
-    "stars": 1121,
-    "updated_at": "2026-10-22T21:36:26Z",
-    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 29976,
-    "updated_at": "2026-10-22T21:36:14Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
   }
 ]
