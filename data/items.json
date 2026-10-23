@@ -1,12 +1,66 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
+    "id": "xavidop/tobira",
+    "language": "Go",
+    "name": "xavidop/tobira",
+    "stars": 1,
+    "updated_at": "2026-10-23T09:58:34Z",
+    "url": "https://github.com/xavidop/tobira"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:55:56Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13286,
+    "updated_at": "2026-10-23T09:55:44Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-23T09:59:43Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-23T09:51:48Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Ask a question as a department, and get an answer built only from what that department may read. In 5,760 searches no ro",
+    "id": "Broikos-Nikos/need-to-know",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T09:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Broikos-Nikos/need-to-know",
+    "stars": 0,
+    "updated_at": "2026-10-23T09:51:01Z",
+    "url": "https://github.com/Broikos-Nikos/need-to-know"
+  },
+  {
+    "description": "Official repository of the Seismic library.",
+    "id": "tusKANNy/seismic",
+    "language": "Rust",
+    "name": "tusKANNy/seismic",
+    "stars": 139,
+    "updated_at": "2026-10-23T09:50:53Z",
+    "url": "https://github.com/tusKANNy/seismic"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,8 +68,44 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-23T09:44:44Z",
+    "updated_at": "2026-10-23T09:49:15Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T09:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T10:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46460,
+    "updated_at": "2026-10-23T09:44:58Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11751,
+    "updated_at": "2026-10-23T09:40:12Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -36,31 +126,22 @@
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35207,
+    "updated_at": "2026-10-23T09:37:13Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Exhaustive curated list of self-hosted AI tools: models, inference, embeddings, vector databases, agents, evals, GPUs an",
     "id": "actian-devs/awesome-selfhosted-ai",
     "language": "\u2014",
     "name": "actian-devs/awesome-selfhosted-ai",
     "stars": 0,
-    "updated_at": "2026-10-23T09:34:45Z",
+    "updated_at": "2026-10-23T09:53:05Z",
     "url": "https://github.com/actian-devs/awesome-selfhosted-ai"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-23T09:33:52Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T09:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -81,21 +162,12 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46459,
-    "updated_at": "2026-10-23T09:44:58Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
     "id": "Yoruxyv/semantix",
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-23T09:25:27Z",
+    "updated_at": "2026-10-23T09:51:43Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -140,17 +212,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32689,
-    "updated_at": "2026-10-23T09:37:58Z",
+    "updated_at": "2026-10-23T09:58:15Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13286,
-    "updated_at": "2026-10-23T09:24:32Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "A visual sandbox for experimenting with RAG configurations. Interactive tools for document parsing, chunking, embeddings",
@@ -167,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8424,
-    "updated_at": "2026-10-23T09:42:02Z",
+    "updated_at": "2026-10-23T09:56:44Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -221,17 +284,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16906,
-    "updated_at": "2026-10-23T09:35:27Z",
+    "updated_at": "2026-10-23T09:57:33Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Ask a question as a department, and get an answer built only from what that department may read. In 5,760 searches no ro",
-    "id": "Broikos-Nikos/need-to-know",
-    "language": "Python",
-    "name": "Broikos-Nikos/need-to-know",
-    "stars": 0,
-    "updated_at": "2026-10-23T08:51:29Z",
-    "url": "https://github.com/Broikos-Nikos/need-to-know"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -256,7 +310,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40652,
+    "stars": 40654,
     "updated_at": "2026-10-23T08:43:30Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -268,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T08:43:23Z",
     "url": "https://github.com/zilliztech/gemini-cli-extension"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35206,
-    "updated_at": "2026-10-23T09:37:13Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Agent skill that teaches AI agents how to manage Zilliz Cloud vector databases through zilliz-cli",
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "milvus-io/pymilvus",
     "stars": 1419,
-    "updated_at": "2026-10-23T08:17:46Z",
+    "updated_at": "2026-10-23T09:55:45Z",
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T08:17:02Z",
     "url": "https://github.com/bartvanbenthem/basis-ai"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11750,
-    "updated_at": "2026-10-23T09:40:12Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-23T08:44:50Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-23T07:56:58Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Self-hosted microservice RAG on a single 6 GB GPU: Docling OCR, Qwen3.5-4B on SGLang, Qdrant hybrid search (bge-m3 + BM2",
-    "id": "mdmonsurali/Advanced-Hybrid-RAG",
-    "language": "Python",
-    "name": "mdmonsurali/Advanced-Hybrid-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:54:04Z",
-    "url": "https://github.com/mdmonsurali/Advanced-Hybrid-RAG"
-  },
-  {
-    "description": "TeamDocs AI is an AI-powered RAG (Retrieval-Augmented Generation) assistant designed to help software development teams ",
-    "id": "HosseinHeydari2004/TeamDocs-AI",
-    "language": "Python",
-    "name": "HosseinHeydari2004/TeamDocs-AI",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:48:08Z",
-    "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-23T07:45:00Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   }
 ]
