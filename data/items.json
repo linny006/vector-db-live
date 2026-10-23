@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T10:30:21Z",
+    "updated_at": "2026-10-23T10:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-23T10:44:49Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-10-23T10:44:01Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-23T10:43:41Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
+    "id": "diegoglozano/revector",
+    "language": "Rust",
+    "name": "diegoglozano/revector",
+    "stars": 5,
+    "updated_at": "2026-10-23T10:45:06Z",
+    "url": "https://github.com/diegoglozano/revector"
+  },
+  {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-23T10:39:49Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-23T10:37:29Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 2,
+    "updated_at": "2026-10-23T10:36:07Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-23T10:33:11Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-23T10:32:39Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32692,
+    "updated_at": "2026-10-23T10:31:38Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-23T10:30:43Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T10:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
@@ -32,26 +140,8 @@
     "language": "Python",
     "name": "dhanoliya-ji/DOCMINDS",
     "stars": 0,
-    "updated_at": "2026-10-23T10:28:47Z",
+    "updated_at": "2026-10-23T10:41:56Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32691,
-    "updated_at": "2026-10-23T10:26:20Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-23T10:26:19Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "A vector database built from scratch in Python (Brute Force, KD-Tree, HNSW) powering a fully local RAG assistant that an",
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T10:25:36Z",
     "url": "https://github.com/Sidd2k3/vectormind"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-23T10:25:34Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -126,15 +207,6 @@
     "url": "https://github.com/motedb/motedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T10:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
     "id": "api-evangelist/crate-io",
     "language": "\u2014",
@@ -187,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T09:55:56Z",
     "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-23T10:28:11Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "",
@@ -261,15 +324,6 @@
     "url": "https://github.com/actian-devs/awesome-selfhosted-ai"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-23T09:30:02Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -277,15 +331,6 @@
     "stars": 1215,
     "updated_at": "2026-10-23T09:25:52Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-23T10:27:04Z",
-    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -320,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8424,
-    "updated_at": "2026-10-23T10:29:19Z",
+    "updated_at": "2026-10-23T10:45:07Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -364,7 +409,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 494,
+    "stars": 495,
     "updated_at": "2026-10-23T09:00:48Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -374,7 +419,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16906,
-    "updated_at": "2026-10-23T10:25:51Z",
+    "updated_at": "2026-10-23T10:42:08Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T08:43:23Z",
     "url": "https://github.com/zilliztech/gemini-cli-extension"
-  },
-  {
-    "description": "Agent skill that teaches AI agents how to manage Zilliz Cloud vector databases through zilliz-cli",
-    "id": "zilliztech/zilliz-skill",
-    "language": "\u2014",
-    "name": "zilliztech/zilliz-skill",
-    "stars": 5,
-    "updated_at": "2026-10-23T08:36:32Z",
-    "url": "https://github.com/zilliztech/zilliz-skill"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2394,
-    "updated_at": "2026-10-23T08:34:59Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-23T08:30:05Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Zilliz Cloud plugin for Claude Code & OpenAI Codex \u2014 manage clusters, collections, vector search, backups, and more thro",
-    "id": "zilliztech/zilliz-plugin",
-    "language": "\u2014",
-    "name": "zilliztech/zilliz-plugin",
-    "stars": 3,
-    "updated_at": "2026-10-23T08:30:02Z",
-    "url": "https://github.com/zilliztech/zilliz-plugin"
-  },
-  {
-    "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
-    "id": "PunGrumpy/vecstore-sdk",
-    "language": "TypeScript",
-    "name": "PunGrumpy/vecstore-sdk",
-    "stars": 2,
-    "updated_at": "2026-10-23T08:27:39Z",
-    "url": "https://github.com/PunGrumpy/vecstore-sdk"
   }
 ]
