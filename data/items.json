@@ -1,5 +1,77 @@
 [
   {
+    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
+    "id": "xavidop/tobira",
+    "language": "Go",
+    "name": "xavidop/tobira",
+    "stars": 2,
+    "updated_at": "2026-10-23T16:57:18Z",
+    "url": "https://github.com/xavidop/tobira"
+  },
+  {
+    "description": "Terraform module to self-host a Qdrant vector database cluster on AWS (EC2 + EBS): replicated, backed up to S3, monitore",
+    "id": "gordonmurray/qdrant_terraform_aws",
+    "language": "HCL",
+    "name": "gordonmurray/qdrant_terraform_aws",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:53:00Z",
+    "url": "https://github.com/gordonmurray/qdrant_terraform_aws"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32699,
+    "updated_at": "2026-10-23T16:50:31Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DOCMINDS",
+    "language": "Python",
+    "name": "dhanoliya-ji/DOCMINDS",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:54:53Z",
+    "url": "https://github.com/dhanoliya-ji/DOCMINDS"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-23T16:47:23Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-23T16:47:41Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T16:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T17:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
     "id": "api-evangelist/weaviate",
     "language": "\u2014",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "lancedb/docs",
     "stars": 12,
-    "updated_at": "2026-10-23T16:32:40Z",
+    "updated_at": "2026-10-23T16:55:13Z",
     "url": "https://github.com/lancedb/docs"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T16:31:45Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T16:30:46Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and",
@@ -158,7 +221,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-23T16:21:32Z",
+    "updated_at": "2026-10-23T16:58:03Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -175,7 +238,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40679,
+    "stars": 40680,
     "updated_at": "2026-10-23T16:17:11Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -187,15 +250,6 @@
     "stars": 2057,
     "updated_at": "2026-10-23T16:18:58Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T16:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A full-stack AI-powered Industry-Centric assistant built with React, Node.js, TypeScript, PostgreSQL, and pgvector. Inte",
@@ -247,7 +301,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 512,
+    "stars": 514,
     "updated_at": "2026-10-23T16:04:08Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -259,15 +313,6 @@
     "stars": 243,
     "updated_at": "2026-10-23T15:58:03Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32699,
-    "updated_at": "2026-10-23T15:58:01Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Detect and erase deleted records left on disk by Chroma, Postgres/pgvector and SQLite stores, with signed receipts.",
@@ -391,7 +436,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35214,
+    "stars": 35215,
     "updated_at": "2026-10-23T15:42:14Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -403,50 +448,5 @@
     "stars": 120,
     "updated_at": "2026-10-23T16:10:08Z",
     "url": "https://github.com/nambok/mentedb"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-23T16:01:11Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-10-23T15:32:09Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13288,
-    "updated_at": "2026-10-23T15:49:17Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-23T15:30:06Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
-    "id": "redis-developer/redis-ai-resources",
-    "language": "Jupyter Notebook",
-    "name": "redis-developer/redis-ai-resources",
-    "stars": 497,
-    "updated_at": "2026-10-23T15:28:51Z",
-    "url": "https://github.com/redis-developer/redis-ai-resources"
   }
 ]
