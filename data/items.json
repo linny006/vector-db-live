@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T14:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-23T14:10:26Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 61,
+    "updated_at": "2026-10-23T14:08:47Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39536,
+    "updated_at": "2026-10-23T14:07:10Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13288,
+    "updated_at": "2026-10-23T14:09:57Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
+    "id": "newfoundcodes/amaquet",
+    "language": "Go",
+    "name": "newfoundcodes/amaquet",
+    "stars": 0,
+    "updated_at": "2026-10-23T14:05:47Z",
+    "url": "https://github.com/newfoundcodes/amaquet"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-23T14:02:26Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
+    "id": "livendb/liven",
+    "language": "Rust",
+    "name": "livendb/liven",
+    "stars": 1,
+    "updated_at": "2026-10-23T14:01:00Z",
+    "url": "https://github.com/livendb/liven"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T14:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -45,22 +126,22 @@
     "url": "https://github.com/Cognipeer/console"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13288,
-    "updated_at": "2026-10-23T13:58:40Z",
-    "url": "https://github.com/langchain4j/langchain4j"
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40667,
+    "updated_at": "2026-10-23T13:52:14Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-23T14:00:22Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
+    "description": "LlamaIndex is the document processing platform for AI",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 52637,
+    "updated_at": "2026-10-23T13:51:39Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -90,15 +171,6 @@
     "url": "https://github.com/nambok/mentedb"
   },
   {
-    "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
-    "id": "newfoundcodes/amaquet",
-    "language": "Go",
-    "name": "newfoundcodes/amaquet",
-    "stars": 0,
-    "updated_at": "2026-10-23T13:47:16Z",
-    "url": "https://github.com/newfoundcodes/amaquet"
-  },
-  {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
     "id": "KonNik88/ml-research-radar",
     "language": "Python",
@@ -106,24 +178,6 @@
     "stars": 3,
     "updated_at": "2026-10-23T13:46:16Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T13:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T14:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -153,40 +207,13 @@
     "url": "https://github.com/imkausarbd/imkausarbd"
   },
   {
-    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
-    "id": "livendb/liven",
-    "language": "Rust",
-    "name": "livendb/liven",
-    "stars": 1,
-    "updated_at": "2026-10-23T13:35:06Z",
-    "url": "https://github.com/livendb/liven"
-  },
-  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 505,
+    "stars": 506,
     "updated_at": "2026-10-23T13:34:17Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40666,
-    "updated_at": "2026-10-23T13:52:14Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39534,
-    "updated_at": "2026-10-23T13:33:15Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
@@ -207,15 +234,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 35,
-    "updated_at": "2026-10-23T13:21:49Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
     "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
     "id": "rifqifitriady/ZAAFPulse",
     "language": "JavaScript",
@@ -230,7 +248,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-23T13:16:19Z",
+    "updated_at": "2026-10-23T14:11:07Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35210,
-    "updated_at": "2026-10-23T13:00:32Z",
+    "updated_at": "2026-10-23T14:03:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 13,
     "updated_at": "2026-10-23T12:28:28Z",
     "url": "https://github.com/jaehyeon-kim/odctl"
-  },
-  {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 249,
-    "updated_at": "2026-10-23T12:17:57Z",
-    "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-23T12:07:59Z",
-    "url": "https://github.com/iberi22/xavier"
   }
 ]
