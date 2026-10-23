@@ -1,11 +1,65 @@
 [
   {
+    "description": "",
+    "id": "vishnarac/scyllavec",
+    "language": "Python",
+    "name": "vishnarac/scyllavec",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:13:54Z",
+    "url": "https://github.com/vishnarac/scyllavec"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-23T16:08:53Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39544,
+    "updated_at": "2026-10-23T16:08:12Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-23T16:07:43Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "A vector database built from first principles in Rust \u2014 HNSW, mmap storage, product quantization, AVX2 kernels, lock-fre",
+    "id": "MaheshBhushan/vektordb",
+    "language": "Rust",
+    "name": "MaheshBhushan/vektordb",
+    "stars": 0,
+    "updated_at": "2026-10-23T16:07:06Z",
+    "url": "https://github.com/MaheshBhushan/vektordb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T16:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T16:00:23Z",
+    "updated_at": "2026-10-23T16:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,6 +70,15 @@
     "stars": 243,
     "updated_at": "2026-10-23T15:58:03Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32700,
+    "updated_at": "2026-10-23T15:58:01Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Detect and erase deleted records left on disk by Chroma, Postgres/pgvector and SQLite stores, with signed receipts.",
@@ -32,7 +95,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-23T15:56:32Z",
+    "updated_at": "2026-10-23T16:11:42Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T15:55:34Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T15:55:15Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
@@ -99,15 +153,6 @@
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39542,
-    "updated_at": "2026-10-23T15:46:30Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 120,
-    "updated_at": "2026-10-23T15:47:21Z",
+    "updated_at": "2026-10-23T16:10:08Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-23T15:35:07Z",
+    "updated_at": "2026-10-23T16:01:11Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 511,
-    "updated_at": "2026-10-23T15:29:49Z",
+    "updated_at": "2026-10-23T16:04:08Z",
     "url": "https://github.com/kividbio/kividb"
   },
   {
@@ -205,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-10-23T15:28:19Z",
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": ".NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9.",
+    "id": "ChromaDotNet/ChromaDB.Client",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Client",
+    "stars": 36,
+    "updated_at": "2026-10-23T16:11:34Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Client"
   },
   {
     "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
@@ -241,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-10-23T15:17:52Z",
     "url": "https://github.com/skhynix/LTM100"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32699,
-    "updated_at": "2026-10-23T15:58:01Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -297,15 +342,6 @@
     "url": "https://github.com/kinshuk-coder/rag-fastapi-docs"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-23T15:56:59Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -346,7 +382,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59642,
+    "stars": 59641,
     "updated_at": "2026-10-23T14:46:02Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -355,7 +391,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40675,
+    "stars": 40676,
     "updated_at": "2026-10-23T14:38:21Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -374,7 +410,7 @@
     "language": "Java",
     "name": "opencrawling/opencrawling",
     "stars": 24,
-    "updated_at": "2026-10-23T14:41:43Z",
+    "updated_at": "2026-10-23T16:09:38Z",
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
@@ -385,15 +421,6 @@
     "stars": 355,
     "updated_at": "2026-10-23T14:32:26Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-23T15:49:44Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T14:23:27Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-23T14:19:38Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 22,
-    "updated_at": "2026-10-23T14:18:05Z",
-    "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 35,
-    "updated_at": "2026-10-23T14:02:26Z",
-    "url": "https://github.com/maximilien/weave-cli"
   }
 ]
