@@ -1,12 +1,111 @@
 [
   {
+    "description": "Qdrant control plane \u2014 3D similarity dashboard + read-only MCP server (9 tools). Python stdlib, 100% local, 0 paid API.",
+    "id": "MlkBlk-IT/Mcp-QadGraph",
+    "language": "JavaScript",
+    "name": "MlkBlk-IT/Mcp-QadGraph",
+    "stars": 0,
+    "updated_at": "2026-10-23T01:26:41Z",
+    "url": "https://github.com/MlkBlk-IT/Mcp-QadGraph"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-23T01:26:20Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-23T01:25:26Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 468,
+    "updated_at": "2026-10-23T01:21:35Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 371,
+    "updated_at": "2026-10-23T01:19:11Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-23T01:19:07Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Git-diffable memory for AI agents \u2014 six-layer architecture, plain-text source of truth, Obsidian graph projection. MIT.",
+    "id": "albaozhen-eng/coremem",
+    "language": "Python",
+    "name": "albaozhen-eng/coremem",
+    "stars": 1,
+    "updated_at": "2026-10-23T01:18:44Z",
+    "url": "https://github.com/albaozhen-eng/coremem"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-23T01:17:10Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-23T01:13:19Z",
+    "updated_at": "2026-10-23T01:15:26Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T01:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
+    "id": "BMC-INC/Iron-mem",
+    "language": "Rust",
+    "name": "BMC-INC/Iron-mem",
+    "stars": 5,
+    "updated_at": "2026-10-23T01:15:21Z",
+    "url": "https://github.com/BMC-INC/Iron-mem"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67459,
+    "updated_at": "2026-10-23T01:14:47Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -27,15 +126,6 @@
     "url": "https://github.com/AceAtDev/VecterDB-Q"
   },
   {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-23T01:03:39Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
     "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
     "id": "api-evangelist/milvus",
     "language": "\u2014",
@@ -43,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T01:01:38Z",
     "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T01:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-23T00:53:14Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "Self improving agents through iterations",
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32678,
-    "updated_at": "2026-10-23T01:05:29Z",
+    "updated_at": "2026-10-23T01:29:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -113,17 +185,8 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T01:08:21Z",
+    "updated_at": "2026-10-23T01:25:34Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67458,
-    "updated_at": "2026-10-23T01:14:47Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T00:20:41Z",
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
-  },
-  {
-    "description": "Plan de controle Qdrant - dashboard 3D de similarite + serveur MCP (9 outils, lecture seule). Python stdlib, 100% local,",
-    "id": "MlkBlk-IT/Mcp-QadGraph",
-    "language": "JavaScript",
-    "name": "MlkBlk-IT/Mcp-QadGraph",
-    "stars": 0,
-    "updated_at": "2026-10-23T00:13:01Z",
-    "url": "https://github.com/MlkBlk-IT/Mcp-QadGraph"
   },
   {
     "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
@@ -261,15 +315,6 @@
     "url": "https://github.com/d3uceY/vectile"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-22T23:51:35Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
     "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
     "language": "Shell",
@@ -342,15 +387,6 @@
     "url": "https://github.com/oramasearch/oramacore"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-22T22:09:45Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
     "id": "RoxyAPI/ai-spiritual-companion",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T21:27:00Z",
     "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-22T23:09:53Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-23T00:03:13Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 388,
-    "updated_at": "2026-10-22T21:21:46Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2035,
-    "updated_at": "2026-10-22T21:20:46Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
   }
 ]
