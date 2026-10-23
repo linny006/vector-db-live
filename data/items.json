@@ -1,5 +1,122 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-23T11:57:50Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-23T11:56:54Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-23T11:54:11Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "RAG with dockerized VectorDB x local Llama3.2 LLM",
+    "id": "HristiyanIvanovski/viivii",
+    "language": "Python",
+    "name": "HristiyanIvanovski/viivii",
+    "stars": 0,
+    "updated_at": "2026-10-23T11:52:02Z",
+    "url": "https://github.com/HristiyanIvanovski/viivii"
+  },
+  {
+    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
+    "id": "xavidop/tobira",
+    "language": "Go",
+    "name": "xavidop/tobira",
+    "stars": 2,
+    "updated_at": "2026-10-23T11:51:13Z",
+    "url": "https://github.com/xavidop/tobira"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-23T11:49:40Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-23T11:49:21Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-23T11:49:20Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-23T11:59:42Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-23T11:47:35Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-23T11:47:10Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
+    "id": "kifayat-irfan/VectorMind",
+    "language": "Python",
+    "name": "kifayat-irfan/VectorMind",
+    "stars": 0,
+    "updated_at": "2026-10-23T11:46:15Z",
+    "url": "https://github.com/kifayat-irfan/VectorMind"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T11:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +140,7 @@
     "language": "Python",
     "name": "jaehyeon-kim/odctl",
     "stars": 13,
-    "updated_at": "2026-10-23T11:45:12Z",
+    "updated_at": "2026-10-23T11:56:16Z",
     "url": "https://github.com/jaehyeon-kim/odctl"
   },
   {
@@ -36,56 +153,20 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T11:37:57Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
-    "id": "xavidop/tobira",
-    "language": "Go",
-    "name": "xavidop/tobira",
-    "stars": 2,
-    "updated_at": "2026-10-23T11:37:14Z",
-    "url": "https://github.com/xavidop/tobira"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:36:42Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39532,
+    "stars": 39531,
     "updated_at": "2026-10-23T11:36:21Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
-    "id": "kifayat-irfan/VectorMind",
-    "language": "Python",
-    "name": "kifayat-irfan/VectorMind",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:34:05Z",
-    "url": "https://github.com/kifayat-irfan/VectorMind"
   },
   {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 498,
+    "stars": 499,
     "updated_at": "2026-10-23T11:33:45Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -121,7 +202,7 @@
     "id": "actian-devs/awesome-selfhosted-ai",
     "language": "Python",
     "name": "actian-devs/awesome-selfhosted-ai",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-23T11:22:25Z",
     "url": "https://github.com/actian-devs/awesome-selfhosted-ai"
   },
@@ -131,7 +212,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-23T11:20:45Z",
+    "updated_at": "2026-10-23T11:54:29Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -149,7 +230,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T11:44:48Z",
+    "updated_at": "2026-10-23T11:53:36Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -158,7 +239,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 291,
-    "updated_at": "2026-10-23T11:35:20Z",
+    "updated_at": "2026-10-23T11:58:29Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -167,7 +248,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8426,
-    "updated_at": "2026-10-23T11:43:13Z",
+    "updated_at": "2026-10-23T11:55:19Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -180,40 +261,13 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-23T11:05:06Z",
-    "url": "https://github.com/badhope/spark"
-  },
-  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-23T11:02:58Z",
+    "updated_at": "2026-10-23T11:52:05Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-23T11:23:14Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-23T11:13:55Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\ud83e\udd85\ud83e\udebd Sovereign Self-Evolving AI Agent Framework: Hermes closed-loop skill evolution x OpenClaw <1.5K token frugality x Gem",
@@ -229,7 +283,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40660,
+    "stars": 40661,
     "updated_at": "2026-10-23T10:56:45Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32693,
-    "updated_at": "2026-10-23T11:42:40Z",
+    "updated_at": "2026-10-23T11:50:56Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -248,7 +302,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6545,
-    "updated_at": "2026-10-23T10:52:50Z",
+    "updated_at": "2026-10-23T11:46:47Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -324,15 +378,6 @@
     "url": "https://github.com/diegoglozano/revector"
   },
   {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-23T11:43:55Z",
-    "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -351,15 +396,6 @@
     "url": "https://github.com/pavelhorak/pion"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-23T10:32:39Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
     "id": "tayyabimam1/awesome-ai-agent-stack",
     "language": "TypeScript",
@@ -374,7 +410,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13286,
-    "updated_at": "2026-10-23T10:25:40Z",
+    "updated_at": "2026-10-23T11:57:43Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-23T10:17:52Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
     "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
     "id": "api-evangelist/crate-io",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T10:12:30Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11753,
-    "updated_at": "2026-10-23T10:07:05Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2036,
-    "updated_at": "2026-10-23T10:05:02Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35209,
-    "updated_at": "2026-10-23T11:44:01Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
