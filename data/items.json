@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T14:15:22Z",
+    "updated_at": "2026-10-23T14:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
+    "id": "newfoundcodes/amaquet",
+    "language": "Go",
+    "name": "newfoundcodes/amaquet",
+    "stars": 0,
+    "updated_at": "2026-10-23T14:29:44Z",
+    "url": "https://github.com/newfoundcodes/amaquet"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 64,
+    "updated_at": "2026-10-23T14:29:41Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-23T14:29:11Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2396,
+    "updated_at": "2026-10-23T14:28:36Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-23T14:27:26Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
@@ -14,8 +59,71 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 4,
-    "updated_at": "2026-10-23T14:10:26Z",
+    "updated_at": "2026-10-23T14:27:09Z",
     "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-23T14:23:27Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
+    "id": "livendb/liven",
+    "language": "Rust",
+    "name": "livendb/liven",
+    "stars": 1,
+    "updated_at": "2026-10-23T14:27:04Z",
+    "url": "https://github.com/livendb/liven"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-23T14:21:29Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32694,
+    "updated_at": "2026-10-23T14:27:23Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-23T14:19:38Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 22,
+    "updated_at": "2026-10-23T14:18:05Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T14:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -45,13 +153,13 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
-    "id": "newfoundcodes/amaquet",
-    "language": "Go",
-    "name": "newfoundcodes/amaquet",
-    "stars": 0,
-    "updated_at": "2026-10-23T14:05:47Z",
-    "url": "https://github.com/newfoundcodes/amaquet"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35211,
+    "updated_at": "2026-10-23T14:03:05Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
@@ -61,24 +169,6 @@
     "stars": 35,
     "updated_at": "2026-10-23T14:02:26Z",
     "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
-    "id": "livendb/liven",
-    "language": "Rust",
-    "name": "livendb/liven",
-    "stars": 1,
-    "updated_at": "2026-10-23T14:01:00Z",
-    "url": "https://github.com/livendb/liven"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T14:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -104,7 +194,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9475,
-    "updated_at": "2026-10-23T13:58:27Z",
+    "updated_at": "2026-10-23T14:28:53Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -113,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1215,
-    "updated_at": "2026-10-23T13:58:10Z",
+    "updated_at": "2026-10-23T14:27:23Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -130,8 +220,8 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40667,
-    "updated_at": "2026-10-23T13:52:14Z",
+    "stars": 40668,
+    "updated_at": "2026-10-23T14:26:38Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -142,15 +232,6 @@
     "stars": 52637,
     "updated_at": "2026-10-23T13:51:39Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-23T13:48:16Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Multi-agent financial intelligence platform: LangGraph + Groq LLM + ChromaDB RAG + yFinance ; deployed on AWS EC2. Ask q",
@@ -189,15 +270,6 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32695,
-    "updated_at": "2026-10-23T13:43:16Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI Automation Engineer building AI agents, n8n workflows, RAG chatbots, and MCP integrations using Claude AI and ChatGPT",
     "id": "imkausarbd/imkausarbd",
     "language": "\u2014",
@@ -211,36 +283,9 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 506,
+    "stars": 507,
     "updated_at": "2026-10-23T13:34:17Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-23T13:30:06Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2396,
-    "updated_at": "2026-10-23T13:24:21Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-23T13:18:22Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -261,24 +306,6 @@
     "url": "https://github.com/gonicolas12/My_AI"
   },
   {
-    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
-    "id": "oracle/langchain-oracle",
-    "language": "Python",
-    "name": "oracle/langchain-oracle",
-    "stars": 64,
-    "updated_at": "2026-10-23T13:11:04Z",
-    "url": "https://github.com/oracle/langchain-oracle"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-23T13:10:56Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -295,24 +322,6 @@
     "stars": 6,
     "updated_at": "2026-10-23T13:45:43Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35210,
-    "updated_at": "2026-10-23T14:03:05Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-23T13:17:54Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "dhanoliya-ji/DOCMINDS",
     "stars": 0,
-    "updated_at": "2026-10-23T12:36:20Z",
+    "updated_at": "2026-10-23T14:28:11Z",
     "url": "https://github.com/dhanoliya-ji/DOCMINDS"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 11754,
     "updated_at": "2026-10-23T12:17:41Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Run Kafka, Flink, Spark, Iceberg, Trino, ClickHouse, Airflow, MLflow, Feast, pgvector and more on your laptop, one comma",
-    "id": "jaehyeon-kim/odctl",
-    "language": "Python",
-    "name": "jaehyeon-kim/odctl",
-    "stars": 13,
-    "updated_at": "2026-10-23T12:28:28Z",
-    "url": "https://github.com/jaehyeon-kim/odctl"
   }
 ]
