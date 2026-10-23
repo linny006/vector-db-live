@@ -1,11 +1,92 @@
 [
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32695,
+    "updated_at": "2026-10-23T14:42:00Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 1,
+    "updated_at": "2026-10-23T14:40:01Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40670,
+    "updated_at": "2026-10-23T14:38:21Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7143,
+    "updated_at": "2026-10-23T14:41:38Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "Java",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-10-23T14:35:00Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 24,
+    "updated_at": "2026-10-23T14:41:43Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9476,
+    "updated_at": "2026-10-23T14:32:42Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-23T14:32:26Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T14:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T14:30:22Z",
+    "updated_at": "2026-10-23T14:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -45,15 +126,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-23T14:27:26Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
@@ -90,15 +162,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32694,
-    "updated_at": "2026-10-23T14:27:23Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
     "id": "motedb/motedb",
     "language": "Rust",
@@ -115,15 +178,6 @@
     "stars": 22,
     "updated_at": "2026-10-23T14:18:05Z",
     "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T14:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -171,15 +225,6 @@
     "url": "https://github.com/maximilien/weave-cli"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-23T14:00:12Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "\u9762\u5411\u4f7f\u7528 FastAPI \u7684\u540e\u7aef\u5f00\u53d1\u8005\uff1a\u7528\u4e2d\u6587\u63d0\u95ee\uff0c\u7cfb\u7edf\u4ece\u5b98\u65b9\u82f1\u6587\u6587\u6863\u4e2d\u68c0\u7d22\u76f8\u5173\u6bb5\u843d\uff0c \u6309\u76f8\u5173\u6027\u9608\u503c\u7b5b\u6389\u65e0\u5173\u5185\u5bb9\u540e\u751f\u6210\u4e2d\u6587\u56de\u7b54\uff0c\u5e76\u6807\u6ce8\u6bcf\u6bb5\u7ed3\u8bba\u51fa\u81ea\u54ea\u4e2a\u6587\u4ef6\uff0c \u53ef\u9010\u6761\u56de\u6eaf\u539f\u6587\u3002\u5185\u7f6e 50 \u9898\u8bc4\u6d4b\u96c6\u4e0e 113 \u6761\u56de\u5f52\u6d4b\u8bd5\uff0c\u68c0\u7d22\u6548\u679c\u4e0e\u6bcf\u6b21\u6539\u52a8\u90fd\u53ef",
     "id": "yun-248710/fastapi-docs-rag",
     "language": "Python",
@@ -189,21 +234,12 @@
     "url": "https://github.com/yun-248710/fastapi-docs-rag"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9475,
-    "updated_at": "2026-10-23T14:28:53Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1215,
-    "updated_at": "2026-10-23T14:27:23Z",
+    "updated_at": "2026-10-23T14:44:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 26,
     "updated_at": "2026-10-23T13:57:54Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40668,
-    "updated_at": "2026-10-23T14:26:38Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "LlamaIndex is the document processing platform for AI",
@@ -283,7 +310,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 507,
+    "stars": 508,
     "updated_at": "2026-10-23T13:34:17Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -338,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8427,
-    "updated_at": "2026-10-23T13:27:25Z",
+    "updated_at": "2026-10-23T14:34:54Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 17,
     "updated_at": "2026-10-23T12:28:45Z",
     "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
-    "language": "Python",
-    "name": "djleamen/doc-reader",
-    "stars": 3,
-    "updated_at": "2026-10-23T12:28:38Z",
-    "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
-    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:22:16Z",
-    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11754,
-    "updated_at": "2026-10-23T12:17:41Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
