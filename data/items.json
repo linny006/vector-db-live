@@ -1,12 +1,57 @@
 [
   {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-10-23T14:57:40Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32695,
-    "updated_at": "2026-10-23T14:42:00Z",
+    "stars": 32696,
+    "updated_at": "2026-10-23T14:56:17Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
+    "id": "newfoundcodes/amaquet",
+    "language": "Go",
+    "name": "newfoundcodes/amaquet",
+    "stars": 0,
+    "updated_at": "2026-10-23T14:54:52Z",
+    "url": "https://github.com/newfoundcodes/amaquet"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59642,
+    "updated_at": "2026-10-23T14:46:02Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T14:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T15:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
@@ -22,7 +67,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40670,
+    "stars": 40671,
     "updated_at": "2026-10-23T14:38:21Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -70,33 +115,6 @@
     "stars": 355,
     "updated_at": "2026-10-23T14:32:26Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T14:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T14:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
-    "id": "newfoundcodes/amaquet",
-    "language": "Go",
-    "name": "newfoundcodes/amaquet",
-    "stars": 0,
-    "updated_at": "2026-10-23T14:29:44Z",
-    "url": "https://github.com/newfoundcodes/amaquet"
   },
   {
     "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
@@ -185,7 +203,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-23T14:08:47Z",
+    "updated_at": "2026-10-23T14:57:04Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -193,7 +211,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39536,
+    "stars": 39537,
     "updated_at": "2026-10-23T14:07:10Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -203,7 +221,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13288,
-    "updated_at": "2026-10-23T14:09:57Z",
+    "updated_at": "2026-10-23T14:57:00Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -297,6 +315,15 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46462,
+    "updated_at": "2026-10-23T13:37:55Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "AI Automation Engineer building AI agents, n8n workflows, RAG chatbots, and MCP integrations using Claude AI and ChatGPT",
     "id": "imkausarbd/imkausarbd",
     "language": "\u2014",
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 508,
-    "updated_at": "2026-10-23T13:34:17Z",
+    "updated_at": "2026-10-23T14:54:57Z",
     "url": "https://github.com/kividbio/kividb"
   },
   {
@@ -365,7 +392,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8427,
-    "updated_at": "2026-10-23T14:34:54Z",
+    "updated_at": "2026-10-23T14:59:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T12:32:44Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "TeamDocs AI is an AI-powered RAG (Retrieval-Augmented Generation) assistant designed to help software development teams ",
-    "id": "HosseinHeydari2004/TeamDocs-AI",
-    "language": "Python",
-    "name": "HosseinHeydari2004/TeamDocs-AI",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:31:48Z",
-    "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
-  },
-  {
-    "description": "T\u00fcrk\u00e7e fiziksel tarifle y\u00fcz arama: Gemini ile \u00e7eviri, CLIP + Qdrant anlamsal arama, FastAPI backend ve Telegram Mini App",
-    "id": "fazliddin-hamdam/faceidf.ai",
-    "language": "Python",
-    "name": "fazliddin-hamdam/faceidf.ai",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:29:47Z",
-    "url": "https://github.com/fazliddin-hamdam/faceidf.ai"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 17,
-    "updated_at": "2026-10-23T12:28:45Z",
-    "url": "https://github.com/ppossanzini/Jigen"
   }
 ]
