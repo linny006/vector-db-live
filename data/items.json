@@ -1,5 +1,41 @@
 [
   {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2393,
+    "updated_at": "2026-10-23T03:13:49Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Spring AI RAG\uff1aEmbedding\u3001\u5411\u91cf\u5e93\u4e0e\u68c0\u7d22\u589e\u5f3a\u751f\u6210\u793a\u4f8b",
+    "id": "zhijunio/spring-ai-samples",
+    "language": "Java",
+    "name": "zhijunio/spring-ai-samples",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:09:39Z",
+    "url": "https://github.com/zhijunio/spring-ai-samples"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 371,
+    "updated_at": "2026-10-23T03:00:41Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T03:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -22,7 +58,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40608,
+    "stars": 40609,
     "updated_at": "2026-10-23T02:54:42Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -36,6 +72,15 @@
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9475,
+    "updated_at": "2026-10-23T02:51:36Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
     "id": "kannaka-labs/kannaka-memory",
     "language": "Rust",
@@ -45,21 +90,12 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T02:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
     "id": "miniaxolotl/grove",
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-23T02:50:45Z",
+    "updated_at": "2026-10-23T03:10:27Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -72,22 +108,22 @@
     "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46454,
+    "updated_at": "2026-10-23T02:30:00Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-23T02:28:26Z",
+    "updated_at": "2026-10-23T03:14:45Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents and audio or video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 371,
-    "updated_at": "2026-10-23T02:28:11Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
     "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
@@ -108,15 +144,6 @@
     "url": "https://github.com/rustic-ai/uni-db"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46453,
-    "updated_at": "2026-10-23T02:30:00Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
     "id": "api-evangelist/aerospike",
     "language": "\u2014",
@@ -131,17 +158,8 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T02:57:47Z",
+    "updated_at": "2026-10-23T03:13:57Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2393,
-    "updated_at": "2026-10-23T02:06:29Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
@@ -151,6 +169,15 @@
     "stars": 467,
     "updated_at": "2026-10-23T02:04:48Z",
     "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32680,
+    "updated_at": "2026-10-23T02:03:36Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Qdrant control plane \u2014 3D similarity dashboard + read-only MCP server (9 tools). Python stdlib, 100% local, 0 paid API.",
@@ -216,15 +243,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32680,
-    "updated_at": "2026-10-23T02:03:36Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
     "id": "motedb/motedb",
     "language": "Rust",
@@ -274,7 +292,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67463,
+    "stars": 67462,
     "updated_at": "2026-10-23T01:14:47Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -364,7 +382,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11745,
+    "stars": 11746,
     "updated_at": "2026-10-23T00:13:42Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-22T22:52:23Z",
     "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
-    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "language": "Shell",
-    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
-    "stars": 0,
-    "updated_at": "2026-10-22T22:48:18Z",
-    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
-    "stars": 0,
-    "updated_at": "2026-10-22T22:48:02Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
   }
 ]
