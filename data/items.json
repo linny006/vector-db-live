@@ -1,5 +1,68 @@
 [
   {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-23T15:52:44Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 64,
+    "updated_at": "2026-10-23T15:51:47Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "Evaluate RAG pipelines end-to-end. Auto-generates Q&A benchmarks from your documents, runs them through your retrieval s",
+    "id": "RitikPatill/rag-eval-kit",
+    "language": "Python",
+    "name": "RitikPatill/rag-eval-kit",
+    "stars": 0,
+    "updated_at": "2026-10-23T15:51:01Z",
+    "url": "https://github.com/RitikPatill/rag-eval-kit"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-10-23T15:50:27Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 17,
+    "updated_at": "2026-10-23T15:47:56Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T15:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T15:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -22,7 +85,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 35213,
+    "stars": 35214,
     "updated_at": "2026-10-23T15:42:14Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 120,
-    "updated_at": "2026-10-23T15:38:34Z",
+    "updated_at": "2026-10-23T15:47:21Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -54,30 +117,12 @@
     "url": "https://github.com/cyborginc/cyborgdb-py"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T15:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T15:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13288,
-    "updated_at": "2026-10-23T15:30:12Z",
+    "updated_at": "2026-10-23T15:49:17Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39541,
-    "updated_at": "2026-10-23T15:29:35Z",
+    "updated_at": "2026-10-23T15:46:30Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -131,7 +176,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 61,
-    "updated_at": "2026-10-23T15:37:20Z",
+    "updated_at": "2026-10-23T15:48:27Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32698,
-    "updated_at": "2026-10-23T15:41:59Z",
+    "updated_at": "2026-10-23T15:46:52Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-23T15:41:14Z",
+    "updated_at": "2026-10-23T15:51:12Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 263,
     "updated_at": "2026-10-23T14:59:52Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 7,
-    "updated_at": "2026-10-23T14:57:40Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
     "description": "Amaquet is a standalon in-memory database that combines a typed data plane with a separate HTTP control plane.",
@@ -293,7 +329,7 @@
     "language": "JavaScript",
     "name": "rifqifitriady/ZAAFPulse",
     "stars": 1,
-    "updated_at": "2026-10-23T14:40:01Z",
+    "updated_at": "2026-10-23T15:53:16Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
@@ -301,7 +337,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40674,
+    "stars": 40675,
     "updated_at": "2026-10-23T14:38:21Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -333,21 +369,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
-    "id": "oracle/langchain-oracle",
-    "language": "Python",
-    "name": "oracle/langchain-oracle",
-    "stars": 64,
-    "updated_at": "2026-10-23T14:29:41Z",
-    "url": "https://github.com/oracle/langchain-oracle"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-23T15:32:46Z",
+    "updated_at": "2026-10-23T15:49:44Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1215,
     "updated_at": "2026-10-23T14:44:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-23T15:08:23Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "LlamaIndex is the document processing platform for AI",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 52637,
-    "updated_at": "2026-10-23T13:51:39Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Multi-agent financial intelligence platform: LangGraph + Groq LLM + ChromaDB RAG + yFinance ; deployed on AWS EC2. Ask q",
-    "id": "ParthSharma-2/Finsight-AI",
-    "language": "Python",
-    "name": "ParthSharma-2/Finsight-AI",
-    "stars": 0,
-    "updated_at": "2026-10-23T13:47:58Z",
-    "url": "https://github.com/ParthSharma-2/Finsight-AI"
   }
 ]
