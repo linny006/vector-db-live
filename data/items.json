@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-23T12:59:52Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-23T12:59:09Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
+    "id": "SwineCoder101/hvec",
+    "language": "Rust",
+    "name": "SwineCoder101/hvec",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:57:45Z",
+    "url": "https://github.com/SwineCoder101/hvec"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13288,
+    "updated_at": "2026-10-23T12:47:24Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 371,
+    "updated_at": "2026-10-23T12:46:57Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T12:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-23T12:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -13,7 +76,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40662,
+    "stars": 40663,
     "updated_at": "2026-10-23T12:44:03Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -43,15 +106,6 @@
     "stars": 291,
     "updated_at": "2026-10-23T12:43:55Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-23T12:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -90,15 +144,6 @@
     "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T12:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "T\u00fcrk\u00e7e fiziksel tarifle y\u00fcz arama: Gemini ile \u00e7eviri, CLIP + Qdrant anlamsal arama, FastAPI backend ve Telegram Mini App",
     "id": "fazliddin-hamdam/faceidf.ai",
     "language": "Python",
@@ -126,21 +171,12 @@
     "url": "https://github.com/djleamen/doc-reader"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-23T12:28:11Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and specu",
     "id": "nambok/mentedb",
     "language": "Rust",
     "name": "nambok/mentedb",
     "stars": 120,
-    "updated_at": "2026-10-23T12:27:23Z",
+    "updated_at": "2026-10-23T12:55:56Z",
     "url": "https://github.com/nambok/mentedb"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1215,
-    "updated_at": "2026-10-23T12:44:10Z",
+    "updated_at": "2026-10-23T12:57:06Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -243,15 +279,6 @@
     "url": "https://github.com/kldhsh123/Afterglow"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-23T12:36:00Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-23T11:47:10Z",
+    "updated_at": "2026-10-23T12:59:41Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6546,
-    "updated_at": "2026-10-23T12:35:01Z",
+    "updated_at": "2026-10-23T12:45:23Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -378,15 +405,6 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Program that lets you ask questions about your documents and audio or video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 371,
-    "updated_at": "2026-10-23T11:28:18Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
     "id": "DevAnimecx/free-ai-agent-stack",
     "language": "TypeScript",
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-23T12:36:53Z",
+    "updated_at": "2026-10-23T12:48:17Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -428,25 +446,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8426,
-    "updated_at": "2026-10-23T12:29:01Z",
+    "updated_at": "2026-10-23T12:54:19Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:05:27Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 61,
-    "updated_at": "2026-10-23T11:52:05Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   }
 ]
