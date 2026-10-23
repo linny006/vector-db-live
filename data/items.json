@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-23T07:45:21Z",
+    "updated_at": "2026-10-23T08:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 8,
+    "updated_at": "2026-10-23T07:57:12Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-23T07:57:22Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-23T07:56:58Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Self-hosted microservice RAG on a single 6 GB GPU: Docling OCR, Qwen3.5-4B on SGLang, Qdrant hybrid search (bge-m3 + BM2",
+    "id": "mdmonsurali/Advanced-Hybrid-RAG",
+    "language": "Python",
+    "name": "mdmonsurali/Advanced-Hybrid-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:54:04Z",
+    "url": "https://github.com/mdmonsurali/Advanced-Hybrid-RAG"
+  },
+  {
+    "description": "TeamDocs AI is an AI-powered RAG (Retrieval-Augmented Generation) assistant designed to help software development teams ",
+    "id": "HosseinHeydari2004/TeamDocs-AI",
+    "language": "Python",
+    "name": "HosseinHeydari2004/TeamDocs-AI",
+    "stars": 0,
+    "updated_at": "2026-10-23T07:48:08Z",
+    "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-23T07:46:37Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 487,
+    "updated_at": "2026-10-23T07:46:29Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-23T07:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -54,15 +126,6 @@
     "url": "https://github.com/Yourstandby/Material-Mind-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-23T07:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
     "id": "kifayat-irfan/VectorMind",
     "language": "Python",
@@ -86,7 +149,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9475,
-    "updated_at": "2026-10-23T07:26:56Z",
+    "updated_at": "2026-10-23T07:50:59Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -94,7 +157,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40643,
+    "stars": 40644,
     "updated_at": "2026-10-23T07:23:30Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -113,7 +176,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46458,
-    "updated_at": "2026-10-23T07:27:54Z",
+    "updated_at": "2026-10-23T07:53:55Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -126,21 +189,12 @@
     "url": "https://github.com/gonicolas12/My_AI"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-23T07:09:48Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-23T07:09:11Z",
+    "updated_at": "2026-10-23T07:55:51Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -256,7 +310,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39517,
+    "stars": 39519,
     "updated_at": "2026-10-23T06:33:12Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -265,8 +319,8 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8423,
-    "updated_at": "2026-10-23T06:31:38Z",
+    "stars": 8424,
+    "updated_at": "2026-10-23T07:53:57Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/motedb/motedb"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-23T07:39:35Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T05:23:23Z",
     "url": "https://github.com/Thameempp/Practiq"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-23T05:13:12Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "Full-stack TypeScript framework for real-time apps and agent-native APIs: Clean Architecture services, pluggable databas",
-    "id": "MantleJs/mantle",
-    "language": "TypeScript",
-    "name": "MantleJs/mantle",
-    "stars": 0,
-    "updated_at": "2026-10-23T05:36:17Z",
-    "url": "https://github.com/MantleJs/mantle"
-  },
-  {
-    "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
-    "id": "waynewbishop/quiver",
-    "language": "Swift",
-    "name": "waynewbishop/quiver",
-    "stars": 22,
-    "updated_at": "2026-10-23T05:11:48Z",
-    "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "Official Java client for Qdrant ",
-    "id": "qdrant/java-client",
-    "language": "Java",
-    "name": "qdrant/java-client",
-    "stars": 100,
-    "updated_at": "2026-10-23T05:06:24Z",
-    "url": "https://github.com/qdrant/java-client"
-  },
-  {
-    "description": "Multi-agent financial intelligence platform: LangGraph + Groq LLM + ChromaDB RAG + yFinance ; deployed on AWS EC2. Ask q",
-    "id": "ParthSharma-2/Finsight-AI",
-    "language": "Python",
-    "name": "ParthSharma-2/Finsight-AI",
-    "stars": 0,
-    "updated_at": "2026-10-23T05:00:53Z",
-    "url": "https://github.com/ParthSharma-2/Finsight-AI"
   }
 ]
