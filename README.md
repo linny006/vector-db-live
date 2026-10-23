@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-23 19:47 UTC
+> ⏰ Last updated: 2026-10-23 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Mid-D-Man/msx](https://github.com/Mid-D-Man/msx) | 0 | Rust | 2026-10-23 | Vector graphics format authored in DixScript, compressed with MBFA |
-| 2 | [MaheshBhushan/vektordb](https://github.com/MaheshBhushan/vektordb) | 0 | Rust | 2026-10-23 | A vector database built from first principles in Rust — HNSW, mmap storage, product quantization, AVX2 kernels, lock-fre |
-| 3 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-23 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 6 | [dhanoliya-ji/DOCMINDS](https://github.com/dhanoliya-ji/DOCMINDS) | 0 | Python | 2026-10-23 | Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t |
-| 7 | [eggspot/EggDB](https://github.com/eggspot/EggDB) | 0 | Rust | 2026-10-23 | All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s |
-| 8 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-23 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
-| 9 | [thameema/memnos](https://github.com/thameema/memnos) | 4 | Python | 2026-10-23 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
-| 10 | [MariaDB/server](https://github.com/MariaDB/server) | 8431 | C++ | 2026-10-23 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 11 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-23 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 12 | [livendb/liven](https://github.com/livendb/liven) | 1 | Rust | 2026-10-23 | LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co |
-| 13 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 131 | Python | 2026-10-23 | Self improving agents through iterations |
-| 14 | [kennielima/OpsIQ](https://github.com/kennielima/OpsIQ) | 0 | C# | 2026-10-23 | Building multi-tenant Retrieval Augmented Generation platform  |
-| 15 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-23 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 16 | [Cognipeer/console](https://github.com/Cognipeer/console) | 26 | TypeScript | 2026-10-23 | Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub,  |
-| 17 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11754 | Rust | 2026-10-23 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 18 | [pavelhorak/pion](https://github.com/pavelhorak/pion) | 3 | Mojo | 2026-10-23 | Pion — the memory engine for AI inference |
-| 19 | [iberi22/xavier](https://github.com/iberi22/xavier) | 1 | Rust | 2026-10-23 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
-| 20 | [gordonmurray/qdrant_terraform_aws](https://github.com/gordonmurray/qdrant_terraform_aws) | 0 | HCL | 2026-10-23 | Terraform module to self-host a Qdrant vector database cluster on AWS (EC2 + EBS): replicated, backed up to S3, monitore |
-| 21 | [mahpate/Vlite](https://github.com/mahpate/Vlite) | 2 | Rust | 2026-10-23 | Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar |
-| 22 | [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) | 135 | Go | 2026-10-23 | The Kubernetes Operator of Milvus.  |
-| 23 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 23 | Python | 2026-10-23 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
-| 24 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-10-23 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
-| 25 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7144 | Java | 2026-10-23 | The AI search platform |
-| 26 | [YS-Pundir/cartmind-agentic-ecommerce-support](https://github.com/YS-Pundir/cartmind-agentic-ecommerce-support) | 2 | Python | 2026-10-23 | LangGraph agent (RAG + SQL tool routing) for e-commerce support with PII masking, prompt-injection detection, JSON-Schem |
-| 27 | [structured-world/coordinode-python](https://github.com/structured-world/coordinode-python) | 0 | Python | 2026-10-23 | Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode — AI-native graph + vector + full-text  |
-| 28 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 3 | Python | 2026-10-23 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
-| 29 | [roedyrustam/opentalon](https://github.com/roedyrustam/opentalon) | 1 | TypeScript | 2026-10-23 | 🦅🪽 Sovereign Self-Evolving AI Agent Framework: Hermes closed-loop skill evolution x OpenClaw <1.5K token frugality x Gem |
-| 30 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 67489 | JavaScript | 2026-10-23 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 31 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35217 | Rust | 2026-10-23 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 32 | [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | 453 | Python | 2026-10-23 | Official Python SDK for the Pinecone vector database |
-| 33 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-23 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 34 | [ChromaDotNet/ChromaDB.Client](https://github.com/ChromaDotNet/ChromaDB.Client) | 36 | C# | 2026-10-23 | .NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9. |
-| 35 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-10-23 | Zilliz — independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector  |
-| 36 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-10-23 | Weaviate — independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na |
-| 37 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-10-23 | Nomic AI — independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib |
-| 38 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-10-23 | Marqo — independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal  |
-| 39 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-10-23 | Vespa — independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en |
-| 40 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-10-23 | LanceDB — independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda |
-| 41 | [api-evangelist/vectorize-io](https://github.com/api-evangelist/vectorize-io) | 0 | — | 2026-10-23 | Vectorize — independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au |
-| 42 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-10-23 | Upstash — independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p |
-| 43 | [api-evangelist/datastax](https://github.com/api-evangelist/datastax) | 0 | — | 2026-10-23 | DataStax — independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As |
-| 44 | [api-evangelist/surrealdb](https://github.com/api-evangelist/surrealdb) | 0 | — | 2026-10-23 | SurrealDB — independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab |
-| 45 | [Percolation-Labs/percolate](https://github.com/Percolation-Labs/percolate) | 61 | PLpgSQL | 2026-10-23 | An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge |
-| 46 | [api-evangelist/ragflow](https://github.com/api-evangelist/ragflow) | 0 | — | 2026-10-23 | RAGFlow — independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev |
-| 47 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 32700 | Python | 2026-10-23 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
-| 48 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-10-23 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 49 | [RishabhMathur06/CASO-RAG](https://github.com/RishabhMathur06/CASO-RAG) | 0 | Python | 2026-10-23 | Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap |
-| 50 | [api-evangelist/objectbox](https://github.com/api-evangelist/objectbox) | 0 | — | 2026-10-23 | ObjectBox — independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance, |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-10-23 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
+| 3 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-10-23 | Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revisão humana, RAG híbrido |
+| 4 | [kividbio/kividb](https://github.com/kividbio/kividb) | 522 | Rust | 2026-10-23 | A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear |
+| 5 | [motedb/motedb](https://github.com/motedb/motedb) | 49 | Rust | 2026-10-23 | AI-native embedded multimodal database for embodied AI & robotics — vectors, time series, full text and binary in one em |
+| 6 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-23 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 7 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 131 | Python | 2026-10-23 | Self improving agents through iterations |
+| 8 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-23 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
+| 9 | [Mid-D-Man/msx](https://github.com/Mid-D-Man/msx) | 0 | Rust | 2026-10-23 | Vector graphics format authored in DixScript, compressed with MBFA |
+| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 11 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11754 | Rust | 2026-10-23 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 12 | [MaheshBhushan/vektordb](https://github.com/MaheshBhushan/vektordb) | 0 | Rust | 2026-10-23 | A vector database built from first principles in Rust — HNSW, mmap storage, product quantization, AVX2 kernels, lock-fre |
+| 13 | [dhanoliya-ji/DOCMINDS](https://github.com/dhanoliya-ji/DOCMINDS) | 0 | Python | 2026-10-23 | Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t |
+| 14 | [eggspot/EggDB](https://github.com/eggspot/EggDB) | 0 | Rust | 2026-10-23 | All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s |
+| 15 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-23 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
+| 16 | [thameema/memnos](https://github.com/thameema/memnos) | 4 | Python | 2026-10-23 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
+| 17 | [MariaDB/server](https://github.com/MariaDB/server) | 8431 | C++ | 2026-10-23 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 18 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-23 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 19 | [livendb/liven](https://github.com/livendb/liven) | 1 | Rust | 2026-10-23 | LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co |
+| 20 | [kennielima/OpsIQ](https://github.com/kennielima/OpsIQ) | 0 | C# | 2026-10-23 | Building multi-tenant Retrieval Augmented Generation platform  |
+| 21 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-23 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 22 | [Cognipeer/console](https://github.com/Cognipeer/console) | 26 | TypeScript | 2026-10-23 | Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub,  |
+| 23 | [pavelhorak/pion](https://github.com/pavelhorak/pion) | 3 | Mojo | 2026-10-23 | Pion — the memory engine for AI inference |
+| 24 | [iberi22/xavier](https://github.com/iberi22/xavier) | 1 | Rust | 2026-10-23 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
+| 25 | [gordonmurray/qdrant_terraform_aws](https://github.com/gordonmurray/qdrant_terraform_aws) | 0 | HCL | 2026-10-23 | Terraform module to self-host a Qdrant vector database cluster on AWS (EC2 + EBS): replicated, backed up to S3, monitore |
+| 26 | [mahpate/Vlite](https://github.com/mahpate/Vlite) | 2 | Rust | 2026-10-23 | Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar |
+| 27 | [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) | 135 | Go | 2026-10-23 | The Kubernetes Operator of Milvus.  |
+| 28 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 23 | Python | 2026-10-23 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
+| 29 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7144 | Java | 2026-10-23 | The AI search platform |
+| 30 | [YS-Pundir/cartmind-agentic-ecommerce-support](https://github.com/YS-Pundir/cartmind-agentic-ecommerce-support) | 2 | Python | 2026-10-23 | LangGraph agent (RAG + SQL tool routing) for e-commerce support with PII masking, prompt-injection detection, JSON-Schem |
+| 31 | [structured-world/coordinode-python](https://github.com/structured-world/coordinode-python) | 0 | Python | 2026-10-23 | Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode — AI-native graph + vector + full-text  |
+| 32 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 3 | Python | 2026-10-23 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
+| 33 | [roedyrustam/opentalon](https://github.com/roedyrustam/opentalon) | 1 | TypeScript | 2026-10-23 | 🦅🪽 Sovereign Self-Evolving AI Agent Framework: Hermes closed-loop skill evolution x OpenClaw <1.5K token frugality x Gem |
+| 34 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 67489 | JavaScript | 2026-10-23 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 35 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35217 | Rust | 2026-10-23 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 36 | [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | 453 | Python | 2026-10-23 | Official Python SDK for the Pinecone vector database |
+| 37 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-23 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 38 | [ChromaDotNet/ChromaDB.Client](https://github.com/ChromaDotNet/ChromaDB.Client) | 36 | C# | 2026-10-23 | .NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9. |
+| 39 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-10-23 | Zilliz — independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector  |
+| 40 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-10-23 | Weaviate — independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na |
+| 41 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-10-23 | Nomic AI — independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib |
+| 42 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-10-23 | Marqo — independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal  |
+| 43 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-10-23 | Vespa — independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en |
+| 44 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-10-23 | LanceDB — independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda |
+| 45 | [api-evangelist/vectorize-io](https://github.com/api-evangelist/vectorize-io) | 0 | — | 2026-10-23 | Vectorize — independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au |
+| 46 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-10-23 | Upstash — independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p |
+| 47 | [api-evangelist/datastax](https://github.com/api-evangelist/datastax) | 0 | — | 2026-10-23 | DataStax — independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As |
+| 48 | [api-evangelist/surrealdb](https://github.com/api-evangelist/surrealdb) | 0 | — | 2026-10-23 | SurrealDB — independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab |
+| 49 | [Percolation-Labs/percolate](https://github.com/Percolation-Labs/percolate) | 61 | PLpgSQL | 2026-10-23 | An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge |
+| 50 | [api-evangelist/ragflow](https://github.com/api-evangelist/ragflow) | 0 | — | 2026-10-23 | RAGFlow — independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev |
 <!-- TRACKER_TABLE_END -->
 
 ---
