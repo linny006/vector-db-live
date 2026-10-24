@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T11:30:19Z",
+    "updated_at": "2026-10-24T11:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OriginChainDB LlamaIndex vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
+    "id": "originchaindb/llama-index-vector-stores-originchain",
+    "language": "Python",
+    "name": "originchaindb/llama-index-vector-stores-originchain",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:45:16Z",
+    "url": "https://github.com/originchaindb/llama-index-vector-stores-originchain"
+  },
+  {
+    "description": "OriginChainDB LangChain vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
+    "id": "originchaindb/langchain-originchain",
+    "language": "Python",
+    "name": "originchaindb/langchain-originchain",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:45:06Z",
+    "url": "https://github.com/originchaindb/langchain-originchain"
+  },
+  {
+    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
+    "id": "Nazar-Plokhuta/docuquery-rag-agent",
+    "language": "Python",
+    "name": "Nazar-Plokhuta/docuquery-rag-agent",
+    "stars": 4,
+    "updated_at": "2026-10-24T11:43:31Z",
+    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-24T11:41:00Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39594,
+    "updated_at": "2026-10-24T11:41:07Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
+    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:39:43Z",
+    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
+    "id": "RishabhMathur06/CASO-RAG",
+    "language": "Python",
+    "name": "RishabhMathur06/CASO-RAG",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:35:35Z",
+    "url": "https://github.com/RishabhMathur06/CASO-RAG"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-24T11:31:53Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T11:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "local-first semantic code search engine",
@@ -23,7 +104,7 @@
     "language": "Go",
     "name": "mpilhlt/embapi",
     "stars": 2,
-    "updated_at": "2026-10-24T11:27:48Z",
+    "updated_at": "2026-10-24T11:43:23Z",
     "url": "https://github.com/mpilhlt/embapi"
   },
   {
@@ -41,44 +122,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-24T11:25:53Z",
+    "updated_at": "2026-10-24T11:35:50Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-24T11:24:54Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "OriginChainDB LlamaIndex vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
-    "id": "originchaindb/llama-index-vector-stores-originchain",
-    "language": "Python",
-    "name": "originchaindb/llama-index-vector-stores-originchain",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:23:19Z",
-    "url": "https://github.com/originchaindb/llama-index-vector-stores-originchain"
-  },
-  {
-    "description": "OriginChainDB LangChain vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
-    "id": "originchaindb/langchain-originchain",
-    "language": "Python",
-    "name": "originchaindb/langchain-originchain",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:22:38Z",
-    "url": "https://github.com/originchaindb/langchain-originchain"
-  },
-  {
-    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
-    "id": "Nazar-Plokhuta/docuquery-rag-agent",
-    "language": "Python",
-    "name": "Nazar-Plokhuta/docuquery-rag-agent",
-    "stars": 4,
-    "updated_at": "2026-10-24T11:18:14Z",
-    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -88,24 +133,6 @@
     "stars": 6,
     "updated_at": "2026-10-24T11:17:50Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T11:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39594,
-    "updated_at": "2026-10-24T11:15:16Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -126,21 +153,12 @@
     "url": "https://github.com/Yasou13/MESA"
   },
   {
-    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
-    "id": "RishabhMathur06/CASO-RAG",
-    "language": "Python",
-    "name": "RishabhMathur06/CASO-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:12:11Z",
-    "url": "https://github.com/RishabhMathur06/CASO-RAG"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7144,
-    "updated_at": "2026-10-24T11:12:54Z",
+    "updated_at": "2026-10-24T11:35:55Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-24T09:11:29Z",
     "url": "https://github.com/pavelhorak/pion"
-  },
-  {
-    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:07:22Z",
-    "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-24T09:05:28Z",
-    "url": "https://github.com/iberi22/xavier"
   }
 ]
