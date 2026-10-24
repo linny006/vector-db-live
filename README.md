@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-24 04:45 UTC
+> ⏰ Last updated: 2026-10-24 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,17 +43,17 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [maximilien/weave-cli](https://github.com/maximilien/weave-cli) | 35 | Go | 2026-10-24 | A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc |
-| 3 | [thameema/memnos](https://github.com/thameema/memnos) | 4 | Python | 2026-10-24 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
-| 4 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-24 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 5 | [irodori-table/irodori-extension-qdrant](https://github.com/irodori-table/irodori-extension-qdrant) | 0 | Rust | 2026-10-24 | Irodori Table Qdrant connector extension |
-| 6 | [irodori-table/irodori-extension-pinecone](https://github.com/irodori-table/irodori-extension-pinecone) | 0 | Rust | 2026-10-24 | Irodori Table Pinecone connector extension |
-| 7 | [Polign/recall](https://github.com/Polign/recall) | 4 | Go | 2026-10-24 | Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python + |
-| 8 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11756 | Rust | 2026-10-24 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 9 | [irodori-table/irodori-extension-milvus](https://github.com/irodori-table/irodori-extension-milvus) | 0 | Rust | 2026-10-24 | Irodori Table Milvus connector extension |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-24 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 12 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-24 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
+| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-24 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 3 | [Polign/recall](https://github.com/Polign/recall) | 4 | Go | 2026-10-24 | Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python + |
+| 4 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-24 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [maximilien/weave-cli](https://github.com/maximilien/weave-cli) | 35 | Go | 2026-10-24 | A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc |
+| 7 | [thameema/memnos](https://github.com/thameema/memnos) | 4 | Python | 2026-10-24 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
+| 8 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-24 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
+| 9 | [irodori-table/irodori-extension-qdrant](https://github.com/irodori-table/irodori-extension-qdrant) | 0 | Rust | 2026-10-24 | Irodori Table Qdrant connector extension |
+| 10 | [irodori-table/irodori-extension-pinecone](https://github.com/irodori-table/irodori-extension-pinecone) | 0 | Rust | 2026-10-24 | Irodori Table Pinecone connector extension |
+| 11 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11756 | Rust | 2026-10-24 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 12 | [irodori-table/irodori-extension-milvus](https://github.com/irodori-table/irodori-extension-milvus) | 0 | Rust | 2026-10-24 | Irodori Table Milvus connector extension |
 | 13 | [iberi22/xavier](https://github.com/iberi22/xavier) | 1 | Rust | 2026-10-24 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
 | 14 | [caoergou/dify-installer](https://github.com/caoergou/dify-installer) | 2 | Shell | 2026-10-24 | One-click installer for Dify Docker deployment \| Dify 一键安装脚本，使用 Docker Compose 部署 |
 | 15 | [mahpate/Vlite](https://github.com/mahpate/Vlite) | 2 | Rust | 2026-10-24 | Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar |
