@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T09:30:22Z",
+    "updated_at": "2026-10-24T09:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:43:34Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Historical standalone Agentic repository. Active development moved to pyfly.agentic in pyfly v26.10.08. See native docum",
+    "id": "fireflyframework/fireflyframework-agentic",
+    "language": "Python",
+    "name": "fireflyframework/fireflyframework-agentic",
+    "stars": 4,
+    "updated_at": "2026-10-24T09:37:53Z",
+    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   },
   {
     "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "Nazar-Plokhuta/docuquery-rag-agent",
     "stars": 4,
-    "updated_at": "2026-10-24T09:26:05Z",
+    "updated_at": "2026-10-24T09:36:33Z",
     "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T09:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T09:16:16Z",
     "url": "https://github.com/kennielima/OpsIQ"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T09:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Pion \u2014 the memory engine for AI inference",
@@ -99,15 +117,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:18:17Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
     "id": "IdoY12/awesome-free-ai-apis",
     "language": "JavaScript",
@@ -148,7 +157,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40712,
+    "stars": 40714,
     "updated_at": "2026-10-24T08:36:31Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T06:12:33Z",
     "url": "https://github.com/irodori-table/irodori-extension-qdrant"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 389,
-    "updated_at": "2026-10-24T06:08:53Z",
-    "url": "https://github.com/zilliztech/knowhere"
   }
 ]
