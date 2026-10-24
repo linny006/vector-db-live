@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T03:00:19Z",
+    "updated_at": "2026-10-24T03:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One set of actions for vector databases: an OutSystems Developer Cloud (ODC) external library (.NET 10). Preview: Qdrant",
+    "id": "quadirsaifee/universal-vector-db-connector",
+    "language": "C#",
+    "name": "quadirsaifee/universal-vector-db-connector",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:11:25Z",
+    "url": "https://github.com/quadirsaifee/universal-vector-db-connector"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:11:03Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11755,
+    "updated_at": "2026-10-24T03:08:40Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "another turbopuffer",
+    "id": "dxmt/dxmt",
+    "language": "Rust",
+    "name": "dxmt/dxmt",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:04:56Z",
+    "url": "https://github.com/dxmt/dxmt"
+  },
+  {
+    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
+    "id": "api-evangelist/zilliz",
+    "language": "\u2014",
+    "name": "api-evangelist/zilliz",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:04:46Z",
+    "url": "https://github.com/api-evangelist/zilliz"
+  },
+  {
+    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-10-24T03:01:54Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T03:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
+    "id": "api-evangelist/vespa-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa-ai",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:00:20Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
   },
   {
     "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
@@ -16,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-10-24T02:59:49Z",
     "url": "https://github.com/api-evangelist/vectorize-io"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3756,
+    "updated_at": "2026-10-24T02:59:26Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
@@ -41,7 +122,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-24T02:59:43Z",
+    "updated_at": "2026-10-24T03:08:42Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-24T02:54:24Z",
+    "updated_at": "2026-10-24T03:12:42Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T02:47:21Z",
     "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T02:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
@@ -106,15 +178,6 @@
     "stars": 49,
     "updated_at": "2026-10-24T02:40:03Z",
     "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "One set of actions for vector databases: an OutSystems Developer Cloud (ODC) external library (.NET 10). Preview: Qdrant",
-    "id": "quadirsaifee/universal-vector-db-connector",
-    "language": "C#",
-    "name": "quadirsaifee/universal-vector-db-connector",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:34:05Z",
-    "url": "https://github.com/quadirsaifee/universal-vector-db-connector"
   },
   {
     "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
@@ -252,15 +315,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11755,
-    "updated_at": "2026-10-24T02:38:46Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
     "id": "xl3v3r/hermes-oracle-memory",
     "language": "Python",
@@ -274,7 +328,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 538,
+    "stars": 539,
     "updated_at": "2026-10-24T01:32:08Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -302,7 +356,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9436,
-    "updated_at": "2026-10-24T02:54:04Z",
+    "updated_at": "2026-10-24T03:12:40Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T00:15:41Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-24T00:07:25Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-10-23T23:58:37Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
-  },
-  {
-    "description": "NLP + RAG technique for requirements engineering.",
-    "id": "Semillero-GIDSYC/NLP4RE",
-    "language": "Jupyter Notebook",
-    "name": "Semillero-GIDSYC/NLP4RE",
-    "stars": 4,
-    "updated_at": "2026-10-23T23:49:31Z",
-    "url": "https://github.com/Semillero-GIDSYC/NLP4RE"
-  },
-  {
-    "description": "ChatBud \u2014 Stateful Multi-Agent Workspace & Persona Hub built with Flutter and Firebase AI.",
-    "id": "SandyCompetent/chatbud",
-    "language": "Dart",
-    "name": "SandyCompetent/chatbud",
-    "stars": 0,
-    "updated_at": "2026-10-23T23:40:13Z",
-    "url": "https://github.com/SandyCompetent/chatbud"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3354,
-    "updated_at": "2026-10-23T23:34:57Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7144,
-    "updated_at": "2026-10-23T23:38:10Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
