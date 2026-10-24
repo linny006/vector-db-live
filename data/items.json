@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T13:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
+    "id": "feather-store/feather",
+    "language": "Python",
+    "name": "feather-store/feather",
+    "stars": 8,
+    "updated_at": "2026-10-24T12:59:59Z",
+    "url": "https://github.com/feather-store/feather"
+  },
+  {
+    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
+    "id": "Nazar-Plokhuta/docuquery-rag-agent",
+    "language": "Python",
+    "name": "Nazar-Plokhuta/docuquery-rag-agent",
+    "stars": 4,
+    "updated_at": "2026-10-24T12:59:07Z",
+    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
+  },
+  {
+    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
+    "id": "oguzhankir/omnichunk",
+    "language": "Python",
+    "name": "oguzhankir/omnichunk",
+    "stars": 9,
+    "updated_at": "2026-10-24T12:58:55Z",
+    "url": "https://github.com/oguzhankir/omnichunk"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-24T12:58:36Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
+    "id": "originchaindb/originchadb",
+    "language": "TypeScript",
+    "name": "originchaindb/originchadb",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:49:13Z",
+    "url": "https://github.com/originchaindb/originchadb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T12:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
     "id": "originchaindb/originchaindb-rust",
     "language": "Rust",
@@ -63,15 +126,6 @@
     "url": "https://github.com/originchaindb/llama-index-vector-stores-originchain"
   },
   {
-    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
-    "id": "originchaindb/originchadb",
-    "language": "TypeScript",
-    "name": "originchaindb/originchadb",
-    "stars": 0,
-    "updated_at": "2026-10-24T12:42:25Z",
-    "url": "https://github.com/originchaindb/originchadb"
-  },
-  {
     "description": "Official OriginChainDB Python SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
     "id": "originchaindb/originchain-python",
     "language": "Python",
@@ -79,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T12:31:06Z",
     "url": "https://github.com/originchaindb/originchain-python"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T12:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T12:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "OriginChainDB LangChain vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
@@ -144,6 +180,15 @@
     "url": "https://github.com/mpilhlt/embapi"
   },
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9438,
+    "updated_at": "2026-10-24T12:00:49Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -160,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T11:58:58Z",
     "url": "https://github.com/blackeagle686/vec_db"
-  },
-  {
-    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
-    "id": "Nazar-Plokhuta/docuquery-rag-agent",
-    "language": "Python",
-    "name": "Nazar-Plokhuta/docuquery-rag-agent",
-    "stars": 4,
-    "updated_at": "2026-10-24T11:58:30Z",
-    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
   },
   {
     "description": " A local database for Flutter combining dense vector search, full-text search and filtered storage in one Rust engine.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T10:25:04Z",
     "url": "https://github.com/Rachit47/IdatenOps"
-  },
-  {
-    "description": "Run Kafka, Flink, Spark, Iceberg, Trino, ClickHouse, Airflow, MLflow, Feast, pgvector and more on your laptop, one comma",
-    "id": "jaehyeon-kim/odctl",
-    "language": "Python",
-    "name": "jaehyeon-kim/odctl",
-    "stars": 13,
-    "updated_at": "2026-10-24T10:23:50Z",
-    "url": "https://github.com/jaehyeon-kim/odctl"
-  },
-  {
-    "description": "TalaDB for Swift - Swift bindings for TalaDB, an embedded document and vector database, for native iOS and macOS apps .",
-    "id": "taladb/taladb-swift",
-    "language": "Swift",
-    "name": "taladb/taladb-swift",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:20:49Z",
-    "url": "https://github.com/taladb/taladb-swift"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-24T10:19:35Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "TalaDB for Android - Kotlin bindings for TalaDB, an embedded document and vector database, for native Android apps.",
-    "id": "taladb/taladb-kotlin",
-    "language": "Kotlin",
-    "name": "taladb/taladb-kotlin",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:20:33Z",
-    "url": "https://github.com/taladb/taladb-kotlin"
   }
 ]
