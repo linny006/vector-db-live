@@ -1,12 +1,93 @@
 [
   {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-24T15:42:05Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
-    "stars": 9438,
-    "updated_at": "2026-10-24T15:22:16Z",
+    "stars": 9439,
+    "updated_at": "2026-10-24T15:38:41Z",
     "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-24T15:34:20Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-24T15:33:23Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 2,
+    "updated_at": "2026-10-24T15:32:07Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, and Windsurf with temporal decay",
+    "id": "yantrikos/yantrikdb-mcp",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-mcp",
+    "stars": 25,
+    "updated_at": "2026-10-24T15:30:58Z",
+    "url": "https://github.com/yantrikos/yantrikdb-mcp"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-24T15:30:30Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T15:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T15:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39606,
+    "updated_at": "2026-10-24T15:26:46Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "EmbAPI (/\u025bm\u02c8b\u0251\u02d0pe\u026a/) \u26bd, a RESTful Embeddings API",
@@ -25,24 +106,6 @@
     "stars": 7144,
     "updated_at": "2026-10-24T15:21:18Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T15:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T15:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
@@ -135,15 +198,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-24T15:00:19Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "\u4e2d\u6587\u6cd5\u5f8b\u9886\u57df\u7684 RAG \u95ee\u7b54\u7cfb\u7edf\uff1a\u5feb\u95ee\u5feb\u7b54 + \u6cd5\u6761/\u95ee\u7b54\u53cc\u8def\u53ec\u56de\uff0c\u56de\u7b54\u5e26\u6cd5\u6761\u5f15\u7528\u4e0e\u6821\u9a8c",
     "id": "yanxiao-ci/lawrag",
     "language": "Python",
@@ -158,17 +212,8 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-24T14:52:10Z",
+    "updated_at": "2026-10-24T15:42:17Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-24T14:59:54Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "AI-assisted workflow for pre-owned automotive retail",
@@ -279,15 +324,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39605,
-    "updated_at": "2026-10-24T15:26:46Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
     "id": "cyborginc/cyborgdb-py",
     "language": "Python",
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 139,
-    "updated_at": "2026-10-24T13:38:38Z",
+    "updated_at": "2026-10-24T15:36:49Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T12:32:27Z",
     "url": "https://github.com/originchaindb/originchaindb-rust"
-  },
-  {
-    "description": "Official OriginChainDB PHP SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-php",
-    "language": "PHP",
-    "name": "originchaindb/originchaindb-php",
-    "stars": 0,
-    "updated_at": "2026-10-24T12:32:02Z",
-    "url": "https://github.com/originchaindb/originchaindb-php"
-  },
-  {
-    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-ruby",
-    "language": "Ruby",
-    "name": "originchaindb/originchaindb-ruby",
-    "stars": 0,
-    "updated_at": "2026-10-24T12:31:56Z",
-    "url": "https://github.com/originchaindb/originchaindb-ruby"
-  },
-  {
-    "description": "Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-csharp",
-    "language": "C#",
-    "name": "originchaindb/originchaindb-csharp",
-    "stars": 0,
-    "updated_at": "2026-10-24T12:31:50Z",
-    "url": "https://github.com/originchaindb/originchaindb-csharp"
-  },
-  {
-    "description": "Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-java",
-    "language": "Java",
-    "name": "originchaindb/originchaindb-java",
-    "stars": 0,
-    "updated_at": "2026-10-24T12:31:44Z",
-    "url": "https://github.com/originchaindb/originchaindb-java"
   }
 ]
