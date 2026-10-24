@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T10:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-10-24T10:44:58Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:44:30Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 1,
+    "updated_at": "2026-10-24T10:42:37Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-24T10:38:15Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-10-24T10:35:28Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:35:18Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T10:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Afterglow\u7684\u684c\u9762\u7aef\u3002\u8ba9\u66fe\u7ecf\u5bf9\u8bdd\u7684\u6e29\u5ea6\uff0c\u5ef6\u7eed\u4e3a\u5f80\u540e\u7684\u966a\u4f34\u3002 | Afterglow on the Desktop Let the warmth of past conversations continue into companion",
     "id": "kldhsh123/Afterglow-Desktop",
     "language": "Python",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "originchaindb/originchain-python",
     "stars": 0,
-    "updated_at": "2026-10-24T10:27:41Z",
+    "updated_at": "2026-10-24T10:43:44Z",
     "url": "https://github.com/originchaindb/originchain-python"
   },
   {
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T10:25:04Z",
     "url": "https://github.com/Rachit47/IdatenOps"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:24:31Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
     "description": "Run Kafka, Flink, Spark, Iceberg, Trino, ClickHouse, Airflow, MLflow, Feast, pgvector and more on your laptop, one comma",
@@ -117,24 +180,6 @@
     "url": "https://github.com/originchaindb/originchaindb-ruby"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T10:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T10:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
     "id": "originchaindb/originchaindb-csharp",
     "language": "C#",
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T10:13:34Z",
     "url": "https://github.com/originchaindb/originchaindb-go"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-24T10:11:35Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "TuluVaani \ud83c\udf99\ufe0f ,A first-attempt Tulu speech pipeline \u2014 demonstrated through a coastal Karnataka scheme & fisheries advisor",
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "originchaindb/originchadb",
     "stars": 0,
-    "updated_at": "2026-10-24T09:55:33Z",
+    "updated_at": "2026-10-24T10:44:20Z",
     "url": "https://github.com/originchaindb/originchadb"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-10-24T09:51:25Z",
     "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:18:03Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "Historical standalone Agentic repository. Active development moved to pyfly.agentic in pyfly v26.10.08. See native docum",
@@ -247,7 +274,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39593,
+    "stars": 39592,
     "updated_at": "2026-10-24T09:33:12Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -311,7 +338,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8439,
-    "updated_at": "2026-10-24T10:19:52Z",
+    "updated_at": "2026-10-24T10:36:11Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -364,7 +391,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40721,
+    "stars": 40722,
     "updated_at": "2026-10-24T08:36:31Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -421,32 +448,5 @@
     "stars": 320,
     "updated_at": "2026-10-24T10:18:02Z",
     "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
-    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
-    "id": "TowsifAhamed/GameRagKit",
-    "language": "C#",
-    "name": "TowsifAhamed/GameRagKit",
-    "stars": 2,
-    "updated_at": "2026-10-24T08:11:32Z",
-    "url": "https://github.com/TowsifAhamed/GameRagKit"
-  },
-  {
-    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:10:15Z",
-    "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1215,
-    "updated_at": "2026-10-24T07:56:01Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
