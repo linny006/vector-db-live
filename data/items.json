@@ -5,8 +5,170 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T11:45:20Z",
+    "updated_at": "2026-10-24T12:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-24T12:00:19Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "EmbAPI (/\u025bm\u02c8b\u0251\u02d0pe\u026a/) \u26bd, a RESTful Embeddings API",
+    "id": "mpilhlt/embapi",
+    "language": "Go",
+    "name": "mpilhlt/embapi",
+    "stars": 2,
+    "updated_at": "2026-10-24T12:00:02Z",
+    "url": "https://github.com/mpilhlt/embapi"
+  },
+  {
+    "description": "Phoenix-Vector is a highly optimized vector database engine and AI-native ingestion platform built entirely from scratch",
+    "id": "blackeagle686/vec_db",
+    "language": "Rust",
+    "name": "blackeagle686/vec_db",
+    "stars": 2,
+    "updated_at": "2026-10-24T11:58:58Z",
+    "url": "https://github.com/blackeagle686/vec_db"
+  },
+  {
+    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
+    "id": "Nazar-Plokhuta/docuquery-rag-agent",
+    "language": "Python",
+    "name": "Nazar-Plokhuta/docuquery-rag-agent",
+    "stars": 4,
+    "updated_at": "2026-10-24T11:58:30Z",
+    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
+  },
+  {
+    "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-rust",
+    "language": "Rust",
+    "name": "originchaindb/originchaindb-rust",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:57:44Z",
+    "url": "https://github.com/originchaindb/originchaindb-rust"
+  },
+  {
+    "description": "Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-csharp",
+    "language": "C#",
+    "name": "originchaindb/originchaindb-csharp",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:57:42Z",
+    "url": "https://github.com/originchaindb/originchaindb-csharp"
+  },
+  {
+    "description": "Official OriginChainDB PHP SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-php",
+    "language": "PHP",
+    "name": "originchaindb/originchaindb-php",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:57:35Z",
+    "url": "https://github.com/originchaindb/originchaindb-php"
+  },
+  {
+    "description": "Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-java",
+    "language": "Java",
+    "name": "originchaindb/originchaindb-java",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:57:32Z",
+    "url": "https://github.com/originchaindb/originchaindb-java"
+  },
+  {
+    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-ruby",
+    "language": "Ruby",
+    "name": "originchaindb/originchaindb-ruby",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:57:26Z",
+    "url": "https://github.com/originchaindb/originchaindb-ruby"
+  },
+  {
+    "description": "Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-go",
+    "language": "Python",
+    "name": "originchaindb/originchaindb-go",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:55:46Z",
+    "url": "https://github.com/originchaindb/originchaindb-go"
+  },
+  {
+    "description": " A local database for Flutter combining dense vector search, full-text search and filtered storage in one Rust engine.",
+    "id": "MostafaSensei106/Waffle-DB",
+    "language": "Dart",
+    "name": "MostafaSensei106/Waffle-DB",
+    "stars": 5,
+    "updated_at": "2026-10-24T11:55:22Z",
+    "url": "https://github.com/MostafaSensei106/Waffle-DB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-24T11:52:57Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "local-first semantic code search engine",
+    "id": "kantord/SeaGOAT",
+    "language": "Python",
+    "name": "kantord/SeaGOAT",
+    "stars": 1314,
+    "updated_at": "2026-10-24T11:54:03Z",
+    "url": "https://github.com/kantord/SeaGOAT"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-24T11:52:56Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Official OriginChainDB Python SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchain-python",
+    "language": "Python",
+    "name": "originchaindb/originchain-python",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:00:07Z",
+    "url": "https://github.com/originchaindb/originchain-python"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-24T11:49:58Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
+    "id": "originchaindb/originchadb",
+    "language": "TypeScript",
+    "name": "originchaindb/originchadb",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:49:12Z",
+    "url": "https://github.com/originchaindb/originchadb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T11:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "OriginChainDB LlamaIndex vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
@@ -14,7 +176,7 @@
     "language": "Python",
     "name": "originchaindb/llama-index-vector-stores-originchain",
     "stars": 0,
-    "updated_at": "2026-10-24T11:45:16Z",
+    "updated_at": "2026-10-24T11:53:48Z",
     "url": "https://github.com/originchaindb/llama-index-vector-stores-originchain"
   },
   {
@@ -23,17 +185,17 @@
     "language": "Python",
     "name": "originchaindb/langchain-originchain",
     "stars": 0,
-    "updated_at": "2026-10-24T11:45:06Z",
+    "updated_at": "2026-10-24T11:51:28Z",
     "url": "https://github.com/originchaindb/langchain-originchain"
   },
   {
-    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
-    "id": "Nazar-Plokhuta/docuquery-rag-agent",
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
     "language": "Python",
-    "name": "Nazar-Plokhuta/docuquery-rag-agent",
-    "stars": 4,
-    "updated_at": "2026-10-24T11:43:31Z",
-    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
+    "name": "VectifyAI/PageIndex",
+    "stars": 39595,
+    "updated_at": "2026-10-24T11:41:07Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -43,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T11:41:00Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39594,
-    "updated_at": "2026-10-24T11:41:07Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
@@ -81,33 +234,6 @@
     "url": "https://github.com/motedb/motedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T11:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "local-first semantic code search engine",
-    "id": "kantord/SeaGOAT",
-    "language": "Python",
-    "name": "kantord/SeaGOAT",
-    "stars": 1314,
-    "updated_at": "2026-10-24T11:30:15Z",
-    "url": "https://github.com/kantord/SeaGOAT"
-  },
-  {
-    "description": "EmbAPI (/\u025bm\u02c8b\u0251\u02d0pe\u026a/) \u26bd, a RESTful Embeddings API",
-    "id": "mpilhlt/embapi",
-    "language": "Go",
-    "name": "mpilhlt/embapi",
-    "stars": 2,
-    "updated_at": "2026-10-24T11:43:23Z",
-    "url": "https://github.com/mpilhlt/embapi"
-  },
-  {
     "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
     "id": "1Vewton/WikiSpider",
     "language": "Go",
@@ -115,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:27:41Z",
     "url": "https://github.com/1Vewton/WikiSpider"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-24T11:35:50Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -171,42 +288,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-rust",
-    "language": "Rust",
-    "name": "originchaindb/originchaindb-rust",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:01:27Z",
-    "url": "https://github.com/originchaindb/originchaindb-rust"
-  },
-  {
-    "description": "Official OriginChainDB PHP SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-php",
-    "language": "PHP",
-    "name": "originchaindb/originchaindb-php",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:59:37Z",
-    "url": "https://github.com/originchaindb/originchaindb-php"
-  },
-  {
-    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-ruby",
-    "language": "Ruby",
-    "name": "originchaindb/originchaindb-ruby",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:59:07Z",
-    "url": "https://github.com/originchaindb/originchaindb-ruby"
-  },
-  {
-    "description": "Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-csharp",
-    "language": "C#",
-    "name": "originchaindb/originchaindb-csharp",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:58:36Z",
-    "url": "https://github.com/originchaindb/originchaindb-csharp"
-  },
-  {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
     "id": "KonNik88/ml-research-radar",
     "language": "Python",
@@ -216,24 +297,6 @@
     "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
-    "description": "Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-java",
-    "language": "Java",
-    "name": "originchaindb/originchaindb-java",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:57:48Z",
-    "url": "https://github.com/originchaindb/originchaindb-java"
-  },
-  {
-    "description": "Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-go",
-    "language": "Python",
-    "name": "originchaindb/originchaindb-go",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:56:01Z",
-    "url": "https://github.com/originchaindb/originchaindb-go"
-  },
-  {
     "description": "",
     "id": "giuliano0s/ifrs-canoas-rag",
     "language": "Python",
@@ -241,24 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T10:53:59Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
-    "id": "originchaindb/originchadb",
-    "language": "TypeScript",
-    "name": "originchaindb/originchadb",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:50:29Z",
-    "url": "https://github.com/originchaindb/originchadb"
-  },
-  {
-    "description": "Official OriginChainDB Python SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchain-python",
-    "language": "Python",
-    "name": "originchaindb/originchain-python",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:50:24Z",
-    "url": "https://github.com/originchaindb/originchain-python"
   },
   {
     "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
@@ -387,6 +432,15 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
+    "description": "\u8ba9\u66fe\u7ecf\u5bf9\u8bdd\u7684\u6e29\u5ea6\uff0c\u5ef6\u7eed\u4e3a\u5f80\u540e\u7684\u966a\u4f34\u3002 | Let the warmth of past conversations continue into companionship.",
+    "id": "kldhsh123/Afterglow",
+    "language": "Python",
+    "name": "kldhsh123/Afterglow",
+    "stars": 321,
+    "updated_at": "2026-10-24T10:18:02Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
+  },
+  {
     "description": "TuluVaani \ud83c\udf99\ufe0f ,A first-attempt Tulu speech pipeline \u2014 demonstrated through a coastal Karnataka scheme & fisheries advisor",
     "id": "anoopcodehack/TuluVaani",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T10:11:29Z",
     "url": "https://github.com/anoopcodehack/TuluVaani"
-  },
-  {
-    "description": "Prism \u2014 laboratoire de RAG avanc\u00e9 : hybride, re-ranking, GraphRAG, \u00e9valuation (cours gratuit IAMaestro)",
-    "id": "NEWTON313/prism-rag",
-    "language": "Python",
-    "name": "NEWTON313/prism-rag",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:56:45Z",
-    "url": "https://github.com/NEWTON313/prism-rag"
-  },
-  {
-    "description": "Historical standalone Agentic repository. Active development moved to pyfly.agentic in pyfly v26.10.08. See native docum",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-10-24T09:37:53Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-10-24T09:24:29Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "A visual sandbox for experimenting with RAG configurations. Interactive tools for document parsing, chunking, embeddings",
-    "id": "jvorndran/RAG-Visualizer",
-    "language": "Python",
-    "name": "jvorndran/RAG-Visualizer",
-    "stars": 1,
-    "updated_at": "2026-10-24T09:20:45Z",
-    "url": "https://github.com/jvorndran/RAG-Visualizer"
-  },
-  {
-    "description": "Building multi-tenant Retrieval Augmented Generation platform ",
-    "id": "kennielima/OpsIQ",
-    "language": "C#",
-    "name": "kennielima/OpsIQ",
-    "stars": 0,
-    "updated_at": "2026-10-24T09:16:16Z",
-    "url": "https://github.com/kennielima/OpsIQ"
-  },
-  {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Mojo",
-    "name": "pavelhorak/pion",
-    "stars": 3,
-    "updated_at": "2026-10-24T09:11:29Z",
-    "url": "https://github.com/pavelhorak/pion"
   }
 ]
