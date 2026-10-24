@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T08:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
+    "id": "bartvanbenthem/basis-ai",
+    "language": "TypeScript",
+    "name": "bartvanbenthem/basis-ai",
+    "stars": 1,
+    "updated_at": "2026-10-24T08:13:31Z",
+    "url": "https://github.com/bartvanbenthem/basis-ai"
+  },
+  {
+    "description": "\u8ba9\u66fe\u7ecf\u5bf9\u8bdd\u7684\u6e29\u5ea6\uff0c\u5ef6\u7eed\u4e3a\u5f80\u540e\u7684\u966a\u4f34\u3002 | Let the warmth of past conversations continue into companionship.",
+    "id": "kldhsh123/Afterglow",
+    "language": "Python",
+    "name": "kldhsh123/Afterglow",
+    "stars": 320,
+    "updated_at": "2026-10-24T08:11:45Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
+  },
+  {
+    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
+    "id": "TowsifAhamed/GameRagKit",
+    "language": "C#",
+    "name": "TowsifAhamed/GameRagKit",
+    "stars": 2,
+    "updated_at": "2026-10-24T08:11:32Z",
+    "url": "https://github.com/TowsifAhamed/GameRagKit"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:10:15Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:06:40Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40707,
+    "updated_at": "2026-10-24T08:01:36Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T08:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -36,33 +108,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T07:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T08:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40704,
-    "updated_at": "2026-10-24T07:43:56Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
     "id": "yashbhosale789/yashbhosale789",
     "language": "\u2014",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "badhope/spark",
     "stars": 21,
-    "updated_at": "2026-10-24T07:52:54Z",
+    "updated_at": "2026-10-24T08:15:21Z",
     "url": "https://github.com/badhope/spark"
   },
   {
@@ -148,18 +193,9 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13095,
+    "stars": 13096,
     "updated_at": "2026-10-24T06:58:25Z",
     "url": "https://github.com/StarTrail-org/LEANN"
-  },
-  {
-    "description": "\u8ba9\u66fe\u7ecf\u5bf9\u8bdd\u7684\u6e29\u5ea6\uff0c\u5ef6\u7eed\u4e3a\u5f80\u540e\u7684\u966a\u4f34\u3002 | Let the warmth of past conversations continue into companionship.",
-    "id": "kldhsh123/Afterglow",
-    "language": "Python",
-    "name": "kldhsh123/Afterglow",
-    "stars": 320,
-    "updated_at": "2026-10-24T06:52:10Z",
-    "url": "https://github.com/kldhsh123/Afterglow"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -175,7 +211,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11757,
+    "stars": 11756,
     "updated_at": "2026-10-24T06:47:41Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-24T07:55:27Z",
+    "updated_at": "2026-10-24T08:05:36Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 916,
-    "updated_at": "2026-10-24T07:41:10Z",
+    "updated_at": "2026-10-24T08:04:22Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T04:17:11Z",
     "url": "https://github.com/irtazirfan08-source/VectorCore"
-  },
-  {
-    "description": "AI-powered financial assistant using RAG to search, parse, and analyze financial statements for Vietnamese listed stocks",
-    "id": "anhle325/rag-finvisor-vn",
-    "language": "Python",
-    "name": "anhle325/rag-finvisor-vn",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:44:12Z",
-    "url": "https://github.com/anhle325/rag-finvisor-vn"
-  },
-  {
-    "description": "This agent assists in producing rigorous research reports oriented toward engineering deployment.",
-    "id": "xielongxie9-tech/researchagent",
-    "language": "Python",
-    "name": "xielongxie9-tech/researchagent",
-    "stars": 1,
-    "updated_at": "2026-10-24T03:42:31Z",
-    "url": "https://github.com/xielongxie9-tech/researchagent"
-  },
-  {
-    "description": "A distributed ML platform composing a Raft engine, an HNSW vector index, and a distributed training framework, with cros",
-    "id": "abho7/ml-infra-platform",
-    "language": "Python",
-    "name": "abho7/ml-infra-platform",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:28:22Z",
-    "url": "https://github.com/abho7/ml-infra-platform"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9437,
-    "updated_at": "2026-10-24T07:54:23Z",
-    "url": "https://github.com/paradedb/paradedb"
   }
 ]
