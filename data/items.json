@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T10:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-csharp",
+    "language": "C#",
+    "name": "originchaindb/originchaindb-csharp",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:14:45Z",
+    "url": "https://github.com/originchaindb/originchaindb-csharp"
+  },
+  {
+    "description": "Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-java",
+    "language": "Java",
+    "name": "originchaindb/originchaindb-java",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:14:20Z",
+    "url": "https://github.com/originchaindb/originchaindb-java"
+  },
+  {
+    "description": "Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-go",
+    "language": "Python",
+    "name": "originchaindb/originchaindb-go",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:13:34Z",
+    "url": "https://github.com/originchaindb/originchaindb-go"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-24T10:11:35Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "TuluVaani \ud83c\udf99\ufe0f ,A first-attempt Tulu speech pipeline \u2014 demonstrated through a coastal Karnataka scheme & fisheries advisor",
+    "id": "anoopcodehack/TuluVaani",
+    "language": "JavaScript",
+    "name": "anoopcodehack/TuluVaani",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:11:29Z",
+    "url": "https://github.com/anoopcodehack/TuluVaani"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-24T10:06:53Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T10:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Prism \u2014 laboratoire de RAG avanc\u00e9 : hybride, re-ranking, GraphRAG, \u00e9valuation (cours gratuit IAMaestro)",
     "id": "NEWTON313/prism-rag",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-24T09:53:31Z",
+    "updated_at": "2026-10-24T10:12:48Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -52,33 +124,6 @@
     "stars": 13,
     "updated_at": "2026-10-24T09:49:13Z",
     "url": "https://github.com/jaehyeon-kim/odctl"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-24T09:46:21Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T09:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T10:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -180,15 +225,6 @@
     "url": "https://github.com/tanwarAalok/RAG_Based_Profile_matching"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-24T09:11:39Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
     "id": "IdoY12/awesome-free-ai-apis",
     "language": "JavaScript",
@@ -229,7 +265,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40715,
+    "stars": 40717,
     "updated_at": "2026-10-24T08:36:31Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -274,7 +310,7 @@
     "id": "kldhsh123/Afterglow-Desktop",
     "language": "Python",
     "name": "kldhsh123/Afterglow-Desktop",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-24T08:16:07Z",
     "url": "https://github.com/kldhsh123/Afterglow-Desktop"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T06:48:01Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11756,
-    "updated_at": "2026-10-24T08:55:26Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-24T06:38:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-24T06:36:26Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7144,
-    "updated_at": "2026-10-24T09:48:59Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
