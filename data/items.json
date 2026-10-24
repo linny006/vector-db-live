@@ -1,21 +1,39 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T14:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T14:30:20Z",
+    "updated_at": "2026-10-24T14:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u6cd5\u5f8b\u6cd5\u89c4\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\uff08RAG\uff09\uff1a\u53cc\u901a\u9053\u67b6\u6784\uff08\u5feb\u95ee\u5feb\u7b54 + \u68c0\u7d22\u589e\u5f3a\uff09\uff0c\u6cd5\u6761\u4e0e\u95ee\u7b54\u53cc\u8def\u53ec\u56de\u3001BGE-Reranker \u7cbe\u6392\u3001\u6761\u6587\u53f7\u7cbe\u786e\u8def\u7531\u3001\u65f6\u6548\u8fc7\u6ee4\u4e0e\u5f15\u7528\u6821\u9a8c\uff1b288 \u90e8\u73b0\u884c\u6cd5\u5f8b / 21,312 \u6761\u6cd5\u6761 / 2 \u4e07\u6761\u6cd5\u5f8b\u95ee\u7b54\uff0c\u914d 4 \u7c7b\u53ef\u590d",
+    "id": "yanxiao-ci/lawrag",
+    "language": "Python",
+    "name": "yanxiao-ci/lawrag",
+    "stars": 0,
+    "updated_at": "2026-10-24T14:34:04Z",
+    "url": "https://github.com/yanxiao-ci/lawrag"
+  },
+  {
+    "description": "local-first semantic code search engine",
+    "id": "kantord/SeaGOAT",
+    "language": "Python",
+    "name": "kantord/SeaGOAT",
+    "stars": 1314,
+    "updated_at": "2026-10-24T14:34:07Z",
+    "url": "https://github.com/kantord/SeaGOAT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T14:32:17Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-Powered Islamic finance platform with a bilingual (English/Urdu) RAG chatbot, Zakat calculator, halal stock screener,",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-24T14:15:21Z",
+    "updated_at": "2026-10-24T14:43:28Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -175,18 +193,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39601,
+    "stars": 39602,
     "updated_at": "2026-10-24T13:45:56Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "local-first semantic code search engine",
-    "id": "kantord/SeaGOAT",
-    "language": "Python",
-    "name": "kantord/SeaGOAT",
-    "stars": 1314,
-    "updated_at": "2026-10-24T14:18:23Z",
-    "url": "https://github.com/kantord/SeaGOAT"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-24T14:23:00Z",
+    "updated_at": "2026-10-24T14:40:48Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T12:14:28Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "EmbAPI (/\u025bm\u02c8b\u0251\u02d0pe\u026a/) \u26bd, a RESTful Embeddings API",
-    "id": "mpilhlt/embapi",
-    "language": "Go",
-    "name": "mpilhlt/embapi",
-    "stars": 2,
-    "updated_at": "2026-10-24T12:17:32Z",
-    "url": "https://github.com/mpilhlt/embapi"
   }
 ]
