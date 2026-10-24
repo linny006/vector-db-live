@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-24 12:30 UTC
+> ⏰ Last updated: 2026-10-24 12:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [originchaindb/langchain-originchain](https://github.com/originchaindb/langchain-originchain) | 0 | Python | 2026-10-24 | OriginChainDB LangChain vector-store integration — Proprietary GitHub preview with tested wheel downloads. |
-| 3 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2056 | Go | 2026-10-24 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 4 | [Youssef-Errachid/intelligent-document-audio-search--system-](https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-) | 0 | JavaScript | 2026-10-24 | An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-24 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 7 | [originchaindb/originchadb](https://github.com/originchaindb/originchadb) | 0 | TypeScript | 2026-10-24 | Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi |
-| 8 | [mpilhlt/embapi](https://github.com/mpilhlt/embapi) | 2 | Go | 2026-10-24 | EmbAPI (/ɛmˈbɑːpeɪ/) ⚽, a RESTful Embeddings API |
+| 1 | [originchaindb/originchaindb-rust](https://github.com/originchaindb/originchaindb-rust) | 0 | Rust | 2026-10-24 | Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
+| 2 | [originchaindb/originchaindb-php](https://github.com/originchaindb/originchaindb-php) | 0 | PHP | 2026-10-24 | Official OriginChainDB PHP SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
+| 3 | [originchaindb/originchaindb-ruby](https://github.com/originchaindb/originchaindb-ruby) | 0 | Ruby | 2026-10-24 | Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
+| 4 | [originchaindb/originchaindb-csharp](https://github.com/originchaindb/originchaindb-csharp) | 0 | C# | 2026-10-24 | Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
+| 5 | [originchaindb/originchaindb-java](https://github.com/originchaindb/originchaindb-java) | 0 | Java | 2026-10-24 | Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
+| 6 | [originchaindb/originchaindb-go](https://github.com/originchaindb/originchaindb-go) | 0 | Python | 2026-10-24 | Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
+| 7 | [originchaindb/llama-index-vector-stores-originchain](https://github.com/originchaindb/llama-index-vector-stores-originchain) | 0 | Python | 2026-10-24 | OriginChainDB LlamaIndex vector-store integration — Proprietary GitHub preview with tested wheel downloads. |
+| 8 | [originchaindb/originchadb](https://github.com/originchaindb/originchadb) | 0 | TypeScript | 2026-10-24 | Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi |
 | 9 | [originchaindb/originchain-python](https://github.com/originchaindb/originchain-python) | 0 | Python | 2026-10-24 | Official OriginChainDB Python SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
-| 10 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-24 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 11 | [blackeagle686/vec_db](https://github.com/blackeagle686/vec_db) | 2 | Rust | 2026-10-24 | Phoenix-Vector is a highly optimized vector database engine and AI-native ingestion platform built entirely from scratch |
-| 12 | [Nazar-Plokhuta/docuquery-rag-agent](https://github.com/Nazar-Plokhuta/docuquery-rag-agent) | 4 | Python | 2026-10-24 | Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget  |
-| 13 | [originchaindb/originchaindb-rust](https://github.com/originchaindb/originchaindb-rust) | 0 | Rust | 2026-10-24 | Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
-| 14 | [originchaindb/originchaindb-csharp](https://github.com/originchaindb/originchaindb-csharp) | 0 | C# | 2026-10-24 | Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
-| 15 | [originchaindb/originchaindb-php](https://github.com/originchaindb/originchaindb-php) | 0 | PHP | 2026-10-24 | Official OriginChainDB PHP SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
-| 16 | [originchaindb/originchaindb-java](https://github.com/originchaindb/originchaindb-java) | 0 | Java | 2026-10-24 | Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
-| 17 | [originchaindb/originchaindb-ruby](https://github.com/originchaindb/originchaindb-ruby) | 0 | Ruby | 2026-10-24 | Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
-| 18 | [originchaindb/originchaindb-go](https://github.com/originchaindb/originchaindb-go) | 0 | Python | 2026-10-24 | Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview. |
-| 19 | [MostafaSensei106/Waffle-DB](https://github.com/MostafaSensei106/Waffle-DB) | 5 | Dart | 2026-10-24 |  A local database for Flutter combining dense vector search, full-text search and filtered storage in one Rust engine. |
-| 20 | [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) | 1314 | Python | 2026-10-24 | local-first semantic code search engine |
-| 21 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-10-24 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
-| 22 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 10 | Go | 2026-10-24 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
-| 23 | [originchaindb/llama-index-vector-stores-originchain](https://github.com/originchaindb/llama-index-vector-stores-originchain) | 0 | Python | 2026-10-24 | OriginChainDB LlamaIndex vector-store integration — Proprietary GitHub preview with tested wheel downloads. |
-| 24 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 39596 | Python | 2026-10-24 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 12 | [originchaindb/langchain-originchain](https://github.com/originchaindb/langchain-originchain) | 0 | Python | 2026-10-24 | OriginChainDB LangChain vector-store integration — Proprietary GitHub preview with tested wheel downloads. |
+| 13 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2056 | Go | 2026-10-24 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 14 | [Youssef-Errachid/intelligent-document-audio-search--system-](https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-) | 0 | JavaScript | 2026-10-24 | An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t |
+| 15 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-24 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 16 | [mpilhlt/embapi](https://github.com/mpilhlt/embapi) | 2 | Go | 2026-10-24 | EmbAPI (/ɛmˈbɑːpeɪ/) ⚽, a RESTful Embeddings API |
+| 17 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-24 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 18 | [blackeagle686/vec_db](https://github.com/blackeagle686/vec_db) | 2 | Rust | 2026-10-24 | Phoenix-Vector is a highly optimized vector database engine and AI-native ingestion platform built entirely from scratch |
+| 19 | [Nazar-Plokhuta/docuquery-rag-agent](https://github.com/Nazar-Plokhuta/docuquery-rag-agent) | 4 | Python | 2026-10-24 | Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget  |
+| 20 | [MostafaSensei106/Waffle-DB](https://github.com/MostafaSensei106/Waffle-DB) | 5 | Dart | 2026-10-24 |  A local database for Flutter combining dense vector search, full-text search and filtered storage in one Rust engine. |
+| 21 | [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) | 1314 | Python | 2026-10-24 | local-first semantic code search engine |
+| 22 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-10-24 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
+| 23 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 10 | Go | 2026-10-24 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
+| 24 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 39597 | Python | 2026-10-24 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 | 25 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-24 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 26 | [heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose](https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose) | 0 | Shell | 2026-10-24 | AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam |
 | 27 | [RishabhMathur06/CASO-RAG](https://github.com/RishabhMathur06/CASO-RAG) | 0 | Python | 2026-10-24 | Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap |
