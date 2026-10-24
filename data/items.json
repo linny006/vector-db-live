@@ -1,12 +1,84 @@
 [
   {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-24T05:30:13Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-24T05:28:13Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-24T05:28:00Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-24T05:23:26Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-24T05:23:12Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11757,
+    "updated_at": "2026-10-24T05:21:48Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
     "id": "writerslogic/holographic-memory",
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-24T05:14:51Z",
+    "updated_at": "2026-10-24T05:18:50Z",
     "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T05:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T05:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 3756,
-    "updated_at": "2026-10-24T05:09:30Z",
+    "updated_at": "2026-10-24T05:20:04Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -27,12 +99,21 @@
     "url": "https://github.com/MantleJs/mantle"
   },
   {
+    "description": "Finds repeat defects by meaning and tells you whether to fix the process or coach the people. Streamlit, SQLite, ChromaD",
+    "id": "shridhar102-ai/Repeat-Defect-Registry",
+    "language": "Python",
+    "name": "shridhar102-ai/Repeat-Defect-Registry",
+    "stars": 0,
+    "updated_at": "2026-10-24T05:06:06Z",
+    "url": "https://github.com/shridhar102-ai/Repeat-Defect-Registry"
+  },
+  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-10-24T05:05:43Z",
+    "updated_at": "2026-10-24T05:17:15Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -43,33 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T05:03:48Z",
     "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-24T05:12:51Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T05:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T05:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -86,7 +140,7 @@
     "language": "Go",
     "name": "Polign/recall",
     "stars": 4,
-    "updated_at": "2026-10-24T04:56:12Z",
+    "updated_at": "2026-10-24T05:22:16Z",
     "url": "https://github.com/Polign/recall"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/irodori-table/irodori-extension-pinecone"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11756,
-    "updated_at": "2026-10-24T04:31:49Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Irodori Table Milvus connector extension",
     "id": "irodori-table/irodori-extension-milvus",
     "language": "Rust",
@@ -171,15 +216,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-24T03:53:12Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
     "description": "AI-powered financial assistant using RAG to search, parse, and analyze financial statements for Vietnamese listed stocks",
     "id": "anhle325/rag-finvisor-vn",
     "language": "Python",
@@ -196,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T03:42:31Z",
     "url": "https://github.com/xielongxie9-tech/researchagent"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-24T03:44:10Z",
-    "url": "https://github.com/badhope/spark"
   },
   {
     "description": "A distributed ML platform composing a Raft engine, an HNSW vector index, and a distributed training framework, with cros",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T02:19:52Z",
     "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:12:06Z",
-    "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "API platform info for database",
-    "id": "api-evangelist/database",
-    "language": "HTML",
-    "name": "api-evangelist/database",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:03:34Z",
-    "url": "https://github.com/api-evangelist/database"
-  },
-  {
-    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:02:50Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
   }
 ]
