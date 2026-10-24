@@ -1,12 +1,84 @@
 [
   {
+    "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
+    "id": "abhishekkapoorx/DEVOPS-AGENT",
+    "language": "Python",
+    "name": "abhishekkapoorx/DEVOPS-AGENT",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:13:43Z",
+    "url": "https://github.com/abhishekkapoorx/DEVOPS-AGENT"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-24T17:13:30Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
+    "id": "ZenSystemAI/Zengram",
+    "language": "JavaScript",
+    "name": "ZenSystemAI/Zengram",
+    "stars": 64,
+    "updated_at": "2026-10-24T17:13:05Z",
+    "url": "https://github.com/ZenSystemAI/Zengram"
+  },
+  {
     "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
     "id": "IBazylchuk/paparats-mcp",
     "language": "TypeScript",
     "name": "IBazylchuk/paparats-mcp",
     "stars": 11,
-    "updated_at": "2026-10-24T16:59:34Z",
+    "updated_at": "2026-10-24T17:11:42Z",
     "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:10:30Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "Hierarchical Navigable Small World (HNSW) approximate nearest neighbor vector search in pure Go. Zero dependencies, with",
+    "id": "Stepn0/hnsw-go",
+    "language": "Go",
+    "name": "Stepn0/hnsw-go",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:09:46Z",
+    "url": "https://github.com/Stepn0/hnsw-go"
+  },
+  {
+    "description": "",
+    "id": "piotrwozn/multidb",
+    "language": "Rust",
+    "name": "piotrwozn/multidb",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:08:39Z",
+    "url": "https://github.com/piotrwozn/multidb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T17:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T17:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -36,15 +108,6 @@
     "url": "https://github.com/SandyCompetent/chatbud"
   },
   {
-    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
-    "id": "ssrjkk/agent-skills",
-    "language": "Python",
-    "name": "ssrjkk/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-24T16:46:06Z",
-    "url": "https://github.com/ssrjkk/agent-skills"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -52,24 +115,6 @@
     "stars": 6,
     "updated_at": "2026-10-24T16:47:06Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T16:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T16:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -97,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-10-24T16:37:15Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
-    "id": "ZenSystemAI/Zengram",
-    "language": "JavaScript",
-    "name": "ZenSystemAI/Zengram",
-    "stars": 64,
-    "updated_at": "2026-10-24T16:45:02Z",
-    "url": "https://github.com/ZenSystemAI/Zengram"
   },
   {
     "description": "\u4e2d\u6587\u6cd5\u5f8b\u9886\u57df\u7684 RAG \u95ee\u7b54\u7cfb\u7edf\uff1a\u5feb\u95ee\u5feb\u7b54 + \u6cd5\u6761/\u95ee\u7b54\u53cc\u8def\u53ec\u56de\uff0c\u56de\u7b54\u5e26\u6cd5\u6761\u5f15\u7528\u4e0e\u6821\u9a8c",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 4,
-    "updated_at": "2026-10-24T15:57:18Z",
+    "updated_at": "2026-10-24T17:12:02Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -211,7 +247,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39609,
+    "stars": 39611,
     "updated_at": "2026-10-24T15:55:42Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -247,7 +283,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40741,
+    "stars": 40743,
     "updated_at": "2026-10-24T15:40:03Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T14:14:43Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-24T14:13:55Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-24T16:40:46Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "API platform info for machine-learning",
-    "id": "api-evangelist/machine-learning",
-    "language": "HTML",
-    "name": "api-evangelist/machine-learning",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:07:04Z",
-    "url": "https://github.com/api-evangelist/machine-learning"
-  },
-  {
-    "description": "API platform info for database",
-    "id": "api-evangelist/database",
-    "language": "HTML",
-    "name": "api-evangelist/database",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:06:20Z",
-    "url": "https://github.com/api-evangelist/database"
   }
 ]
