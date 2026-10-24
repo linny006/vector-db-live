@@ -1,12 +1,39 @@
 [
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-24T21:41:51Z",
-    "url": "https://github.com/schmitech/orbit"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T22:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "local-first semantic code search engine",
+    "id": "kantord/SeaGOAT",
+    "language": "Python",
+    "name": "kantord/SeaGOAT",
+    "stars": 1314,
+    "updated_at": "2026-10-24T22:00:19Z",
+    "url": "https://github.com/kantord/SeaGOAT"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-24T21:55:50Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8444,
+    "updated_at": "2026-10-24T21:51:16Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
@@ -14,8 +41,26 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-24T21:38:12Z",
+    "updated_at": "2026-10-24T21:50:20Z",
     "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T21:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-24T21:41:51Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -32,44 +77,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-24T21:32:16Z",
+    "updated_at": "2026-10-24T21:56:21Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-24T21:31:16Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T21:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T21:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "local-first semantic code search engine",
-    "id": "kantord/SeaGOAT",
-    "language": "Python",
-    "name": "kantord/SeaGOAT",
-    "stars": 1314,
-    "updated_at": "2026-10-24T21:35:51Z",
-    "url": "https://github.com/kantord/SeaGOAT"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -77,7 +86,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-24T21:26:56Z",
+    "updated_at": "2026-10-24T21:55:41Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -149,7 +158,7 @@
     "language": "Rust",
     "name": "VecturaDB/VecturaDB",
     "stars": 0,
-    "updated_at": "2026-10-24T21:04:06Z",
+    "updated_at": "2026-10-24T21:47:34Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9441,
-    "updated_at": "2026-10-24T21:44:45Z",
+    "updated_at": "2026-10-24T21:54:40Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-10-24T21:00:58Z",
     "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8444,
-    "updated_at": "2026-10-24T21:42:31Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
