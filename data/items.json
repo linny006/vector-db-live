@@ -1,12 +1,30 @@
 [
   {
-    "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
-    "id": "abhishekkapoorx/DEVOPS-AGENT",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "abhishekkapoorx/DEVOPS-AGENT",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T17:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A production ready Retrieval-Augmented Generation (RAG) agent framework featuring multi-agent orchestration, Docker depl",
+    "id": "riteshgamer7725-blip/RAG-SYSTEM-",
+    "language": "Python",
+    "name": "riteshgamer7725-blip/RAG-SYSTEM-",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:30:11Z",
+    "url": "https://github.com/riteshgamer7725-blip/RAG-SYSTEM-"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
     "stars": 0,
-    "updated_at": "2026-10-24T17:13:43Z",
-    "url": "https://github.com/abhishekkapoorx/DEVOPS-AGENT"
+    "updated_at": "2026-10-24T17:29:05Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
   },
   {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
@@ -14,8 +32,107 @@
     "language": "Go",
     "name": "d3uceY/vectile",
     "stars": 10,
-    "updated_at": "2026-10-24T17:13:30Z",
+    "updated_at": "2026-10-24T17:28:36Z",
     "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-24T17:28:03Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-24T17:28:15Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 6,
+    "updated_at": "2026-10-24T17:26:55Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:26:28Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:25:08Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 4,
+    "updated_at": "2026-10-24T17:24:11Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "ChatBud \u2014 Stateful Multi-Agent Workspace & Persona Hub built with Flutter and Firebase AI.",
+    "id": "SandyCompetent/chatbud",
+    "language": "Dart",
+    "name": "SandyCompetent/chatbud",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:19:26Z",
+    "url": "https://github.com/SandyCompetent/chatbud"
+  },
+  {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 11,
+    "updated_at": "2026-10-24T17:19:25Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-24T17:15:48Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T17:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
+    "id": "abhishekkapoorx/DEVOPS-AGENT",
+    "language": "Python",
+    "name": "abhishekkapoorx/DEVOPS-AGENT",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:16:34Z",
+    "url": "https://github.com/abhishekkapoorx/DEVOPS-AGENT"
   },
   {
     "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
@@ -27,24 +144,6 @@
     "url": "https://github.com/ZenSystemAI/Zengram"
   },
   {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 11,
-    "updated_at": "2026-10-24T17:11:42Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
-    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
-    "id": "ssrjkk/agent-skills",
-    "language": "Python",
-    "name": "ssrjkk/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-24T17:10:30Z",
-    "url": "https://github.com/ssrjkk/agent-skills"
-  },
-  {
     "description": "Hierarchical Navigable Small World (HNSW) approximate nearest neighbor vector search in pure Go. Zero dependencies, with",
     "id": "Stepn0/hnsw-go",
     "language": "Go",
@@ -52,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-10-24T17:09:46Z",
     "url": "https://github.com/Stepn0/hnsw-go"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8440,
+    "updated_at": "2026-10-24T17:09:02Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "",
@@ -63,30 +171,12 @@
     "url": "https://github.com/piotrwozn/multidb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T17:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T17:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-24T16:56:36Z",
+    "updated_at": "2026-10-24T17:20:15Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -99,30 +189,12 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "ChatBud \u2014 Stateful Multi-Agent Workspace & Persona Hub built with Flutter and Firebase AI.",
-    "id": "SandyCompetent/chatbud",
-    "language": "Dart",
-    "name": "SandyCompetent/chatbud",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:51:25Z",
-    "url": "https://github.com/SandyCompetent/chatbud"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-24T16:47:06Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-10-24T16:39:02Z",
+    "updated_at": "2026-10-24T17:16:01Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -185,7 +257,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9440,
-    "updated_at": "2026-10-24T16:57:27Z",
+    "updated_at": "2026-10-24T17:20:25Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -207,15 +279,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-24T16:05:06Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
@@ -223,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T16:01:14Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-24T17:12:02Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -283,7 +337,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40743,
+    "stars": 40744,
     "updated_at": "2026-10-24T15:40:03Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-24T16:33:42Z",
+    "updated_at": "2026-10-24T17:21:14Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T15:01:00Z",
     "url": "https://github.com/MaheshBhushan/vektordb"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-24T14:58:33Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:42:17Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "AI-assisted workflow for pre-owned automotive retail",
-    "id": "Rachit47/IdatenOps",
-    "language": "Python",
-    "name": "Rachit47/IdatenOps",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:21:41Z",
-    "url": "https://github.com/Rachit47/IdatenOps"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-24T14:17:54Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "TeamDocs AI is an AI-powered RAG (Retrieval-Augmented Generation) assistant designed to help software development teams ",
-    "id": "HosseinHeydari2004/TeamDocs-AI",
-    "language": "Python",
-    "name": "HosseinHeydari2004/TeamDocs-AI",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:15:19Z",
-    "url": "https://github.com/HosseinHeydari2004/TeamDocs-AI"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-24T14:14:43Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
