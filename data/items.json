@@ -1,11 +1,74 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-24T14:14:43Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-24T14:13:55Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-24T14:13:57Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "API platform info for machine-learning",
+    "id": "api-evangelist/machine-learning",
+    "language": "HTML",
+    "name": "api-evangelist/machine-learning",
+    "stars": 0,
+    "updated_at": "2026-10-24T14:07:04Z",
+    "url": "https://github.com/api-evangelist/machine-learning"
+  },
+  {
+    "description": "API platform info for database",
+    "id": "api-evangelist/database",
+    "language": "HTML",
+    "name": "api-evangelist/database",
+    "stars": 0,
+    "updated_at": "2026-10-24T14:06:20Z",
+    "url": "https://github.com/api-evangelist/database"
+  },
+  {
+    "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
+    "id": "bythewayz66-glitch/mem20",
+    "language": "Python",
+    "name": "bythewayz66-glitch/mem20",
+    "stars": 0,
+    "updated_at": "2026-10-24T14:05:21Z",
+    "url": "https://github.com/bythewayz66-glitch/mem20"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T14:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T14:00:20Z",
+    "updated_at": "2026-10-24T14:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -49,18 +112,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39600,
+    "stars": 39601,
     "updated_at": "2026-10-24T13:45:56Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T13:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "local-first semantic code search engine",
@@ -113,7 +167,7 @@
     "language": "Go",
     "name": "d3uceY/vectile",
     "stars": 10,
-    "updated_at": "2026-10-24T13:28:33Z",
+    "updated_at": "2026-10-24T14:01:26Z",
     "url": "https://github.com/d3uceY/vectile"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T13:24:46Z",
     "url": "https://github.com/kennielima/OpsIQ"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-24T13:24:23Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "The AI search platform",
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9438,
-    "updated_at": "2026-10-24T13:34:50Z",
+    "updated_at": "2026-10-24T14:01:36Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:35:35Z",
     "url": "https://github.com/RishabhMathur06/CASO-RAG"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-24T11:31:53Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
-    "id": "1Vewton/WikiSpider",
-    "language": "Go",
-    "name": "1Vewton/WikiSpider",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:27:41Z",
-    "url": "https://github.com/1Vewton/WikiSpider"
-  },
-  {
-    "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
-    "id": "taladb/taladb",
-    "language": "Rust",
-    "name": "taladb/taladb",
-    "stars": 13,
-    "updated_at": "2026-10-24T11:27:12Z",
-    "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-24T13:38:37Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:15:07Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   }
 ]
