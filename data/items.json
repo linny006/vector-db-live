@@ -1,12 +1,39 @@
 [
   {
-    "description": "A distributed ML platform composing a Raft engine, an HNSW vector index, and a distributed training framework, with cros",
-    "id": "abho7/ml-infra-platform",
+    "description": "AI-powered financial assistant using RAG to search, parse, and analyze financial statements for Vietnamese listed stocks",
+    "id": "anhle325/rag-finvisor-vn",
     "language": "Python",
-    "name": "abho7/ml-infra-platform",
+    "name": "anhle325/rag-finvisor-vn",
     "stars": 0,
-    "updated_at": "2026-10-24T03:28:22Z",
-    "url": "https://github.com/abho7/ml-infra-platform"
+    "updated_at": "2026-10-24T03:44:12Z",
+    "url": "https://github.com/anhle325/rag-finvisor-vn"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-24T03:44:10Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-24T03:39:10Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-24T03:45:02Z",
+    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-24T03:15:35Z",
+    "updated_at": "2026-10-24T03:30:25Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T03:30:21Z",
+    "updated_at": "2026-10-24T03:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A distributed ML platform composing a Raft engine, an HNSW vector index, and a distributed training framework, with cros",
+    "id": "abho7/ml-infra-platform",
+    "language": "Python",
+    "name": "abho7/ml-infra-platform",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:28:22Z",
+    "url": "https://github.com/abho7/ml-infra-platform"
   },
   {
     "description": "One set of actions for vector databases: an OutSystems Developer Cloud (ODC) external library (.NET 10). Preview 0.2: Qd",
@@ -59,7 +95,7 @@
     "language": "Rust",
     "name": "dxmt/dxmt",
     "stars": 0,
-    "updated_at": "2026-10-24T03:19:06Z",
+    "updated_at": "2026-10-24T03:40:16Z",
     "url": "https://github.com/dxmt/dxmt"
   },
   {
@@ -115,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T02:58:54Z",
     "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-24T02:58:16Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-24T03:23:21Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
@@ -333,11 +351,20 @@
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67495,
+    "updated_at": "2026-10-24T01:34:32Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 539,
+    "stars": 541,
     "updated_at": "2026-10-24T01:32:08Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T00:20:50Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-24T00:19:29Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-24T00:17:38Z",
-    "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "AI-Powered Islamic finance platform with a bilingual (English/Urdu) RAG chatbot, Zakat calculator, halal stock screener,",
-    "id": "SyedHusnain20/ShariahEase",
-    "language": "Python",
-    "name": "SyedHusnain20/ShariahEase",
-    "stars": 2,
-    "updated_at": "2026-10-24T00:15:54Z",
-    "url": "https://github.com/SyedHusnain20/ShariahEase"
   }
 ]
