@@ -1,12 +1,48 @@
 [
   {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "fatma-fendri/PodAI",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T18:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-10-24T18:43:57Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-24T18:43:37Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-24T18:39:26Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Production-oriented async RAG service on Python 3.12: hybrid search (vector + BM25/RRF), agentic retrieval & GraphRAG, A",
+    "id": "Pavel14701/rag_service",
+    "language": "Python",
+    "name": "Pavel14701/rag_service",
     "stars": 0,
-    "updated_at": "2026-10-24T18:27:32Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
+    "updated_at": "2026-10-24T18:38:17Z",
+    "url": "https://github.com/Pavel14701/rag_service"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 355,
-    "updated_at": "2026-10-24T18:25:43Z",
+    "updated_at": "2026-10-24T18:37:46Z",
     "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-24T18:32:14Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T18:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-24T18:27:32Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
   },
   {
     "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
@@ -31,7 +94,7 @@
     "id": "tickernelz/opencode-mem",
     "language": "TypeScript",
     "name": "tickernelz/opencode-mem",
-    "stars": 1781,
+    "stars": 1782,
     "updated_at": "2026-10-24T18:22:03Z",
     "url": "https://github.com/tickernelz/opencode-mem"
   },
@@ -43,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T18:19:24Z",
     "url": "https://github.com/abhishekkapoorx/DEVOPS-AGENT"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T18:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T18:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
@@ -131,7 +176,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8442,
-    "updated_at": "2026-10-24T17:53:39Z",
+    "updated_at": "2026-10-24T18:42:29Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T17:48:41Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-24T18:22:59Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "local-first semantic code search engine",
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-24T18:12:49Z",
+    "updated_at": "2026-10-24T18:35:39Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-10-24T18:17:00Z",
+    "updated_at": "2026-10-24T18:36:10Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -374,17 +410,8 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-10-24T18:26:58Z",
+    "updated_at": "2026-10-24T18:35:32Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-24T15:56:36Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T15:48:06Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6242,
-    "updated_at": "2026-10-24T15:47:07Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40744,
-    "updated_at": "2026-10-24T15:40:03Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 2,
-    "updated_at": "2026-10-24T15:32:07Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
   }
 ]
