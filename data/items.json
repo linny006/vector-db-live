@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T22:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-24T22:15:15Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7144,
+    "updated_at": "2026-10-24T22:15:08Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T22:14:44Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 64,
     "updated_at": "2026-10-24T22:13:46Z",
     "url": "https://github.com/ZenSystemAI/Zengram"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-24T22:12:28Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
@@ -61,24 +88,6 @@
     "stars": 1314,
     "updated_at": "2026-10-24T22:03:35Z",
     "url": "https://github.com/kantord/SeaGOAT"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T22:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T22:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T18:38:17Z",
     "url": "https://github.com/Pavel14701/rag_service"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "tickernelz/opencode-mem",
-    "language": "TypeScript",
-    "name": "tickernelz/opencode-mem",
-    "stars": 1782,
-    "updated_at": "2026-10-24T18:22:03Z",
-    "url": "https://github.com/tickernelz/opencode-mem"
   }
 ]
