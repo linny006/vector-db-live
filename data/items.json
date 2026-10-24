@@ -5,17 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T07:15:19Z",
+    "updated_at": "2026-10-24T07:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
+    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
     "stars": 1,
-    "updated_at": "2026-10-24T07:15:09Z",
-    "url": "https://github.com/iberi22/xavier"
+    "updated_at": "2026-10-24T07:30:05Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-24T07:21:59Z",
+    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
@@ -23,8 +32,26 @@
     "language": "Java",
     "name": "Angular2Guy/AIDocumentLibraryChat",
     "stars": 31,
-    "updated_at": "2026-10-24T07:11:20Z",
+    "updated_at": "2026-10-24T07:17:18Z",
     "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T07:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-24T07:20:51Z",
+    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -59,17 +86,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-24T07:03:35Z",
+    "updated_at": "2026-10-24T07:28:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T07:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-24T07:14:51Z",
+    "updated_at": "2026-10-24T07:30:12Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T06:28:41Z",
     "url": "https://github.com/shridhar102-ai/Repeat-Defect-Registry"
-  },
-  {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-24T07:03:17Z",
-    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
@@ -247,7 +256,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8435,
+    "stars": 8436,
     "updated_at": "2026-10-24T05:38:50Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -257,7 +266,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 916,
-    "updated_at": "2026-10-24T07:06:58Z",
+    "updated_at": "2026-10-24T07:19:51Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9437,
-    "updated_at": "2026-10-24T03:17:19Z",
+    "updated_at": "2026-10-24T07:22:07Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T03:53:28Z",
     "url": "https://github.com/dxmt/dxmt"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:04:46Z",
-    "url": "https://github.com/api-evangelist/zilliz"
   }
 ]
