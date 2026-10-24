@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-24 17:30 UTC
+> ⏰ Last updated: 2026-10-24 17:36 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,32 +42,32 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [riteshgamer7725-blip/RAG-SYSTEM-](https://github.com/riteshgamer7725-blip/RAG-SYSTEM-) | 1 | Python | 2026-10-24 | A production ready Retrieval-Augmented Generation (RAG) agent framework featuring multi-agent orchestration, Docker depl |
-| 3 | [fatma-fendri/PodAI](https://github.com/fatma-fendri/PodAI) | 0 | Python | 2026-10-24 | Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources. |
-| 4 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 10 | Go | 2026-10-24 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
-| 5 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-24 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 6 | [thameema/memnos](https://github.com/thameema/memnos) | 4 | Python | 2026-10-24 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
-| 7 | [Yasou13/MESA](https://github.com/Yasou13/MESA) | 6 | Python | 2026-10-24 | An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus |
-| 8 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-24 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
-| 9 | [ssrjkk/agent-skills](https://github.com/ssrjkk/agent-skills) | 1 | Python | 2026-10-24 | 100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf  |
-| 10 | [tradik/mddb](https://github.com/tradik/mddb) | 4 | Go | 2026-10-24 | A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo |
-| 11 | [SandyCompetent/chatbud](https://github.com/SandyCompetent/chatbud) | 0 | Dart | 2026-10-24 | ChatBud — Stateful Multi-Agent Workspace & Persona Hub built with Flutter and Firebase AI. |
-| 12 | [IBazylchuk/paparats-mcp](https://github.com/IBazylchuk/paparats-mcp) | 11 | TypeScript | 2026-10-24 | Local‑first MCP server for multi‑repository semantic code search with Qdrant and llama. Turns your entire workspace into |
-| 13 | [schmitech/orbit](https://github.com/schmitech/orbit) | 355 | Python | 2026-10-24 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 14 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 15 | [abhishekkapoorx/DEVOPS-AGENT](https://github.com/abhishekkapoorx/DEVOPS-AGENT) | 0 | Python | 2026-10-24 | Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm |
-| 16 | [ZenSystemAI/Zengram](https://github.com/ZenSystemAI/Zengram) | 64 | JavaScript | 2026-10-24 | A Multi Agent Memory MCP That Connect Agents Across Systems and Machines |
-| 17 | [Stepn0/hnsw-go](https://github.com/Stepn0/hnsw-go) | 0 | Go | 2026-10-24 | Hierarchical Navigable Small World (HNSW) approximate nearest neighbor vector search in pure Go. Zero dependencies, with |
-| 18 | [MariaDB/server](https://github.com/MariaDB/server) | 8440 | C++ | 2026-10-24 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 19 | [piotrwozn/multidb](https://github.com/piotrwozn/multidb) | 0 | Rust | 2026-10-24 |  |
-| 20 | [nadeem4/nl2sql](https://github.com/nadeem4/nl2sql) | 4 | Python | 2026-10-24 | Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real  |
-| 21 | [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) | 291 | C++ | 2026-10-24 | An official lightweight library for the RaBitQ algorithm and its applications in vector search. |
-| 22 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-24 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 23 | [hufengjuexue/zhongji](https://github.com/hufengjuexue/zhongji) | 1 | Kotlin | 2026-10-24 | 终极 RP (ZhongJi RP) - 专为现代大语言模型打造的轻量沉浸式端侧安卓客户端 / Next-gen Mobile Roleplay & Chat Client |
-| 24 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-10-24 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
-| 25 | [yanxiao-ci/lawrag](https://github.com/yanxiao-ci/lawrag) | 0 | Python | 2026-10-24 | 中文法律领域的 RAG 问答系统：快问快答 + 法条/问答双路召回，回答带法条引用与校验 |
-| 26 | [motedb/motedb](https://github.com/motedb/motedb) | 49 | Rust | 2026-10-24 | AI-native embedded multimodal database for embodied AI & robotics — vectors, time series, full text and binary in one em |
+| 1 | [riteshgamer7725-blip/RAG-SYSTEM-](https://github.com/riteshgamer7725-blip/RAG-SYSTEM-) | 1 | Python | 2026-10-24 | A production ready Retrieval-Augmented Generation (RAG) agent framework featuring multi-agent orchestration, Docker depl |
+| 2 | [ssrjkk/agent-skills](https://github.com/ssrjkk/agent-skills) | 1 | Python | 2026-10-24 | 100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf  |
+| 3 | [motedb/motedb](https://github.com/motedb/motedb) | 49 | Rust | 2026-10-24 | AI-native embedded multimodal database for embodied AI & robotics — vectors, time series, full text and binary in one em |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [fatma-fendri/PodAI](https://github.com/fatma-fendri/PodAI) | 0 | Python | 2026-10-24 | Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources. |
+| 7 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 10 | Go | 2026-10-24 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
+| 8 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-24 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 9 | [thameema/memnos](https://github.com/thameema/memnos) | 4 | Python | 2026-10-24 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
+| 10 | [Yasou13/MESA](https://github.com/Yasou13/MESA) | 6 | Python | 2026-10-24 | An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus |
+| 11 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-24 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
+| 12 | [tradik/mddb](https://github.com/tradik/mddb) | 4 | Go | 2026-10-24 | A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo |
+| 13 | [SandyCompetent/chatbud](https://github.com/SandyCompetent/chatbud) | 0 | Dart | 2026-10-24 | ChatBud — Stateful Multi-Agent Workspace & Persona Hub built with Flutter and Firebase AI. |
+| 14 | [IBazylchuk/paparats-mcp](https://github.com/IBazylchuk/paparats-mcp) | 11 | TypeScript | 2026-10-24 | Local‑first MCP server for multi‑repository semantic code search with Qdrant and llama. Turns your entire workspace into |
+| 15 | [schmitech/orbit](https://github.com/schmitech/orbit) | 355 | Python | 2026-10-24 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 16 | [abhishekkapoorx/DEVOPS-AGENT](https://github.com/abhishekkapoorx/DEVOPS-AGENT) | 0 | Python | 2026-10-24 | Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm |
+| 17 | [ZenSystemAI/Zengram](https://github.com/ZenSystemAI/Zengram) | 64 | JavaScript | 2026-10-24 | A Multi Agent Memory MCP That Connect Agents Across Systems and Machines |
+| 18 | [Stepn0/hnsw-go](https://github.com/Stepn0/hnsw-go) | 0 | Go | 2026-10-24 | Hierarchical Navigable Small World (HNSW) approximate nearest neighbor vector search in pure Go. Zero dependencies, with |
+| 19 | [MariaDB/server](https://github.com/MariaDB/server) | 8440 | C++ | 2026-10-24 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 20 | [piotrwozn/multidb](https://github.com/piotrwozn/multidb) | 0 | Rust | 2026-10-24 |  |
+| 21 | [nadeem4/nl2sql](https://github.com/nadeem4/nl2sql) | 4 | Python | 2026-10-24 | Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real  |
+| 22 | [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) | 291 | C++ | 2026-10-24 | An official lightweight library for the RaBitQ algorithm and its applications in vector search. |
+| 23 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-24 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
+| 24 | [hufengjuexue/zhongji](https://github.com/hufengjuexue/zhongji) | 1 | Kotlin | 2026-10-24 | 终极 RP (ZhongJi RP) - 专为现代大语言模型打造的轻量沉浸式端侧安卓客户端 / Next-gen Mobile Roleplay & Chat Client |
+| 25 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-10-24 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
+| 26 | [yanxiao-ci/lawrag](https://github.com/yanxiao-ci/lawrag) | 0 | Python | 2026-10-24 | 中文法律领域的 RAG 问答系统：快问快答 + 法条/问答双路召回，回答带法条引用与校验 |
 | 27 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2038 | Python | 2026-10-24 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
 | 28 | [iberi22/xavier](https://github.com/iberi22/xavier) | 1 | Rust | 2026-10-24 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
 | 29 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9440 | Rust | 2026-10-24 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
@@ -79,7 +79,7 @@ expired items removed — so you can rely on what you see being current.
 | 35 | [Vigneshkumar-29/duckduckgo-rag-agent](https://github.com/Vigneshkumar-29/duckduckgo-rag-agent) | 0 | Python | 2026-10-24 | AI-powered document Q&A app that answers from uploaded TXT files and falls back to DuckDuckGo web search when needed. |
 | 36 | [originchaindb/originchaindb](https://github.com/originchaindb/originchaindb) | 0 | TypeScript | 2026-10-24 | Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi |
 | 37 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | Java | 2026-10-24 | Identity and Authorization Service with Vector and AI Integration |
-| 38 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40744 | Python | 2026-10-24 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| 38 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40743 | Python | 2026-10-24 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
 | 39 | [rifqifitriady/ZAAFPulse](https://github.com/rifqifitriady/ZAAFPulse) | 2 | JavaScript | 2026-10-24 | ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality |
 | 40 | [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp) | 25 | Python | 2026-10-24 | Persistent cognitive memory for AI agents — drop-in MCP server for Claude Code, Cursor, and Windsurf with temporal decay |
 | 41 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-24 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
