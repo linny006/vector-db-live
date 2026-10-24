@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T18:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "tickernelz/opencode-mem",
+    "language": "TypeScript",
+    "name": "tickernelz/opencode-mem",
+    "stars": 1781,
+    "updated_at": "2026-10-24T18:14:39Z",
+    "url": "https://github.com/tickernelz/opencode-mem"
+  },
+  {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 11,
+    "updated_at": "2026-10-24T18:12:14Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "40 Client-Side Developer & FinOps Utilities, 292 Cloud/LLM Cost Calculators & AI Workflow Marketplace \u2014 Live at https://",
+    "id": "zainmasri/utilforge",
+    "language": "JavaScript",
+    "name": "zainmasri/utilforge",
+    "stars": 0,
+    "updated_at": "2026-10-24T18:07:59Z",
+    "url": "https://github.com/zainmasri/utilforge"
+  },
+  {
     "description": "AI assistant that searches PDFs and the web to provide simple, reliable, source-based answers.",
     "id": "ujjawalsinghsde/documind-ai-research-assistant",
     "language": "Python",
     "name": "ujjawalsinghsde/documind-ai-research-assistant",
     "stars": 0,
-    "updated_at": "2026-10-24T17:59:41Z",
+    "updated_at": "2026-10-24T18:07:41Z",
     "url": "https://github.com/ujjawalsinghsde/documind-ai-research-assistant"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9440,
+    "updated_at": "2026-10-24T18:05:11Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-24T18:03:46Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-24T18:02:40Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T18:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -81,40 +153,13 @@
     "url": "https://github.com/mahpate/Vlite"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T17:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T18:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "local-first semantic code search engine",
     "id": "kantord/SeaGOAT",
     "language": "Python",
     "name": "kantord/SeaGOAT",
     "stars": 1314,
-    "updated_at": "2026-10-24T17:45:54Z",
+    "updated_at": "2026-10-24T18:00:26Z",
     "url": "https://github.com/kantord/SeaGOAT"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-24T17:55:19Z",
-    "url": "https://github.com/miniaxolotl/grove"
   },
   {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-24T17:28:03Z",
+    "updated_at": "2026-10-24T18:12:49Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -189,30 +234,12 @@
     "url": "https://github.com/SandyCompetent/chatbud"
   },
   {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 11,
-    "updated_at": "2026-10-24T17:19:25Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-24T17:15:48Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
     "id": "abhishekkapoorx/DEVOPS-AGENT",
     "language": "Python",
     "name": "abhishekkapoorx/DEVOPS-AGENT",
     "stars": 0,
-    "updated_at": "2026-10-24T17:16:34Z",
+    "updated_at": "2026-10-24T18:13:55Z",
     "url": "https://github.com/abhishekkapoorx/DEVOPS-AGENT"
   },
   {
@@ -234,6 +261,15 @@
     "url": "https://github.com/Stepn0/hnsw-go"
   },
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9477,
+    "updated_at": "2026-10-24T16:57:56Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
@@ -252,12 +288,21 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-24T16:40:46Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-10-24T17:16:01Z",
+    "updated_at": "2026-10-24T18:14:13Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -306,15 +351,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9440,
-    "updated_at": "2026-10-24T17:59:41Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
     "id": "gonicolas12/My_AI",
     "language": "Python",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-10-24T16:01:14Z",
+    "updated_at": "2026-10-24T18:14:20Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -400,7 +436,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40743,
+    "stars": 40744,
     "updated_at": "2026-10-24T15:40:03Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T15:32:07Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, and Windsurf with temporal decay",
-    "id": "yantrikos/yantrikdb-mcp",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-mcp",
-    "stars": 25,
-    "updated_at": "2026-10-24T15:30:58Z",
-    "url": "https://github.com/yantrikos/yantrikdb-mcp"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:30:30Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "EmbAPI (/\u025bm\u02c8b\u0251\u02d0pe\u026a/) \u26bd, a RESTful Embeddings API",
-    "id": "mpilhlt/embapi",
-    "language": "Go",
-    "name": "mpilhlt/embapi",
-    "stars": 2,
-    "updated_at": "2026-10-24T15:22:40Z",
-    "url": "https://github.com/mpilhlt/embapi"
-  },
-  {
-    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
-    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "language": "JavaScript",
-    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:15:23Z",
-    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   }
 ]
