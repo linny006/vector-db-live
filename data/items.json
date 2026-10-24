@@ -1,11 +1,92 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T19:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-24T19:14:59Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Production-grade Campus Knowledge Assistant (CampusRAG) with FastAPI, Streamlit, ChromaDB, and strict hallucination guar",
+    "id": "SreyaThota/campus-knowledge-assistant",
+    "language": "Python",
+    "name": "SreyaThota/campus-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-24T19:09:02Z",
+    "url": "https://github.com/SreyaThota/campus-knowledge-assistant"
+  },
+  {
+    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-10-24T19:08:51Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9441,
+    "updated_at": "2026-10-24T19:13:28Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "local-first semantic code search engine",
+    "id": "kantord/SeaGOAT",
+    "language": "Python",
+    "name": "kantord/SeaGOAT",
+    "stars": 1314,
+    "updated_at": "2026-10-24T19:08:56Z",
+    "url": "https://github.com/kantord/SeaGOAT"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-24T19:01:51Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T19:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Official C# SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
+    "id": "newfoundcodes/amaquet-csharp-sdk",
+    "language": "C#",
+    "name": "newfoundcodes/amaquet-csharp-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-24T19:00:13Z",
+    "url": "https://github.com/newfoundcodes/amaquet-csharp-sdk"
+  },
+  {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
     "id": "miniaxolotl/grove",
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-24T18:58:11Z",
+    "updated_at": "2026-10-24T19:15:22Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -18,57 +99,12 @@
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-24T18:53:48Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9441,
-    "updated_at": "2026-10-24T19:00:01Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T18:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T19:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-10-24T18:43:57Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 4,
-    "updated_at": "2026-10-24T18:43:37Z",
+    "updated_at": "2026-10-24T19:12:05Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -207,15 +243,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "local-first semantic code search engine",
-    "id": "kantord/SeaGOAT",
-    "language": "Python",
-    "name": "kantord/SeaGOAT",
-    "stars": 1314,
-    "updated_at": "2026-10-24T18:00:26Z",
-    "url": "https://github.com/kantord/SeaGOAT"
-  },
-  {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
     "id": "tradik/mddb",
     "language": "Go",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-10-24T18:56:37Z",
+    "updated_at": "2026-10-24T19:02:15Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-24T16:18:55Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
     "id": "gonicolas12/My_AI",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T15:55:24Z",
     "url": "https://github.com/Vigneshkumar-29/duckduckgo-rag-agent"
-  },
-  {
-    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
-    "id": "originchaindb/originchaindb",
-    "language": "TypeScript",
-    "name": "originchaindb/originchaindb",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:51:05Z",
-    "url": "https://github.com/originchaindb/originchaindb"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-24T15:48:06Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   }
 ]
