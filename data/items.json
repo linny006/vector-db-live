@@ -1,11 +1,47 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-24T13:14:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-24T13:11:39Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "A lightweight, minimal memory framework for AI agents",
+    "id": "SitanshuA091/memlib-ai",
+    "language": "Python",
+    "name": "SitanshuA091/memlib-ai",
+    "stars": 0,
+    "updated_at": "2026-10-24T13:06:23Z",
+    "url": "https://github.com/SitanshuA091/memlib-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T13:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T13:00:20Z",
+    "updated_at": "2026-10-24T13:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,17 +68,8 @@
     "language": "Python",
     "name": "oguzhankir/omnichunk",
     "stars": 9,
-    "updated_at": "2026-10-24T12:58:55Z",
+    "updated_at": "2026-10-24T13:14:00Z",
     "url": "https://github.com/oguzhankir/omnichunk"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-24T12:58:36Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
     "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T12:49:13Z",
     "url": "https://github.com/originchaindb/originchadb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T12:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
@@ -247,7 +265,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39597,
+    "stars": 39599,
     "updated_at": "2026-10-24T11:41:07Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -392,7 +410,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-24T12:20:14Z",
+    "updated_at": "2026-10-24T13:05:44Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "Thisen-Ekanayake/Athena",
     "stars": 1,
-    "updated_at": "2026-10-24T10:42:37Z",
+    "updated_at": "2026-10-24T13:03:55Z",
     "url": "https://github.com/Thisen-Ekanayake/Athena"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T10:28:05Z",
     "url": "https://github.com/kldhsh123/Afterglow-Desktop"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-24T10:26:58Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI-assisted workflow for pre-owned automotive retail",
-    "id": "Rachit47/IdatenOps",
-    "language": "Python",
-    "name": "Rachit47/IdatenOps",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:25:04Z",
-    "url": "https://github.com/Rachit47/IdatenOps"
   }
 ]
