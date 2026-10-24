@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T20:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "local-first semantic code search engine",
+    "id": "kantord/SeaGOAT",
+    "language": "Python",
+    "name": "kantord/SeaGOAT",
+    "stars": 1314,
+    "updated_at": "2026-10-24T20:40:35Z",
+    "url": "https://github.com/kantord/SeaGOAT"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-24T20:41:39Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 7,
+    "updated_at": "2026-10-24T20:39:06Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2056,
+    "updated_at": "2026-10-24T20:44:48Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T20:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -14,35 +68,8 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-24T20:28:28Z",
+    "updated_at": "2026-10-24T20:43:55Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "local-first semantic code search engine",
-    "id": "kantord/SeaGOAT",
-    "language": "Python",
-    "name": "kantord/SeaGOAT",
-    "stars": 1314,
-    "updated_at": "2026-10-24T20:28:46Z",
-    "url": "https://github.com/kantord/SeaGOAT"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2056,
-    "updated_at": "2026-10-24T20:24:51Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-24T20:24:13Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -90,24 +117,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T20:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T20:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-24T20:04:49Z",
+    "updated_at": "2026-10-24T20:41:21Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T19:54:57Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 7,
-    "updated_at": "2026-10-24T20:16:32Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
     "description": ".NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9.",
@@ -252,6 +252,15 @@
     "url": "https://github.com/fatma-fendri/PodAI"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8443,
+    "updated_at": "2026-10-24T19:27:37Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9441,
-    "updated_at": "2026-10-24T20:17:28Z",
+    "updated_at": "2026-10-24T20:31:34Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -313,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T19:00:13Z",
     "url": "https://github.com/newfoundcodes/amaquet-csharp-sdk"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8443,
-    "updated_at": "2026-10-24T19:27:37Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -401,7 +401,7 @@
     "language": "Go",
     "name": "tradik/mddb",
     "stars": 4,
-    "updated_at": "2026-10-24T17:41:13Z",
+    "updated_at": "2026-10-24T20:35:12Z",
     "url": "https://github.com/tradik/mddb"
   },
   {
