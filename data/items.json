@@ -1,5 +1,122 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-24T10:59:45Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Official OriginChainDB PHP SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-php",
+    "language": "PHP",
+    "name": "originchaindb/originchaindb-php",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:59:37Z",
+    "url": "https://github.com/originchaindb/originchaindb-php"
+  },
+  {
+    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-ruby",
+    "language": "Ruby",
+    "name": "originchaindb/originchaindb-ruby",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:59:07Z",
+    "url": "https://github.com/originchaindb/originchaindb-ruby"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:58:04Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-csharp",
+    "language": "C#",
+    "name": "originchaindb/originchaindb-csharp",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:58:36Z",
+    "url": "https://github.com/originchaindb/originchaindb-csharp"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T10:56:56Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-java",
+    "language": "Java",
+    "name": "originchaindb/originchaindb-java",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:57:48Z",
+    "url": "https://github.com/originchaindb/originchaindb-java"
+  },
+  {
+    "description": "Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-go",
+    "language": "Python",
+    "name": "originchaindb/originchaindb-go",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:56:01Z",
+    "url": "https://github.com/originchaindb/originchaindb-go"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:53:59Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
+    "id": "originchaindb/originchadb",
+    "language": "TypeScript",
+    "name": "originchaindb/originchadb",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:50:29Z",
+    "url": "https://github.com/originchaindb/originchadb"
+  },
+  {
+    "description": "Official OriginChainDB Python SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchain-python",
+    "language": "Python",
+    "name": "originchaindb/originchain-python",
+    "stars": 0,
+    "updated_at": "2026-10-24T10:50:24Z",
+    "url": "https://github.com/originchaindb/originchain-python"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-24T10:48:07Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T10:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -54,24 +171,6 @@
     "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
   },
   {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:35:18Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T10:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Afterglow\u7684\u684c\u9762\u7aef\u3002\u8ba9\u66fe\u7ecf\u5bf9\u8bdd\u7684\u6e29\u5ea6\uff0c\u5ef6\u7eed\u4e3a\u5f80\u540e\u7684\u966a\u4f34\u3002 | Afterglow on the Desktop Let the warmth of past conversations continue into companion",
     "id": "kldhsh123/Afterglow-Desktop",
     "language": "Python",
@@ -79,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T10:28:05Z",
     "url": "https://github.com/kldhsh123/Afterglow-Desktop"
-  },
-  {
-    "description": "Official OriginChainDB Python SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchain-python",
-    "language": "Python",
-    "name": "originchaindb/originchain-python",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:43:44Z",
-    "url": "https://github.com/originchaindb/originchain-python"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -158,53 +248,8 @@
     "language": "Rust",
     "name": "originchaindb/originchaindb-rust",
     "stars": 0,
-    "updated_at": "2026-10-24T10:17:40Z",
+    "updated_at": "2026-10-24T10:49:03Z",
     "url": "https://github.com/originchaindb/originchaindb-rust"
-  },
-  {
-    "description": "Official OriginChainDB PHP SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-php",
-    "language": "PHP",
-    "name": "originchaindb/originchaindb-php",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:17:19Z",
-    "url": "https://github.com/originchaindb/originchaindb-php"
-  },
-  {
-    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-ruby",
-    "language": "Ruby",
-    "name": "originchaindb/originchaindb-ruby",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:16:58Z",
-    "url": "https://github.com/originchaindb/originchaindb-ruby"
-  },
-  {
-    "description": "Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-csharp",
-    "language": "C#",
-    "name": "originchaindb/originchaindb-csharp",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:14:45Z",
-    "url": "https://github.com/originchaindb/originchaindb-csharp"
-  },
-  {
-    "description": "Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-java",
-    "language": "Java",
-    "name": "originchaindb/originchaindb-java",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:14:20Z",
-    "url": "https://github.com/originchaindb/originchaindb-java"
-  },
-  {
-    "description": "Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-go",
-    "language": "Python",
-    "name": "originchaindb/originchaindb-go",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:13:34Z",
-    "url": "https://github.com/originchaindb/originchaindb-go"
   },
   {
     "description": "TuluVaani \ud83c\udf99\ufe0f ,A first-attempt Tulu speech pipeline \u2014 demonstrated through a coastal Karnataka scheme & fisheries advisor",
@@ -243,15 +288,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
-    "id": "originchaindb/originchadb",
-    "language": "TypeScript",
-    "name": "originchaindb/originchadb",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:44:20Z",
-    "url": "https://github.com/originchaindb/originchadb"
-  },
-  {
     "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
     "id": "Nazar-Plokhuta/docuquery-rag-agent",
     "language": "Python",
@@ -274,8 +310,8 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39592,
-    "updated_at": "2026-10-24T09:33:12Z",
+    "stars": 39593,
+    "updated_at": "2026-10-24T10:54:14Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -391,7 +427,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40722,
+    "stars": 40723,
     "updated_at": "2026-10-24T08:36:31Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T08:30:45Z",
     "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-24T08:30:05Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2038,
-    "updated_at": "2026-10-24T08:17:49Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
-    "id": "bartvanbenthem/basis-ai",
-    "language": "TypeScript",
-    "name": "bartvanbenthem/basis-ai",
-    "stars": 1,
-    "updated_at": "2026-10-24T08:13:31Z",
-    "url": "https://github.com/bartvanbenthem/basis-ai"
-  },
-  {
-    "description": "\u8ba9\u66fe\u7ecf\u5bf9\u8bdd\u7684\u6e29\u5ea6\uff0c\u5ef6\u7eed\u4e3a\u5f80\u540e\u7684\u966a\u4f34\u3002 | Let the warmth of past conversations continue into companionship.",
-    "id": "kldhsh123/Afterglow",
-    "language": "Python",
-    "name": "kldhsh123/Afterglow",
-    "stars": 320,
-    "updated_at": "2026-10-24T10:18:02Z",
-    "url": "https://github.com/kldhsh123/Afterglow"
   }
 ]
