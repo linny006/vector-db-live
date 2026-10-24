@@ -1,12 +1,66 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-24T08:00:17Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1215,
+    "updated_at": "2026-10-24T07:56:01Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Voice-Powered RAG Agent for Technical Documentation Intelligence using OpenAI Agents SDK, Qdrant Vector DB, FastEmbed & ",
+    "id": "Vaibhav1376/voice-rag-agent",
+    "language": "Python",
+    "name": "Vaibhav1376/voice-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:51:45Z",
+    "url": "https://github.com/Vaibhav1376/voice-rag-agent"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-24T07:50:31Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T07:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T07:45:19Z",
+    "updated_at": "2026-10-24T08:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40704,
+    "updated_at": "2026-10-24T07:43:56Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "badhope/spark",
     "stars": 21,
-    "updated_at": "2026-10-24T07:43:21Z",
+    "updated_at": "2026-10-24T07:52:54Z",
     "url": "https://github.com/badhope/spark"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T07:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
     "id": "Yoruxyv/semantix",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 31,
     "updated_at": "2026-10-24T07:17:18Z",
     "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-24T07:39:40Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-24T07:36:29Z",
+    "updated_at": "2026-10-24T07:55:27Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -252,20 +288,11 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40705,
-    "updated_at": "2026-10-24T07:43:56Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8437,
+    "stars": 8438,
     "updated_at": "2026-10-24T05:38:50Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -387,15 +414,6 @@
     "url": "https://github.com/irtazirfan08-source/VectorCore"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-24T06:26:35Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "AI-powered financial assistant using RAG to search, parse, and analyze financial statements for Vietnamese listed stocks",
     "id": "anhle325/rag-finvisor-vn",
     "language": "Python",
@@ -428,25 +446,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9437,
-    "updated_at": "2026-10-24T07:22:07Z",
+    "updated_at": "2026-10-24T07:54:23Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "One set of actions for vector databases: an OutSystems Developer Cloud (ODC) external library (.NET 10). Preview 0.2: Qd",
-    "id": "quadirsaifee/universal-vector-db-connector",
-    "language": "C#",
-    "name": "quadirsaifee/universal-vector-db-connector",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:11:25Z",
-    "url": "https://github.com/quadirsaifee/universal-vector-db-connector"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:11:03Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
   }
 ]
