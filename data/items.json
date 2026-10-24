@@ -1,11 +1,74 @@
 [
   {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 355,
+    "updated_at": "2026-10-24T21:41:51Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-24T21:38:12Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:37:09Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-24T21:32:16Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-24T21:31:16Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T21:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T21:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "local-first semantic code search engine",
     "id": "kantord/SeaGOAT",
     "language": "Python",
     "name": "kantord/SeaGOAT",
     "stars": 1314,
-    "updated_at": "2026-10-24T21:29:39Z",
+    "updated_at": "2026-10-24T21:35:51Z",
     "url": "https://github.com/kantord/SeaGOAT"
   },
   {
@@ -54,33 +117,6 @@
     "url": "https://github.com/gainratio/edgeproc-core"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 355,
-    "updated_at": "2026-10-24T21:15:24Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T21:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T21:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -108,13 +144,13 @@
     "url": "https://github.com/jaehyeon-kim/odctl"
   },
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
     "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-24T21:02:45Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:04:06Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9441,
-    "updated_at": "2026-10-24T21:21:54Z",
+    "updated_at": "2026-10-24T21:44:45Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -149,7 +185,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8444,
-    "updated_at": "2026-10-24T20:59:00Z",
+    "updated_at": "2026-10-24T21:42:31Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/Pavel14701/rag_service"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:32:14Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
     "id": "tickernelz/opencode-mem",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T18:19:24Z",
     "url": "https://github.com/abhishekkapoorx/DEVOPS-AGENT"
-  },
-  {
-    "description": "AI assistant that searches PDFs and the web to provide simple, reliable, source-based answers.",
-    "id": "ujjawalsinghsde/documind-ai-research-assistant",
-    "language": "Python",
-    "name": "ujjawalsinghsde/documind-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-24T18:07:41Z",
-    "url": "https://github.com/ujjawalsinghsde/documind-ai-research-assistant"
-  },
-  {
-    "description": "",
-    "id": "piotrwozn/multidb",
-    "language": "Rust",
-    "name": "piotrwozn/multidb",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:54:06Z",
-    "url": "https://github.com/piotrwozn/multidb"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 4,
-    "updated_at": "2026-10-24T20:35:12Z",
-    "url": "https://github.com/tradik/mddb"
   }
 ]
