@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T09:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
+    "id": "Nazar-Plokhuta/docuquery-rag-agent",
+    "language": "Python",
+    "name": "Nazar-Plokhuta/docuquery-rag-agent",
+    "stars": 4,
+    "updated_at": "2026-10-24T09:26:05Z",
+    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-24T09:24:29Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "A visual sandbox for experimenting with RAG configurations. Interactive tools for document parsing, chunking, embeddings",
+    "id": "jvorndran/RAG-Visualizer",
+    "language": "Python",
+    "name": "jvorndran/RAG-Visualizer",
+    "stars": 1,
+    "updated_at": "2026-10-24T09:20:45Z",
+    "url": "https://github.com/jvorndran/RAG-Visualizer"
+  },
+  {
+    "description": "Building multi-tenant Retrieval Augmented Generation platform ",
+    "id": "kennielima/OpsIQ",
+    "language": "C#",
+    "name": "kennielima/OpsIQ",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:16:16Z",
+    "url": "https://github.com/kennielima/OpsIQ"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T09:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Pion \u2014 the memory engine for AI inference",
     "id": "pavelhorak/pion",
     "language": "Mojo",
@@ -18,15 +72,6 @@
     "url": "https://github.com/api-evangelist/datastax"
   },
   {
-    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
-    "id": "Nazar-Plokhuta/docuquery-rag-agent",
-    "language": "Python",
-    "name": "Nazar-Plokhuta/docuquery-rag-agent",
-    "stars": 4,
-    "updated_at": "2026-10-24T09:06:50Z",
-    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -36,22 +81,13 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "RAG resume matcher: PDFs to Chroma with LLM-extracted metadata, then explainable 0-100 job-match scores as JSON.",
+    "id": "tanwarAalok/RAG_Based_Profile_matching",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T09:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T09:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "tanwarAalok/RAG_Based_Profile_matching",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:01:09Z",
+    "url": "https://github.com/tanwarAalok/RAG_Based_Profile_matching"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -68,7 +104,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-24T08:57:46Z",
+    "updated_at": "2026-10-24T09:18:17Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 139,
-    "updated_at": "2026-10-24T09:11:21Z",
+    "updated_at": "2026-10-24T09:18:17Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -405,48 +441,12 @@
     "url": "https://github.com/irodori-table/irodori-extension-qdrant"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
     "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-24T05:51:10Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-24T06:04:36Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8438,
-    "updated_at": "2026-10-24T09:04:46Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 916,
-    "updated_at": "2026-10-24T09:04:41Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-24T05:28:00Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+    "name": "zilliztech/knowhere",
+    "stars": 389,
+    "updated_at": "2026-10-24T06:08:53Z",
+    "url": "https://github.com/zilliztech/knowhere"
   }
 ]
