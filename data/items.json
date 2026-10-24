@@ -1,11 +1,101 @@
 [
   {
+    "description": "AI assistant that searches PDFs and the web to provide simple, reliable, source-based answers.",
+    "id": "ujjawalsinghsde/documind-ai-research-assistant",
+    "language": "Python",
+    "name": "ujjawalsinghsde/documind-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:59:41Z",
+    "url": "https://github.com/ujjawalsinghsde/documind-ai-research-assistant"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:54:30Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "",
+    "id": "piotrwozn/multidb",
+    "language": "Rust",
+    "name": "piotrwozn/multidb",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:54:06Z",
+    "url": "https://github.com/piotrwozn/multidb"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8441,
+    "updated_at": "2026-10-24T17:53:39Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-24T17:50:02Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-24T17:48:41Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-24T17:48:47Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-24T17:47:58Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-24T17:46:49Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T17:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T17:45:21Z",
+    "updated_at": "2026-10-24T18:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +104,7 @@
     "language": "Python",
     "name": "kantord/SeaGOAT",
     "stars": 1314,
-    "updated_at": "2026-10-24T17:44:40Z",
+    "updated_at": "2026-10-24T17:45:54Z",
     "url": "https://github.com/kantord/SeaGOAT"
   },
   {
@@ -23,7 +113,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-24T17:42:15Z",
+    "updated_at": "2026-10-24T17:55:19Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -34,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-10-24T17:41:13Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T17:36:09Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A production ready Retrieval-Augmented Generation (RAG) agent framework featuring multi-agent orchestration, Docker depl",
@@ -72,15 +153,6 @@
     "url": "https://github.com/motedb/motedb"
   },
   {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:29:05Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -97,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-10-24T17:28:03Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-24T17:30:36Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -169,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T17:09:46Z",
     "url": "https://github.com/Stepn0/hnsw-go"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8440,
-    "updated_at": "2026-10-24T17:41:04Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "",
-    "id": "piotrwozn/multidb",
-    "language": "Rust",
-    "name": "piotrwozn/multidb",
-    "stars": 0,
-    "updated_at": "2026-10-24T17:08:39Z",
-    "url": "https://github.com/piotrwozn/multidb"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -266,7 +311,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9440,
-    "updated_at": "2026-10-24T17:20:25Z",
+    "updated_at": "2026-10-24T17:59:41Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -342,6 +387,15 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6242,
+    "updated_at": "2026-10-24T15:47:07Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T15:15:23Z",
     "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
-  },
-  {
-    "description": "AI-Powered Islamic finance platform with a bilingual (English/Urdu) RAG chatbot, Zakat calculator, halal stock screener,",
-    "id": "SyedHusnain20/ShariahEase",
-    "language": "Python",
-    "name": "SyedHusnain20/ShariahEase",
-    "stars": 2,
-    "updated_at": "2026-10-24T15:14:42Z",
-    "url": "https://github.com/SyedHusnain20/ShariahEase"
-  },
-  {
-    "description": "A Python library that keeps each customer's search results separate in a shared index, and gives errors stable codes.",
-    "id": "gainratio/edgeproc-core",
-    "language": "Python",
-    "name": "gainratio/edgeproc-core",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:14:07Z",
-    "url": "https://github.com/gainratio/edgeproc-core"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-24T17:21:14Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-24T15:02:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11760,
-    "updated_at": "2026-10-24T15:01:58Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 468,
-    "updated_at": "2026-10-24T15:01:17Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   }
 ]
