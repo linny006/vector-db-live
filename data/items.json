@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T12:00:22Z",
+    "updated_at": "2026-10-24T12:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:14:28Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
+    "id": "originchaindb/originchadb",
+    "language": "TypeScript",
+    "name": "originchaindb/originchadb",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:14:28Z",
+    "url": "https://github.com/originchaindb/originchadb"
+  },
+  {
+    "description": "EmbAPI (/\u025bm\u02c8b\u0251\u02d0pe\u026a/) \u26bd, a RESTful Embeddings API",
+    "id": "mpilhlt/embapi",
+    "language": "Go",
+    "name": "mpilhlt/embapi",
+    "stars": 2,
+    "updated_at": "2026-10-24T12:08:39Z",
+    "url": "https://github.com/mpilhlt/embapi"
+  },
+  {
+    "description": "Official OriginChainDB Python SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchain-python",
+    "language": "Python",
+    "name": "originchaindb/originchain-python",
+    "stars": 0,
+    "updated_at": "2026-10-24T12:05:19Z",
+    "url": "https://github.com/originchaindb/originchain-python"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T12:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -16,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T12:00:19Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "EmbAPI (/\u025bm\u02c8b\u0251\u02d0pe\u026a/) \u26bd, a RESTful Embeddings API",
-    "id": "mpilhlt/embapi",
-    "language": "Go",
-    "name": "mpilhlt/embapi",
-    "stars": 2,
-    "updated_at": "2026-10-24T12:00:02Z",
-    "url": "https://github.com/mpilhlt/embapi"
   },
   {
     "description": "Phoenix-Vector is a highly optimized vector database engine and AI-native ingestion platform built entirely from scratch",
@@ -135,15 +171,6 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "Official OriginChainDB Python SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchain-python",
-    "language": "Python",
-    "name": "originchaindb/originchain-python",
-    "stars": 0,
-    "updated_at": "2026-10-24T12:00:07Z",
-    "url": "https://github.com/originchaindb/originchain-python"
-  },
-  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -151,24 +178,6 @@
     "stars": 10,
     "updated_at": "2026-10-24T11:49:58Z",
     "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
-    "id": "originchaindb/originchadb",
-    "language": "TypeScript",
-    "name": "originchaindb/originchadb",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:49:12Z",
-    "url": "https://github.com/originchaindb/originchadb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T11:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "OriginChainDB LlamaIndex vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
@@ -364,7 +373,7 @@
     "id": "kldhsh123/Afterglow-Desktop",
     "language": "Python",
     "name": "kldhsh123/Afterglow-Desktop",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-24T10:28:05Z",
     "url": "https://github.com/kldhsh123/Afterglow-Desktop"
   },
@@ -439,14 +448,5 @@
     "stars": 321,
     "updated_at": "2026-10-24T10:18:02Z",
     "url": "https://github.com/kldhsh123/Afterglow"
-  },
-  {
-    "description": "TuluVaani \ud83c\udf99\ufe0f ,A first-attempt Tulu speech pipeline \u2014 demonstrated through a coastal Karnataka scheme & fisheries advisor",
-    "id": "anoopcodehack/TuluVaani",
-    "language": "JavaScript",
-    "name": "anoopcodehack/TuluVaani",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:11:29Z",
-    "url": "https://github.com/anoopcodehack/TuluVaani"
   }
 ]
