@@ -1,5 +1,59 @@
 [
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9438,
+    "updated_at": "2026-10-24T15:22:16Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "EmbAPI (/\u025bm\u02c8b\u0251\u02d0pe\u026a/) \u26bd, a RESTful Embeddings API",
+    "id": "mpilhlt/embapi",
+    "language": "Go",
+    "name": "mpilhlt/embapi",
+    "stars": 2,
+    "updated_at": "2026-10-24T15:22:40Z",
+    "url": "https://github.com/mpilhlt/embapi"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7144,
+    "updated_at": "2026-10-24T15:21:18Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T15:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T15:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
+    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "language": "JavaScript",
+    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "stars": 0,
+    "updated_at": "2026-10-24T15:15:23Z",
+    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
+  },
+  {
     "description": "AI-Powered Islamic finance platform with a bilingual (English/Urdu) RAG chatbot, Zakat calculator, halal stock screener,",
     "id": "SyedHusnain20/ShariahEase",
     "language": "Python",
@@ -61,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T15:01:00Z",
     "url": "https://github.com/MaheshBhushan/vektordb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T15:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T15:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -185,7 +221,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2056,
-    "updated_at": "2026-10-24T14:13:57Z",
+    "updated_at": "2026-10-24T15:23:56Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "KonNik88/ml-research-radar",
     "stars": 3,
-    "updated_at": "2026-10-24T13:59:53Z",
+    "updated_at": "2026-10-24T15:26:12Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39605,
-    "updated_at": "2026-10-24T15:15:01Z",
+    "updated_at": "2026-10-24T15:26:46Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -297,15 +333,6 @@
     "url": "https://github.com/kennielima/OpsIQ"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7144,
-    "updated_at": "2026-10-24T13:47:44Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
     "id": "kikugo/unified-rag",
     "language": "Python",
@@ -322,15 +349,6 @@
     "stars": 17,
     "updated_at": "2026-10-24T13:19:23Z",
     "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9438,
-    "updated_at": "2026-10-24T15:11:14Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T12:31:44Z",
     "url": "https://github.com/originchaindb/originchaindb-java"
-  },
-  {
-    "description": "Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-go",
-    "language": "Python",
-    "name": "originchaindb/originchaindb-go",
-    "stars": 0,
-    "updated_at": "2026-10-24T12:31:39Z",
-    "url": "https://github.com/originchaindb/originchaindb-go"
-  },
-  {
-    "description": "OriginChainDB LlamaIndex vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
-    "id": "originchaindb/llama-index-vector-stores-originchain",
-    "language": "Python",
-    "name": "originchaindb/llama-index-vector-stores-originchain",
-    "stars": 0,
-    "updated_at": "2026-10-24T12:31:32Z",
-    "url": "https://github.com/originchaindb/llama-index-vector-stores-originchain"
   }
 ]
