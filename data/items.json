@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-24T04:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-24T03:53:12Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-24T03:50:18Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-24T03:45:52Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-24T03:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-powered financial assistant using RAG to search, parse, and analyze financial statements for Vietnamese listed stocks",
     "id": "anhle325/rag-finvisor-vn",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-10-24T03:44:12Z",
     "url": "https://github.com/anhle325/rag-finvisor-vn"
+  },
+  {
+    "description": "This agent assists in producing rigorous research reports oriented toward engineering deployment.",
+    "id": "xielongxie9-tech/researchagent",
+    "language": "Python",
+    "name": "xielongxie9-tech/researchagent",
+    "stars": 1,
+    "updated_at": "2026-10-24T03:42:31Z",
+    "url": "https://github.com/xielongxie9-tech/researchagent"
   },
   {
     "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
@@ -18,40 +72,13 @@
     "url": "https://github.com/badhope/spark"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-24T03:39:10Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-24T03:45:02Z",
+    "updated_at": "2026-10-24T03:58:49Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T03:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-24T03:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A distributed ML platform composing a Raft engine, an HNSW vector index, and a distributed training framework, with cros",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "dxmt/dxmt",
     "stars": 0,
-    "updated_at": "2026-10-24T03:40:16Z",
+    "updated_at": "2026-10-24T03:53:28Z",
     "url": "https://github.com/dxmt/dxmt"
   },
   {
@@ -171,15 +198,6 @@
     "url": "https://github.com/Empreiteiro/yoke-agent"
   },
   {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-24T03:15:59Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
     "id": "api-evangelist/sequoiadb",
     "language": "\u2014",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T02:42:15Z",
     "url": "https://github.com/api-evangelist/ragflow"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-24T02:40:03Z",
-    "url": "https://github.com/motedb/motedb"
   },
   {
     "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T00:21:17Z",
     "url": "https://github.com/bythewayz66-glitch/mem20"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 1,
-    "updated_at": "2026-10-24T00:20:50Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
   }
 ]
