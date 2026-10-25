@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T00:00:19Z",
+    "updated_at": "2026-10-25T00:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-25T00:12:33Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-25T00:10:07Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-25T00:15:19Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T00:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
@@ -18,15 +54,6 @@
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-24T23:54:01Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Self-hosted microservice RAG on a single 6 GB GPU: Docling OCR, Qwen3.5-4B on SGLang, Qdrant hybrid search (bge-m3 + BM2",
     "id": "mdmonsurali/Advanced-Hybrid-RAG",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T23:49:05Z",
     "url": "https://github.com/mdmonsurali/Advanced-Hybrid-RAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-24T23:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -68,7 +86,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9441,
-    "updated_at": "2026-10-24T23:48:34Z",
+    "updated_at": "2026-10-25T00:14:04Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -117,15 +135,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-24T23:54:21Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -157,7 +166,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 2056,
+    "stars": 2057,
     "updated_at": "2026-10-24T22:52:05Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -184,7 +193,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8443,
+    "stars": 8444,
     "updated_at": "2026-10-24T22:44:47Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -288,15 +297,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-24T23:41:43Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
     "id": "ihrimon/ai-engineering-journey",
     "language": "HTML",
@@ -347,7 +347,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-24T21:29:35Z",
+    "updated_at": "2026-10-25T00:11:24Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -446,7 +446,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9478,
-    "updated_at": "2026-10-24T23:53:27Z",
+    "updated_at": "2026-10-25T00:01:26Z",
     "url": "https://github.com/databendlabs/databend"
   }
 ]
