@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
+    "id": "hufengjuexue/zhongji",
+    "language": "Kotlin",
+    "name": "hufengjuexue/zhongji",
+    "stars": 1,
+    "updated_at": "2026-10-25T10:55:54Z",
+    "url": "https://github.com/hufengjuexue/zhongji"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-25T10:54:12Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-25T10:51:50Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 6,
+    "updated_at": "2026-10-25T10:53:08Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-25T10:46:01Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T10:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T11:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
@@ -18,24 +81,6 @@
     "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
-    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
-    "id": "hufengjuexue/zhongji",
-    "language": "Kotlin",
-    "name": "hufengjuexue/zhongji",
-    "stars": 1,
-    "updated_at": "2026-10-25T10:42:10Z",
-    "url": "https://github.com/hufengjuexue/zhongji"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 6,
-    "updated_at": "2026-10-25T10:40:11Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
     "description": "Memory upgrades for digital people: chunk + embed + recall + back up, with the failure modes that silently kill agent me",
     "id": "Merlin-Bedford/merlin-memory-kit",
     "language": "Python",
@@ -43,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-10-25T10:37:43Z",
     "url": "https://github.com/Merlin-Bedford/merlin-memory-kit"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 586,
+    "updated_at": "2026-10-25T10:36:12Z",
+    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
@@ -59,26 +113,8 @@
     "language": "Go",
     "name": "tradik/mddb",
     "stars": 5,
-    "updated_at": "2026-10-25T10:30:32Z",
+    "updated_at": "2026-10-25T10:53:40Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T10:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T10:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -86,7 +122,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T10:44:46Z",
+    "updated_at": "2026-10-25T10:55:34Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-25T10:12:53Z",
+    "updated_at": "2026-10-25T10:47:46Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -189,15 +225,6 @@
     "url": "https://github.com/jaehyeon-kim/odctl"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 584,
-    "updated_at": "2026-10-25T10:36:12Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "AI-powered IT support assistant using Agentic RAG \u2014 answers employee questions from company documents, falls back to web",
     "id": "Ariesjeev/FixPilot",
     "language": "Python",
@@ -221,7 +248,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 16,
-    "updated_at": "2026-10-25T09:48:04Z",
+    "updated_at": "2026-10-25T10:49:54Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -288,6 +315,15 @@
     "url": "https://github.com/context-graph-ai/contextdb"
   },
   {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6238,
+    "updated_at": "2026-10-25T09:19:53Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
     "id": "theogony-project/theogony",
     "language": "Python",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T09:18:26Z",
     "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6237,
-    "updated_at": "2026-10-25T09:19:53Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T08:09:47Z",
     "url": "https://github.com/irodori-table/irodori-extension-qdrant"
-  },
-  {
-    "description": "Irodori Table Pinecone connector extension",
-    "id": "irodori-table/irodori-extension-pinecone",
-    "language": "Rust",
-    "name": "irodori-table/irodori-extension-pinecone",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:09:42Z",
-    "url": "https://github.com/irodori-table/irodori-extension-pinecone"
-  },
-  {
-    "description": "Irodori Table Milvus connector extension",
-    "id": "irodori-table/irodori-extension-milvus",
-    "language": "Rust",
-    "name": "irodori-table/irodori-extension-milvus",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:09:11Z",
-    "url": "https://github.com/irodori-table/irodori-extension-milvus"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2404,
-    "updated_at": "2026-10-25T08:01:50Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
