@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T17:45:19Z",
+    "updated_at": "2026-10-25T18:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,17 +14,8 @@
     "language": "Python",
     "name": "badhope/spark",
     "stars": 21,
-    "updated_at": "2026-10-25T17:44:53Z",
+    "updated_at": "2026-10-25T17:59:59Z",
     "url": "https://github.com/badhope/spark"
-  },
-  {
-    "description": "\ud83e\udde0 An autonomous, cognitive agent architecture & local-first assistant featuring episodic memory, tree-based JSON plannin",
-    "id": "oguzemirtopuz/JARVIS-Cognitive-OS",
-    "language": "Python",
-    "name": "oguzemirtopuz/JARVIS-Cognitive-OS",
-    "stars": 5,
-    "updated_at": "2026-10-25T17:42:43Z",
-    "url": "https://github.com/oguzemirtopuz/JARVIS-Cognitive-OS"
   },
   {
     "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
@@ -32,8 +23,98 @@
     "language": "Rust",
     "name": "mahpate/Vlite",
     "stars": 2,
-    "updated_at": "2026-10-25T17:41:57Z",
+    "updated_at": "2026-10-25T17:59:38Z",
     "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 356,
+    "updated_at": "2026-10-25T17:59:29Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:58:21Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "An index for ambient learning applications.",
+    "id": "rao-studios/AII",
+    "language": "Swift",
+    "name": "rao-studios/AII",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:58:13Z",
+    "url": "https://github.com/rao-studios/AII"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-25T17:56:09Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:52:30Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 6,
+    "updated_at": "2026-10-25T17:52:10Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "\ud83e\udde0 An autonomous, cognitive agent architecture & local-first assistant featuring episodic memory, tree-based JSON plannin",
+    "id": "oguzemirtopuz/JARVIS-Cognitive-OS",
+    "language": "Python",
+    "name": "oguzemirtopuz/JARVIS-Cognitive-OS",
+    "stars": 5,
+    "updated_at": "2026-10-25T17:50:46Z",
+    "url": "https://github.com/oguzemirtopuz/JARVIS-Cognitive-OS"
+  },
+  {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:47:48Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-25T17:46:55Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Aspire integrations for Chroma and Chroma Cloud, built on ChromaDB.Client.",
@@ -54,15 +135,6 @@
     "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T17:38:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -77,7 +149,7 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T17:42:52Z",
+    "updated_at": "2026-10-25T17:52:23Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T17:40:25Z",
     "url": "https://github.com/deepdigger69/vector-search"
-  },
-  {
-    "description": "An index for ambient learning applications.",
-    "id": "rao-studios/AII",
-    "language": "Swift",
-    "name": "rao-studios/AII",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:30:18Z",
-    "url": "https://github.com/rao-studios/AII"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "kurcontko/mnemotree",
     "stars": 6,
-    "updated_at": "2026-10-25T17:31:50Z",
+    "updated_at": "2026-10-25T17:56:48Z",
     "url": "https://github.com/kurcontko/mnemotree"
   },
   {
@@ -148,7 +211,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 605,
+    "stars": 606,
     "updated_at": "2026-10-25T17:25:08Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -194,7 +257,7 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 6,
-    "updated_at": "2026-10-25T17:24:20Z",
+    "updated_at": "2026-10-25T17:58:48Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
@@ -214,15 +277,6 @@
     "stars": 36,
     "updated_at": "2026-10-25T17:21:26Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Client"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-25T17:19:03Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -342,15 +396,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
-    "id": "VecturaDB/VecturaDB",
-    "language": "Rust",
-    "name": "VecturaDB/VecturaDB",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:16:21Z",
-    "url": "https://github.com/VecturaDB/VecturaDB"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -358,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T16:18:32Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 356,
-    "updated_at": "2026-10-25T16:17:01Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -392,7 +428,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-25T17:05:03Z",
+    "updated_at": "2026-10-25T17:51:47Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-25T17:15:36Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
-  },
-  {
-    "description": "A Python library that keeps each customer's search results separate in a shared index, and gives errors stable codes.",
-    "id": "gainratio/edgeproc-core",
-    "language": "Python",
-    "name": "gainratio/edgeproc-core",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:55:49Z",
-    "url": "https://github.com/gainratio/edgeproc-core"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-25T15:55:00Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-25T17:25:41Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "The LangChain wrapper of Milvus vector database for efficient vector search, full-text search, hybrid retrieval and RAG.",
-    "id": "langchain-ai/langchain-milvus",
-    "language": "Python",
-    "name": "langchain-ai/langchain-milvus",
-    "stars": 61,
-    "updated_at": "2026-10-25T15:45:53Z",
-    "url": "https://github.com/langchain-ai/langchain-milvus"
   }
 ]
