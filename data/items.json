@@ -1,21 +1,66 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-25T16:59:07Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "\ud83e\udde0 An autonomous, cognitive agent architecture & local-first assistant featuring episodic memory, tree-based JSON plannin",
+    "id": "oguzemirtopuz/JARVIS-Cognitive-OS",
+    "language": "Python",
+    "name": "oguzemirtopuz/JARVIS-Cognitive-OS",
+    "stars": 5,
+    "updated_at": "2026-10-25T16:57:45Z",
+    "url": "https://github.com/oguzemirtopuz/JARVIS-Cognitive-OS"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 5,
+    "updated_at": "2026-10-25T16:57:21Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "Embedded database for agentic memory \u2014 relational, graph, and vector under unified MVCC transactions",
+    "id": "context-graph-ai/contextdb",
+    "language": "Rust",
+    "name": "context-graph-ai/contextdb",
+    "stars": 24,
+    "updated_at": "2026-10-25T16:56:32Z",
+    "url": "https://github.com/context-graph-ai/contextdb"
+  },
+  {
+    "description": "Official Java SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
+    "id": "newfoundcodes/amaquet-java-sdk",
+    "language": "Java",
+    "name": "newfoundcodes/amaquet-java-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-25T16:55:46Z",
+    "url": "https://github.com/newfoundcodes/amaquet-java-sdk"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-25T16:54:54Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenecdb",
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T16:45:20Z",
+    "updated_at": "2026-10-25T16:57:07Z",
     "url": "https://github.com/fenecdb/fenecdb"
-  },
-  {
-    "description": "Memory module for LLMs and Agents with MCP",
-    "id": "kurcontko/mnemotree",
-    "language": "Python",
-    "name": "kurcontko/mnemotree",
-    "stars": 6,
-    "updated_at": "2026-10-25T16:41:24Z",
-    "url": "https://github.com/kurcontko/mnemotree"
   },
   {
     "description": "Official C# SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
@@ -23,8 +68,44 @@
     "language": "C#",
     "name": "newfoundcodes/amaquet-csharp-sdk",
     "stars": 0,
-    "updated_at": "2026-10-25T16:40:48Z",
+    "updated_at": "2026-10-25T16:51:33Z",
     "url": "https://github.com/newfoundcodes/amaquet-csharp-sdk"
+  },
+  {
+    "description": "Memory module for LLMs and Agents with MCP",
+    "id": "kurcontko/mnemotree",
+    "language": "Python",
+    "name": "kurcontko/mnemotree",
+    "stars": 6,
+    "updated_at": "2026-10-25T16:52:39Z",
+    "url": "https://github.com/kurcontko/mnemotree"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 300,
+    "updated_at": "2026-10-25T16:53:00Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T16:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Official Go SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
@@ -40,36 +121,9 @@
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1522,
+    "stars": 1523,
     "updated_at": "2026-10-25T16:37:28Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-25T16:44:12Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 300,
-    "updated_at": "2026-10-25T16:40:09Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Official Java SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
-    "id": "newfoundcodes/amaquet-java-sdk",
-    "language": "Java",
-    "name": "newfoundcodes/amaquet-java-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:34:04Z",
-    "url": "https://github.com/newfoundcodes/amaquet-java-sdk"
   },
   {
     "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
@@ -88,24 +142,6 @@
     "stars": 1721,
     "updated_at": "2026-10-25T16:33:12Z",
     "url": "https://github.com/LLPhant/LLPhant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T16:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T16:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -153,6 +189,15 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 603,
+    "updated_at": "2026-10-25T16:12:39Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
     "id": "gyr0byte/Generative-AI",
     "language": "Python",
@@ -185,7 +230,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 3,
-    "updated_at": "2026-10-25T16:30:45Z",
+    "updated_at": "2026-10-25T16:57:27Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-25T15:57:13Z",
+    "updated_at": "2026-10-25T16:55:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -320,7 +365,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Client",
     "stars": 36,
-    "updated_at": "2026-10-25T16:30:40Z",
+    "updated_at": "2026-10-25T16:57:21Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Client"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-25T14:38:06Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2153,
-    "updated_at": "2026-10-25T14:35:00Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-25T14:21:12Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11766,
-    "updated_at": "2026-10-25T14:19:55Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 601,
-    "updated_at": "2026-10-25T16:12:39Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-25T14:29:03Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   }
 ]
