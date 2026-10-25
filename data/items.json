@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T10:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered IT support assistant using Agentic RAG \u2014 answers employee questions from company documents, falls back to web",
+    "id": "Ariesjeev/FixPilot",
+    "language": "Python",
+    "name": "Ariesjeev/FixPilot",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:58:57Z",
+    "url": "https://github.com/Ariesjeev/FixPilot"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-25T09:58:43Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-25T09:58:34Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T09:48:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
+    "id": "taladb/taladb",
+    "language": "Rust",
+    "name": "taladb/taladb",
+    "stars": 16,
+    "updated_at": "2026-10-25T09:48:04Z",
+    "url": "https://github.com/taladb/taladb"
+  },
+  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -14,26 +68,8 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T09:46:44Z",
+    "updated_at": "2026-10-25T10:00:13Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T09:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T09:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 581,
-    "updated_at": "2026-10-25T09:41:12Z",
+    "updated_at": "2026-10-25T09:58:42Z",
     "url": "https://github.com/kividbio/kividb"
   },
   {
@@ -86,17 +122,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11765,
-    "updated_at": "2026-10-25T09:31:21Z",
+    "updated_at": "2026-10-25T09:50:54Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
-    "id": "hoangdinhlong/nhe_o",
-    "language": "Ada",
-    "name": "hoangdinhlong/nhe_o",
-    "stars": 1,
-    "updated_at": "2026-10-25T09:30:53Z",
-    "url": "https://github.com/hoangdinhlong/nhe_o"
   },
   {
     "description": "Embedded database for agentic memory \u2014 relational, graph, and vector under unified MVCC transactions",
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "VecturaDB/VecturaDB",
     "stars": 0,
-    "updated_at": "2026-10-25T09:15:07Z",
+    "updated_at": "2026-10-25T09:53:21Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T06:10:46Z",
     "url": "https://github.com/ParthSharma-2/Finsight-AI"
-  },
-  {
-    "description": "The multi-paradigm database expert for Claude Code \u2014 design a schema, audit it on two never-blended scores (Design & Int",
-    "id": "Hainrixz/claude-db",
-    "language": "JavaScript",
-    "name": "Hainrixz/claude-db",
-    "stars": 21,
-    "updated_at": "2026-10-25T06:02:47Z",
-    "url": "https://github.com/Hainrixz/claude-db"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-25T05:47:28Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:45:18Z",
-    "url": "https://github.com/eggspot/EggDB"
   }
 ]
