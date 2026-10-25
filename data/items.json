@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T08:15:20Z",
+    "updated_at": "2026-10-25T08:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Quill is a full-stack AI document Q&A app that lets users upload PDFs and chat with their content using a modern Next.js",
+    "id": "ShivamJuyal24/Quill",
+    "language": "Python",
+    "name": "ShivamJuyal24/Quill",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:30:07Z",
+    "url": "https://github.com/ShivamJuyal24/Quill"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-25T08:30:05Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 17,
+    "updated_at": "2026-10-25T08:26:45Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "Production-grade Multi-Agent RAG Operating System with LangGraph, FastAPI, Google Gemini, Hybrid Retrieval & React/Vite ",
+    "id": "threesshad-cpu/nexus-rag-os",
+    "language": "JavaScript",
+    "name": "threesshad-cpu/nexus-rag-os",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:22:58Z",
+    "url": "https://github.com/threesshad-cpu/nexus-rag-os"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11765,
+    "updated_at": "2026-10-25T08:20:15Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:18:12Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T08:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "VecturaDB/VecturaDB",
     "stars": 0,
-    "updated_at": "2026-10-25T08:13:42Z",
+    "updated_at": "2026-10-25T08:18:41Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T08:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
     "id": "yashbhosale789/yashbhosale789",
     "language": "\u2014",
@@ -106,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T07:49:27Z",
     "url": "https://github.com/Faraz6180/Insightpilot-ai"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11765,
-    "updated_at": "2026-10-25T08:06:16Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "A hands-on AI Engineering portfolio covering LLMs, Prompt Engineering, RAG, LangChain, LangGraph, AI Agents, Multi-Agent",
@@ -153,15 +198,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-25T07:25:07Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-25T07:28:15Z",
+    "updated_at": "2026-10-25T08:28:15Z",
     "url": "https://github.com/Yoruxyv/semantix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-25T07:49:29Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Multimodal search and RAG over PDFs, images, audio and video: FastAPI, Celery, Qdrant, Whisper, CLIP, Ollama. Benchmarke",
-    "id": "vipin-mo/multimodal-dam-rag-platform",
-    "language": "Python",
-    "name": "vipin-mo/multimodal-dam-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-10-25T04:09:50Z",
-    "url": "https://github.com/vipin-mo/multimodal-dam-rag-platform"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 868,
-    "updated_at": "2026-10-25T03:50:40Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9479,
-    "updated_at": "2026-10-25T07:47:42Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-25T05:15:14Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   }
 ]
