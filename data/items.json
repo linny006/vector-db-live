@@ -1,11 +1,137 @@
 [
   {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 8,
+    "updated_at": "2026-10-25T20:15:15Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
+    "id": "dem2007/ChromaDB-Manager",
+    "language": "Swift",
+    "name": "dem2007/ChromaDB-Manager",
+    "stars": 2,
+    "updated_at": "2026-10-25T20:12:50Z",
+    "url": "https://github.com/dem2007/ChromaDB-Manager"
+  },
+  {
+    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
+    "id": "Angular2Guy/AIDocumentLibraryChat",
+    "language": "Java",
+    "name": "Angular2Guy/AIDocumentLibraryChat",
+    "stars": 31,
+    "updated_at": "2026-10-25T20:12:49Z",
+    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
+  },
+  {
+    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
+    "id": "tayyabimam1/awesome-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "tayyabimam1/awesome-ai-agent-stack",
+    "stars": 31,
+    "updated_at": "2026-10-25T20:11:43Z",
+    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
+  },
+  {
+    "description": "\u4e2d\u6587\u4e92\u8054\u7f51\u6897 / \u9ed1\u8bdd RAG \u8bed\u6599\u5e93\uff1a5 \u4e2a\u5206\u5c42\u77e5\u8bc6\u5e93\uff084544 \u6761 chunk\uff09+ AstrBot \u5bfc\u5165\u5de5\u5177 + \u4f7f\u7528 wiki\u3002",
+    "id": "NooBlock/astrbot-rag-kb",
+    "language": "Python",
+    "name": "NooBlock/astrbot-rag-kb",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:10:52Z",
+    "url": "https://github.com/NooBlock/astrbot-rag-kb"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:10:33Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "High-performance RAG Chatbot built with FastAPI and LangChain for context-aware QA, leveraging Groq for low-latency LLM ",
+    "id": "fatma-fendri/RAG-Chatbot",
+    "language": "Jupyter Notebook",
+    "name": "fatma-fendri/RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:10:27Z",
+    "url": "https://github.com/fatma-fendri/RAG-Chatbot"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-25T20:09:44Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "An Identity Threat Detection and Response (ITDR) portfolio project that combines an interactive security dashboard with ",
+    "id": "CloudFlamedev/ITDR_RAG_Dashboard",
+    "language": "Python",
+    "name": "CloudFlamedev/ITDR_RAG_Dashboard",
+    "stars": 1,
+    "updated_at": "2026-10-25T20:08:28Z",
+    "url": "https://github.com/CloudFlamedev/ITDR_RAG_Dashboard"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 5,
+    "updated_at": "2026-10-25T20:07:02Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "An AI-powered active study platform that transforms dense textbooks and lecture PDFs into interactive, time-boxed visual",
+    "id": "Anushree-Radhika/Bow-and-Arrow",
+    "language": "JavaScript",
+    "name": "Anushree-Radhika/Bow-and-Arrow",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:05:08Z",
+    "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 612,
+    "updated_at": "2026-10-25T20:04:03Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-25T20:01:31Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T20:00:22Z",
+    "updated_at": "2026-10-25T20:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +140,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-25T19:59:51Z",
+    "updated_at": "2026-10-25T20:05:39Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -27,15 +153,6 @@
     "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T19:57:41Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -45,15 +162,6 @@
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
-    "description": "An Identity Threat Detection and Response (ITDR) portfolio project that combines an interactive security dashboard with ",
-    "id": "CloudFlamedev/ITDR_RAG_Dashboard",
-    "language": "Python",
-    "name": "CloudFlamedev/ITDR_RAG_Dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:53:29Z",
-    "url": "https://github.com/CloudFlamedev/ITDR_RAG_Dashboard"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -61,15 +169,6 @@
     "stars": 2045,
     "updated_at": "2026-10-25T19:53:13Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 611,
-    "updated_at": "2026-10-25T19:47:05Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "NextSQL is a new database engine, written primarily in Go.",
@@ -86,7 +185,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-25T19:44:50Z",
+    "updated_at": "2026-10-25T20:02:51Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -113,7 +212,7 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 7,
-    "updated_at": "2026-10-25T19:40:11Z",
+    "updated_at": "2026-10-25T20:01:48Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -176,7 +275,7 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T19:58:51Z",
+    "updated_at": "2026-10-25T20:10:05Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -243,15 +342,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-25T19:17:14Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
     "description": "Self-RAG microservice (FastAPI + LangGraph) with hybrid vector+graph retrieval, self-correction, human-in-the-loop revie",
     "id": "kanderson-ai-dev/agentic-rag-system",
     "language": "Python",
@@ -259,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T18:55:22Z",
     "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
-  },
-  {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:48:38Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
   },
   {
     "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-25T18:23:19Z",
     "url": "https://github.com/ruxwez/postgres"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-25T18:22:40Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67547,
-    "updated_at": "2026-10-25T18:20:45Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
-    "id": "schwabauerbriantomas-gif/splatdb",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/splatdb",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:24:28Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
-  },
-  {
-    "description": "Spatial memory for Physical AI. Robots, drones & world models remember what they saw, where and when, and notice what's ",
-    "id": "zd87pl/loci-db",
-    "language": "Python",
-    "name": "zd87pl/loci-db",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:51:57Z",
-    "url": "https://github.com/zd87pl/loci-db"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:13:07Z",
-    "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "Memory module for LLMs and Agents with MCP",
-    "id": "kurcontko/mnemotree",
-    "language": "Python",
-    "name": "kurcontko/mnemotree",
-    "stars": 6,
-    "updated_at": "2026-10-25T18:29:14Z",
-    "url": "https://github.com/kurcontko/mnemotree"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-25T18:12:21Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "A terminal database client written in Zig (early design).",
-    "id": "naveenadi/soko",
-    "language": "Zig",
-    "name": "naveenadi/soko",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:10:05Z",
-    "url": "https://github.com/naveenadi/soko"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-25T18:08:21Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
