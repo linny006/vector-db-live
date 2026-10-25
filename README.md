@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 01:30 UTC
+> ⏰ Last updated: 2026-10-25 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-25 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 3 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-25 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 4 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 100 | Rust | 2026-10-25 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 5 | [VecturaDB/VecturaDB](https://github.com/VecturaDB/VecturaDB) | 0 | Rust | 2026-10-25 | Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source. |
-| 6 | [Mid-D-Man/msx](https://github.com/Mid-D-Man/msx) | 0 | Rust | 2026-10-25 | Vector graphics format authored in DixScript, compressed with MBFA |
-| 7 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 7 | Python | 2026-10-25 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-25 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
+| 1 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-25 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-25 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 5 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-25 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 6 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 100 | Rust | 2026-10-25 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 7 | [VecturaDB/VecturaDB](https://github.com/VecturaDB/VecturaDB) | 0 | Rust | 2026-10-25 | Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source. |
+| 8 | [Mid-D-Man/msx](https://github.com/Mid-D-Man/msx) | 0 | Rust | 2026-10-25 | Vector graphics format authored in DixScript, compressed with MBFA |
+| 9 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 7 | Python | 2026-10-25 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
 | 10 | [mahpate/Vlite](https://github.com/mahpate/Vlite) | 2 | Rust | 2026-10-25 | Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar |
 | 11 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-10-25 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 12 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-25 |  Cognitive Memory Architecture for Agents |
@@ -85,7 +85,7 @@ expired items removed — so you can rely on what you see being current.
 | 41 | [gainratio/edgeproc-core](https://github.com/gainratio/edgeproc-core) | 0 | Python | 2026-10-24 | A Python library that keeps each customer's search results separate in a shared index, and gives errors stable codes. |
 | 42 | [zainmasri/utilforge](https://github.com/zainmasri/utilforge) | 0 | JavaScript | 2026-10-24 | 40 Client-Side Developer & FinOps Utilities, 292 Cloud/LLM Cost Calculators & AI Workflow Marketplace — Live at https:// |
 | 43 | [thameema/memnos](https://github.com/thameema/memnos) | 4 | Python | 2026-10-24 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
-| 44 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2039 | Python | 2026-10-24 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 44 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2040 | Python | 2026-10-24 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
 | 45 | [MlkBlk-IT/Mcp-QadGraph](https://github.com/MlkBlk-IT/Mcp-QadGraph) | 0 | JavaScript | 2026-10-24 | Qdrant control plane — 3D similarity dashboard + read-only MCP server (9 tools). Python stdlib, 100% local, 0 paid API. |
 | 46 | [ossamafayed/similarity-search-from-scratch](https://github.com/ossamafayed/similarity-search-from-scratch) | 0 | Python | 2026-10-24 | L2, dot product and cosine similarity by hand, proven equivalent, plus a benchmark of where brute-force search stops sca |
 | 47 | [hufengjuexue/zhongji](https://github.com/hufengjuexue/zhongji) | 1 | Kotlin | 2026-10-24 | 终极 RP (ZhongJi RP) - 专为现代大语言模型打造的轻量沉浸式端侧安卓客户端 / Next-gen Mobile Roleplay & Chat Client |

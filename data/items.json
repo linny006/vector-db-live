@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-25T01:31:26Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T01:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-25T01:20:12Z",
+    "updated_at": "2026-10-25T01:40:50Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -61,24 +79,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T01:16:26Z",
     "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T01:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-25T01:21:10Z",
-    "url": "https://github.com/miniaxolotl/grove"
   },
   {
     "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
@@ -131,7 +131,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T01:20:00Z",
+    "updated_at": "2026-10-25T01:36:03Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -140,7 +140,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-25T01:19:41Z",
+    "updated_at": "2026-10-25T01:31:52Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -391,7 +391,7 @@
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
-    "stars": 2039,
+    "stars": 2040,
     "updated_at": "2026-10-24T20:26:42Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
