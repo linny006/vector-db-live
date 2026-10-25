@@ -1,11 +1,74 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-25T20:57:42Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
+    "id": "waynewbishop/quiver",
+    "language": "Swift",
+    "name": "waynewbishop/quiver",
+    "stars": 22,
+    "updated_at": "2026-10-25T20:55:26Z",
+    "url": "https://github.com/waynewbishop/quiver"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Mojo",
+    "name": "pavelhorak/pion",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:53:23Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:51:27Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "An AI-powered active study platform that transforms dense textbooks and lecture PDFs into interactive, time-boxed visual",
+    "id": "Anushree-Radhika/Bow-and-Arrow",
+    "language": "JavaScript",
+    "name": "Anushree-Radhika/Bow-and-Arrow",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:48:46Z",
+    "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
+  },
+  {
+    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
+    "id": "dem2007/ChromaDB-Manager",
+    "language": "Swift",
+    "name": "dem2007/ChromaDB-Manager",
+    "stars": 2,
+    "updated_at": "2026-10-25T20:48:39Z",
+    "url": "https://github.com/dem2007/ChromaDB-Manager"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T20:45:19Z",
+    "updated_at": "2026-10-25T21:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T20:43:49Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 2,
-    "updated_at": "2026-10-25T20:43:04Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
   },
   {
     "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
@@ -72,24 +126,6 @@
     "url": "https://github.com/nehalvaghasiya/agentic-rag"
   },
   {
-    "description": "An AI-powered active study platform that transforms dense textbooks and lecture PDFs into interactive, time-boxed visual",
-    "id": "Anushree-Radhika/Bow-and-Arrow",
-    "language": "JavaScript",
-    "name": "Anushree-Radhika/Bow-and-Arrow",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:34:02Z",
-    "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T20:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 8,
-    "updated_at": "2026-10-25T20:28:57Z",
+    "updated_at": "2026-10-25T20:49:14Z",
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T20:41:27Z",
+    "updated_at": "2026-10-25T20:58:43Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -184,7 +220,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39686,
+    "stars": 39685,
     "updated_at": "2026-10-25T20:11:28Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -306,15 +342,6 @@
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:32:43Z",
-    "url": "https://github.com/theogony-project/theogony"
-  },
-  {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
     "id": "monaccode/astromesh",
     "language": "Python",
@@ -383,7 +410,7 @@
     "language": "Rust",
     "name": "kichikubeihei/CodeMemoryPrime",
     "stars": 0,
-    "updated_at": "2026-10-25T19:11:33Z",
+    "updated_at": "2026-10-25T21:00:19Z",
     "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T18:55:22Z",
     "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
-  },
-  {
-    "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-rust",
-    "language": "Rust",
-    "name": "originchaindb/originchaindb-rust",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:44:07Z",
-    "url": "https://github.com/originchaindb/originchaindb-rust"
-  },
-  {
-    "description": "Official OriginChainDB PHP SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-php",
-    "language": "PHP",
-    "name": "originchaindb/originchaindb-php",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:44:05Z",
-    "url": "https://github.com/originchaindb/originchaindb-php"
-  },
-  {
-    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-ruby",
-    "language": "Ruby",
-    "name": "originchaindb/originchaindb-ruby",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:44:05Z",
-    "url": "https://github.com/originchaindb/originchaindb-ruby"
   }
 ]
