@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T10:00:19Z",
+    "updated_at": "2026-10-25T10:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "TalaDB for Swift - Swift bindings for TalaDB, an embedded document and vector database, for native iOS and macOS apps .",
+    "id": "taladb/taladb-swift",
+    "language": "Swift",
+    "name": "taladb/taladb-swift",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:14:33Z",
+    "url": "https://github.com/taladb/taladb-swift"
+  },
+  {
+    "description": "TalaDB for Android - Kotlin bindings for TalaDB, an embedded document and vector database, for native Android apps.",
+    "id": "taladb/taladb-kotlin",
+    "language": "Kotlin",
+    "name": "taladb/taladb-kotlin",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:14:17Z",
+    "url": "https://github.com/taladb/taladb-kotlin"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-25T10:12:53Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-25T10:12:19Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Transform your documents into interactive knowledge bases with AI-powered chat, notes, and multimedia content generation",
+    "id": "shakibweg/infera-notebook",
+    "language": "TypeScript",
+    "name": "shakibweg/infera-notebook",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:10:24Z",
+    "url": "https://github.com/shakibweg/infera-notebook"
+  },
+  {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:09:59Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
+    "description": "SNKV \u2014 a lightweight key-value store focused on simplicity, security and performance file based database , written using",
+    "id": "hash-anu/snkv",
+    "language": "C",
+    "name": "hash-anu/snkv",
+    "stars": 78,
+    "updated_at": "2026-10-25T10:07:05Z",
+    "url": "https://github.com/hash-anu/snkv"
+  },
+  {
+    "description": "Run Kafka, Flink, Spark, Iceberg, Trino, ClickHouse, Airflow, MLflow, Feast, pgvector and more on your laptop, one comma",
+    "id": "jaehyeon-kim/odctl",
+    "language": "Python",
+    "name": "jaehyeon-kim/odctl",
+    "stars": 13,
+    "updated_at": "2026-10-25T10:07:37Z",
+    "url": "https://github.com/jaehyeon-kim/odctl"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 6,
+    "updated_at": "2026-10-25T10:09:14Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 584,
+    "updated_at": "2026-10-25T10:03:32Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T10:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered IT support assistant using Agentic RAG \u2014 answers employee questions from company documents, falls back to web",
@@ -36,15 +135,6 @@
     "url": "https://github.com/hoangdinhlong/nhe_o"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T09:48:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
     "id": "taladb/taladb",
     "language": "Rust",
@@ -68,17 +158,8 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T10:00:13Z",
+    "updated_at": "2026-10-25T10:11:16Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 581,
-    "updated_at": "2026-10-25T09:58:42Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "",
@@ -144,15 +225,6 @@
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-25T09:28:13Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
     "id": "theogony-project/theogony",
     "language": "Python",
@@ -189,6 +261,15 @@
     "url": "https://github.com/jvorndran/RAG-Visualizer"
   },
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1215,
+    "updated_at": "2026-10-25T10:14:05Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
     "id": "Yoruxyv/semantix",
     "language": "Python",
@@ -214,15 +295,6 @@
     "stars": 9,
     "updated_at": "2026-10-25T09:05:55Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
-    "id": "VecturaDB/VecturaDB",
-    "language": "Rust",
-    "name": "VecturaDB/VecturaDB",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:53:21Z",
-    "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
     "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
@@ -297,15 +369,6 @@
     "url": "https://github.com/irodori-table/irodori-extension-milvus"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1215,
-    "updated_at": "2026-10-25T09:05:38Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -378,15 +441,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-25T07:24:49Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Moved to CommunityToolkit.VectorData.Chroma, in the AI Community Toolkit.",
     "id": "ChromaDotNet/ChromaDB.VectorData",
     "language": "C#",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-25T06:59:51Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 35,
-    "updated_at": "2026-10-25T06:56:30Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-25T06:49:31Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
-    "id": "gxc02529-jpg/KnowLoop",
-    "language": "Python",
-    "name": "gxc02529-jpg/KnowLoop",
-    "stars": 0,
-    "updated_at": "2026-10-25T06:37:04Z",
-    "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-25T06:33:01Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
-    "id": "Angular2Guy/AIDocumentLibraryChat",
-    "language": "Java",
-    "name": "Angular2Guy/AIDocumentLibraryChat",
-    "stars": 31,
-    "updated_at": "2026-10-25T06:11:09Z",
-    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "Multi-agent financial intelligence platform: LangGraph + Groq LLM + ChromaDB RAG + yFinance ; deployed on AWS EC2. Ask q",
-    "id": "ParthSharma-2/Finsight-AI",
-    "language": "Python",
-    "name": "ParthSharma-2/Finsight-AI",
-    "stars": 0,
-    "updated_at": "2026-10-25T06:10:46Z",
-    "url": "https://github.com/ParthSharma-2/Finsight-AI"
   }
 ]
