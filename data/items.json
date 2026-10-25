@@ -1,5 +1,32 @@
 [
   {
+    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
+    "id": "dem2007/ChromaDB-Manager",
+    "language": "Swift",
+    "name": "dem2007/ChromaDB-Manager",
+    "stars": 2,
+    "updated_at": "2026-10-25T22:22:19Z",
+    "url": "https://github.com/dem2007/ChromaDB-Manager"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:16:00Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T22:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,15 +54,6 @@
     "url": "https://github.com/api-evangelist/contentstack"
   },
   {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 2,
-    "updated_at": "2026-10-25T22:11:57Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -59,7 +77,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-25T22:07:45Z",
+    "updated_at": "2026-10-25T22:20:20Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-25T22:05:53Z",
+    "updated_at": "2026-10-25T22:23:31Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T22:04:52Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T22:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T22:11:40Z",
+    "updated_at": "2026-10-25T22:22:09Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -274,7 +283,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39689,
+    "stars": 39690,
     "updated_at": "2026-10-25T21:01:52Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T20:10:33Z",
     "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-25T20:09:44Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
