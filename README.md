@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 02:00 UTC
+> ⏰ Last updated: 2026-10-25 02:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,20 +43,20 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-25 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 3 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-25 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
-| 4 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11763 | Rust | 2026-10-25 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 5 | [Yoruxyv/semantix](https://github.com/Yoruxyv/semantix) | 1 | Python | 2026-10-25 | Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio |
-| 6 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-25 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-25 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
-| 9 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-25 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 10 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-25 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 11 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 100 | Rust | 2026-10-25 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 12 | [VecturaDB/VecturaDB](https://github.com/VecturaDB/VecturaDB) | 0 | Rust | 2026-10-25 | Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source. |
-| 13 | [Mid-D-Man/msx](https://github.com/Mid-D-Man/msx) | 0 | Rust | 2026-10-25 | Vector graphics format authored in DixScript, compressed with MBFA |
-| 14 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 7 | Python | 2026-10-25 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
-| 15 | [mahpate/Vlite](https://github.com/mahpate/Vlite) | 2 | Rust | 2026-10-25 | Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar |
+| 2 | [VecturaDB/VecturaDB](https://github.com/VecturaDB/VecturaDB) | 0 | Rust | 2026-10-25 | Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source. |
+| 3 | [mahpate/Vlite](https://github.com/mahpate/Vlite) | 2 | Rust | 2026-10-25 | Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-25 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
+| 6 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-25 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
+| 7 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11763 | Rust | 2026-10-25 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 8 | [Yoruxyv/semantix](https://github.com/Yoruxyv/semantix) | 1 | Python | 2026-10-25 | Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio |
+| 9 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-25 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 10 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-25 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
+| 11 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-10-25 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 12 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-25 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 13 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 100 | Rust | 2026-10-25 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 14 | [Mid-D-Man/msx](https://github.com/Mid-D-Man/msx) | 0 | Rust | 2026-10-25 | Vector graphics format authored in DixScript, compressed with MBFA |
+| 15 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 7 | Python | 2026-10-25 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
 | 16 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-10-25 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 17 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-25 |  Cognitive Memory Architecture for Agents |
 | 18 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-25 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
@@ -77,7 +77,7 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7144 | Java | 2026-10-24 | The AI search platform |
 | 34 | [tradik/mddb](https://github.com/tradik/mddb) | 4 | Go | 2026-10-24 | A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo |
 | 35 | [MakabeD/Obsidian_RAG](https://github.com/MakabeD/Obsidian_RAG) | 1 | C# | 2026-10-24 | RAG |
-| 36 | [MariaDB/server](https://github.com/MariaDB/server) | 8444 | C++ | 2026-10-24 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 36 | [MariaDB/server](https://github.com/MariaDB/server) | 8445 | C++ | 2026-10-24 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 37 | [giuliano0s/ifrs-canoas-rag](https://github.com/giuliano0s/ifrs-canoas-rag) | 0 | Python | 2026-10-24 |  |
 | 38 | [Yasou13/MESA](https://github.com/Yasou13/MESA) | 6 | Python | 2026-10-24 | An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus |
 | 39 | [ZenSystemAI/Zengram](https://github.com/ZenSystemAI/Zengram) | 64 | JavaScript | 2026-10-24 | A Multi Agent Memory MCP That Connect Agents Across Systems and Machines |

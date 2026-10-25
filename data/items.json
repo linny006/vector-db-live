@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T02:00:21Z",
+    "updated_at": "2026-10-25T02:15:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:12:38Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-25T02:11:46Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T02:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -54,15 +81,6 @@
     "url": "https://github.com/fenecdb/fenec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T01:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
     "id": "miniaxolotl/grove",
     "language": "TypeScript",
@@ -99,15 +117,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
-    "id": "VecturaDB/VecturaDB",
-    "language": "Rust",
-    "name": "VecturaDB/VecturaDB",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:59:19Z",
-    "url": "https://github.com/VecturaDB/VecturaDB"
-  },
-  {
     "description": "Vector graphics format authored in DixScript, compressed with MBFA",
     "id": "Mid-D-Man/msx",
     "language": "Rust",
@@ -124,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T01:16:26Z",
     "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-25T01:01:03Z",
-    "url": "https://github.com/mahpate/Vlite"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -167,7 +167,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-25T01:31:52Z",
+    "updated_at": "2026-10-25T02:15:09Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -319,7 +319,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8444,
+    "stars": 8445,
     "updated_at": "2026-10-24T22:44:47Z",
     "url": "https://github.com/MariaDB/server"
   },
