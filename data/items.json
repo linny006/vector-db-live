@@ -1,11 +1,47 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:59:33Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Production-grade Multi-Agent RAG Operating System with LangGraph, FastAPI, Google Gemini, Hybrid Retrieval & React/Vite ",
+    "id": "threesshad-cpu/nexus-rag-os",
+    "language": "Python",
+    "name": "threesshad-cpu/nexus-rag-os",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:56:00Z",
+    "url": "https://github.com/threesshad-cpu/nexus-rag-os"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-25T08:50:53Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T08:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T08:45:19Z",
+    "updated_at": "2026-10-25T09:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,15 +63,6 @@
     "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
-    "description": "Production-grade Multi-Agent RAG Operating System with LangGraph, FastAPI, Google Gemini, Hybrid Retrieval & React/Vite ",
-    "id": "threesshad-cpu/nexus-rag-os",
-    "language": "Python",
-    "name": "threesshad-cpu/nexus-rag-os",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:35:51Z",
-    "url": "https://github.com/threesshad-cpu/nexus-rag-os"
-  },
-  {
     "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
     "id": "TowsifAhamed/GameRagKit",
     "language": "C#",
@@ -43,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T08:32:00Z",
     "url": "https://github.com/TowsifAhamed/GameRagKit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T08:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Quill is a full-stack AI document Q&A app that lets users upload PDFs and chat with their content using a modern Next.js",
@@ -230,7 +248,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 3,
-    "updated_at": "2026-10-25T08:05:53Z",
+    "updated_at": "2026-10-25T08:49:09Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T08:42:39Z",
+    "updated_at": "2026-10-25T08:58:54Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T05:20:56Z",
     "url": "https://github.com/originchaindb/originchain-python"
-  },
-  {
-    "description": "RAG text-to-SQL: ChromaDB retrieval + Gemini generation behind a FastAPI service, wired into a PostgreSQL quiz app with ",
-    "id": "luel-du/text2sql-rag",
-    "language": "Python",
-    "name": "luel-du/text2sql-rag",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:02:55Z",
-    "url": "https://github.com/luel-du/text2sql-rag"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-25T04:32:31Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   }
 ]
