@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T05:15:21Z",
+    "updated_at": "2026-10-25T05:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-ruby",
+    "language": "Ruby",
+    "name": "originchaindb/originchaindb-ruby",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:30:22Z",
+    "url": "https://github.com/originchaindb/originchaindb-ruby"
   },
   {
     "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
@@ -14,8 +23,26 @@
     "language": "TypeScript",
     "name": "originchaindb/originchaindb",
     "stars": 0,
-    "updated_at": "2026-10-25T05:13:44Z",
+    "updated_at": "2026-10-25T05:27:31Z",
     "url": "https://github.com/originchaindb/originchaindb"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2401,
+    "updated_at": "2026-10-25T05:27:15Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-25T05:26:51Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Official OriginChainDB Python SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "originchaindb/originchain-python",
     "stars": 0,
-    "updated_at": "2026-10-25T05:12:53Z",
+    "updated_at": "2026-10-25T05:20:56Z",
     "url": "https://github.com/originchaindb/originchain-python"
   },
   {
@@ -32,8 +59,17 @@
     "language": "Rust",
     "name": "mahpate/Vlite",
     "stars": 2,
-    "updated_at": "2026-10-25T05:10:40Z",
+    "updated_at": "2026-10-25T05:15:53Z",
     "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T05:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T05:08:11Z",
     "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T05:04:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG text-to-SQL: ChromaDB retrieval + Gemini generation behind a FastAPI service, wired into a PostgreSQL quiz app with ",
@@ -149,7 +176,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9479,
-    "updated_at": "2026-10-25T04:57:20Z",
+    "updated_at": "2026-10-25T05:28:23Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T05:06:07Z",
+    "updated_at": "2026-10-25T05:25:51Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -315,15 +342,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-25T00:38:03Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "local-first semantic code search engine",
     "id": "kantord/SeaGOAT",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T22:45:31Z",
     "url": "https://github.com/MakabeD/Obsidian_RAG"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8445,
-    "updated_at": "2026-10-24T22:44:47Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:19:47Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   }
 ]
