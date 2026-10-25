@@ -1,5 +1,68 @@
 [
   {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6237,
+    "updated_at": "2026-10-25T09:13:21Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
+    "id": "IdoY12/awesome-free-ai-apis",
+    "language": "JavaScript",
+    "name": "IdoY12/awesome-free-ai-apis",
+    "stars": 1,
+    "updated_at": "2026-10-25T09:13:18Z",
+    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:13:54Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "A visual sandbox for experimenting with RAG configurations. Interactive tools for document parsing, chunking, embeddings",
+    "id": "jvorndran/RAG-Visualizer",
+    "language": "Python",
+    "name": "jvorndran/RAG-Visualizer",
+    "stars": 1,
+    "updated_at": "2026-10-25T09:06:57Z",
+    "url": "https://github.com/jvorndran/RAG-Visualizer"
+  },
+  {
+    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
+    "id": "Yoruxyv/semantix",
+    "language": "Python",
+    "name": "Yoruxyv/semantix",
+    "stars": 1,
+    "updated_at": "2026-10-25T09:02:02Z",
+    "url": "https://github.com/Yoruxyv/semantix"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T09:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T09:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -23,26 +86,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-25T08:50:53Z",
+    "updated_at": "2026-10-25T09:05:55Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T08:45:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T09:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "VecturaDB/VecturaDB",
     "stars": 0,
-    "updated_at": "2026-10-25T08:43:53Z",
+    "updated_at": "2026-10-25T09:15:07Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1215,
-    "updated_at": "2026-10-25T08:06:42Z",
+    "updated_at": "2026-10-25T09:05:38Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -211,7 +256,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40765,
+    "stars": 40766,
     "updated_at": "2026-10-25T07:41:27Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -250,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-10-25T08:49:09Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
-  },
-  {
-    "description": "Contract-first semantic caching for Python. Async APIs, pluggable storage, confirmed cache hits, and inspectable decisio",
-    "id": "Yoruxyv/semantix",
-    "language": "Python",
-    "name": "Yoruxyv/semantix",
-    "stars": 1,
-    "updated_at": "2026-10-25T08:28:15Z",
-    "url": "https://github.com/Yoruxyv/semantix"
   },
   {
     "description": "Moved to CommunityToolkit.VectorData.Chroma, in the AI Community Toolkit.",
@@ -320,7 +356,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T08:58:54Z",
+    "updated_at": "2026-10-25T09:11:06Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T05:51:19Z",
     "url": "https://github.com/MantleJs/mantle"
-  },
-  {
-    "description": "Official Go SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
-    "id": "newfoundcodes/amaquet-go-sdk",
-    "language": "Go",
-    "name": "newfoundcodes/amaquet-go-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:31:12Z",
-    "url": "https://github.com/newfoundcodes/amaquet-go-sdk"
-  },
-  {
-    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-ruby",
-    "language": "Ruby",
-    "name": "originchaindb/originchaindb-ruby",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:30:22Z",
-    "url": "https://github.com/originchaindb/originchaindb-ruby"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-25T05:26:51Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Official OriginChainDB Python SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchain-python",
-    "language": "Python",
-    "name": "originchaindb/originchain-python",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:20:56Z",
-    "url": "https://github.com/originchaindb/originchain-python"
   }
 ]
