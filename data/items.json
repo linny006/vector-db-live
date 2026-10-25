@@ -1,12 +1,84 @@
 [
   {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2153,
+    "updated_at": "2026-10-25T10:44:57Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:42:16Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
+    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
+    "id": "hufengjuexue/zhongji",
+    "language": "Kotlin",
+    "name": "hufengjuexue/zhongji",
+    "stars": 1,
+    "updated_at": "2026-10-25T10:42:10Z",
+    "url": "https://github.com/hufengjuexue/zhongji"
+  },
+  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 6,
-    "updated_at": "2026-10-25T10:29:56Z",
+    "updated_at": "2026-10-25T10:40:11Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Memory upgrades for digital people: chunk + embed + recall + back up, with the failure modes that silently kill agent me",
+    "id": "Merlin-Bedford/merlin-memory-kit",
+    "language": "Python",
+    "name": "Merlin-Bedford/merlin-memory-kit",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:37:43Z",
+    "url": "https://github.com/Merlin-Bedford/merlin-memory-kit"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-25T10:34:33Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 5,
+    "updated_at": "2026-10-25T10:30:32Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T10:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T10:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T10:30:03Z",
+    "updated_at": "2026-10-25T10:44:46Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -36,15 +108,6 @@
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2153,
-    "updated_at": "2026-10-25T10:24:20Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
     "description": "High-performance, thread-safe in-memory dense vector similarity search engine in modern C++20. Engineered with contiguou",
     "id": "paranik-jpg/VectorIndexCPP",
     "language": "C++",
@@ -61,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T10:17:33Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T10:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T10:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "TalaDB for Swift - Swift bindings for TalaDB, an embedded document and vector database, for native iOS and macOS apps .",
@@ -126,15 +171,6 @@
     "url": "https://github.com/shakibweg/infera-notebook"
   },
   {
-    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
-    "id": "VecturaDB/VecturaDB",
-    "language": "Rust",
-    "name": "VecturaDB/VecturaDB",
-    "stars": 0,
-    "updated_at": "2026-10-25T10:09:59Z",
-    "url": "https://github.com/VecturaDB/VecturaDB"
-  },
-  {
     "description": "SNKV \u2014 a lightweight key-value store focused on simplicity, security and performance file based database , written using",
     "id": "hash-anu/snkv",
     "language": "C",
@@ -158,7 +194,7 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 584,
-    "updated_at": "2026-10-25T10:24:15Z",
+    "updated_at": "2026-10-25T10:36:12Z",
     "url": "https://github.com/kividbio/kividb"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T09:58:43Z",
     "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
-    "id": "hoangdinhlong/nhe_o",
-    "language": "Ada",
-    "name": "hoangdinhlong/nhe_o",
-    "stars": 1,
-    "updated_at": "2026-10-25T09:58:34Z",
-    "url": "https://github.com/hoangdinhlong/nhe_o"
   },
   {
     "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
@@ -230,7 +257,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 3,
-    "updated_at": "2026-10-25T09:35:36Z",
+    "updated_at": "2026-10-25T10:33:24Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -346,7 +373,7 @@
     "id": "flowersoul999/DevMind-AI",
     "language": "Python",
     "name": "flowersoul999/DevMind-AI",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-25T08:31:07Z",
     "url": "https://github.com/flowersoul999/DevMind-AI"
   },
@@ -421,32 +448,5 @@
     "stars": 2404,
     "updated_at": "2026-10-25T08:01:50Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8444,
-    "updated_at": "2026-10-25T08:01:01Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
-    "id": "yashbhosale789/yashbhosale789",
-    "language": "\u2014",
-    "name": "yashbhosale789/yashbhosale789",
-    "stars": 0,
-    "updated_at": "2026-10-25T07:55:02Z",
-    "url": "https://github.com/yashbhosale789/yashbhosale789"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-25T07:54:28Z",
-    "url": "https://github.com/mahpate/Vlite"
   }
 ]
