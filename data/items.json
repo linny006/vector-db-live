@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T23:30:22Z",
+    "updated_at": "2026-10-25T23:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Assistant scolaire RAG : r\u00e9pond aux questions des \u00e9tudiants \u00e0 partir des documents officiels d\u2019une \u00e9cole, avec citations",
+    "id": "fzlmn/rag-assistant-scolaire",
+    "language": "\u2014",
+    "name": "fzlmn/rag-assistant-scolaire",
+    "stars": 0,
+    "updated_at": "2026-10-25T23:42:47Z",
+    "url": "https://github.com/fzlmn/rag-assistant-scolaire"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenecdb",
+    "language": "Rust",
+    "name": "fenecdb/fenecdb",
+    "stars": 0,
+    "updated_at": "2026-10-25T23:40:46Z",
+    "url": "https://github.com/fenecdb/fenecdb"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-25T23:40:22Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-25T23:39:28Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-25T23:32:55Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
     "description": "Local RAG proof of concept with Laya decisions, MiniLM and Qdrant retrieval, Ollama and Qwen inference, FastAPI, n8n aut",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "mjaouni/vector-rag-laya-ai-automation",
     "stars": 0,
-    "updated_at": "2026-10-25T23:26:55Z",
+    "updated_at": "2026-10-25T23:31:21Z",
     "url": "https://github.com/mjaouni/vector-rag-laya-ai-automation"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T23:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -25,24 +79,6 @@
     "stars": 6,
     "updated_at": "2026-10-25T23:26:53Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-25T23:19:13Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T23:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
@@ -59,7 +95,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-25T23:12:21Z",
+    "updated_at": "2026-10-25T23:40:20Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -126,15 +162,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenecdb",
-    "language": "Rust",
-    "name": "fenecdb/fenecdb",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:26:11Z",
-    "url": "https://github.com/fenecdb/fenecdb"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -158,7 +185,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-25T23:20:43Z",
+    "updated_at": "2026-10-25T23:40:26Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -351,15 +378,6 @@
     "url": "https://github.com/api-evangelist/chroma"
   },
   {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-25T22:04:52Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
     "description": "Moved to CommunityToolkit.VectorData.Chroma, in the AI Community Toolkit.",
     "id": "ChromaDotNet/ChromaDB.VectorData",
     "language": "C#",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-25T21:48:20Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-25T21:47:31Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-10-25T21:47:14Z",
-    "url": "https://github.com/api-evangelist/aerospike"
   }
 ]
