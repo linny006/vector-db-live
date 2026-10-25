@@ -1,5 +1,131 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T16:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenecdb",
+    "language": "Rust",
+    "name": "fenecdb/fenecdb",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:59:07Z",
+    "url": "https://github.com/fenecdb/fenecdb"
+  },
+  {
+    "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
+    "id": "ChromaDotNet/ChromaDB.Local",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Local",
+    "stars": 3,
+    "updated_at": "2026-10-25T15:58:10Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
+  },
+  {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:57:23Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
+    "description": "A Python library that keeps each customer's search results separate in a shared index, and gives errors stable codes.",
+    "id": "gainratio/edgeproc-core",
+    "language": "Python",
+    "name": "gainratio/edgeproc-core",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:55:49Z",
+    "url": "https://github.com/gainratio/edgeproc-core"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1522,
+    "updated_at": "2026-10-25T15:55:39Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
+    "id": "dem2007/ChromaDB-Manager",
+    "language": "Swift",
+    "name": "dem2007/ChromaDB-Manager",
+    "stars": 2,
+    "updated_at": "2026-10-25T15:54:47Z",
+    "url": "https://github.com/dem2007/ChromaDB-Manager"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-25T15:55:00Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+    "id": "LLPhant/LLPhant",
+    "language": "PHP",
+    "name": "LLPhant/LLPhant",
+    "stars": 1721,
+    "updated_at": "2026-10-25T15:51:06Z",
+    "url": "https://github.com/LLPhant/LLPhant"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 356,
+    "updated_at": "2026-10-25T15:52:35Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:59:36Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-25T15:46:35Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "The LangChain wrapper of Milvus vector database for efficient vector search, full-text search, hybrid retrieval and RAG.",
+    "id": "langchain-ai/langchain-milvus",
+    "language": "Python",
+    "name": "langchain-ai/langchain-milvus",
+    "stars": 60,
+    "updated_at": "2026-10-25T15:45:53Z",
+    "url": "https://github.com/langchain-ai/langchain-milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T15:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
@@ -18,24 +144,6 @@
     "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T15:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T15:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\u4f01\u4e1a\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54\uff1a\u7236\u5b50\u5206\u5757 + \u5411\u91cf/\u5173\u952e\u8bcd\u591a\u8def\u53ec\u56de + RRF \u878d\u5408 + \u67e5\u8be2\u6539\u5199\uff08Spring AI + Ollama + Redis\uff09",
     "id": "Zerotwo-glitch/rag-knowledge-base",
     "language": "Java",
@@ -43,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T15:29:44Z",
     "url": "https://github.com/Zerotwo-glitch/rag-knowledge-base"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenecdb",
-    "language": "Rust",
-    "name": "fenecdb/fenecdb",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:45:05Z",
-    "url": "https://github.com/fenecdb/fenecdb"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -63,21 +162,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1522,
-    "updated_at": "2026-10-25T15:42:49Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-25T15:43:17Z",
+    "updated_at": "2026-10-25T15:57:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -90,24 +180,6 @@
     "url": "https://github.com/Mrwanawad/RAG-System-Using---MongoDB---Multi-LLM-Providers"
   },
   {
-    "description": "A Python library that keeps each customer's search results separate in a shared index, and gives errors stable codes.",
-    "id": "gainratio/edgeproc-core",
-    "language": "Python",
-    "name": "gainratio/edgeproc-core",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:15:27Z",
-    "url": "https://github.com/gainratio/edgeproc-core"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-25T15:36:50Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -115,15 +187,6 @@
     "stars": 100,
     "updated_at": "2026-10-25T15:12:36Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 356,
-    "updated_at": "2026-10-25T15:11:47Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
@@ -171,15 +234,6 @@
     "url": "https://github.com/omprakash0224/PaperMind"
   },
   {
-    "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
-    "id": "LLPhant/LLPhant",
-    "language": "PHP",
-    "name": "LLPhant/LLPhant",
-    "stars": 1721,
-    "updated_at": "2026-10-25T14:53:00Z",
-    "url": "https://github.com/LLPhant/LLPhant"
-  },
-  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 7,
-    "updated_at": "2026-10-25T15:37:55Z",
+    "updated_at": "2026-10-25T15:51:52Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -247,7 +301,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39670,
+    "stars": 39672,
     "updated_at": "2026-10-25T14:43:21Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -310,7 +364,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 599,
+    "stars": 600,
     "updated_at": "2026-10-25T14:10:20Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -347,7 +401,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-25T15:34:27Z",
+    "updated_at": "2026-10-25T15:50:12Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -374,7 +428,7 @@
     "language": "Rust",
     "name": "context-graph-ai/contextdb",
     "stars": 24,
-    "updated_at": "2026-10-25T13:57:04Z",
+    "updated_at": "2026-10-25T15:55:28Z",
     "url": "https://github.com/context-graph-ai/contextdb"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T13:54:48Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
-    "id": "originchaindb/originchaindb",
-    "language": "TypeScript",
-    "name": "originchaindb/originchaindb",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:54:34Z",
-    "url": "https://github.com/originchaindb/originchaindb"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7145,
-    "updated_at": "2026-10-25T15:14:48Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Lightweight, sub-gigabyte long-term memory middleware for AI agents.",
-    "id": "remenis-memory/remenis",
-    "language": "Python",
-    "name": "remenis-memory/remenis",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:42:55Z",
-    "url": "https://github.com/remenis-memory/remenis"
-  },
-  {
-    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
-    "id": "hufengjuexue/zhongji",
-    "language": "Kotlin",
-    "name": "hufengjuexue/zhongji",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:41:29Z",
-    "url": "https://github.com/hufengjuexue/zhongji"
-  },
-  {
-    "description": "Memory upgrades for digital people: chunk + embed + recall + back up, with the failure modes that silently kill agent me",
-    "id": "Merlin-Bedford/merlin-memory-kit",
-    "language": "Python",
-    "name": "Merlin-Bedford/merlin-memory-kit",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:41:05Z",
-    "url": "https://github.com/Merlin-Bedford/merlin-memory-kit"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6238,
-    "updated_at": "2026-10-25T13:41:13Z",
-    "url": "https://github.com/HelixDB/helix-db"
   }
 ]
