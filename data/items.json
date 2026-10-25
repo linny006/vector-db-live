@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 6,
+    "updated_at": "2026-10-25T14:45:18Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Semantic media search with Qwen2.5-VL + bge-m3 embeddings and pgvector",
+    "id": "CarterPerez-dev/vuemantics",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T14:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "CarterPerez-dev/vuemantics",
+    "stars": 2,
+    "updated_at": "2026-10-25T14:45:10Z",
+    "url": "https://github.com/CarterPerez-dev/vuemantics"
   },
   {
     "description": "\u4f01\u4e1a\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54\uff1a\u7236\u5b50\u5206\u5757 + \u5411\u91cf/\u5173\u952e\u8bcd\u591a\u8def\u53ec\u56de + RRF \u878d\u5408 + \u67e5\u8be2\u6539\u5199\uff08Spring AI + Ollama + Redis\uff09",
@@ -14,8 +23,53 @@
     "language": "Java",
     "name": "Zerotwo-glitch/rag-knowledge-base",
     "stars": 0,
-    "updated_at": "2026-10-25T14:28:23Z",
+    "updated_at": "2026-10-25T14:43:37Z",
     "url": "https://github.com/Zerotwo-glitch/rag-knowledge-base"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 7,
+    "updated_at": "2026-10-25T14:41:05Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "\u6cf1\u7a79\u667a\u80fd\u4f53\u5e73\u53f0\uff08YangQiong Agent Platform\uff09\u2014 \u751f\u4ea7\u7ea7\u5f00\u6e90 Agent \u5f00\u53d1\u4e0e\u7ba1\u7406\u5e73\u53f0",
+    "id": "yangqiongai/yangqiong-ai",
+    "language": "Java",
+    "name": "yangqiongai/yangqiong-ai",
+    "stars": 0,
+    "updated_at": "2026-10-25T14:40:08Z",
+    "url": "https://github.com/yangqiongai/yangqiong-ai"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-25T14:38:06Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T14:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T14:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -27,21 +81,12 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 6,
-    "updated_at": "2026-10-25T14:26:37Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2153,
-    "updated_at": "2026-10-25T14:27:24Z",
+    "updated_at": "2026-10-25T14:35:00Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -68,7 +113,7 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T14:19:33Z",
+    "updated_at": "2026-10-25T14:44:40Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -81,13 +126,13 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T14:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 597,
+    "updated_at": "2026-10-25T14:10:20Z",
+    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -365,7 +410,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 17,
-    "updated_at": "2026-10-25T14:20:00Z",
+    "updated_at": "2026-10-25T14:39:43Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 7,
-    "updated_at": "2026-10-25T14:19:28Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
     "description": "End-to-end Financial AI Agent: SEC EDGAR ingestion, pgvector hybrid search, LLM function calling, deployed on EKS with K",
     "id": "aayostem/financial-ai-agent",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2043,
     "updated_at": "2026-10-25T12:50:37Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-25T12:34:54Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 596,
-    "updated_at": "2026-10-25T14:10:20Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Multilingual cross-lingual RAG platform for intelligent PDF & DOCX document Q&A in English, Hindi, and Hinglish.",
-    "id": "Annshul268/DOC-Lingo",
-    "language": "Python",
-    "name": "Annshul268/DOC-Lingo",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:19:49Z",
-    "url": "https://github.com/Annshul268/DOC-Lingo"
-  },
-  {
-    "description": "A multi-user load benchmark for Long-Term Memory (LTM) systems",
-    "id": "skhynix/LTM100",
-    "language": "Python",
-    "name": "skhynix/LTM100",
-    "stars": 4,
-    "updated_at": "2026-10-25T12:12:31Z",
-    "url": "https://github.com/skhynix/LTM100"
   }
 ]
