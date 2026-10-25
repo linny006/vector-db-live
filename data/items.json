@@ -5,26 +5,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T09:30:20Z",
+    "updated_at": "2026-10-25T09:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Embedded database for agentic memory \u2014 relational, graph, and vector under unified MVCC transactions",
-    "id": "context-graph-ai/contextdb",
-    "language": "Rust",
-    "name": "context-graph-ai/contextdb",
-    "stars": 24,
-    "updated_at": "2026-10-25T09:29:48Z",
-    "url": "https://github.com/context-graph-ai/contextdb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-25T09:28:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -32,8 +14,89 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T09:27:00Z",
+    "updated_at": "2026-10-25T09:45:08Z",
     "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-25T09:41:05Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-25T09:35:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
+    "id": "ChromaDotNet/ChromaDB.Local",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Local",
+    "stars": 3,
+    "updated_at": "2026-10-25T09:35:36Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
+  },
+  {
+    "description": "Production-grade Multi-Agent RAG Operating System with LangGraph, FastAPI, Google Gemini, Hybrid Retrieval & React/Vite ",
+    "id": "threesshad-cpu/nexus-rag-os",
+    "language": "Python",
+    "name": "threesshad-cpu/nexus-rag-os",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:32:14Z",
+    "url": "https://github.com/threesshad-cpu/nexus-rag-os"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11765,
+    "updated_at": "2026-10-25T09:31:21Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-25T09:30:53Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T09:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Embedded database for agentic memory \u2014 relational, graph, and vector under unified MVCC transactions",
+    "id": "context-graph-ai/contextdb",
+    "language": "Rust",
+    "name": "context-graph-ai/contextdb",
+    "stars": 24,
+    "updated_at": "2026-10-25T09:42:50Z",
+    "url": "https://github.com/context-graph-ai/contextdb"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40768,
+    "updated_at": "2026-10-25T09:23:54Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -43,6 +106,15 @@
     "stars": 100,
     "updated_at": "2026-10-25T09:28:13Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 580,
+    "updated_at": "2026-10-25T09:41:12Z",
+    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -61,15 +133,6 @@
     "stars": 6237,
     "updated_at": "2026-10-25T09:19:53Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T09:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T08:59:33Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Production-grade Multi-Agent RAG Operating System with LangGraph, FastAPI, Google Gemini, Hybrid Retrieval & React/Vite ",
-    "id": "threesshad-cpu/nexus-rag-os",
-    "language": "Python",
-    "name": "threesshad-cpu/nexus-rag-os",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:56:00Z",
-    "url": "https://github.com/threesshad-cpu/nexus-rag-os"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -169,15 +223,6 @@
     "stars": 17,
     "updated_at": "2026-10-25T08:26:45Z",
     "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11765,
-    "updated_at": "2026-10-25T08:20:15Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -279,15 +324,6 @@
     "url": "https://github.com/jafarxdev/ai-engineering-projects"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40766,
-    "updated_at": "2026-10-25T09:23:54Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
     "id": "oguzhankir/omnichunk",
     "language": "Python",
@@ -313,15 +349,6 @@
     "stars": 2057,
     "updated_at": "2026-10-25T07:24:49Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
-    "id": "ChromaDotNet/ChromaDB.Local",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Local",
-    "stars": 3,
-    "updated_at": "2026-10-25T08:49:09Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
     "description": "Moved to CommunityToolkit.VectorData.Chroma, in the AI Community Toolkit.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T05:41:59Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:40:10Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
-    "id": "originchaindb/originchaindb",
-    "language": "TypeScript",
-    "name": "originchaindb/originchaindb",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:38:20Z",
-    "url": "https://github.com/originchaindb/originchaindb"
-  },
-  {
-    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
-    "id": "schwabauerbriantomas-gif/splatdb",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/splatdb",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:34:32Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
   }
 ]
