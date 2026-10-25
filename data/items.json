@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:43:49Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
+    "id": "dem2007/ChromaDB-Manager",
+    "language": "Swift",
+    "name": "dem2007/ChromaDB-Manager",
+    "stars": 2,
+    "updated_at": "2026-10-25T20:43:04Z",
+    "url": "https://github.com/dem2007/ChromaDB-Manager"
+  },
+  {
+    "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
+    "id": "ChromaDotNet/ChromaDB.Local",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Local",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:42:59Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:41:36Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-25T20:40:14Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-25T20:36:57Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and",
+    "id": "nehalvaghasiya/agentic-rag",
+    "language": "Python",
+    "name": "nehalvaghasiya/agentic-rag",
+    "stars": 1,
+    "updated_at": "2026-10-25T20:34:08Z",
+    "url": "https://github.com/nehalvaghasiya/agentic-rag"
+  },
+  {
     "description": "An AI-powered active study platform that transforms dense textbooks and lecture PDFs into interactive, time-boxed visual",
     "id": "Anushree-Radhika/Bow-and-Arrow",
     "language": "JavaScript",
     "name": "Anushree-Radhika/Bow-and-Arrow",
     "stars": 0,
-    "updated_at": "2026-10-25T20:29:59Z",
+    "updated_at": "2026-10-25T20:34:02Z",
     "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -50,17 +131,8 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-25T20:29:56Z",
+    "updated_at": "2026-10-25T20:37:36Z",
     "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-25T20:19:43Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
     "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
@@ -86,35 +158,8 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T20:29:32Z",
+    "updated_at": "2026-10-25T20:41:27Z",
     "url": "https://github.com/fenecdb/fenecdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T20:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T20:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 2,
-    "updated_at": "2026-10-25T20:12:50Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
   },
   {
     "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
@@ -139,7 +184,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39685,
+    "stars": 39686,
     "updated_at": "2026-10-25T20:11:28Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -184,7 +229,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 615,
+    "stars": 616,
     "updated_at": "2026-10-25T20:04:03Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -250,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T19:43:15Z",
     "url": "https://github.com/Iddrisusalima/ask-my-docs"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-25T19:40:32Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T18:44:05Z",
     "url": "https://github.com/originchaindb/originchaindb-ruby"
-  },
-  {
-    "description": "OriginChainDB LlamaIndex vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
-    "id": "originchaindb/llama-index-vector-stores-originchain",
-    "language": "Python",
-    "name": "originchaindb/llama-index-vector-stores-originchain",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:43:56Z",
-    "url": "https://github.com/originchaindb/llama-index-vector-stores-originchain"
-  },
-  {
-    "description": "OriginChainDB LangChain vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
-    "id": "originchaindb/langchain-originchain",
-    "language": "Python",
-    "name": "originchaindb/langchain-originchain",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:43:56Z",
-    "url": "https://github.com/originchaindb/langchain-originchain"
-  },
-  {
-    "description": "Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-go",
-    "language": "Python",
-    "name": "originchaindb/originchaindb-go",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:42:39Z",
-    "url": "https://github.com/originchaindb/originchaindb-go"
-  },
-  {
-    "description": "Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-csharp",
-    "language": "C#",
-    "name": "originchaindb/originchaindb-csharp",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:42:39Z",
-    "url": "https://github.com/originchaindb/originchaindb-csharp"
   }
 ]
