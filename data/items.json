@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
+    "id": "yashbhosale789/yashbhosale789",
+    "language": "\u2014",
+    "name": "yashbhosale789/yashbhosale789",
+    "stars": 0,
+    "updated_at": "2026-10-25T07:55:02Z",
+    "url": "https://github.com/yashbhosale789/yashbhosale789"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-25T07:54:28Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
     "description": "RAG-powered PDF learning assistant for topic-based MCQ generation and interactive practice using PyMuPDF, PaddleOCR, and",
     "id": "Thameempp/Practiq",
     "language": "Python",
     "name": "Thameempp/Practiq",
     "stars": 0,
-    "updated_at": "2026-10-25T07:43:29Z",
+    "updated_at": "2026-10-25T07:49:37Z",
     "url": "https://github.com/Thameempp/Practiq"
+  },
+  {
+    "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
+    "id": "Faraz6180/Insightpilot-ai",
+    "language": "Python",
+    "name": "Faraz6180/Insightpilot-ai",
+    "stars": 4,
+    "updated_at": "2026-10-25T07:49:27Z",
+    "url": "https://github.com/Faraz6180/Insightpilot-ai"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11765,
+    "updated_at": "2026-10-25T08:00:09Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "A hands-on AI Engineering portfolio covering LLMs, Prompt Engineering, RAG, LangChain, LangGraph, AI Agents, Multi-Agent",
+    "id": "jafarxdev/ai-engineering-projects",
+    "language": "Python",
+    "name": "jafarxdev/ai-engineering-projects",
+    "stars": 3,
+    "updated_at": "2026-10-25T07:46:22Z",
+    "url": "https://github.com/jafarxdev/ai-engineering-projects"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T07:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T08:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40764,
+    "updated_at": "2026-10-25T07:41:27Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "oguzhankir/omnichunk",
     "stars": 9,
-    "updated_at": "2026-10-25T07:41:07Z",
+    "updated_at": "2026-10-25T07:55:52Z",
     "url": "https://github.com/oguzhankir/omnichunk"
   },
   {
@@ -43,33 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T07:40:25Z",
     "url": "https://github.com/irodori-table/irodori-extension-milvus"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-25T07:33:24Z",
-    "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T07:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T07:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The AI search platform",
@@ -178,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T06:33:01Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11765,
-    "updated_at": "2026-10-25T07:17:11Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -365,7 +401,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-25T04:11:43Z",
+    "updated_at": "2026-10-25T07:49:29Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9479,
-    "updated_at": "2026-10-25T07:09:24Z",
+    "updated_at": "2026-10-25T07:47:42Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T03:18:05Z",
     "url": "https://github.com/givemehat/DocuRAG-FastAPI"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-25T03:06:32Z",
-    "url": "https://github.com/motedb/motedb"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-25T03:06:01Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9444,
-    "updated_at": "2026-10-25T02:26:37Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-25T04:24:14Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   }
 ]
