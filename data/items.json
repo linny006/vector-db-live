@@ -1,5 +1,59 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-25T17:38:04Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenecdb",
+    "language": "Rust",
+    "name": "fenecdb/fenecdb",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:32:49Z",
+    "url": "https://github.com/fenecdb/fenecdb"
+  },
+  {
+    "description": "Building multi-tenant Retrieval Augmented Generation platform ",
+    "id": "kennielima/OpsIQ",
+    "language": "C#",
+    "name": "kennielima/OpsIQ",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:31:49Z",
+    "url": "https://github.com/kennielima/OpsIQ"
+  },
+  {
+    "description": "Vector database with logarithmic-time similarity search.",
+    "id": "deepdigger69/vector-search",
+    "language": "Go",
+    "name": "deepdigger69/vector-search",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:34:42Z",
+    "url": "https://github.com/deepdigger69/vector-search"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-25T17:30:36Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -50,8 +104,17 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.VectorData",
     "stars": 3,
-    "updated_at": "2026-10-25T17:26:44Z",
+    "updated_at": "2026-10-25T17:36:22Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9480,
+    "updated_at": "2026-10-25T17:26:37Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Memory module for LLMs and Agents with MCP",
@@ -59,17 +122,8 @@
     "language": "Python",
     "name": "kurcontko/mnemotree",
     "stars": 6,
-    "updated_at": "2026-10-25T17:26:13Z",
+    "updated_at": "2026-10-25T17:31:50Z",
     "url": "https://github.com/kurcontko/mnemotree"
-  },
-  {
-    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
-    "id": "badhope/spark",
-    "language": "Python",
-    "name": "badhope/spark",
-    "stars": 21,
-    "updated_at": "2026-10-25T17:29:32Z",
-    "url": "https://github.com/badhope/spark"
   },
   {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
@@ -106,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-10-25T17:24:28Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Testcontainers"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenecdb",
-    "language": "Rust",
-    "name": "fenecdb/fenecdb",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:24:33Z",
-    "url": "https://github.com/fenecdb/fenecdb"
   },
   {
     "description": "Grounded Retrieval-Augmented Generation (RAG) engine with strict page-level citation attribution and deterministic hallu",
@@ -169,15 +214,6 @@
     "stars": 2057,
     "updated_at": "2026-10-25T17:18:29Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T17:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Official Java SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-25T15:37:26Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "HTML",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:32:35Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
-    "description": "\u4f01\u4e1a\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54\uff1a\u7236\u5b50\u5206\u5757 + \u5411\u91cf/\u5173\u952e\u8bcd\u591a\u8def\u53ec\u56de + RRF \u878d\u5408 + \u67e5\u8be2\u6539\u5199\uff08Spring AI + Ollama + Redis\uff09",
-    "id": "Zerotwo-glitch/rag-knowledge-base",
-    "language": "Java",
-    "name": "Zerotwo-glitch/rag-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:29:44Z",
-    "url": "https://github.com/Zerotwo-glitch/rag-knowledge-base"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-25T16:55:13Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Modular RAG backend: document ingestion, chunking, MongoDB metadata, Qdrant vector index and answers through pluggable L",
-    "id": "Mrwanawad/RAG-System-Using---MongoDB---Multi-LLM-Providers",
-    "language": "Python",
-    "name": "Mrwanawad/RAG-System-Using---MongoDB---Multi-LLM-Providers",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:16:25Z",
-    "url": "https://github.com/Mrwanawad/RAG-System-Using---MongoDB---Multi-LLM-Providers"
   }
 ]
