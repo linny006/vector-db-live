@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1523,
-    "updated_at": "2026-10-25T18:44:43Z",
+    "updated_at": "2026-10-25T18:59:24Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-25T18:58:50Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Self-RAG microservice (FastAPI + LangGraph) with hybrid vector+graph retrieval, self-correction, human-in-the-loop revie",
+    "id": "kanderson-ai-dev/agentic-rag-system",
+    "language": "Python",
+    "name": "kanderson-ai-dev/agentic-rag-system",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:55:22Z",
+    "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
+  },
+  {
+    "description": "NextSQL is a new database engine, written primarily in Go.",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:52:32Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
+    "id": "dem2007/ChromaDB-Manager",
+    "language": "Swift",
+    "name": "dem2007/ChromaDB-Manager",
+    "stars": 2,
+    "updated_at": "2026-10-25T18:48:38Z",
+    "url": "https://github.com/dem2007/ChromaDB-Manager"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 608,
+    "updated_at": "2026-10-25T18:47:26Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenecdb",
+    "language": "Rust",
+    "name": "fenecdb/fenecdb",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:52:20Z",
+    "url": "https://github.com/fenecdb/fenecdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T18:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
@@ -81,15 +153,6 @@
     "url": "https://github.com/originchaindb/originchaindb-java"
   },
   {
-    "description": "Self-RAG microservice (FastAPI + LangGraph) with hybrid vector+graph retrieval, self-correction, human-in-the-loop revie",
-    "id": "kanderson-ai-dev/agentic-rag-system",
-    "language": "Python",
-    "name": "kanderson-ai-dev/agentic-rag-system",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:41:43Z",
-    "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
-  },
-  {
     "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
     "id": "originchaindb/originchaindb",
     "language": "TypeScript",
@@ -117,24 +180,6 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RAG that critiques its own answers and retries instead of hallucinating: a cyclical LangGraph state machine with a criti",
     "id": "janvroak/self-healing-rag",
     "language": "Python",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T18:26:01Z",
     "url": "https://github.com/janvroak/self-healing-rag"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:34:34Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
     "description": "\ud83d\udc18 PostgreSQL Docker image with popular extensions (PostGIS, pgvector, pgmq). Unmodified PostgreSQL with essential plugin",
@@ -175,18 +211,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67544,
+    "stars": 67546,
     "updated_at": "2026-10-25T18:20:45Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenecdb",
-    "language": "Rust",
-    "name": "fenecdb/fenecdb",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:33:36Z",
-    "url": "https://github.com/fenecdb/fenecdb"
   },
   {
     "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "zd87pl/loci-db",
     "stars": 3,
-    "updated_at": "2026-10-25T18:16:38Z",
+    "updated_at": "2026-10-25T18:51:57Z",
     "url": "https://github.com/zd87pl/loci-db"
   },
   {
@@ -356,7 +383,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Aspire",
     "stars": 3,
-    "updated_at": "2026-10-25T17:41:45Z",
+    "updated_at": "2026-10-25T18:48:23Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Aspire"
   },
   {
@@ -392,7 +419,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.VectorData",
     "stars": 3,
-    "updated_at": "2026-10-25T17:36:22Z",
+    "updated_at": "2026-10-25T18:47:38Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
   },
   {
@@ -403,15 +430,6 @@
     "stars": 9480,
     "updated_at": "2026-10-25T17:26:37Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 607,
-    "updated_at": "2026-10-25T17:25:08Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData.",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-25T17:24:33Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
-  },
-  {
-    "description": "Testcontainers for .NET module for Chroma.",
-    "id": "ChromaDotNet/ChromaDB.Testcontainers",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Testcontainers",
-    "stars": 3,
-    "updated_at": "2026-10-25T17:24:28Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Testcontainers"
-  },
-  {
-    "description": "Grounded Retrieval-Augmented Generation (RAG) engine with strict page-level citation attribution and deterministic hallu",
-    "id": "iwyl2/document-intelligence",
-    "language": "Python",
-    "name": "iwyl2/document-intelligence",
-    "stars": 1,
-    "updated_at": "2026-10-25T17:40:42Z",
-    "url": "https://github.com/iwyl2/document-intelligence"
   }
 ]
