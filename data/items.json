@@ -1,11 +1,110 @@
 [
   {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:45:18Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-25T05:45:22Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-25T05:41:59Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:40:10Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
+    "id": "originchaindb/originchaindb",
+    "language": "TypeScript",
+    "name": "originchaindb/originchaindb",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:38:20Z",
+    "url": "https://github.com/originchaindb/originchaindb"
+  },
+  {
+    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
+    "id": "schwabauerbriantomas-gif/splatdb",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/splatdb",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:34:32Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
+  },
+  {
+    "description": "Full-stack TypeScript framework for real-time apps and agent-native APIs: Clean Architecture services, pluggable databas",
+    "id": "MantleJs/mantle",
+    "language": "TypeScript",
+    "name": "MantleJs/mantle",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:34:16Z",
+    "url": "https://github.com/MantleJs/mantle"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2402,
+    "updated_at": "2026-10-25T05:33:41Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:32:37Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Official Go SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
+    "id": "newfoundcodes/amaquet-go-sdk",
+    "language": "Go",
+    "name": "newfoundcodes/amaquet-go-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-25T05:31:12Z",
+    "url": "https://github.com/newfoundcodes/amaquet-go-sdk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T05:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T05:30:21Z",
+    "updated_at": "2026-10-25T05:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T05:30:22Z",
     "url": "https://github.com/originchaindb/originchaindb-ruby"
-  },
-  {
-    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
-    "id": "originchaindb/originchaindb",
-    "language": "TypeScript",
-    "name": "originchaindb/originchaindb",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:27:31Z",
-    "url": "https://github.com/originchaindb/originchaindb"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2401,
-    "updated_at": "2026-10-25T05:27:15Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -52,33 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T05:20:56Z",
     "url": "https://github.com/originchaindb/originchain-python"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-25T05:15:53Z",
-    "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T05:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
-    "id": "schwabauerbriantomas-gif/splatdb",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/splatdb",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:08:11Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
   },
   {
     "description": "RAG text-to-SQL: ChromaDB retrieval + Gemini generation behind a FastAPI service, wired into a PostgreSQL quiz app with ",
@@ -135,15 +189,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-25T04:10:42Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
     "description": "Multimodal search and RAG over PDFs, images, audio and video: FastAPI, Celery, Qdrant, Whisper, CLIP, Ollama. Benchmarke",
     "id": "vipin-mo/multimodal-dam-rag-platform",
     "language": "Python",
@@ -198,13 +243,13 @@
     "url": "https://github.com/givemehat/DocuRAG-FastAPI"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:25:51Z",
-    "url": "https://github.com/fenecdb/fenec"
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7145,
+    "updated_at": "2026-10-25T03:12:46Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T03:06:01Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Full-stack TypeScript framework for real-time apps and agent-native APIs: Clean Architecture services, pluggable databas",
-    "id": "MantleJs/mantle",
-    "language": "TypeScript",
-    "name": "MantleJs/mantle",
-    "stars": 0,
-    "updated_at": "2026-10-25T03:28:18Z",
-    "url": "https://github.com/MantleJs/mantle"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -333,15 +369,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-25T00:50:15Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "local-first semantic code search engine",
     "id": "kantord/SeaGOAT",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T23:18:39Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7144,
-    "updated_at": "2026-10-25T03:12:46Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 4,
-    "updated_at": "2026-10-24T22:45:41Z",
-    "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "RAG",
-    "id": "MakabeD/Obsidian_RAG",
-    "language": "C#",
-    "name": "MakabeD/Obsidian_RAG",
-    "stars": 1,
-    "updated_at": "2026-10-24T22:45:31Z",
-    "url": "https://github.com/MakabeD/Obsidian_RAG"
   }
 ]
