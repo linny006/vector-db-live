@@ -1,12 +1,111 @@
 [
   {
+    "description": "An AI-powered active study platform that transforms dense textbooks and lecture PDFs into interactive, time-boxed visual",
+    "id": "Anushree-Radhika/Bow-and-Arrow",
+    "language": "JavaScript",
+    "name": "Anushree-Radhika/Bow-and-Arrow",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:29:59Z",
+    "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-25T20:29:32Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "High-performance RAG Chatbot built with FastAPI and LangChain for context-aware QA, leveraging Groq for low-latency LLM ",
+    "id": "fatma-fendri/RAG-Chatbot",
+    "language": "Jupyter Notebook",
+    "name": "fatma-fendri/RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:29:18Z",
+    "url": "https://github.com/fatma-fendri/RAG-Chatbot"
+  },
+  {
     "description": "In-memory knowledge store for AI agents",
     "id": "FraiseHQ/fraise",
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 8,
-    "updated_at": "2026-10-25T20:15:15Z",
+    "updated_at": "2026-10-25T20:28:57Z",
     "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "An Identity Threat Detection and Response (ITDR) portfolio project that combines an interactive security dashboard with ",
+    "id": "CloudFlamedev/ITDR_RAG_Dashboard",
+    "language": "Python",
+    "name": "CloudFlamedev/ITDR_RAG_Dashboard",
+    "stars": 1,
+    "updated_at": "2026-10-25T20:28:10Z",
+    "url": "https://github.com/CloudFlamedev/ITDR_RAG_Dashboard"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-25T20:29:56Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-25T20:19:43Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
+    "id": "hufengjuexue/zhongji",
+    "language": "Kotlin",
+    "name": "hufengjuexue/zhongji",
+    "stars": 2,
+    "updated_at": "2026-10-25T20:18:06Z",
+    "url": "https://github.com/hufengjuexue/zhongji"
+  },
+  {
+    "description": "Modular Retrieval-Augmented Generation (RAG) pipeline with hybrid search, reranking & context chunking",
+    "id": "HarshDubey23/Rag_Pipeline",
+    "language": "Python",
+    "name": "HarshDubey23/Rag_Pipeline",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:17:07Z",
+    "url": "https://github.com/HarshDubey23/Rag_Pipeline"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenecdb",
+    "language": "Rust",
+    "name": "fenecdb/fenecdb",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:29:32Z",
+    "url": "https://github.com/fenecdb/fenecdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T20:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
@@ -36,6 +135,15 @@
     "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39685,
+    "updated_at": "2026-10-25T20:11:28Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "\u4e2d\u6587\u4e92\u8054\u7f51\u6897 / \u9ed1\u8bdd RAG \u8bed\u6599\u5e93\uff1a5 \u4e2a\u5206\u5c42\u77e5\u8bc6\u5e93\uff084544 \u6761 chunk\uff09+ AstrBot \u5bfc\u5165\u5de5\u5177 + \u4f7f\u7528 wiki\u3002",
     "id": "NooBlock/astrbot-rag-kb",
     "language": "Python",
@@ -54,15 +162,6 @@
     "url": "https://github.com/eggspot/EggDB"
   },
   {
-    "description": "High-performance RAG Chatbot built with FastAPI and LangChain for context-aware QA, leveraging Groq for low-latency LLM ",
-    "id": "fatma-fendri/RAG-Chatbot",
-    "language": "Jupyter Notebook",
-    "name": "fatma-fendri/RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:10:27Z",
-    "url": "https://github.com/fatma-fendri/RAG-Chatbot"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -70,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T20:09:44Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "An Identity Threat Detection and Response (ITDR) portfolio project that combines an interactive security dashboard with ",
-    "id": "CloudFlamedev/ITDR_RAG_Dashboard",
-    "language": "Python",
-    "name": "CloudFlamedev/ITDR_RAG_Dashboard",
-    "stars": 1,
-    "updated_at": "2026-10-25T20:08:28Z",
-    "url": "https://github.com/CloudFlamedev/ITDR_RAG_Dashboard"
   },
   {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
@@ -90,20 +180,11 @@
     "url": "https://github.com/tradik/mddb"
   },
   {
-    "description": "An AI-powered active study platform that transforms dense textbooks and lecture PDFs into interactive, time-boxed visual",
-    "id": "Anushree-Radhika/Bow-and-Arrow",
-    "language": "JavaScript",
-    "name": "Anushree-Radhika/Bow-and-Arrow",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:05:08Z",
-    "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
-  },
-  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 612,
+    "stars": 615,
     "updated_at": "2026-10-25T20:04:03Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -115,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T20:01:31Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T20:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T20:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -180,15 +243,6 @@
     "url": "https://github.com/bzync/nextsql"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-25T20:02:51Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "A retrieval-augmented generation CLI that answers questions about your own notes and cites the passage each answer came ",
     "id": "Iddrisusalima/ask-my-docs",
     "language": "Python",
@@ -225,15 +279,6 @@
     "url": "https://github.com/theogony-project/theogony"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-25T19:57:35Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
     "id": "monaccode/astromesh",
     "language": "Python",
@@ -268,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T19:20:49Z",
     "url": "https://github.com/rao-studios/AII"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenecdb",
-    "language": "Rust",
-    "name": "fenecdb/fenecdb",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:10:05Z",
-    "url": "https://github.com/fenecdb/fenecdb"
   },
   {
     "description": "Jigen DB is vector database written from scratch in c#",
@@ -338,7 +374,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7145,
-    "updated_at": "2026-10-25T19:04:04Z",
+    "updated_at": "2026-10-25T20:29:46Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T18:42:39Z",
     "url": "https://github.com/originchaindb/originchaindb-csharp"
-  },
-  {
-    "description": "Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-java",
-    "language": "Java",
-    "name": "originchaindb/originchaindb-java",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:41:47Z",
-    "url": "https://github.com/originchaindb/originchaindb-java"
-  },
-  {
-    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
-    "id": "originchaindb/originchaindb",
-    "language": "TypeScript",
-    "name": "originchaindb/originchaindb",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:40:43Z",
-    "url": "https://github.com/originchaindb/originchaindb"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-25T18:37:48Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "\ud83d\udc18 PostgreSQL Docker image with popular extensions (PostGIS, pgvector, pgmq). Unmodified PostgreSQL with essential plugin",
-    "id": "ruxwez/postgres",
-    "language": "Dockerfile",
-    "name": "ruxwez/postgres",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:23:19Z",
-    "url": "https://github.com/ruxwez/postgres"
   }
 ]
