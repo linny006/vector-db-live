@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T08:30:19Z",
+    "updated_at": "2026-10-25T08:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-25T08:44:03Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:43:53Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
+    "description": "Production-grade Multi-Agent RAG Operating System with LangGraph, FastAPI, Google Gemini, Hybrid Retrieval & React/Vite ",
+    "id": "threesshad-cpu/nexus-rag-os",
+    "language": "Python",
+    "name": "threesshad-cpu/nexus-rag-os",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:35:51Z",
+    "url": "https://github.com/threesshad-cpu/nexus-rag-os"
+  },
+  {
+    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
+    "id": "TowsifAhamed/GameRagKit",
+    "language": "C#",
+    "name": "TowsifAhamed/GameRagKit",
+    "stars": 2,
+    "updated_at": "2026-10-25T08:32:00Z",
+    "url": "https://github.com/TowsifAhamed/GameRagKit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T08:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Quill is a full-stack AI document Q&A app that lets users upload PDFs and chat with their content using a modern Next.js",
@@ -36,15 +81,6 @@
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
-    "description": "Production-grade Multi-Agent RAG Operating System with LangGraph, FastAPI, Google Gemini, Hybrid Retrieval & React/Vite ",
-    "id": "threesshad-cpu/nexus-rag-os",
-    "language": "JavaScript",
-    "name": "threesshad-cpu/nexus-rag-os",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:22:58Z",
-    "url": "https://github.com/threesshad-cpu/nexus-rag-os"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -61,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T08:18:12Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T08:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
-    "id": "VecturaDB/VecturaDB",
-    "language": "Rust",
-    "name": "VecturaDB/VecturaDB",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:18:41Z",
-    "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
     "description": "Irodori Table Qdrant connector extension",
@@ -175,7 +193,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40764,
+    "stars": 40765,
     "updated_at": "2026-10-25T07:41:27Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T06:11:57Z",
+    "updated_at": "2026-10-25T08:42:39Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-25T04:32:31Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
-    "id": "StarTrail-org/LEANN",
-    "language": "Python",
-    "name": "StarTrail-org/LEANN",
-    "stars": 13102,
-    "updated_at": "2026-10-25T04:21:33Z",
-    "url": "https://github.com/StarTrail-org/LEANN"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-25T07:49:29Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
