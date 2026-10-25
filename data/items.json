@@ -1,11 +1,56 @@
 [
   {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 5,
+    "updated_at": "2026-10-25T12:26:52Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-25T12:24:06Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 591,
+    "updated_at": "2026-10-25T12:24:39Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Multilingual cross-lingual RAG platform for intelligent PDF & DOCX document Q&A in English, Hindi, and Hinglish.",
+    "id": "Annshul268/DOC-Lingo",
+    "language": "Python",
+    "name": "Annshul268/DOC-Lingo",
+    "stars": 0,
+    "updated_at": "2026-10-25T12:19:49Z",
+    "url": "https://github.com/Annshul268/DOC-Lingo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T12:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T12:15:20Z",
+    "updated_at": "2026-10-25T12:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -45,15 +90,6 @@
     "url": "https://github.com/yeasin-riyad/Advanced-Backend-Ai"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 591,
-    "updated_at": "2026-10-25T12:07:15Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "Local-first AI assistant \u2014 native desktop app (React + pywebview), 9 specialized agents (code, web, debug, security\u2026), 1",
     "id": "gonicolas12/My_AI",
     "language": "Python",
@@ -81,15 +117,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T12:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cookbook examples for LlamaIndex integrations with DigitalOcean Gradient",
     "id": "bnarasimha21/gradient-llamaindex-cookbook",
     "language": "Python",
@@ -104,7 +131,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-25T12:13:42Z",
+    "updated_at": "2026-10-25T12:24:35Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -112,7 +139,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2404,
+    "stars": 2403,
     "updated_at": "2026-10-25T11:41:26Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -324,15 +351,6 @@
     "url": "https://github.com/hoangdinhlong/nhe_o"
   },
   {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 5,
-    "updated_at": "2026-10-25T12:01:44Z",
-    "url": "https://github.com/tradik/mddb"
-  },
-  {
     "description": "SNKV \u2014 a lightweight key-value store focused on simplicity, security and performance file based database , written using",
     "id": "hash-anu/snkv",
     "language": "C",
@@ -340,15 +358,6 @@
     "stars": 79,
     "updated_at": "2026-10-25T10:28:53Z",
     "url": "https://github.com/hash-anu/snkv"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-25T12:04:49Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -401,7 +410,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-25T12:11:00Z",
+    "updated_at": "2026-10-25T12:30:00Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T09:58:57Z",
     "url": "https://github.com/Ariesjeev/FixPilot"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-25T09:58:43Z",
-    "url": "https://github.com/miniaxolotl/grove"
   }
 ]
