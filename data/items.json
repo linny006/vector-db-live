@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T23:15:19Z",
+    "updated_at": "2026-10-25T23:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local RAG proof of concept with Laya decisions, MiniLM and Qdrant retrieval, Ollama and Qwen inference, FastAPI, n8n aut",
+    "id": "mjaouni/vector-rag-laya-ai-automation",
+    "language": "Python",
+    "name": "mjaouni/vector-rag-laya-ai-automation",
+    "stars": 0,
+    "updated_at": "2026-10-25T23:26:55Z",
+    "url": "https://github.com/mjaouni/vector-rag-laya-ai-automation"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 6,
+    "updated_at": "2026-10-25T23:26:53Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-25T23:19:13Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T23:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
@@ -25,15 +61,6 @@
     "stars": 6,
     "updated_at": "2026-10-25T23:12:21Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-25T23:12:52Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
@@ -77,7 +104,7 @@
     "language": "Dockerfile",
     "name": "ruxwez/postgres",
     "stars": 3,
-    "updated_at": "2026-10-25T23:01:40Z",
+    "updated_at": "2026-10-25T23:19:00Z",
     "url": "https://github.com/ruxwez/postgres"
   },
   {
@@ -104,17 +131,8 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T23:11:57Z",
+    "updated_at": "2026-10-25T23:26:11Z",
     "url": "https://github.com/fenecdb/fenecdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T23:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-25T23:13:44Z",
+    "updated_at": "2026-10-25T23:20:43Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T21:47:14Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8445,
-    "updated_at": "2026-10-25T22:50:28Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Multimodal RAG Streamlit app using Google Gemini + ChromaDB (with optional Google File Search) for querying text, images",
-    "id": "kikugo/unified-rag",
-    "language": "Python",
-    "name": "kikugo/unified-rag",
-    "stars": 0,
-    "updated_at": "2026-10-25T21:40:25Z",
-    "url": "https://github.com/kikugo/unified-rag"
   }
 ]
