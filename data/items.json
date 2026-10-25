@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T19:00:20Z",
+    "updated_at": "2026-10-25T19:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,89 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1523,
-    "updated_at": "2026-10-25T18:59:24Z",
+    "updated_at": "2026-10-25T19:15:14Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-25T19:13:48Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
+    "id": "kichikubeihei/CodeMemoryPrime",
+    "language": "Rust",
+    "name": "kichikubeihei/CodeMemoryPrime",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:11:33Z",
+    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-25T19:10:28Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "NextSQL is a new database engine, written primarily in Go.",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:12:49Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "RAG that critiques its own answers and retries instead of hallucinating: a cyclical LangGraph state machine with a criti",
+    "id": "janvroak/self-healing-rag",
+    "language": "Python",
+    "name": "janvroak/self-healing-rag",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:09:31Z",
+    "url": "https://github.com/janvroak/self-healing-rag"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-25T19:08:52Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 609,
+    "updated_at": "2026-10-25T19:08:41Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7145,
+    "updated_at": "2026-10-25T19:04:04Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -36,15 +117,6 @@
     "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
   },
   {
-    "description": "NextSQL is a new database engine, written primarily in Go.",
-    "id": "bzync/nextsql",
-    "language": "Go",
-    "name": "bzync/nextsql",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:52:32Z",
-    "url": "https://github.com/bzync/nextsql"
-  },
-  {
     "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
     "id": "dem2007/ChromaDB-Manager",
     "language": "Swift",
@@ -54,31 +126,13 @@
     "url": "https://github.com/dem2007/ChromaDB-Manager"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 608,
-    "updated_at": "2026-10-25T18:47:26Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenecdb",
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T18:52:20Z",
+    "updated_at": "2026-10-25T19:06:51Z",
     "url": "https://github.com/fenecdb/fenecdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
@@ -178,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T18:37:48Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "RAG that critiques its own answers and retries instead of hallucinating: a cyclical LangGraph state machine with a criti",
-    "id": "janvroak/self-healing-rag",
-    "language": "Python",
-    "name": "janvroak/self-healing-rag",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:26:01Z",
-    "url": "https://github.com/janvroak/self-healing-rag"
   },
   {
     "description": "\ud83d\udc18 PostgreSQL Docker image with popular extensions (PostGIS, pgvector, pgmq). Unmodified PostgreSQL with essential plugin",
@@ -391,7 +436,7 @@
     "id": "deepdigger69/vector-search",
     "language": "Go",
     "name": "deepdigger69/vector-search",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-10-25T17:40:25Z",
     "url": "https://github.com/deepdigger69/vector-search"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T17:31:49Z",
     "url": "https://github.com/kennielima/OpsIQ"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:29:55Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Moved to CommunityToolkit.VectorData.Chroma, in the AI Community Toolkit.",
-    "id": "ChromaDotNet/ChromaDB.VectorData",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.VectorData",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:47:38Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9480,
-    "updated_at": "2026-10-25T17:26:37Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData.",
-    "id": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
-    "stars": 3,
-    "updated_at": "2026-10-25T17:24:38Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
-  },
-  {
-    "description": "Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData.",
-    "id": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
-    "stars": 3,
-    "updated_at": "2026-10-25T17:24:33Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
   }
 ]
