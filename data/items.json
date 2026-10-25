@@ -1,21 +1,57 @@
 [
   {
-    "description": "Official Java SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
-    "id": "newfoundcodes/amaquet-java-sdk",
-    "language": "Java",
-    "name": "newfoundcodes/amaquet-java-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:10:11Z",
-    "url": "https://github.com/newfoundcodes/amaquet-java-sdk"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-25T17:13:45Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "An index for ambient learning applications.",
+    "id": "rao-studios/AII",
+    "language": "Swift",
+    "name": "rao-studios/AII",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:30:18Z",
+    "url": "https://github.com/rao-studios/AII"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:29:55Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-25T17:28:37Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
+    "id": "schwabauerbriantomas-gif/splatdb",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/splatdb",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:27:57Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
+  },
+  {
+    "description": "Moved to CommunityToolkit.VectorData.Chroma, in the AI Community Toolkit.",
+    "id": "ChromaDotNet/ChromaDB.VectorData",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.VectorData",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:26:44Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
   },
   {
     "description": "Memory module for LLMs and Agents with MCP",
@@ -23,8 +59,116 @@
     "language": "Python",
     "name": "kurcontko/mnemotree",
     "stars": 6,
-    "updated_at": "2026-10-25T17:12:25Z",
+    "updated_at": "2026-10-25T17:26:13Z",
     "url": "https://github.com/kurcontko/mnemotree"
+  },
+  {
+    "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
+    "id": "badhope/spark",
+    "language": "Python",
+    "name": "badhope/spark",
+    "stars": 21,
+    "updated_at": "2026-10-25T17:29:32Z",
+    "url": "https://github.com/badhope/spark"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 605,
+    "updated_at": "2026-10-25T17:25:08Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Microsoft Agent Framework samples with Chroma as the vector store, built on ChromaDB.VectorData.",
+    "id": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.AgentFramework.Sample",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:24:38Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
+  },
+  {
+    "description": "Semantic Kernel samples with Chroma as the vector store, built on ChromaDB.VectorData.",
+    "id": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.SemanticKernel.Sample",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:24:33Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.SemanticKernel.Sample"
+  },
+  {
+    "description": "Testcontainers for .NET module for Chroma.",
+    "id": "ChromaDotNet/ChromaDB.Testcontainers",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Testcontainers",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:24:28Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Testcontainers"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenecdb",
+    "language": "Rust",
+    "name": "fenecdb/fenecdb",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:24:33Z",
+    "url": "https://github.com/fenecdb/fenecdb"
+  },
+  {
+    "description": "Grounded Retrieval-Augmented Generation (RAG) engine with strict page-level citation attribution and deterministic hallu",
+    "id": "iwyl2/document-intelligence",
+    "language": "Python",
+    "name": "iwyl2/document-intelligence",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:24:22Z",
+    "url": "https://github.com/iwyl2/document-intelligence"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 6,
+    "updated_at": "2026-10-25T17:24:20Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": ".NET package with the default embedding function of Chroma: the same vectors as the Python client.",
+    "id": "ChromaDotNet/ChromaDB.Embeddings",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Embeddings",
+    "stars": 2,
+    "updated_at": "2026-10-25T17:21:27Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
+  },
+  {
+    "description": ".NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9.",
+    "id": "ChromaDotNet/ChromaDB.Client",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Client",
+    "stars": 36,
+    "updated_at": "2026-10-25T17:21:26Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Client"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:19:03Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-25T17:18:29Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,17 +176,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-25T17:00:26Z",
+    "updated_at": "2026-10-25T17:15:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T17:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Official Java SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
+    "id": "newfoundcodes/amaquet-java-sdk",
+    "language": "Java",
+    "name": "newfoundcodes/amaquet-java-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:10:11Z",
+    "url": "https://github.com/newfoundcodes/amaquet-java-sdk"
   },
   {
     "description": "\ud83e\udde0 An autonomous, cognitive agent architecture & local-first assistant featuring episodic memory, tree-based JSON plannin",
@@ -77,17 +221,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-25T16:54:54Z",
+    "updated_at": "2026-10-25T17:16:40Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenecdb",
-    "language": "Rust",
-    "name": "fenecdb/fenecdb",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:04:19Z",
-    "url": "https://github.com/fenecdb/fenecdb"
   },
   {
     "description": "Official C# SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
@@ -167,7 +302,7 @@
     "language": "Rust",
     "name": "VecturaDB/VecturaDB",
     "stars": 0,
-    "updated_at": "2026-10-25T16:21:48Z",
+    "updated_at": "2026-10-25T17:16:21Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
@@ -196,15 +331,6 @@
     "stars": 9448,
     "updated_at": "2026-10-25T16:15:03Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 604,
-    "updated_at": "2026-10-25T16:12:39Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -239,7 +365,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 3,
-    "updated_at": "2026-10-25T17:08:04Z",
+    "updated_at": "2026-10-25T17:15:36Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -266,7 +392,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-10-25T15:46:35Z",
+    "updated_at": "2026-10-25T17:25:41Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T15:16:25Z",
     "url": "https://github.com/Mrwanawad/RAG-System-Using---MongoDB---Multi-LLM-Providers"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-25T15:12:36Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-25T15:07:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Production-grade multi-tenant RAG platform for document Q&A using FastAPI, Next.js 16, Google Gemini, Qdrant hybrid sear",
-    "id": "omprakash0224/PaperMind",
-    "language": "Python",
-    "name": "omprakash0224/PaperMind",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:55:29Z",
-    "url": "https://github.com/omprakash0224/PaperMind"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-25T14:52:42Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-25T14:52:24Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": ".NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9.",
-    "id": "ChromaDotNet/ChromaDB.Client",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Client",
-    "stars": 36,
-    "updated_at": "2026-10-25T17:07:59Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Client"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 7,
-    "updated_at": "2026-10-25T15:51:52Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-25T14:49:01Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 6,
-    "updated_at": "2026-10-25T14:48:22Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Semantic media search with Qwen2.5-VL + bge-m3 embeddings and pgvector",
-    "id": "CarterPerez-dev/vuemantics",
-    "language": "Python",
-    "name": "CarterPerez-dev/vuemantics",
-    "stars": 2,
-    "updated_at": "2026-10-25T14:45:10Z",
-    "url": "https://github.com/CarterPerez-dev/vuemantics"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39675,
-    "updated_at": "2026-10-25T14:43:21Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "\u6cf1\u7a79\u667a\u80fd\u4f53\u5e73\u53f0\uff08YangQiong Agent Platform\uff09\u2014 \u751f\u4ea7\u7ea7\u5f00\u6e90 Agent \u5f00\u53d1\u4e0e\u7ba1\u7406\u5e73\u53f0",
-    "id": "yangqiongai/yangqiong-ai",
-    "language": "Java",
-    "name": "yangqiongai/yangqiong-ai",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:40:08Z",
-    "url": "https://github.com/yangqiongai/yangqiong-ai"
-  },
-  {
-    "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
-    "id": "taladb/taladb",
-    "language": "Rust",
-    "name": "taladb/taladb",
-    "stars": 18,
-    "updated_at": "2026-10-25T14:39:43Z",
-    "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "Chat with your documents: RAG app with ChromaDB vector search, cited LLM answers (OpenAI/Groq/Ollama), FastAPI + web UI,",
-    "id": "Muhammad-HamzaShamsi/rag-document-chatbot",
-    "language": "Python",
-    "name": "Muhammad-HamzaShamsi/rag-document-chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:38:39Z",
-    "url": "https://github.com/Muhammad-HamzaShamsi/rag-document-chatbot"
   }
 ]
