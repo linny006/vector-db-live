@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 04:15 UTC
+> ⏰ Last updated: 2026-10-25 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,15 +43,15 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [schwabauerbriantomas-gif/splatdb](https://github.com/schwabauerbriantomas-gif/splatdb) | 0 | Rust | 2026-10-25 | Vector search with uncertainty awareness — knowledge graph + HNSW + GPU in a single Rust binary |
-| 3 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-25 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 4 | [mahpate/Vlite](https://github.com/mahpate/Vlite) | 2 | Rust | 2026-10-25 | Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar |
-| 5 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-10-25 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
-| 6 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-25 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
-| 7 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-25 |  Cognitive Memory Architecture for Agents |
-| 8 | [vipin-mo/multimodal-dam-rag-platform](https://github.com/vipin-mo/multimodal-dam-rag-platform) | 0 | Python | 2026-10-25 | Multimodal search and RAG over PDFs, images, audio and video: FastAPI, Celery, Qdrant, Whisper, CLIP, Ollama. Benchmarke |
-| 9 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-25 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-25 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 3 | [mahpate/Vlite](https://github.com/mahpate/Vlite) | 2 | Rust | 2026-10-25 | Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [schwabauerbriantomas-gif/splatdb](https://github.com/schwabauerbriantomas-gif/splatdb) | 0 | Rust | 2026-10-25 | Vector search with uncertainty awareness — knowledge graph + HNSW + GPU in a single Rust binary |
+| 6 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-25 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 7 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-10-25 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
+| 8 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-25 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
+| 9 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 6 | Rust | 2026-10-25 |  Cognitive Memory Architecture for Agents |
+| 10 | [vipin-mo/multimodal-dam-rag-platform](https://github.com/vipin-mo/multimodal-dam-rag-platform) | 0 | Python | 2026-10-25 | Multimodal search and RAG over PDFs, images, audio and video: FastAPI, Celery, Qdrant, Whisper, CLIP, Ollama. Benchmarke |
 | 11 | [VecturaDB/VecturaDB](https://github.com/VecturaDB/VecturaDB) | 0 | Rust | 2026-10-25 | Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source. |
 | 12 | [Intrect-io/OpenSwarm](https://github.com/Intrect-io/OpenSwarm) | 868 | TypeScript | 2026-10-25 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
 | 13 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9479 | Rust | 2026-10-25 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
