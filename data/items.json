@@ -1,11 +1,83 @@
 [
   {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 6,
+    "updated_at": "2026-10-25T10:29:56Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:30:03Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-25T10:27:12Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40769,
+    "updated_at": "2026-10-25T10:25:22Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2153,
+    "updated_at": "2026-10-25T10:24:20Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "High-performance, thread-safe in-memory dense vector similarity search engine in modern C++20. Engineered with contiguou",
+    "id": "paranik-jpg/VectorIndexCPP",
+    "language": "C++",
+    "name": "paranik-jpg/VectorIndexCPP",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:17:38Z",
+    "url": "https://github.com/paranik-jpg/VectorIndexCPP"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-25T10:17:33Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T10:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T10:15:20Z",
+    "updated_at": "2026-10-25T10:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,13 +108,13 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-25T10:12:19Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Production-ready AI Research Assistant",
+    "id": "RohanKatyayani/MindForge",
+    "language": "JavaScript",
+    "name": "RohanKatyayani/MindForge",
+    "stars": 1,
+    "updated_at": "2026-10-25T10:12:47Z",
+    "url": "https://github.com/RohanKatyayani/MindForge"
   },
   {
     "description": "Transform your documents into interactive knowledge bases with AI-powered chat, notes, and multimedia content generation",
@@ -68,7 +140,7 @@
     "language": "C",
     "name": "hash-anu/snkv",
     "stars": 78,
-    "updated_at": "2026-10-25T10:07:05Z",
+    "updated_at": "2026-10-25T10:28:53Z",
     "url": "https://github.com/hash-anu/snkv"
   },
   {
@@ -81,31 +153,13 @@
     "url": "https://github.com/jaehyeon-kim/odctl"
   },
   {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 6,
-    "updated_at": "2026-10-25T10:09:14Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 584,
-    "updated_at": "2026-10-25T10:03:32Z",
+    "updated_at": "2026-10-25T10:24:15Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T10:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered IT support assistant using Agentic RAG \u2014 answers employee questions from company documents, falls back to web",
@@ -153,15 +207,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-25T10:11:16Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "",
     "id": "SuperInstance/SuperInstance",
     "language": "HTML",
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11765,
-    "updated_at": "2026-10-25T09:50:54Z",
+    "updated_at": "2026-10-25T10:25:33Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 24,
     "updated_at": "2026-10-25T09:42:50Z",
     "url": "https://github.com/context-graph-ai/contextdb"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40768,
-    "updated_at": "2026-10-25T09:23:54Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -266,7 +302,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1215,
-    "updated_at": "2026-10-25T10:14:05Z",
+    "updated_at": "2026-10-25T10:21:26Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -304,6 +340,15 @@
     "stars": 2,
     "updated_at": "2026-10-25T08:32:00Z",
     "url": "https://github.com/TowsifAhamed/GameRagKit"
+  },
+  {
+    "description": "AI \u7814\u53d1\u667a\u80fd\u4f53\u5e73\u53f0\uff1aRAG \u77e5\u8bc6\u5e93\u95ee\u7b54 \u00d7 GitHub \u96c6\u6210\uff08Issue/PR \u5ba1\u67e5\u3001CI \u8c03\u8bd5 Agent\uff09\u00d7 \u591a Agent \u5de5\u4f5c\u6d41\u7f16\u6392\u3002FastAPI + Next.js + Milvus",
+    "id": "flowersoul999/DevMind-AI",
+    "language": "Python",
+    "name": "flowersoul999/DevMind-AI",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:31:07Z",
+    "url": "https://github.com/flowersoul999/DevMind-AI"
   },
   {
     "description": "Quill is a full-stack AI document Q&A app that lets users upload PDFs and chat with their content using a modern Next.js",
@@ -373,9 +418,18 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2402,
+    "stars": 2404,
     "updated_at": "2026-10-25T08:01:50Z",
     "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8444,
+    "updated_at": "2026-10-25T08:01:01Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-25T07:54:28Z",
     "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "RAG-powered PDF learning assistant for topic-based MCQ generation and interactive practice using PyMuPDF, PaddleOCR, and",
-    "id": "Thameempp/Practiq",
-    "language": "Python",
-    "name": "Thameempp/Practiq",
-    "stars": 0,
-    "updated_at": "2026-10-25T07:49:37Z",
-    "url": "https://github.com/Thameempp/Practiq"
-  },
-  {
-    "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
-    "id": "Faraz6180/Insightpilot-ai",
-    "language": "Python",
-    "name": "Faraz6180/Insightpilot-ai",
-    "stars": 4,
-    "updated_at": "2026-10-25T07:49:27Z",
-    "url": "https://github.com/Faraz6180/Insightpilot-ai"
-  },
-  {
-    "description": "A hands-on AI Engineering portfolio covering LLMs, Prompt Engineering, RAG, LangChain, LangGraph, AI Agents, Multi-Agent",
-    "id": "jafarxdev/ai-engineering-projects",
-    "language": "Python",
-    "name": "jafarxdev/ai-engineering-projects",
-    "stars": 3,
-    "updated_at": "2026-10-25T07:46:22Z",
-    "url": "https://github.com/jafarxdev/ai-engineering-projects"
-  },
-  {
-    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
-    "id": "oguzhankir/omnichunk",
-    "language": "Python",
-    "name": "oguzhankir/omnichunk",
-    "stars": 9,
-    "updated_at": "2026-10-25T08:08:04Z",
-    "url": "https://github.com/oguzhankir/omnichunk"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7145,
-    "updated_at": "2026-10-25T07:30:13Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Moved to CommunityToolkit.VectorData.Chroma, in the AI Community Toolkit.",
-    "id": "ChromaDotNet/ChromaDB.VectorData",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.VectorData",
-    "stars": 3,
-    "updated_at": "2026-10-25T06:59:51Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
   }
 ]
