@@ -1,12 +1,48 @@
 [
   {
+    "description": "Official Java SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
+    "id": "newfoundcodes/amaquet-java-sdk",
+    "language": "Java",
+    "name": "newfoundcodes/amaquet-java-sdk",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:10:11Z",
+    "url": "https://github.com/newfoundcodes/amaquet-java-sdk"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-25T16:59:07Z",
+    "updated_at": "2026-10-25T17:13:45Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Memory module for LLMs and Agents with MCP",
+    "id": "kurcontko/mnemotree",
+    "language": "Python",
+    "name": "kurcontko/mnemotree",
+    "stars": 6,
+    "updated_at": "2026-10-25T17:12:25Z",
+    "url": "https://github.com/kurcontko/mnemotree"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T17:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udde0 An autonomous, cognitive agent architecture & local-first assistant featuring episodic memory, tree-based JSON plannin",
@@ -36,15 +72,6 @@
     "url": "https://github.com/context-graph-ai/contextdb"
   },
   {
-    "description": "Official Java SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
-    "id": "newfoundcodes/amaquet-java-sdk",
-    "language": "Java",
-    "name": "newfoundcodes/amaquet-java-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:55:46Z",
-    "url": "https://github.com/newfoundcodes/amaquet-java-sdk"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -59,7 +86,7 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T16:57:07Z",
+    "updated_at": "2026-10-25T17:04:19Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -72,15 +99,6 @@
     "url": "https://github.com/newfoundcodes/amaquet-csharp-sdk"
   },
   {
-    "description": "Memory module for LLMs and Agents with MCP",
-    "id": "kurcontko/mnemotree",
-    "language": "Python",
-    "name": "kurcontko/mnemotree",
-    "stars": 6,
-    "updated_at": "2026-10-25T16:52:39Z",
-    "url": "https://github.com/kurcontko/mnemotree"
-  },
-  {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
     "id": "lyonzin/knowledge-rag",
     "language": "Python",
@@ -88,24 +106,6 @@
     "stars": 300,
     "updated_at": "2026-10-25T16:53:00Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T16:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T17:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Official Go SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
@@ -189,11 +189,20 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9448,
+    "updated_at": "2026-10-25T16:15:03Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 603,
+    "stars": 604,
     "updated_at": "2026-10-25T16:12:39Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -212,7 +221,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-25T16:08:13Z",
+    "updated_at": "2026-10-25T17:05:03Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -230,7 +239,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Local",
     "stars": 3,
-    "updated_at": "2026-10-25T16:57:27Z",
+    "updated_at": "2026-10-25T17:08:04Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
   },
   {
@@ -365,7 +374,7 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Client",
     "stars": 36,
-    "updated_at": "2026-10-25T16:57:21Z",
+    "updated_at": "2026-10-25T17:07:59Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Client"
   },
   {
@@ -409,7 +418,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39674,
+    "stars": 39675,
     "updated_at": "2026-10-25T14:43:21Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T14:38:39Z",
     "url": "https://github.com/Muhammad-HamzaShamsi/rag-document-chatbot"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-25T14:38:06Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
