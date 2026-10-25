@@ -1,11 +1,137 @@
 [
   {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1523,
+    "updated_at": "2026-10-25T18:44:43Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-rust",
+    "language": "Rust",
+    "name": "originchaindb/originchaindb-rust",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:44:07Z",
+    "url": "https://github.com/originchaindb/originchaindb-rust"
+  },
+  {
+    "description": "Official OriginChainDB PHP SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-php",
+    "language": "PHP",
+    "name": "originchaindb/originchaindb-php",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:44:05Z",
+    "url": "https://github.com/originchaindb/originchaindb-php"
+  },
+  {
+    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-ruby",
+    "language": "Ruby",
+    "name": "originchaindb/originchaindb-ruby",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:44:05Z",
+    "url": "https://github.com/originchaindb/originchaindb-ruby"
+  },
+  {
+    "description": "OriginChainDB LlamaIndex vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
+    "id": "originchaindb/llama-index-vector-stores-originchain",
+    "language": "Python",
+    "name": "originchaindb/llama-index-vector-stores-originchain",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:43:56Z",
+    "url": "https://github.com/originchaindb/llama-index-vector-stores-originchain"
+  },
+  {
+    "description": "OriginChainDB LangChain vector-store integration \u2014 Proprietary GitHub preview with tested wheel downloads.",
+    "id": "originchaindb/langchain-originchain",
+    "language": "Python",
+    "name": "originchaindb/langchain-originchain",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:43:56Z",
+    "url": "https://github.com/originchaindb/langchain-originchain"
+  },
+  {
+    "description": "Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-go",
+    "language": "Python",
+    "name": "originchaindb/originchaindb-go",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:42:39Z",
+    "url": "https://github.com/originchaindb/originchaindb-go"
+  },
+  {
+    "description": "Official OriginChainDB C# and .NET SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-csharp",
+    "language": "C#",
+    "name": "originchaindb/originchaindb-csharp",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:42:39Z",
+    "url": "https://github.com/originchaindb/originchaindb-csharp"
+  },
+  {
+    "description": "Official OriginChainDB Java SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-java",
+    "language": "Java",
+    "name": "originchaindb/originchaindb-java",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:41:47Z",
+    "url": "https://github.com/originchaindb/originchaindb-java"
+  },
+  {
+    "description": "Self-RAG microservice (FastAPI + LangGraph) with hybrid vector+graph retrieval, self-correction, human-in-the-loop revie",
+    "id": "kanderson-ai-dev/agentic-rag-system",
+    "language": "Python",
+    "name": "kanderson-ai-dev/agentic-rag-system",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:41:43Z",
+    "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
+  },
+  {
+    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
+    "id": "originchaindb/originchaindb",
+    "language": "TypeScript",
+    "name": "originchaindb/originchaindb",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:40:43Z",
+    "url": "https://github.com/originchaindb/originchaindb"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-25T18:41:04Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-25T18:37:48Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T18:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-25T18:30:22Z",
+    "updated_at": "2026-10-25T18:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +149,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-10-25T18:23:44Z",
+    "updated_at": "2026-10-25T18:34:34Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -45,20 +171,11 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Self-RAG microservice (FastAPI + LangGraph) with hybrid vector+graph retrieval, self-correction, human-in-the-loop revie",
-    "id": "kanderson-ai-dev/agentic-rag-system",
-    "language": "Python",
-    "name": "kanderson-ai-dev/agentic-rag-system",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:24:20Z",
-    "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67543,
+    "stars": 67544,
     "updated_at": "2026-10-25T18:20:45Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -68,7 +185,7 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T18:19:55Z",
+    "updated_at": "2026-10-25T18:33:36Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -88,24 +205,6 @@
     "stars": 3,
     "updated_at": "2026-10-25T18:16:38Z",
     "url": "https://github.com/zd87pl/loci-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1523,
-    "updated_at": "2026-10-25T18:14:57Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
@@ -216,15 +315,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-25T17:52:30Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
@@ -274,7 +364,7 @@
     "id": "deepdigger69/vector-search",
     "language": "Go",
     "name": "deepdigger69/vector-search",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-25T17:40:25Z",
     "url": "https://github.com/deepdigger69/vector-search"
   },
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T17:40:42Z",
     "url": "https://github.com/iwyl2/document-intelligence"
-  },
-  {
-    "description": ".NET package with the default embedding function of Chroma: the same vectors as the Python client.",
-    "id": "ChromaDotNet/ChromaDB.Embeddings",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Embeddings",
-    "stars": 2,
-    "updated_at": "2026-10-25T17:21:27Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
-  },
-  {
-    "description": ".NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9.",
-    "id": "ChromaDotNet/ChromaDB.Client",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Client",
-    "stars": 36,
-    "updated_at": "2026-10-25T17:21:26Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Client"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-25T17:18:29Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Official Java SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
-    "id": "newfoundcodes/amaquet-java-sdk",
-    "language": "Java",
-    "name": "newfoundcodes/amaquet-java-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:10:11Z",
-    "url": "https://github.com/newfoundcodes/amaquet-java-sdk"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 5,
-    "updated_at": "2026-10-25T16:57:21Z",
-    "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "Embedded database for agentic memory \u2014 relational, graph, and vector under unified MVCC transactions",
-    "id": "context-graph-ai/contextdb",
-    "language": "Rust",
-    "name": "context-graph-ai/contextdb",
-    "stars": 24,
-    "updated_at": "2026-10-25T16:56:32Z",
-    "url": "https://github.com/context-graph-ai/contextdb"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-25T17:16:40Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Official C# SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
-    "id": "newfoundcodes/amaquet-csharp-sdk",
-    "language": "C#",
-    "name": "newfoundcodes/amaquet-csharp-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:51:33Z",
-    "url": "https://github.com/newfoundcodes/amaquet-csharp-sdk"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 300,
-    "updated_at": "2026-10-25T16:53:00Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Official Go SDK for Amaquet, providing native TCP/TLS data access, typed operations, and HTTP administration.",
-    "id": "newfoundcodes/amaquet-go-sdk",
-    "language": "Go",
-    "name": "newfoundcodes/amaquet-go-sdk",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:40:08Z",
-    "url": "https://github.com/newfoundcodes/amaquet-go-sdk"
   }
 ]
