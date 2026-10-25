@@ -1,12 +1,21 @@
 [
   {
-    "description": "Full-stack TypeScript framework for real-time apps and agent-native APIs: Clean Architecture services, pluggable databas",
-    "id": "MantleJs/mantle",
-    "language": "TypeScript",
-    "name": "MantleJs/mantle",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:57:52Z",
-    "url": "https://github.com/MantleJs/mantle"
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-25T03:13:50Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-25T03:11:03Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -14,17 +23,8 @@
     "language": "Rust",
     "name": "Cognilogical/NeuroStrata",
     "stars": 6,
-    "updated_at": "2026-10-25T02:54:36Z",
+    "updated_at": "2026-10-25T03:09:58Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-25T02:51:37Z",
-    "url": "https://github.com/mahpate/Vlite"
   },
   {
     "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
@@ -32,8 +32,44 @@
     "language": "Rust",
     "name": "VecturaDB/VecturaDB",
     "stars": 0,
-    "updated_at": "2026-10-25T02:51:21Z",
+    "updated_at": "2026-10-25T03:09:54Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:09:48Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
+    "id": "motedb/motedb",
+    "language": "Rust",
+    "name": "motedb/motedb",
+    "stars": 49,
+    "updated_at": "2026-10-25T03:06:32Z",
+    "url": "https://github.com/motedb/motedb"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:06:01Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
+    "id": "schwabauerbriantomas-gif/splatdb",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/splatdb",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:05:01Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-25T02:45:24Z",
+    "updated_at": "2026-10-25T03:00:25Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -54,22 +90,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-25T02:44:15Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "AI-native embedded multimodal database for embodied AI & robotics \u2014 vectors, time series, full text and binary in one em",
-    "id": "motedb/motedb",
-    "language": "Rust",
-    "name": "motedb/motedb",
-    "stars": 49,
-    "updated_at": "2026-10-25T02:21:38Z",
-    "url": "https://github.com/motedb/motedb"
+    "description": "Full-stack TypeScript framework for real-time apps and agent-native APIs: Clean Architecture services, pluggable databas",
+    "id": "MantleJs/mantle",
+    "language": "TypeScript",
+    "name": "MantleJs/mantle",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:57:52Z",
+    "url": "https://github.com/MantleJs/mantle"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -103,7 +130,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11763,
+    "stars": 11764,
     "updated_at": "2026-10-25T01:50:27Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -113,17 +140,8 @@
     "language": "Python",
     "name": "Yoruxyv/semantix",
     "stars": 1,
-    "updated_at": "2026-10-25T01:48:12Z",
+    "updated_at": "2026-10-25T03:05:21Z",
     "url": "https://github.com/Yoruxyv/semantix"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:58:17Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -158,7 +176,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-25T01:20:02Z",
+    "updated_at": "2026-10-25T03:12:58Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T00:23:04Z",
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:16:05Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
@@ -311,7 +320,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7144,
-    "updated_at": "2026-10-24T23:04:31Z",
+    "updated_at": "2026-10-25T03:12:46Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -373,7 +382,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2399,
+    "stars": 2400,
     "updated_at": "2026-10-24T22:10:49Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T20:19:13Z",
     "url": "https://github.com/MlkBlk-IT/Mcp-QadGraph"
-  },
-  {
-    "description": "L2, dot product and cosine similarity by hand, proven equivalent, plus a benchmark of where brute-force search stops sca",
-    "id": "ossamafayed/similarity-search-from-scratch",
-    "language": "Python",
-    "name": "ossamafayed/similarity-search-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:16:16Z",
-    "url": "https://github.com/ossamafayed/similarity-search-from-scratch"
   }
 ]
