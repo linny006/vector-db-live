@@ -1,5 +1,95 @@
 [
   {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-25T19:44:50Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "A retrieval-augmented generation CLI that answers questions about your own notes and cites the passage each answer came ",
+    "id": "Iddrisusalima/ask-my-docs",
+    "language": "Python",
+    "name": "Iddrisusalima/ask-my-docs",
+    "stars": 1,
+    "updated_at": "2026-10-25T19:43:15Z",
+    "url": "https://github.com/Iddrisusalima/ask-my-docs"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-25T19:40:32Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 7,
+    "updated_at": "2026-10-25T19:40:11Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "NextSQL is a new database engine, written primarily in Go.",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:45:22Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:32:43Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-25T19:32:02Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 37,
+    "updated_at": "2026-10-25T19:31:01Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
     "id": "musabbozkurt/oauth2-authorization-server",
     "language": "Java",
@@ -50,7 +140,7 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-25T19:28:57Z",
+    "updated_at": "2026-10-25T19:38:48Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -72,30 +162,12 @@
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-25T19:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-25T19:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1523,
-    "updated_at": "2026-10-25T19:15:14Z",
+    "updated_at": "2026-10-25T19:32:17Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -104,7 +176,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-25T19:13:48Z",
+    "updated_at": "2026-10-25T19:42:33Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -126,15 +198,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "NextSQL is a new database engine, written primarily in Go.",
-    "id": "bzync/nextsql",
-    "language": "Go",
-    "name": "bzync/nextsql",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:12:49Z",
-    "url": "https://github.com/bzync/nextsql"
-  },
-  {
     "description": "RAG that critiques its own answers and retries instead of hallucinating: a cyclical LangGraph state machine with a criti",
     "id": "janvroak/self-healing-rag",
     "language": "Python",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T19:09:31Z",
     "url": "https://github.com/janvroak/self-healing-rag"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-25T19:08:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "The AI search platform",
@@ -270,15 +324,6 @@
     "url": "https://github.com/originchaindb/originchaindb"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-25T19:29:01Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -396,15 +441,6 @@
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-25T19:22:35Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "Spark \u2014 local-first coding agent (Python + React), self-hosted, MCP-native, with tool sandbox, repo-map context and OTel",
     "id": "badhope/spark",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-25T17:59:59Z",
     "url": "https://github.com/badhope/spark"
-  },
-  {
-    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
-    "id": "hoangdinhlong/nhe_o",
-    "language": "Ada",
-    "name": "hoangdinhlong/nhe_o",
-    "stars": 1,
-    "updated_at": "2026-10-25T17:58:21Z",
-    "url": "https://github.com/hoangdinhlong/nhe_o"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-25T17:56:09Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-10-25T17:52:10Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "\ud83e\udde0 An autonomous, cognitive agent architecture & local-first assistant featuring episodic memory, tree-based JSON plannin",
-    "id": "oguzemirtopuz/JARVIS-Cognitive-OS",
-    "language": "Python",
-    "name": "oguzemirtopuz/JARVIS-Cognitive-OS",
-    "stars": 5,
-    "updated_at": "2026-10-25T17:50:46Z",
-    "url": "https://github.com/oguzemirtopuz/JARVIS-Cognitive-OS"
   }
 ]
