@@ -1,5 +1,41 @@
 [
   {
+    "description": "A complete collection of RAG interview questions, answers (1509 questions & 52 RAG types), system design scenarios, arch",
+    "id": "ather-techie/rag-interview-system",
+    "language": "JavaScript",
+    "name": "ather-techie/rag-interview-system",
+    "stars": 177,
+    "updated_at": "2026-10-26T20:49:18Z",
+    "url": "https://github.com/ather-techie/rag-interview-system"
+  },
+  {
+    "description": "A lightweight, minimal memory framework for AI agents",
+    "id": "SitanshuA091/memlib-ai",
+    "language": "Python",
+    "name": "SitanshuA091/memlib-ai",
+    "stars": 0,
+    "updated_at": "2026-10-26T20:49:07Z",
+    "url": "https://github.com/SitanshuA091/memlib-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T20:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T21:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-26T20:40:04Z",
+    "updated_at": "2026-10-26T20:57:37Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -54,30 +90,12 @@
     "url": "https://github.com/cyborginc/cyborgdb-go"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T20:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T20:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-10-26T20:25:06Z",
+    "updated_at": "2026-10-26T20:50:39Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2059,
-    "updated_at": "2026-10-26T20:37:48Z",
+    "updated_at": "2026-10-26T20:59:24Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -117,12 +135,21 @@
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67594,
+    "updated_at": "2026-10-26T20:11:41Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-26T20:31:17Z",
+    "updated_at": "2026-10-26T20:49:18Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -162,6 +189,15 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8453,
+    "updated_at": "2026-10-26T19:53:41Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
     "id": "mahpate/Vlite",
     "language": "Rust",
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-26T20:24:36Z",
+    "updated_at": "2026-10-26T20:57:51Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-26T20:26:25Z",
+    "updated_at": "2026-10-26T20:53:58Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/dem2007/ChromaDB-Manager"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67593,
-    "updated_at": "2026-10-26T20:11:41Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.",
     "id": "Filippo-Venturini/ctxvault",
     "language": "Python",
@@ -409,7 +436,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39785,
+    "stars": 39787,
     "updated_at": "2026-10-26T18:06:38Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -421,32 +448,5 @@
     "stars": 13304,
     "updated_at": "2026-10-26T19:50:29Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 134,
-    "updated_at": "2026-10-26T17:53:44Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "A personal research assistant that discovers papers, builds a RAG library from them, answers grounded questions with cit",
-    "id": "nithishkrishna21/ScholarAgent",
-    "language": "Python",
-    "name": "nithishkrishna21/ScholarAgent",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:52:56Z",
-    "url": "https://github.com/nithishkrishna21/ScholarAgent"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-26T17:46:47Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
