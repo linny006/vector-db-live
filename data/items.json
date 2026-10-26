@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-26T01:15:20Z",
+    "updated_at": "2026-10-26T01:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-26T01:30:18Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,8 +23,89 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-26T01:14:16Z",
+    "updated_at": "2026-10-26T01:30:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "High-performance local agentic AI & in-process Rust vector engine. Featuring GGUF inference, HNSW indexing, and autonomo",
+    "id": "Shura5860/LocalAIProject",
+    "language": "Python",
+    "name": "Shura5860/LocalAIProject",
+    "stars": 0,
+    "updated_at": "2026-10-26T01:27:12Z",
+    "url": "https://github.com/Shura5860/LocalAIProject"
+  },
+  {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-26T01:26:23Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
+    "id": "verygoodplugins/automem",
+    "language": "Python",
+    "name": "verygoodplugins/automem",
+    "stars": 823,
+    "updated_at": "2026-10-26T01:29:57Z",
+    "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-26T01:23:48Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Memory module for LLMs and Agents with MCP",
+    "id": "kurcontko/mnemotree",
+    "language": "Python",
+    "name": "kurcontko/mnemotree",
+    "stars": 6,
+    "updated_at": "2026-10-26T01:21:47Z",
+    "url": "https://github.com/kurcontko/mnemotree"
+  },
+  {
+    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-26T01:20:27Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates.",
+    "id": "gay00ung/vecnook",
+    "language": "Rust",
+    "name": "gay00ung/vecnook",
+    "stars": 2,
+    "updated_at": "2026-10-26T01:20:18Z",
+    "url": "https://github.com/gay00ung/vecnook"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-26T01:16:36Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T01:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
@@ -27,15 +117,6 @@
     "url": "https://github.com/codelined-ag/Extracto"
   },
   {
-    "description": "Memory module for LLMs and Agents with MCP",
-    "id": "kurcontko/mnemotree",
-    "language": "Python",
-    "name": "kurcontko/mnemotree",
-    "stars": 6,
-    "updated_at": "2026-10-26T01:13:10Z",
-    "url": "https://github.com/kurcontko/mnemotree"
-  },
-  {
     "description": "Chroma's API on your Postgres: a Chroma-compatible server on pgvector, plus a verified one-command migration off Chroma ",
     "id": "TheJustas228/pgchroma",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T01:09:12Z",
     "url": "https://github.com/TheJustas228/pgchroma"
-  },
-  {
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-26T01:09:07Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
@@ -70,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T01:05:31Z",
     "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T01:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-26T00:56:16Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "",
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-26T01:09:33Z",
+    "updated_at": "2026-10-26T01:15:23Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -162,21 +216,12 @@
     "url": "https://github.com/ather-techie/rag-interview-system"
   },
   {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-26T01:09:40Z",
-    "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
     "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
     "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
     "language": "JavaScript",
     "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
     "stars": 0,
-    "updated_at": "2026-10-26T00:10:07Z",
+    "updated_at": "2026-10-26T01:17:11Z",
     "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T23:57:37Z",
     "url": "https://github.com/mjaouni/vector-rag-laya-ai-automation"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:57:40Z",
-    "url": "https://github.com/eggspot/EggDB"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -239,7 +275,7 @@
     "language": "HTML",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-10-25T23:49:29Z",
+    "updated_at": "2026-10-26T01:23:16Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -369,21 +405,12 @@
     "url": "https://github.com/api-evangelist/surrealdb"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:01:29Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-26T00:41:18Z",
+    "updated_at": "2026-10-26T01:26:29Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T22:43:48Z",
     "url": "https://github.com/api-evangelist/objectbox"
-  },
-  {
-    "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:42:57Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "MyScale \u2014 independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b",
-    "id": "api-evangelist/myscale",
-    "language": "\u2014",
-    "name": "api-evangelist/myscale",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:41:24Z",
-    "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-10-25T22:40:15Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
   }
 ]
