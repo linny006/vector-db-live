@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2058,
-    "updated_at": "2026-10-26T15:42:53Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-26T15:58:47Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
+    "id": "hufengjuexue/zhongji",
+    "language": "Kotlin",
+    "name": "hufengjuexue/zhongji",
+    "stars": 2,
+    "updated_at": "2026-10-26T15:54:09Z",
+    "url": "https://github.com/hufengjuexue/zhongji"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-26T15:53:49Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object.",
@@ -14,8 +32,53 @@
     "language": "TypeScript",
     "name": "equationalapplications/sqlite-s3-agent-tutorial",
     "stars": 0,
-    "updated_at": "2026-10-26T15:42:08Z",
+    "updated_at": "2026-10-26T15:55:22Z",
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
+  },
+  {
+    "description": "Curated, graph-aware retrieval substrate for human-AI teams \u2014 RAG + reranker + curation surface. The casebook to kos's p",
+    "id": "ArcavenAE/flyloft",
+    "language": "Rust",
+    "name": "ArcavenAE/flyloft",
+    "stars": 0,
+    "updated_at": "2026-10-26T15:51:35Z",
+    "url": "https://github.com/ArcavenAE/flyloft"
+  },
+  {
+    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
+    "id": "rifqifitriady/ZAAFPulse",
+    "language": "JavaScript",
+    "name": "rifqifitriady/ZAAFPulse",
+    "stars": 2,
+    "updated_at": "2026-10-26T15:45:32Z",
+    "url": "https://github.com/rifqifitriady/ZAAFPulse"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T15:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T15:45:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2059,
+    "updated_at": "2026-10-26T15:42:53Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Jigen DB is vector database written from scratch in c#",
@@ -34,6 +97,15 @@
     "stars": 59676,
     "updated_at": "2026-10-26T15:40:22Z",
     "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40876,
+    "updated_at": "2026-10-26T16:00:19Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -77,26 +149,17 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11778,
-    "updated_at": "2026-10-26T15:31:22Z",
+    "updated_at": "2026-10-26T15:48:12Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T15:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T15:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "VectifyAI/PageIndex",
+    "stars": 39769,
+    "updated_at": "2026-10-26T15:28:23Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -122,8 +185,17 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-26T15:24:00Z",
+    "updated_at": "2026-10-26T15:58:22Z",
     "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "",
+    "id": "CodNoob100/null-drift",
+    "language": "Python",
+    "name": "CodNoob100/null-drift",
+    "stars": 23,
+    "updated_at": "2026-10-26T15:18:34Z",
+    "url": "https://github.com/CodNoob100/null-drift"
   },
   {
     "description": "Internal documentation assistant with a human-governed knowledge base \u2014 RAG, domain isolation, full traceability.",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T15:17:04Z",
     "url": "https://github.com/ahmed-zhr/rag-knowledge-agent"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-26T15:16:53Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -171,21 +234,12 @@
     "url": "https://github.com/mllendinez10/rag-from-scratch"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40874,
-    "updated_at": "2026-10-26T15:39:53Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 139,
-    "updated_at": "2026-10-26T15:11:26Z",
+    "updated_at": "2026-10-26T15:58:58Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -301,7 +355,7 @@
     "id": "taladb/taladb",
     "language": "Rust",
     "name": "taladb/taladb",
-    "stars": 28,
+    "stars": 29,
     "updated_at": "2026-10-26T14:34:13Z",
     "url": "https://github.com/taladb/taladb"
   },
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32776,
-    "updated_at": "2026-10-26T15:43:44Z",
+    "updated_at": "2026-10-26T15:58:26Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T14:16:20Z",
     "url": "https://github.com/houyidb-community/houyidb"
-  },
-  {
-    "description": "Turn your prompt or pdfs into a structured study roadmap with timers on every topic.",
-    "id": "Anushree-Radhika/Bow-and-Arrow",
-    "language": "JavaScript",
-    "name": "Anushree-Radhika/Bow-and-Arrow",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:12:53Z",
-    "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-26T14:13:21Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-26T14:11:09Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:42:32Z",
-    "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 35,
-    "updated_at": "2026-10-26T14:04:26Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6239,
-    "updated_at": "2026-10-26T14:02:16Z",
-    "url": "https://github.com/HelixDB/helix-db"
   }
 ]
