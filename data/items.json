@@ -1,21 +1,75 @@
 [
   {
+    "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
+    "id": "PunGrumpy/vecstore-sdk",
+    "language": "TypeScript",
+    "name": "PunGrumpy/vecstore-sdk",
+    "stars": 2,
+    "updated_at": "2026-10-26T02:56:38Z",
+    "url": "https://github.com/PunGrumpy/vecstore-sdk"
+  },
+  {
+    "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Groq powered LLMs to",
+    "id": "joydeep-07/Lens-LM",
+    "language": "JavaScript",
+    "name": "joydeep-07/Lens-LM",
+    "stars": 1,
+    "updated_at": "2026-10-26T02:55:26Z",
+    "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:52:25Z",
+    "url": "https://github.com/tryAGI/Qdrant"
+  },
+  {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
     "id": "miniaxolotl/grove",
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-26T02:37:30Z",
+    "updated_at": "2026-10-26T02:49:57Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
-    "description": "Multi-agent RAG system with AutoGen, LangChain, and ChromaDB \u2014 ingest documents and ask questions via CLI or Gradio UI.",
-    "id": "vilaswasnik/agentic-rag-system",
-    "language": "Python",
-    "name": "vilaswasnik/agentic-rag-system",
-    "stars": 0,
-    "updated_at": "2026-10-26T02:35:25Z",
-    "url": "https://github.com/vilaswasnik/agentic-rag-system"
+    "description": "Handbook t\u00e9cnico aberto sobre engenharia de IA em produ\u00e7\u00e3o: ML tradicional, LLMs, RAG, agentes, seguran\u00e7a, observabilida",
+    "id": "ruanpato/production-ai-engineering",
+    "language": "Markdown",
+    "name": "ruanpato/production-ai-engineering",
+    "stars": 1,
+    "updated_at": "2026-10-26T02:49:41Z",
+    "url": "https://github.com/ruanpato/production-ai-engineering"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9482,
+    "updated_at": "2026-10-26T02:59:41Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11772,
+    "updated_at": "2026-10-26T02:49:15Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46478,
+    "updated_at": "2026-10-26T02:58:42Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-26T02:30:24Z",
+    "updated_at": "2026-10-26T02:45:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -36,6 +90,33 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2058,
+    "updated_at": "2026-10-26T02:45:19Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Multi-agent RAG system with AutoGen, LangChain, and ChromaDB \u2014 ingest documents and ask questions via CLI or Gradio UI.",
+    "id": "vilaswasnik/agentic-rag-system",
+    "language": "Python",
+    "name": "vilaswasnik/agentic-rag-system",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:35:25Z",
+    "url": "https://github.com/vilaswasnik/agentic-rag-system"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 917,
+    "updated_at": "2026-10-26T02:35:08Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
     "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
     "id": "waynewbishop/quiver",
     "language": "Swift",
@@ -43,15 +124,6 @@
     "stars": 22,
     "updated_at": "2026-10-26T02:28:25Z",
     "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
-    "id": "PunGrumpy/vecstore-sdk",
-    "language": "TypeScript",
-    "name": "PunGrumpy/vecstore-sdk",
-    "stars": 2,
-    "updated_at": "2026-10-26T02:24:48Z",
-    "url": "https://github.com/PunGrumpy/vecstore-sdk"
   },
   {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
@@ -72,31 +144,13 @@
     "url": "https://github.com/Scaibu/llm-observability-platform"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11771,
-    "updated_at": "2026-10-26T02:42:02Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-26T02:36:38Z",
+    "updated_at": "2026-10-26T02:47:13Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46477,
-    "updated_at": "2026-10-26T02:09:54Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -131,7 +185,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-26T02:10:35Z",
+    "updated_at": "2026-10-26T02:45:41Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T01:58:21Z",
     "url": "https://github.com/Shura5860/LocalAIProject"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2057,
-    "updated_at": "2026-10-26T02:45:19Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -176,7 +221,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8447,
-    "updated_at": "2026-10-26T02:15:50Z",
+    "updated_at": "2026-10-26T02:46:26Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-26T01:40:58Z",
+    "updated_at": "2026-10-26T02:55:23Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -194,8 +239,17 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-26T02:31:38Z",
+    "updated_at": "2026-10-26T02:49:39Z",
     "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9449,
+    "updated_at": "2026-10-26T01:25:31Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates.",
@@ -239,7 +293,7 @@
     "language": "Rust",
     "name": "mahpate/Vlite",
     "stars": 2,
-    "updated_at": "2026-10-26T01:06:54Z",
+    "updated_at": "2026-10-26T02:49:47Z",
     "url": "https://github.com/mahpate/Vlite"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T23:42:47Z",
     "url": "https://github.com/fzlmn/rag-assistant-scolaire"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-25T23:40:22Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-10-25T23:32:55Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 6,
-    "updated_at": "2026-10-25T23:26:53Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:12:58Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-10-25T23:10:11Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:08:44Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
   }
 ]
