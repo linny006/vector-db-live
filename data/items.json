@@ -1,12 +1,111 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T06:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40831,
+    "updated_at": "2026-10-26T06:29:11Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-26T06:14:48Z",
+    "updated_at": "2026-10-26T06:29:06Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
+    "id": "api-evangelist/zilliz",
+    "language": "\u2014",
+    "name": "api-evangelist/zilliz",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:26:58Z",
+    "url": "https://github.com/api-evangelist/zilliz"
+  },
+  {
+    "description": "Python client for Qdrant vector search engine",
+    "id": "qdrant/qdrant-client",
+    "language": "Python",
+    "name": "qdrant/qdrant-client",
+    "stars": 1373,
+    "updated_at": "2026-10-26T06:23:25Z",
+    "url": "https://github.com/qdrant/qdrant-client"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46481,
+    "updated_at": "2026-10-26T06:21:56Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-10-26T06:20:22Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
+    "id": "hufengjuexue/zhongji",
+    "language": "Kotlin",
+    "name": "hufengjuexue/zhongji",
+    "stars": 2,
+    "updated_at": "2026-10-26T06:19:06Z",
+    "url": "https://github.com/hufengjuexue/zhongji"
+  },
+  {
+    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-26T06:18:57Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
+    "id": "api-evangelist/vespa-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa-ai",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:16:35Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T06:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
+    "id": "api-evangelist/vectorize-io",
+    "language": "\u2014",
+    "name": "api-evangelist/vectorize-io",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:15:23Z",
+    "url": "https://github.com/api-evangelist/vectorize-io"
   },
   {
     "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
@@ -45,6 +144,15 @@
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16914,
+    "updated_at": "2026-10-26T06:07:43Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -72,24 +180,6 @@
     "url": "https://github.com/eggspot/EggDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T06:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T06:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
     "id": "api-evangelist/surrealdb",
     "language": "\u2014",
@@ -108,15 +198,6 @@
     "url": "https://github.com/landedjobs/rag-engineer-interview-questions"
   },
   {
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-26T05:58:51Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
     "id": "Angular2Guy/AIDocumentLibraryChat",
     "language": "Java",
@@ -124,15 +205,6 @@
     "stars": 31,
     "updated_at": "2026-10-26T05:51:02Z",
     "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
-    "id": "hufengjuexue/zhongji",
-    "language": "Kotlin",
-    "name": "hufengjuexue/zhongji",
-    "stars": 2,
-    "updated_at": "2026-10-26T05:47:58Z",
-    "url": "https://github.com/hufengjuexue/zhongji"
   },
   {
     "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
@@ -225,15 +297,6 @@
     "url": "https://github.com/api-evangelist/nomic-ai"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40830,
-    "updated_at": "2026-10-26T05:10:20Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -250,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T05:07:52Z",
     "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46481,
-    "updated_at": "2026-10-26T05:05:55Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
@@ -328,7 +382,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39732,
+    "stars": 39733,
     "updated_at": "2026-10-26T04:52:11Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -394,59 +448,5 @@
     "stars": 100,
     "updated_at": "2026-10-26T05:53:22Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8449,
-    "updated_at": "2026-10-26T06:07:32Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Git-diffable memory for AI agents \u2014 six-layer architecture, plain-text source of truth, Obsidian graph projection. MIT.",
-    "id": "albaozhen-eng/coremem",
-    "language": "Python",
-    "name": "albaozhen-eng/coremem",
-    "stars": 1,
-    "updated_at": "2026-10-26T04:25:43Z",
-    "url": "https://github.com/albaozhen-eng/coremem"
-  },
-  {
-    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-10-26T04:25:04Z",
-    "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35252,
-    "updated_at": "2026-10-26T04:20:20Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "NextSQL is a new database engine, written primarily in Go.",
-    "id": "bzync/nextsql",
-    "language": "Go",
-    "name": "bzync/nextsql",
-    "stars": 0,
-    "updated_at": "2026-10-26T04:14:26Z",
-    "url": "https://github.com/bzync/nextsql"
-  },
-  {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "TypeScript",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-10-26T04:11:00Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
   }
 ]
