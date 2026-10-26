@@ -1,21 +1,30 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T00:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-26T00:30:20Z",
+    "updated_at": "2026-10-26T00:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-Powered Islamic finance platform with a bilingual (English/Urdu) RAG chatbot, Zakat calculator, halal stock screener,",
+    "id": "SyedHusnain20/ShariahEase",
+    "language": "Python",
+    "name": "SyedHusnain20/ShariahEase",
+    "stars": 2,
+    "updated_at": "2026-10-26T00:34:43Z",
+    "url": "https://github.com/SyedHusnain20/ShariahEase"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T00:33:09Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An evidence-grounded adaptive gym training system that generates personalized workout programs using RAG (Retrieval-Augm",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Kingflow-23/RepWise",
     "stars": 0,
-    "updated_at": "2026-10-26T00:26:45Z",
+    "updated_at": "2026-10-26T00:37:20Z",
     "url": "https://github.com/Kingflow-23/RepWise"
   },
   {
@@ -95,7 +104,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-26T00:17:31Z",
+    "updated_at": "2026-10-26T00:41:36Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-26T00:32:15Z",
+    "updated_at": "2026-10-26T00:41:18Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T22:25:03Z",
     "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 2,
-    "updated_at": "2026-10-25T22:22:19Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
   }
 ]
