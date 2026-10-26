@@ -1,21 +1,30 @@
 [
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40836,
-    "updated_at": "2026-10-26T06:59:08Z",
-    "url": "https://github.com/volcengine/OpenViking"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T07:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "The typed, secure data layer for vector databases in Node.js: one API over pgvector, Qdrant, SQLite and memory, with inj",
-    "id": "amanjhacodes55/vectorfort",
+    "description": "Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and ag",
+    "id": "Cognipeer/console",
     "language": "TypeScript",
-    "name": "amanjhacodes55/vectorfort",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:58:25Z",
-    "url": "https://github.com/amanjhacodes55/vectorfort"
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-26T07:15:00Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-26T07:14:28Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -23,8 +32,35 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46481,
-    "updated_at": "2026-10-26T06:55:53Z",
+    "updated_at": "2026-10-26T07:09:54Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "The typed, secure data layer for vector databases in Node.js: one API over pgvector, Qdrant, SQLite and memory, with inj",
+    "id": "amanjhacodes55/vectorfort",
+    "language": "TypeScript",
+    "name": "amanjhacodes55/vectorfort",
+    "stars": 0,
+    "updated_at": "2026-10-26T07:08:22Z",
+    "url": "https://github.com/amanjhacodes55/vectorfort"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40837,
+    "updated_at": "2026-10-26T07:08:42Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T07:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SrvDB: open-source embedded vector database for Python & Rust. Local semantic search, RAG and AI memory with no server. ",
@@ -34,15 +70,6 @@
     "stars": 15,
     "updated_at": "2026-10-26T06:55:13Z",
     "url": "https://github.com/Srinivas26k/srvdb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-26T06:55:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
@@ -68,26 +95,8 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 27,
-    "updated_at": "2026-10-26T06:47:05Z",
+    "updated_at": "2026-10-26T07:11:48Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T07:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T06:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-26T06:56:45Z",
+    "updated_at": "2026-10-26T07:03:54Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -414,20 +423,11 @@
     "url": "https://github.com/api-evangelist/lf-ai-and-data"
   },
   {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "HTML",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-10-26T04:52:24Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39736,
+    "stars": 39740,
     "updated_at": "2026-10-26T04:52:11Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
