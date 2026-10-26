@@ -1,21 +1,66 @@
 [
   {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-26T03:12:40Z",
-    "url": "https://github.com/eggspot/EggDB"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-26T03:29:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8448,
+    "updated_at": "2026-10-26T03:26:27Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
     "language": "Rust",
-    "name": "mahpate/Vlite",
+    "name": "databendlabs/databend",
+    "stars": 9482,
+    "updated_at": "2026-10-26T03:27:03Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
     "stars": 2,
-    "updated_at": "2026-10-26T03:10:24Z",
-    "url": "https://github.com/mahpate/Vlite"
+    "updated_at": "2026-10-26T03:26:11Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40818,
+    "updated_at": "2026-10-26T03:25:32Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-26T03:29:59Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 1,
+    "updated_at": "2026-10-26T03:24:05Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
   },
   {
     "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
@@ -23,8 +68,89 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-26T03:13:19Z",
+    "updated_at": "2026-10-26T03:21:27Z",
     "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-26T03:19:43Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "\u26a1 High-Performance Document RAG Pipeline powered by FastAPI, Vector Embeddings, Hybrid Retrieval, and Async Streaming.",
+    "id": "givemehat/DocuRAG-FastAPI",
+    "language": "Python",
+    "name": "givemehat/DocuRAG-FastAPI",
+    "stars": 0,
+    "updated_at": "2026-10-26T03:19:40Z",
+    "url": "https://github.com/givemehat/DocuRAG-FastAPI"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16150,
+    "updated_at": "2026-10-26T03:18:04Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1219,
+    "updated_at": "2026-10-26T03:17:38Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Handbook t\u00e9cnico aberto sobre engenharia de IA em produ\u00e7\u00e3o: ML tradicional, LLMs, RAG, agentes, seguran\u00e7a, observabilida",
+    "id": "ruanpato/production-ai-engineering",
+    "language": "Markdown",
+    "name": "ruanpato/production-ai-engineering",
+    "stars": 1,
+    "updated_at": "2026-10-26T03:16:17Z",
+    "url": "https://github.com/ruanpato/production-ai-engineering"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-26T03:16:15Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T03:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T03:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-26T03:12:40Z",
+    "url": "https://github.com/eggspot/EggDB"
   },
   {
     "description": "NextSQL is a new database engine, written primarily in Go.",
@@ -52,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T03:02:12Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T03:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T03:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
@@ -106,24 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T02:49:57Z",
     "url": "https://github.com/miniaxolotl/grove"
-  },
-  {
-    "description": "Handbook t\u00e9cnico aberto sobre engenharia de IA em produ\u00e7\u00e3o: ML tradicional, LLMs, RAG, agentes, seguran\u00e7a, observabilida",
-    "id": "ruanpato/production-ai-engineering",
-    "language": "Markdown",
-    "name": "ruanpato/production-ai-engineering",
-    "stars": 1,
-    "updated_at": "2026-10-26T03:13:55Z",
-    "url": "https://github.com/ruanpato/production-ai-engineering"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9482,
-    "updated_at": "2026-10-26T03:14:06Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -207,15 +297,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-26T03:14:38Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
     "id": "verygoodplugins/automem",
     "language": "Python",
@@ -268,15 +349,6 @@
     "stars": 6,
     "updated_at": "2026-10-26T01:42:39Z",
     "url": "https://github.com/kurcontko/mnemotree"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8447,
-    "updated_at": "2026-10-26T02:46:26Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-26T00:34:43Z",
     "url": "https://github.com/SyedHusnain20/ShariahEase"
-  },
-  {
-    "description": "a retrieval-augmented  generation system that answers Persian-language technical/programming questions  by retrieving fr",
-    "id": "mjmajlesi/Persian-Technical-RAG",
-    "language": "Python",
-    "name": "mjmajlesi/Persian-Technical-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-26T00:17:59Z",
-    "url": "https://github.com/mjmajlesi/Persian-Technical-RAG"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1509 questions & 52 RAG types), system design scenarios, arch",
-    "id": "ather-techie/rag-interview-system",
-    "language": "JavaScript",
-    "name": "ather-techie/rag-interview-system",
-    "stars": 174,
-    "updated_at": "2026-10-26T00:16:48Z",
-    "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
-    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "language": "JavaScript",
-    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:17:11Z",
-    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 356,
-    "updated_at": "2026-10-26T00:02:54Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Local RAG proof of concept with Laya decisions, MiniLM and Qdrant retrieval, Ollama and Qwen inference, FastAPI, n8n aut",
-    "id": "mjaouni/vector-rag-laya-ai-automation",
-    "language": "Python",
-    "name": "mjaouni/vector-rag-laya-ai-automation",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:57:37Z",
-    "url": "https://github.com/mjaouni/vector-rag-laya-ai-automation"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-25T23:53:22Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-25T23:50:08Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Zero-trust multi-tenant semantic memory for Google ADK, enforced in PostgreSQL with pgvector and Row-Level Security.",
-    "id": "aalishan001/adk-memshield",
-    "language": "Python",
-    "name": "aalishan001/adk-memshield",
-    "stars": 3,
-    "updated_at": "2026-10-25T23:50:01Z",
-    "url": "https://github.com/aalishan001/adk-memshield"
   }
 ]
