@@ -1,11 +1,83 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2059,
+    "updated_at": "2026-10-26T17:09:07Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-26T17:08:51Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9482,
+    "updated_at": "2026-10-26T17:07:00Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9453,
+    "updated_at": "2026-10-26T17:05:26Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "End-to-end platform for optimizing Augmented Generation pipelines through systematic hyperparameter grid search and RAGA",
+    "id": "Empreiteiro/yoke-agent",
+    "language": "Python",
+    "name": "Empreiteiro/yoke-agent",
+    "stars": 3,
+    "updated_at": "2026-10-26T17:03:15Z",
+    "url": "https://github.com/Empreiteiro/yoke-agent"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11780,
+    "updated_at": "2026-10-26T17:02:30Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
+    "id": "edwardtay/awesome-ai",
+    "language": "\u2014",
+    "name": "edwardtay/awesome-ai",
+    "stars": 6,
+    "updated_at": "2026-10-26T17:01:26Z",
+    "url": "https://github.com/edwardtay/awesome-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T17:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-26T17:00:24Z",
+    "updated_at": "2026-10-26T17:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -43,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-26T16:53:41Z",
     "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
-    "id": "edwardtay/awesome-ai",
-    "language": "\u2014",
-    "name": "edwardtay/awesome-ai",
-    "stars": 6,
-    "updated_at": "2026-10-26T16:53:01Z",
-    "url": "https://github.com/edwardtay/awesome-ai"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2059,
-    "updated_at": "2026-10-26T16:51:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.",
@@ -126,15 +180,6 @@
     "url": "https://github.com/YoKONCy/TriviumDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T16:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
     "id": "Yacine-ai-tech/IntelAI",
     "language": "Python",
@@ -144,6 +189,15 @@
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
   },
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7147,
+    "updated_at": "2026-10-26T16:41:48Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -151,24 +205,6 @@
     "stars": 13037,
     "updated_at": "2026-10-26T16:47:09Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7146,
-    "updated_at": "2026-10-26T16:41:48Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11779,
-    "updated_at": "2026-10-26T16:49:54Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 918,
-    "updated_at": "2026-10-26T17:00:04Z",
+    "updated_at": "2026-10-26T17:09:40Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -247,18 +283,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67587,
+    "stars": 67588,
     "updated_at": "2026-10-26T16:14:50Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9482,
-    "updated_at": "2026-10-26T16:31:38Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Large document Q&A agent using RAG",
@@ -293,7 +320,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-26T16:43:03Z",
+    "updated_at": "2026-10-26T17:10:33Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "CodNoob100/null-drift",
     "stars": 23,
-    "updated_at": "2026-10-26T17:00:13Z",
+    "updated_at": "2026-10-26T17:12:39Z",
     "url": "https://github.com/CodNoob100/null-drift"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T15:17:04Z",
     "url": "https://github.com/ahmed-zhr/rag-knowledge-agent"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8453,
-    "updated_at": "2026-10-26T16:54:30Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "A minimal storage layer for storing large matrices and embeddings",
-    "id": "tuned-org-uk/genegraph-storage",
-    "language": "Rust",
-    "name": "tuned-org-uk/genegraph-storage",
-    "stars": 3,
-    "updated_at": "2026-10-26T15:23:26Z",
-    "url": "https://github.com/tuned-org-uk/genegraph-storage"
-  },
-  {
-    "description": "Building a RAG pipeline from scratch in Python to understand the fundamentals. Document loading, chunking, embeddings, v",
-    "id": "mllendinez10/rag-from-scratch",
-    "language": "Python",
-    "name": "mllendinez10/rag-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-10-26T15:11:57Z",
-    "url": "https://github.com/mllendinez10/rag-from-scratch"
   }
 ]
