@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-26 01:45 UTC
+> ⏰ Last updated: 2026-10-26 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 11 | JavaScript | 2026-10-26 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
 | 2 | [Shura5860/LocalAIProject](https://github.com/Shura5860/LocalAIProject) | 0 | Python | 2026-10-26 | High-performance local agentic AI & in-process Rust vector engine. Featuring GGUF inference, HNSW indexing, and autonomo |
-| 3 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-26 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 4 | [fenecdb/fenecdb](https://github.com/fenecdb/fenecdb) | 0 | Rust | 2026-10-26 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
-| 5 | [kurcontko/mnemotree](https://github.com/kurcontko/mnemotree) | 6 | Python | 2026-10-26 | Memory module for LLMs and Agents with MCP |
-| 6 | [eggspot/EggDB](https://github.com/eggspot/EggDB) | 0 | Rust | 2026-10-26 | All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s |
-| 7 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-26 | Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations. |
-| 8 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11769 | Rust | 2026-10-26 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 10 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 11 | JavaScript | 2026-10-26 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2057 | Go | 2026-10-26 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 6 | [fenecdb/fenecdb](https://github.com/fenecdb/fenecdb) | 0 | Rust | 2026-10-26 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 7 | [kurcontko/mnemotree](https://github.com/kurcontko/mnemotree) | 6 | Python | 2026-10-26 | Memory module for LLMs and Agents with MCP |
+| 8 | [eggspot/EggDB](https://github.com/eggspot/EggDB) | 0 | Rust | 2026-10-26 | All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s |
+| 9 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 21 | Rust | 2026-10-26 | Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations. |
+| 10 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11769 | Rust | 2026-10-26 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 11 | [miniaxolotl/grove](https://github.com/miniaxolotl/grove) | 1 | TypeScript | 2026-10-26 | Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb |
 | 12 | [verygoodplugins/automem](https://github.com/verygoodplugins/automem) | 823 | Python | 2026-10-26 | Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi |
 | 13 | [gay00ung/vecnook](https://github.com/gay00ung/vecnook) | 2 | Rust | 2026-10-26 | Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates. |
