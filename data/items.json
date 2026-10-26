@@ -1,5 +1,50 @@
 [
   {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 10,
+    "updated_at": "2026-10-26T17:30:23Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-26T17:16:33Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-26T17:16:05Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T17:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T17:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -7,15 +52,6 @@
     "stars": 2059,
     "updated_at": "2026-10-26T17:09:07Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-26T17:08:51Z",
-    "url": "https://github.com/d3uceY/vectile"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-26T17:05:26Z",
+    "updated_at": "2026-10-26T17:29:01Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "Empreiteiro/yoke-agent",
     "stars": 3,
-    "updated_at": "2026-10-26T17:03:15Z",
+    "updated_at": "2026-10-26T17:24:18Z",
     "url": "https://github.com/Empreiteiro/yoke-agent"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11780,
-    "updated_at": "2026-10-26T17:02:30Z",
+    "updated_at": "2026-10-26T17:28:15Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -61,24 +97,6 @@
     "stars": 6,
     "updated_at": "2026-10-26T17:01:26Z",
     "url": "https://github.com/edwardtay/awesome-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T17:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T17:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -126,15 +144,6 @@
     "url": "https://github.com/Filippo-Venturini/ctxvault"
   },
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-26T16:51:20Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
     "description": "Run the Semurg benchmark comparisons on your own machine: one command, the same questions and data for every engine, ans",
     "id": "One-Semurg/Semurg-Benchmark-Suite",
     "language": "\u2014",
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-26T16:48:54Z",
+    "updated_at": "2026-10-26T17:24:54Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -211,7 +220,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40881,
+    "stars": 40882,
     "updated_at": "2026-10-26T16:36:29Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -223,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-10-26T16:34:44Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16918,
+    "updated_at": "2026-10-26T16:33:23Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-10-26T16:24:37Z",
+    "updated_at": "2026-10-26T17:29:04Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 918,
-    "updated_at": "2026-10-26T17:09:40Z",
+    "updated_at": "2026-10-26T17:30:20Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -283,7 +301,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67588,
+    "stars": 67590,
     "updated_at": "2026-10-26T16:14:50Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -306,21 +324,12 @@
     "url": "https://github.com/hoangdinhlong/nhe_o"
   },
   {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-26T16:28:12Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-26T17:10:33Z",
+    "updated_at": "2026-10-26T17:30:21Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "CodNoob100/null-drift",
     "stars": 23,
-    "updated_at": "2026-10-26T17:12:39Z",
+    "updated_at": "2026-10-26T17:30:02Z",
     "url": "https://github.com/CodNoob100/null-drift"
-  },
-  {
-    "description": "Internal documentation assistant with a human-governed knowledge base \u2014 RAG, domain isolation, full traceability.",
-    "id": "ahmed-zhr/rag-knowledge-agent",
-    "language": "Python",
-    "name": "ahmed-zhr/rag-knowledge-agent",
-    "stars": 0,
-    "updated_at": "2026-10-26T15:17:04Z",
-    "url": "https://github.com/ahmed-zhr/rag-knowledge-agent"
   }
 ]
