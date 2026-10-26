@@ -1,11 +1,56 @@
 [
   {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-26T20:25:06Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-26T20:24:18Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2059,
+    "updated_at": "2026-10-26T20:28:37Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-26T20:20:07Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T20:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-26T20:15:21Z",
+    "updated_at": "2026-10-26T20:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-26T20:15:11Z",
+    "updated_at": "2026-10-26T20:27:19Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 2405,
     "updated_at": "2026-10-26T20:08:07Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T20:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -122,7 +158,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-26T20:08:25Z",
+    "updated_at": "2026-10-26T20:24:36Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T19:38:35Z",
     "url": "https://github.com/t0m-a/Edge-Semantic-Search-RAG-Knowledge-Hub"
-  },
-  {
-    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
-    "id": "hoangdinhlong/nhe_o",
-    "language": "Ada",
-    "name": "hoangdinhlong/nhe_o",
-    "stars": 1,
-    "updated_at": "2026-10-26T19:34:56Z",
-    "url": "https://github.com/hoangdinhlong/nhe_o"
   },
   {
     "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
@@ -212,17 +239,8 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-26T20:06:14Z",
+    "updated_at": "2026-10-26T20:26:25Z",
     "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-26T19:47:02Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -265,7 +283,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32780,
+    "stars": 32781,
     "updated_at": "2026-10-26T18:59:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -360,15 +378,6 @@
     "url": "https://github.com/kantord/SeaGOAT"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2059,
-    "updated_at": "2026-10-26T18:22:29Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T17:37:55Z",
     "url": "https://github.com/tpt-solutions/tpt-keystone-db"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4447,
-    "updated_at": "2026-10-26T17:37:39Z",
-    "url": "https://github.com/crate/crate"
   }
 ]
