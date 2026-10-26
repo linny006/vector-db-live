@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-26T06:14:48Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
+    "id": "api-evangelist/upstash",
+    "language": "\u2014",
+    "name": "api-evangelist/upstash",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:13:18Z",
+    "url": "https://github.com/api-evangelist/upstash"
+  },
+  {
+    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
+    "id": "Hk-owo/stratum-vectordb",
+    "language": "Go",
+    "name": "Hk-owo/stratum-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:10:48Z",
+    "url": "https://github.com/Hk-owo/stratum-vectordb"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-26T06:09:19Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 6,
+    "updated_at": "2026-10-26T06:11:16Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-26T06:05:45Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "SrvDB: open-source embedded vector database for Python & Rust. Local semantic search, RAG and AI memory with no server. ",
+    "id": "Srinivas26k/srvdb",
+    "language": "Rust",
+    "name": "Srinivas26k/srvdb",
+    "stars": 15,
+    "updated_at": "2026-10-26T06:05:42Z",
+    "url": "https://github.com/Srinivas26k/srvdb"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:03:28Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T06:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T06:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
     "id": "api-evangelist/surrealdb",
     "language": "\u2014",
@@ -18,24 +108,6 @@
     "url": "https://github.com/landedjobs/rag-engineer-interview-questions"
   },
   {
-    "description": "SrvDB: open-source embedded vector database for Python & Rust. Local semantic search, RAG and AI memory with no server. ",
-    "id": "Srinivas26k/srvdb",
-    "language": "Rust",
-    "name": "Srinivas26k/srvdb",
-    "stars": 15,
-    "updated_at": "2026-10-26T05:56:36Z",
-    "url": "https://github.com/Srinivas26k/srvdb"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-26T05:54:02Z",
-    "url": "https://github.com/mahpate/Vlite"
-  },
-  {
     "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
     "id": "writerslogic/holographic-memory",
     "language": "Rust",
@@ -43,15 +115,6 @@
     "stars": 21,
     "updated_at": "2026-10-26T05:58:51Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-26T05:52:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
@@ -79,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T05:46:16Z",
     "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T05:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T06:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
@@ -184,7 +229,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40829,
+    "stars": 40830,
     "updated_at": "2026-10-26T05:10:20Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -194,17 +239,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-26T05:37:02Z",
+    "updated_at": "2026-10-26T06:14:36Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:53:40Z",
-    "url": "https://github.com/eggspot/EggDB"
   },
   {
     "description": "MyScale \u2014 independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b",
@@ -214,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-10-26T05:07:52Z",
     "url": "https://github.com/api-evangelist/myscale"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46481,
+    "updated_at": "2026-10-26T05:05:55Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
@@ -283,7 +328,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39730,
+    "stars": 39732,
     "updated_at": "2026-10-26T04:52:11Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -356,7 +401,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8449,
-    "updated_at": "2026-10-26T04:37:20Z",
+    "updated_at": "2026-10-26T06:07:32Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46480,
-    "updated_at": "2026-10-26T05:05:55Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "NextSQL is a new database engine, written primarily in Go.",
     "id": "bzync/nextsql",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T04:11:00Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-10-26T05:39:32Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-10-26T04:03:04Z",
-    "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
-    "id": "zilliztech/vts",
-    "language": "Java",
-    "name": "zilliztech/vts",
-    "stars": 134,
-    "updated_at": "2026-10-26T04:03:50Z",
-    "url": "https://github.com/zilliztech/vts"
-  },
-  {
-    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-10-26T03:58:14Z",
-    "url": "https://github.com/api-evangelist/crate-io"
   }
 ]
