@@ -1,21 +1,30 @@
 [
   {
-    "description": "Chroma's API on your Postgres: a Chroma-compatible server on pgvector, plus a verified one-command migration off Chroma ",
-    "id": "TheJustas228/pgchroma",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "TheJustas228/pgchroma",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:00:08Z",
-    "url": "https://github.com/TheJustas228/pgchroma"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T01:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-26T00:58:52Z",
-    "url": "https://github.com/mahpate/Vlite"
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2057,
+    "updated_at": "2026-10-26T01:14:16Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
+    "id": "codelined-ag/Extracto",
+    "language": "TypeScript",
+    "name": "codelined-ag/Extracto",
+    "stars": 5,
+    "updated_at": "2026-10-26T01:14:15Z",
+    "url": "https://github.com/codelined-ag/Extracto"
   },
   {
     "description": "Memory module for LLMs and Agents with MCP",
@@ -23,8 +32,53 @@
     "language": "Python",
     "name": "kurcontko/mnemotree",
     "stars": 6,
-    "updated_at": "2026-10-26T00:59:09Z",
+    "updated_at": "2026-10-26T01:13:10Z",
     "url": "https://github.com/kurcontko/mnemotree"
+  },
+  {
+    "description": "Chroma's API on your Postgres: a Chroma-compatible server on pgvector, plus a verified one-command migration off Chroma ",
+    "id": "TheJustas228/pgchroma",
+    "language": "Python",
+    "name": "TheJustas228/pgchroma",
+    "stars": 0,
+    "updated_at": "2026-10-26T01:09:12Z",
+    "url": "https://github.com/TheJustas228/pgchroma"
+  },
+  {
+    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-26T01:09:07Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-26T01:06:54Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
+    "id": "wickra-lib/wickra-genome",
+    "language": "Rust",
+    "name": "wickra-lib/wickra-genome",
+    "stars": 1,
+    "updated_at": "2026-10-26T01:05:31Z",
+    "url": "https://github.com/wickra-lib/wickra-genome"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T01:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -72,24 +126,6 @@
     "url": "https://github.com/Kingflow-23/RepWise"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T00:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T01:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-Powered Islamic finance platform with a bilingual (English/Urdu) RAG chatbot, Zakat calculator, halal stock screener,",
     "id": "SyedHusnain20/ShariahEase",
     "language": "Python",
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-26T00:51:53Z",
+    "updated_at": "2026-10-26T01:09:33Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "miniaxolotl/grove",
     "stars": 1,
-    "updated_at": "2026-10-26T00:13:01Z",
+    "updated_at": "2026-10-26T01:09:40Z",
     "url": "https://github.com/miniaxolotl/grove"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 356,
     "updated_at": "2026-10-26T00:02:54Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-26T00:47:35Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Local RAG proof of concept with Laya decisions, MiniLM and Qdrant retrieval, Ollama and Qwen inference, FastAPI, n8n aut",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T22:40:15Z",
     "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:39:54Z",
-    "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:38:10Z",
-    "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
-    "id": "api-evangelist/lf-ai-and-data",
-    "language": "\u2014",
-    "name": "api-evangelist/lf-ai-and-data",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:36:00Z",
-    "url": "https://github.com/api-evangelist/lf-ai-and-data"
   }
 ]
