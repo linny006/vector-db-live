@@ -1,21 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Build your own vector database in Python: distance metrics, nearest-neighbour search and metadata filtering, explained f",
+    "id": "robcox2910/pyvecdb",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T12:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "robcox2910/pyvecdb",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:44:17Z",
+    "url": "https://github.com/robcox2910/pyvecdb"
   },
   {
-    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
-    "id": "tryAGI/Milvus",
-    "language": "C#",
-    "name": "tryAGI/Milvus",
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
     "stars": 0,
-    "updated_at": "2026-10-26T12:29:36Z",
-    "url": "https://github.com/tryAGI/Milvus"
+    "updated_at": "2026-10-26T12:34:44Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   },
   {
     "description": "FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe",
@@ -27,40 +27,13 @@
     "url": "https://github.com/t0rresmarcus/FanVault-AI"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 12,
-    "updated_at": "2026-10-26T12:28:31Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8452,
-    "updated_at": "2026-10-26T12:27:56Z",
+    "updated_at": "2026-10-26T12:32:47Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
-    "id": "edwardtay/awesome-ai",
-    "language": "\u2014",
-    "name": "edwardtay/awesome-ai",
-    "stars": 6,
-    "updated_at": "2026-10-26T12:27:06Z",
-    "url": "https://github.com/edwardtay/awesome-ai"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:23:33Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
   },
   {
     "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
@@ -68,44 +41,8 @@
     "language": "Kotlin",
     "name": "hufengjuexue/zhongji",
     "stars": 2,
-    "updated_at": "2026-10-26T12:22:14Z",
+    "updated_at": "2026-10-26T12:34:59Z",
     "url": "https://github.com/hufengjuexue/zhongji"
-  },
-  {
-    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
-    "id": "tryAGI/Pinecone",
-    "language": "C#",
-    "name": "tryAGI/Pinecone",
-    "stars": 8,
-    "updated_at": "2026-10-26T12:19:28Z",
-    "url": "https://github.com/tryAGI/Pinecone"
-  },
-  {
-    "description": "Handbook t\u00e9cnico aberto sobre engenharia de IA em produ\u00e7\u00e3o: ML tradicional, LLMs, RAG, agentes, seguran\u00e7a, observabilida",
-    "id": "ruanpato/production-ai-engineering",
-    "language": "Markdown",
-    "name": "ruanpato/production-ai-engineering",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:17:19Z",
-    "url": "https://github.com/ruanpato/production-ai-engineering"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T12:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-26T12:14:55Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "Git-diffable memory for AI agents \u2014 six-layer architecture, plain-text source of truth, Obsidian graph projection. MIT.",
@@ -115,42 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T12:13:49Z",
     "url": "https://github.com/albaozhen-eng/coremem"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11776,
-    "updated_at": "2026-10-26T12:12:53Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40866,
-    "updated_at": "2026-10-26T12:18:40Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2406,
-    "updated_at": "2026-10-26T12:10:54Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
-    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "language": "JavaScript",
-    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:10:29Z",
-    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -171,33 +72,6 @@
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6244,
-    "updated_at": "2026-10-26T12:28:39Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 12,
-    "updated_at": "2026-10-26T12:06:03Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-26T12:03:59Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -216,33 +90,6 @@
     "url": "https://github.com/GenAIwithMS/OpenGPT"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-26T11:56:26Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 2,
-    "updated_at": "2026-10-26T11:56:23Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 2048,
-    "updated_at": "2026-10-26T11:55:28Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -252,76 +99,13 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "SAS Retrieval Agent Manager Hackathon resources: RAG collections, evaluation tests, prompts, and MCP tool templates.",
-    "id": "stepodo/sas-ram-hackathon",
-    "language": "Python",
-    "name": "stepodo/sas-ram-hackathon",
-    "stars": 0,
-    "updated_at": "2026-10-26T11:48:14Z",
-    "url": "https://github.com/stepodo/sas-ram-hackathon"
-  },
-  {
-    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
-    "id": "DevAnimecx/free-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "DevAnimecx/free-ai-agent-stack",
-    "stars": 1,
-    "updated_at": "2026-10-26T11:48:10Z",
-    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
-    "id": "bartvanbenthem/basis-ai",
-    "language": "TypeScript",
-    "name": "bartvanbenthem/basis-ai",
-    "stars": 1,
-    "updated_at": "2026-10-26T11:44:42Z",
-    "url": "https://github.com/bartvanbenthem/basis-ai"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-26T11:43:46Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 656,
+    "stars": 658,
     "updated_at": "2026-10-26T11:42:32Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Build your own vector database in Python: distance metrics, nearest-neighbour search and metadata filtering, explained f",
-    "id": "robcox2910/pyvecdb",
-    "language": "Python",
-    "name": "robcox2910/pyvecdb",
-    "stars": 0,
-    "updated_at": "2026-10-26T11:51:19Z",
-    "url": "https://github.com/robcox2910/pyvecdb"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-26T12:03:06Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-26T11:59:13Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -331,15 +115,6 @@
     "stars": 2058,
     "updated_at": "2026-10-26T11:35:25Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:27:29Z",
-    "url": "https://github.com/eggspot/EggDB"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -360,93 +135,12 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "AI-powered PDF chat app -> upload a PDF and ask questions about it.",
-    "id": "Ezio7777/PDF_GPT",
-    "language": "TypeScript",
-    "name": "Ezio7777/PDF_GPT",
-    "stars": 0,
-    "updated_at": "2026-10-26T11:23:32Z",
-    "url": "https://github.com/Ezio7777/PDF_GPT"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-26T11:25:44Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
-    "id": "infiniflow/infinity",
-    "language": "C++",
-    "name": "infiniflow/infinity",
-    "stars": 4744,
-    "updated_at": "2026-10-26T11:16:23Z",
-    "url": "https://github.com/infiniflow/infinity"
-  },
-  {
     "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
     "id": "taladb/taladb",
     "language": "Rust",
     "name": "taladb/taladb",
-    "stars": 23,
+    "stars": 24,
     "updated_at": "2026-10-26T11:08:13Z",
     "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 357,
-    "updated_at": "2026-10-26T11:06:31Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-26T12:29:56Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "A hands-on learning project for building AI agents with LangGraph and LangChain. Practice implementing agentic workflows",
-    "id": "Oyabure-Zakari/ai-agent-practice",
-    "language": "TypeScript",
-    "name": "Oyabure-Zakari/ai-agent-practice",
-    "stars": 0,
-    "updated_at": "2026-10-26T11:02:04Z",
-    "url": "https://github.com/Oyabure-Zakari/ai-agent-practice"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7146,
-    "updated_at": "2026-10-26T12:23:04Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-10-26T10:53:05Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
-    "id": "oguzhankir/omnichunk",
-    "language": "Python",
-    "name": "oguzhankir/omnichunk",
-    "stars": 9,
-    "updated_at": "2026-10-26T10:46:46Z",
-    "url": "https://github.com/oguzhankir/omnichunk"
   }
 ]
