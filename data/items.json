@@ -1,11 +1,92 @@
 [
   {
+    "description": "Chroma's API on your Postgres: a Chroma-compatible server on pgvector, plus a verified one-command migration off Chroma ",
+    "id": "TheJustas228/pgchroma",
+    "language": "Python",
+    "name": "TheJustas228/pgchroma",
+    "stars": 0,
+    "updated_at": "2026-10-26T01:00:08Z",
+    "url": "https://github.com/TheJustas228/pgchroma"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-26T00:58:52Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Memory module for LLMs and Agents with MCP",
+    "id": "kurcontko/mnemotree",
+    "language": "Python",
+    "name": "kurcontko/mnemotree",
+    "stars": 6,
+    "updated_at": "2026-10-26T00:59:09Z",
+    "url": "https://github.com/kurcontko/mnemotree"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-26T00:56:16Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 18,
+    "updated_at": "2026-10-26T00:49:08Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-26T00:48:44Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Edge-native NOC/SRE runbook search & RAG hub built with Qdrant vector DB, CPU-optimized ONNX embeddings (FastEmbed), Doc",
+    "id": "t0m-a/Edge-Semantic-Search-RAG-Knowledge-Hub",
+    "language": "Python",
+    "name": "t0m-a/Edge-Semantic-Search-RAG-Knowledge-Hub",
+    "stars": 0,
+    "updated_at": "2026-10-26T00:47:52Z",
+    "url": "https://github.com/t0m-a/Edge-Semantic-Search-RAG-Knowledge-Hub"
+  },
+  {
+    "description": "An evidence-grounded adaptive gym training system that generates personalized workout programs using RAG (Retrieval-Augm",
+    "id": "Kingflow-23/RepWise",
+    "language": "Jupyter Notebook",
+    "name": "Kingflow-23/RepWise",
+    "stars": 0,
+    "updated_at": "2026-10-26T00:47:05Z",
+    "url": "https://github.com/Kingflow-23/RepWise"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T00:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-26T00:45:22Z",
+    "updated_at": "2026-10-26T01:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,30 +99,12 @@
     "url": "https://github.com/SyedHusnain20/ShariahEase"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T00:33:09Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "An evidence-grounded adaptive gym training system that generates personalized workout programs using RAG (Retrieval-Augm",
-    "id": "Kingflow-23/RepWise",
-    "language": "Python",
-    "name": "Kingflow-23/RepWise",
-    "stars": 0,
-    "updated_at": "2026-10-26T00:37:20Z",
-    "url": "https://github.com/Kingflow-23/RepWise"
-  },
-  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenecdb",
     "language": "Rust",
     "name": "fenecdb/fenecdb",
     "stars": 0,
-    "updated_at": "2026-10-26T00:33:03Z",
+    "updated_at": "2026-10-26T00:51:53Z",
     "url": "https://github.com/fenecdb/fenecdb"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 174,
     "updated_at": "2026-10-26T00:16:48Z",
     "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "Chroma's API on your Postgres: a Chroma-compatible server on pgvector, plus a verified one-command migration off Chroma ",
-    "id": "TheJustas228/pgchroma",
-    "language": "Python",
-    "name": "TheJustas228/pgchroma",
-    "stars": 0,
-    "updated_at": "2026-10-26T00:14:05Z",
-    "url": "https://github.com/TheJustas228/pgchroma"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -104,7 +158,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-26T00:41:36Z",
+    "updated_at": "2026-10-26T00:47:35Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -306,15 +360,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-25T22:53:03Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
     "id": "api-evangelist/ragflow",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T22:36:00Z",
     "url": "https://github.com/api-evangelist/lf-ai-and-data"
-  },
-  {
-    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:35:04Z",
-    "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
-    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
-    "id": "api-evangelist/ironcore-labs",
-    "language": "\u2014",
-    "name": "api-evangelist/ironcore-labs",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:31:57Z",
-    "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 8,
-    "updated_at": "2026-10-25T22:42:29Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 7,
-    "updated_at": "2026-10-25T22:31:54Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:25:03Z",
-    "url": "https://github.com/api-evangelist/gel-data"
   }
 ]
