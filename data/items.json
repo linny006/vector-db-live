@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-26T08:30:22Z",
+    "updated_at": "2026-10-26T08:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-26T08:42:28Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46482,
+    "updated_at": "2026-10-26T08:42:01Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xGraph/10xGraph",
+    "language": "Python",
+    "name": "10xGraph/10xGraph",
+    "stars": 28,
+    "updated_at": "2026-10-26T08:38:32Z",
+    "url": "https://github.com/10xGraph/10xGraph"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 17,
+    "updated_at": "2026-10-26T08:36:17Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59672,
+    "updated_at": "2026-10-26T08:34:07Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Production-deployed RAG service: ingest PDF/DOCX/TXT/MD/CSV/HTML, semantic search with ChromaDB, grounded answers via Gr",
+    "id": "balaravi444/RAG_SYSTEM",
+    "language": "Python",
+    "name": "balaravi444/RAG_SYSTEM",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:32:29Z",
+    "url": "https://github.com/balaravi444/RAG_SYSTEM"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:31:54Z",
+    "url": "https://github.com/tryAGI/Qdrant"
+  },
+  {
+    "description": "C# SDK for the Chroma API -- open-source vector database",
+    "id": "tryAGI/Chroma",
+    "language": "C#",
+    "name": "tryAGI/Chroma",
+    "stars": 1,
+    "updated_at": "2026-10-26T08:31:07Z",
+    "url": "https://github.com/tryAGI/Chroma"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T08:30:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -45,6 +126,15 @@
     "url": "https://github.com/superlinked/VectorHub"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11775,
+    "updated_at": "2026-10-26T08:17:01Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -72,15 +162,6 @@
     "url": "https://github.com/tryAGI/Turbopuffer"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T08:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
@@ -104,7 +185,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-26T07:59:03Z",
+    "updated_at": "2026-10-26T08:38:07Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -126,20 +207,11 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11774,
-    "updated_at": "2026-10-26T08:17:01Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40850,
+    "stars": 40851,
     "updated_at": "2026-10-26T07:52:32Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -149,7 +221,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-26T07:55:41Z",
+    "updated_at": "2026-10-26T08:44:23Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -203,17 +275,8 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-26T07:50:53Z",
+    "updated_at": "2026-10-26T08:32:52Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46482,
-    "updated_at": "2026-10-26T07:09:54Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "SrvDB: open-source embedded vector database for Python & Rust. Local semantic search, RAG and AI memory with no server. ",
@@ -257,7 +320,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-26T08:26:11Z",
+    "updated_at": "2026-10-26T08:39:18Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -360,15 +423,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-26T06:32:40Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
     "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
     "id": "api-evangelist/surrealdb",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 31,
     "updated_at": "2026-10-26T05:51:02Z",
     "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
-    "id": "api-evangelist/sequoiadb",
-    "language": "\u2014",
-    "name": "api-evangelist/sequoiadb",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:46:16Z",
-    "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
-    "id": "NGT-labs/NGT",
-    "language": "C++",
-    "name": "NGT-labs/NGT",
-    "stars": 1375,
-    "updated_at": "2026-10-26T05:41:32Z",
-    "url": "https://github.com/NGT-labs/NGT"
-  },
-  {
-    "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
-    "id": "api-evangelist/ragflow",
-    "language": "\u2014",
-    "name": "api-evangelist/ragflow",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:34:39Z",
-    "url": "https://github.com/api-evangelist/ragflow"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-26T05:31:33Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
-    "id": "rustic-ai/uni-db",
-    "language": "Rust",
-    "name": "rustic-ai/uni-db",
-    "stars": 57,
-    "updated_at": "2026-10-26T05:25:41Z",
-    "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
-    "id": "hoangdinhlong/nhe_o",
-    "language": "Ada",
-    "name": "hoangdinhlong/nhe_o",
-    "stars": 1,
-    "updated_at": "2026-10-26T05:24:12Z",
-    "url": "https://github.com/hoangdinhlong/nhe_o"
   }
 ]
