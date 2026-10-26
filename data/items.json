@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-26T21:51:13Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 24,
+    "updated_at": "2026-10-26T21:49:45Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-26T21:48:33Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T21:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T21:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A lightweight, minimal memory framework for AI agents",
     "id": "SitanshuA091/memlib-ai",
     "language": "Python",
@@ -9,21 +54,12 @@
     "url": "https://github.com/SitanshuA091/memlib-ai"
   },
   {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-26T21:44:45Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
     "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
     "id": "eggspot/EggDB",
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-26T21:44:22Z",
+    "updated_at": "2026-10-26T21:49:37Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -54,33 +90,6 @@
     "url": "https://github.com/Rachit47/IdatenOps"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T21:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T21:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-26T21:29:23Z",
-    "url": "https://github.com/mahpate/Vlite"
-  },
-  {
     "description": "The Ultimate Vectors Library for Java",
     "id": "integrallis/vectors",
     "language": "Java",
@@ -97,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-10-26T21:25:24Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "LlamaIndex is the document processing platform for AI",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 52673,
+    "updated_at": "2026-10-26T21:25:10Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -144,15 +162,6 @@
     "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
   },
   {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 24,
-    "updated_at": "2026-10-26T21:17:15Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-26T21:23:56Z",
+    "updated_at": "2026-10-26T21:50:17Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -248,7 +257,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-26T21:30:52Z",
+    "updated_at": "2026-10-26T21:46:50Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -256,7 +265,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67594,
+    "stars": 67595,
     "updated_at": "2026-10-26T20:11:41Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -293,7 +302,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 12,
-    "updated_at": "2026-10-26T21:32:46Z",
+    "updated_at": "2026-10-26T21:48:54Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 32781,
     "updated_at": "2026-10-26T18:59:51Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Local RAG system for PMs to reduce AI hallucination",
-    "id": "anoopnair-aipm/local-rag-system",
-    "language": "Python",
-    "name": "anoopnair-aipm/local-rag-system",
-    "stars": 2,
-    "updated_at": "2026-10-26T18:59:41Z",
-    "url": "https://github.com/anoopnair-aipm/local-rag-system"
   }
 ]
