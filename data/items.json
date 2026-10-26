@@ -1,11 +1,74 @@
 [
   {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-26T19:10:36Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-26T19:09:16Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A vector database of the whole market: every asset as a live vector over the 495 O(1) streaming indicators the registry ",
+    "id": "wickra-lib/wickra-genome",
+    "language": "Rust",
+    "name": "wickra-lib/wickra-genome",
+    "stars": 1,
+    "updated_at": "2026-10-26T19:06:52Z",
+    "url": "https://github.com/wickra-lib/wickra-genome"
+  },
+  {
+    "description": "Couchbase integration with LangChain",
+    "id": "Couchbase-Ecosystem/langchain-couchbase",
+    "language": "Python",
+    "name": "Couchbase-Ecosystem/langchain-couchbase",
+    "stars": 4,
+    "updated_at": "2026-10-26T19:06:33Z",
+    "url": "https://github.com/Couchbase-Ecosystem/langchain-couchbase"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-26T19:04:50Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-26T19:02:40Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T19:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-26T19:00:22Z",
+    "updated_at": "2026-10-26T19:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,13 +81,13 @@
     "url": "https://github.com/ocakciomursel-pixel/ai-ready-website-to-markdown-rag-crawler"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-26T19:00:05Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32779,
+    "updated_at": "2026-10-26T18:59:51Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Local RAG system for PMs to reduce AI hallucination",
@@ -81,15 +144,6 @@
     "url": "https://github.com/Empreiteiro/yoke-agent"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-26T18:50:55Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
     "id": "dem2007/ChromaDB-Manager",
     "language": "Swift",
@@ -104,7 +158,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-26T18:53:33Z",
+    "updated_at": "2026-10-26T19:14:34Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T18:47:32Z",
     "url": "https://github.com/hoangdinhlong/nhe_o"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T18:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.",
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-26T18:58:39Z",
+    "updated_at": "2026-10-26T19:12:25Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -184,7 +229,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39780,
+    "stars": 39781,
     "updated_at": "2026-10-26T18:06:38Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -252,15 +297,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32778,
-    "updated_at": "2026-10-26T18:59:51Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
     "id": "RishabhMathur06/CASO-RAG",
     "language": "Python",
@@ -310,7 +346,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40887,
+    "stars": 40888,
     "updated_at": "2026-10-26T17:34:44Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -329,7 +365,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11782,
-    "updated_at": "2026-10-26T18:50:15Z",
+    "updated_at": "2026-10-26T19:09:14Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-26T18:33:54Z",
+    "updated_at": "2026-10-26T19:12:10Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-26T19:00:24Z",
-    "url": "https://github.com/mahpate/Vlite"
-  },
-  {
     "description": "Run the Semurg benchmark comparisons on your own machine: one command, the same questions and data for every engine, ans",
     "id": "One-Semurg/Semurg-Benchmark-Suite",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T16:48:31Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 13038,
-    "updated_at": "2026-10-26T16:47:09Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Self-hosted enterprise RAG and analytics: hybrid retrieval (BGE-M3, BM25, RRF), BGE reranker, GraphRAG-lite and forecast",
-    "id": "Yacine-ai-tech/IntelAI",
-    "language": "Python",
-    "name": "Yacine-ai-tech/IntelAI",
-    "stars": 0,
-    "updated_at": "2026-10-26T16:44:51Z",
-    "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7149,
-    "updated_at": "2026-10-26T16:41:48Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
