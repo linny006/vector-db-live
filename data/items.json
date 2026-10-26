@@ -1,12 +1,111 @@
 [
   {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 97,
+    "updated_at": "2026-10-26T14:14:27Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Turn your prompt or pdfs into a structured study roadmap with timers on every topic.",
+    "id": "Anushree-Radhika/Bow-and-Arrow",
+    "language": "JavaScript",
+    "name": "Anushree-Radhika/Bow-and-Arrow",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:12:53Z",
+    "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-26T14:13:21Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46486,
+    "updated_at": "2026-10-26T14:11:55Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-26T14:11:27Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "Java",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-10-26T14:11:09Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:10:05Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-26T14:04:32Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-26T14:04:26Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
     "description": "A minimal storage layer for storing large matrices and embeddings",
     "id": "tuned-org-uk/genegraph-storage",
     "language": "Rust",
     "name": "tuned-org-uk/genegraph-storage",
     "stars": 3,
-    "updated_at": "2026-10-26T14:00:28Z",
+    "updated_at": "2026-10-26T14:03:16Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6239,
+    "updated_at": "2026-10-26T14:02:16Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T14:00:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-26T14:00:28Z",
+    "updated_at": "2026-10-26T14:15:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +122,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-26T14:00:18Z",
+    "updated_at": "2026-10-26T14:03:24Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -36,21 +135,12 @@
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
-    "description": "An AI-powered active study platform that transforms dense textbooks and lecture PDFs into interactive, time-boxed visual",
-    "id": "Anushree-Radhika/Bow-and-Arrow",
-    "language": "JavaScript",
-    "name": "Anushree-Radhika/Bow-and-Arrow",
-    "stars": 0,
-    "updated_at": "2026-10-26T13:56:40Z",
-    "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40865,
-    "updated_at": "2026-10-26T13:55:01Z",
+    "stars": 40867,
+    "updated_at": "2026-10-26T14:14:28Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -81,21 +171,12 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T13:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
     "id": "weaviate/docs",
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-10-26T13:49:08Z",
+    "updated_at": "2026-10-26T14:11:56Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32772,
-    "updated_at": "2026-10-26T13:40:41Z",
+    "updated_at": "2026-10-26T14:10:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -203,7 +284,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11777,
-    "updated_at": "2026-10-26T13:31:13Z",
+    "updated_at": "2026-10-26T14:09:49Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -252,15 +333,6 @@
     "url": "https://github.com/hufengjuexue/zhongji"
   },
   {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-26T13:46:52Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -306,15 +378,6 @@
     "url": "https://github.com/avaazquezz/Qdrant-MCP"
   },
   {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-26T13:59:54Z",
-    "url": "https://github.com/eggspot/EggDB"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -351,15 +414,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46486,
-    "updated_at": "2026-10-26T12:59:57Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "The Kubernetes operator for K8ssandra",
     "id": "k8ssandra/k8ssandra-operator",
     "language": "Go",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T12:39:45Z",
     "url": "https://github.com/Jayouss/docugraph-ai"
-  },
-  {
-    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
-    "id": "ldclabs/anda-db",
-    "language": "Rust",
-    "name": "ldclabs/anda-db",
-    "stars": 31,
-    "updated_at": "2026-10-26T12:38:30Z",
-    "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:34:44Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "C# SDK for the Weaviate API -- open-source vector database",
-    "id": "tryAGI/Weaviate",
-    "language": "C#",
-    "name": "tryAGI/Weaviate",
-    "stars": 2,
-    "updated_at": "2026-10-26T12:31:12Z",
-    "url": "https://github.com/tryAGI/Weaviate"
-  },
-  {
-    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
-    "id": "tryAGI/Milvus",
-    "language": "C#",
-    "name": "tryAGI/Milvus",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:29:36Z",
-    "url": "https://github.com/tryAGI/Milvus"
-  },
-  {
-    "description": "FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe",
-    "id": "t0rresmarcus/FanVault-AI",
-    "language": "TypeScript",
-    "name": "t0rresmarcus/FanVault-AI",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:29:00Z",
-    "url": "https://github.com/t0rresmarcus/FanVault-AI"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 12,
-    "updated_at": "2026-10-26T12:36:55Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   }
 ]
