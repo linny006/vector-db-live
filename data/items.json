@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T12:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
+    "id": "tryAGI/Milvus",
+    "language": "C#",
+    "name": "tryAGI/Milvus",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:29:36Z",
+    "url": "https://github.com/tryAGI/Milvus"
+  },
+  {
+    "description": "FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe",
+    "id": "t0rresmarcus/FanVault-AI",
+    "language": "TypeScript",
+    "name": "t0rresmarcus/FanVault-AI",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:29:00Z",
+    "url": "https://github.com/t0rresmarcus/FanVault-AI"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 12,
+    "updated_at": "2026-10-26T12:28:31Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8452,
+    "updated_at": "2026-10-26T12:27:56Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
+    "id": "edwardtay/awesome-ai",
+    "language": "\u2014",
+    "name": "edwardtay/awesome-ai",
+    "stars": 6,
+    "updated_at": "2026-10-26T12:27:06Z",
+    "url": "https://github.com/edwardtay/awesome-ai"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:23:33Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
+    "id": "hufengjuexue/zhongji",
+    "language": "Kotlin",
+    "name": "hufengjuexue/zhongji",
+    "stars": 2,
+    "updated_at": "2026-10-26T12:22:14Z",
+    "url": "https://github.com/hufengjuexue/zhongji"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-10-26T12:19:28Z",
+    "url": "https://github.com/tryAGI/Pinecone"
+  },
+  {
+    "description": "Handbook t\u00e9cnico aberto sobre engenharia de IA em produ\u00e7\u00e3o: ML tradicional, LLMs, RAG, agentes, seguran\u00e7a, observabilida",
+    "id": "ruanpato/production-ai-engineering",
+    "language": "Markdown",
+    "name": "ruanpato/production-ai-engineering",
+    "stars": 1,
+    "updated_at": "2026-10-26T12:17:19Z",
+    "url": "https://github.com/ruanpato/production-ai-engineering"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T12:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
@@ -31,8 +130,8 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40865,
-    "updated_at": "2026-10-26T12:11:15Z",
+    "stars": 40866,
+    "updated_at": "2026-10-26T12:18:40Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -77,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-26T12:08:55Z",
+    "updated_at": "2026-10-26T12:28:39Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -99,22 +198,13 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T12:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T12:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "topoteretes/cognee",
+    "stars": 32770,
+    "updated_at": "2026-10-26T12:02:56Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "OpenGPT, An open AI workspace for conversations, knowledge, and productivity.",
@@ -148,7 +238,7 @@
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
-    "stars": 2047,
+    "stars": 2048,
     "updated_at": "2026-10-26T11:55:28Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
@@ -180,15 +270,6 @@
     "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32769,
-    "updated_at": "2026-10-26T12:02:56Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
     "id": "bartvanbenthem/basis-ai",
     "language": "TypeScript",
@@ -211,7 +292,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 655,
+    "stars": 656,
     "updated_at": "2026-10-26T11:42:32Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -257,7 +338,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-26T12:05:34Z",
+    "updated_at": "2026-10-26T12:27:29Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -265,7 +346,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39757,
+    "stars": 39759,
     "updated_at": "2026-10-26T11:25:41Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -329,7 +410,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 139,
-    "updated_at": "2026-10-26T11:03:43Z",
+    "updated_at": "2026-10-26T12:29:56Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -347,7 +428,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7146,
-    "updated_at": "2026-10-26T12:15:16Z",
+    "updated_at": "2026-10-26T12:23:04Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-26T10:46:46Z",
     "url": "https://github.com/oguzhankir/omnichunk"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 10,
-    "updated_at": "2026-10-26T10:45:11Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
-    "id": "hufengjuexue/zhongji",
-    "language": "Kotlin",
-    "name": "hufengjuexue/zhongji",
-    "stars": 2,
-    "updated_at": "2026-10-26T10:41:49Z",
-    "url": "https://github.com/hufengjuexue/zhongji"
-  },
-  {
-    "description": "Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LL",
-    "id": "tayyabimam1/awesome-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "tayyabimam1/awesome-ai-agent-stack",
-    "stars": 31,
-    "updated_at": "2026-10-26T10:26:04Z",
-    "url": "https://github.com/tayyabimam1/awesome-ai-agent-stack"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-26T10:24:53Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 97,
-    "updated_at": "2026-10-26T11:04:12Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
-    "id": "IdoY12/awesome-free-ai-apis",
-    "language": "JavaScript",
-    "name": "IdoY12/awesome-free-ai-apis",
-    "stars": 1,
-    "updated_at": "2026-10-26T10:15:37Z",
-    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 389,
-    "updated_at": "2026-10-26T10:25:23Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "An AI-powered active study platform that transforms dense textbooks and lecture PDFs into interactive, time-boxed visual",
-    "id": "Anushree-Radhika/Bow-and-Arrow",
-    "language": "JavaScript",
-    "name": "Anushree-Radhika/Bow-and-Arrow",
-    "stars": 0,
-    "updated_at": "2026-10-26T10:10:41Z",
-    "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 3,
-    "updated_at": "2026-10-26T10:03:39Z",
-    "url": "https://github.com/kalisio/knowledge"
   }
 ]
