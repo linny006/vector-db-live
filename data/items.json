@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
+    "id": "miniaxolotl/grove",
+    "language": "TypeScript",
+    "name": "miniaxolotl/grove",
+    "stars": 1,
+    "updated_at": "2026-10-26T02:37:30Z",
+    "url": "https://github.com/miniaxolotl/grove"
+  },
+  {
+    "description": "Multi-agent RAG system with AutoGen, LangChain, and ChromaDB \u2014 ingest documents and ask questions via CLI or Gradio UI.",
+    "id": "vilaswasnik/agentic-rag-system",
+    "language": "Python",
+    "name": "vilaswasnik/agentic-rag-system",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:35:25Z",
+    "url": "https://github.com/vilaswasnik/agentic-rag-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T02:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T02:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Quiver is a pure Swift framework for statistics, linear algebra, and machine learning.",
     "id": "waynewbishop/quiver",
     "language": "Swift",
@@ -7,15 +43,6 @@
     "stars": 22,
     "updated_at": "2026-10-26T02:28:25Z",
     "url": "https://github.com/waynewbishop/quiver"
-  },
-  {
-    "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
-    "id": "miniaxolotl/grove",
-    "language": "TypeScript",
-    "name": "miniaxolotl/grove",
-    "stars": 1,
-    "updated_at": "2026-10-26T02:29:02Z",
-    "url": "https://github.com/miniaxolotl/grove"
   },
   {
     "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
@@ -50,7 +77,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11771,
-    "updated_at": "2026-10-26T02:18:31Z",
+    "updated_at": "2026-10-26T02:42:02Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -59,26 +86,8 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-26T02:17:10Z",
+    "updated_at": "2026-10-26T02:36:38Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T02:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T02:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -140,7 +149,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2057,
-    "updated_at": "2026-10-26T01:43:21Z",
+    "updated_at": "2026-10-26T02:45:19Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -185,7 +194,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-26T02:27:19Z",
+    "updated_at": "2026-10-26T02:31:38Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T23:08:44Z",
     "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:08:15Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
   }
 ]
