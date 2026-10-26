@@ -1,5 +1,59 @@
 [
   {
+    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-26T04:25:49Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "Git-diffable memory for AI agents \u2014 six-layer architecture, plain-text source of truth, Obsidian graph projection. MIT.",
+    "id": "albaozhen-eng/coremem",
+    "language": "Python",
+    "name": "albaozhen-eng/coremem",
+    "stars": 1,
+    "updated_at": "2026-10-26T04:25:43Z",
+    "url": "https://github.com/albaozhen-eng/coremem"
+  },
+  {
+    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-10-26T04:25:04Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-26T04:21:06Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-26T04:15:40Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T04:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40822,
-    "updated_at": "2026-10-26T04:08:34Z",
+    "updated_at": "2026-10-26T04:20:08Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T04:03:04Z",
     "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T04:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46478,
-    "updated_at": "2026-10-26T03:49:19Z",
+    "updated_at": "2026-10-26T04:19:51Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2058,
-    "updated_at": "2026-10-26T03:45:04Z",
+    "updated_at": "2026-10-26T04:18:32Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9482,
-    "updated_at": "2026-10-26T03:47:22Z",
+    "updated_at": "2026-10-26T04:25:31Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -216,15 +261,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-26T03:52:59Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
     "id": "api-evangelist/azure-cosmos-db",
     "language": "\u2014",
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T03:24:05Z",
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-26T04:02:09Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -286,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T03:38:24Z",
     "url": "https://github.com/ruanpato/production-ai-engineering"
-  },
-  {
-    "description": "Single-file vector database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a web dashboar",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-26T03:16:15Z",
-    "url": "https://github.com/mahpate/Vlite"
   },
   {
     "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
@@ -356,7 +374,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 917,
-    "updated_at": "2026-10-26T02:35:08Z",
+    "updated_at": "2026-10-26T04:28:19Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T01:58:21Z",
     "url": "https://github.com/Shura5860/LocalAIProject"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenecdb",
-    "language": "Rust",
-    "name": "fenecdb/fenecdb",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:43:17Z",
-    "url": "https://github.com/fenecdb/fenecdb"
-  },
-  {
-    "description": "Memory module for LLMs and Agents with MCP",
-    "id": "kurcontko/mnemotree",
-    "language": "Python",
-    "name": "kurcontko/mnemotree",
-    "stars": 6,
-    "updated_at": "2026-10-26T01:42:39Z",
-    "url": "https://github.com/kurcontko/mnemotree"
   }
 ]
