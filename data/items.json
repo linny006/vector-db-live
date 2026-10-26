@@ -1,5 +1,140 @@
 [
   {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 651,
+    "updated_at": "2026-10-26T09:26:31Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-26T09:26:01Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "A retrieval-augmented generation CLI that answers questions about your own notes and cites the passage each answer came ",
+    "id": "Iddrisusalima/ask-my-docs",
+    "language": "Python",
+    "name": "Iddrisusalima/ask-my-docs",
+    "stars": 1,
+    "updated_at": "2026-10-26T09:25:49Z",
+    "url": "https://github.com/Iddrisusalima/ask-my-docs"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40856,
+    "updated_at": "2026-10-26T09:25:43Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
+    "id": "ChromaDotNet/ChromaDB.Local",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Local",
+    "stars": 3,
+    "updated_at": "2026-10-26T09:23:37Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
+  },
+  {
+    "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
+    "id": "zilliztech/vts",
+    "language": "Java",
+    "name": "zilliztech/vts",
+    "stars": 134,
+    "updated_at": "2026-10-26T09:22:18Z",
+    "url": "https://github.com/zilliztech/vts"
+  },
+  {
+    "description": "A visual sandbox for experimenting with RAG configurations. Interactive tools for document parsing, chunking, embeddings",
+    "id": "jvorndran/RAG-Visualizer",
+    "language": "Python",
+    "name": "jvorndran/RAG-Visualizer",
+    "stars": 1,
+    "updated_at": "2026-10-26T09:20:32Z",
+    "url": "https://github.com/jvorndran/RAG-Visualizer"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-26T09:20:31Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-26T09:18:10Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-26T09:17:12Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39747,
+    "updated_at": "2026-10-26T09:28:26Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-26T09:16:14Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 264,
+    "updated_at": "2026-10-26T09:15:31Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T09:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T09:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
@@ -16,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T09:09:35Z",
     "url": "https://github.com/Rachit47/IdatenOps"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39745,
-    "updated_at": "2026-10-26T09:11:21Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -54,15 +180,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40855,
-    "updated_at": "2026-10-26T09:08:09Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -72,31 +189,13 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T09:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T09:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
     "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-26T09:07:01Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
+    "name": "meilisearch/meilisearch",
+    "stars": 59673,
+    "updated_at": "2026-10-26T09:02:00Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -113,7 +212,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9482,
-    "updated_at": "2026-10-26T09:09:18Z",
+    "updated_at": "2026-10-26T09:26:49Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -135,6 +234,15 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16152,
+    "updated_at": "2026-10-26T08:41:43Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
     "id": "10xGraph/10xGraph",
     "language": "Python",
@@ -151,15 +259,6 @@
     "stars": 17,
     "updated_at": "2026-10-26T08:36:17Z",
     "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59672,
-    "updated_at": "2026-10-26T09:02:00Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Production-deployed RAG service: ingest PDF/DOCX/TXT/MD/CSV/HTML, semantic search with ChromaDB, grounded answers via Gr",
@@ -261,15 +360,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-26T09:09:56Z",
-    "url": "https://github.com/eggspot/EggDB"
-  },
-  {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 15,
     "updated_at": "2026-10-26T06:55:13Z",
     "url": "https://github.com/Srinivas26k/srvdb"
-  },
-  {
-    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
-    "id": "gxc02529-jpg/KnowLoop",
-    "language": "Python",
-    "name": "gxc02529-jpg/KnowLoop",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:47:37Z",
-    "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 27,
-    "updated_at": "2026-10-26T07:11:48Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
-    "id": "hufengjuexue/zhongji",
-    "language": "Kotlin",
-    "name": "hufengjuexue/zhongji",
-    "stars": 2,
-    "updated_at": "2026-10-26T06:41:49Z",
-    "url": "https://github.com/hufengjuexue/zhongji"
-  },
-  {
-    "description": "LIVEN is a fast, lightweight database built to capture, store, and stream data in real time. It is designed to handle co",
-    "id": "livendb/liven",
-    "language": "Rust",
-    "name": "livendb/liven",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:48:56Z",
-    "url": "https://github.com/livendb/liven"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:26:58Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Python client for Qdrant vector search engine",
-    "id": "qdrant/qdrant-client",
-    "language": "Python",
-    "name": "qdrant/qdrant-client",
-    "stars": 1373,
-    "updated_at": "2026-10-26T06:23:25Z",
-    "url": "https://github.com/qdrant/qdrant-client"
-  },
-  {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:20:22Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-26T06:18:57Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:16:35Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:15:23Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
   }
 ]
