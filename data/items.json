@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T15:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-26T15:26:23Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local-first Windows AI governance and reasoning software for U.S. evaluation. Version 4.4.5 is an engineering candidate;",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 6,
+    "updated_at": "2026-10-26T15:25:57Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-26T15:24:00Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Internal documentation assistant with a human-governed knowledge base \u2014 RAG, domain isolation, full traceability.",
+    "id": "ahmed-zhr/rag-knowledge-agent",
+    "language": "Python",
+    "name": "ahmed-zhr/rag-knowledge-agent",
+    "stars": 0,
+    "updated_at": "2026-10-26T15:17:04Z",
+    "url": "https://github.com/ahmed-zhr/rag-knowledge-agent"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-26T15:16:53Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8453,
+    "updated_at": "2026-10-26T15:15:38Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T15:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A minimal storage layer for storing large matrices and embeddings",
     "id": "tuned-org-uk/genegraph-storage",
     "language": "Rust",
     "name": "tuned-org-uk/genegraph-storage",
     "stars": 3,
-    "updated_at": "2026-10-26T15:13:44Z",
+    "updated_at": "2026-10-26T15:23:26Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
   },
   {
@@ -18,6 +90,15 @@
     "url": "https://github.com/mllendinez10/rag-from-scratch"
   },
   {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40873,
+    "updated_at": "2026-10-26T15:11:55Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -27,6 +108,15 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16917,
+    "updated_at": "2026-10-26T15:07:17Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -34,33 +124,6 @@
     "stars": 59676,
     "updated_at": "2026-10-26T15:10:24Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40870,
-    "updated_at": "2026-10-26T15:11:55Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T15:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T15:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
@@ -79,15 +142,6 @@
     "stars": 46486,
     "updated_at": "2026-10-26T14:55:55Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-26T14:55:44Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -149,17 +203,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7146,
-    "updated_at": "2026-10-26T15:07:52Z",
+    "updated_at": "2026-10-26T15:30:22Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-26T14:59:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -167,17 +212,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9482,
-    "updated_at": "2026-10-26T14:58:54Z",
+    "updated_at": "2026-10-26T15:28:39Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16916,
-    "updated_at": "2026-10-26T15:07:17Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32776,
-    "updated_at": "2026-10-26T15:09:13Z",
+    "updated_at": "2026-10-26T15:15:33Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39768,
-    "updated_at": "2026-10-26T14:00:23Z",
+    "updated_at": "2026-10-26T15:28:23Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 13304,
     "updated_at": "2026-10-26T13:41:31Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
-    "id": "NirDiamant/Agent_Memory_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/Agent_Memory_Techniques",
-    "stars": 1123,
-    "updated_at": "2026-10-26T13:39:49Z",
-    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 30012,
-    "updated_at": "2026-10-26T13:39:41Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 17,
-    "updated_at": "2026-10-26T13:37:50Z",
-    "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "A rewritten frontend for Weaviate's clip-multi-modal-text-image-search example that utilizes NextJS and tailwind.",
-    "id": "Oceanswave/weaviate-multimodal-demo",
-    "language": "TypeScript",
-    "name": "Oceanswave/weaviate-multimodal-demo",
-    "stars": 2,
-    "updated_at": "2026-10-26T13:38:27Z",
-    "url": "https://github.com/Oceanswave/weaviate-multimodal-demo"
   }
 ]
