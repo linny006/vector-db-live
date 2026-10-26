@@ -1,11 +1,128 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-26T14:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-10-26T14:27:36Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
+    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "language": "JavaScript",
+    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:26:47Z",
+    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
+  },
+  {
+    "description": "Recipe search engine \u2014 semantic search by description, not just keywords",
+    "id": "breakingthebot/weaviate-recipe-semantic-search-build88",
+    "language": "Python",
+    "name": "breakingthebot/weaviate-recipe-semantic-search-build88",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:25:33Z",
+    "url": "https://github.com/breakingthebot/weaviate-recipe-semantic-search-build88"
+  },
+  {
+    "description": "Document Q&A \u2014 embed documents, semantic search, retrieve relevant chunks for AI answers",
+    "id": "breakingthebot/pinecone-document-qa-semantic-search-build87",
+    "language": "Python",
+    "name": "breakingthebot/pinecone-document-qa-semantic-search-build87",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:25:30Z",
+    "url": "https://github.com/breakingthebot/pinecone-document-qa-semantic-search-build87"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:24:39Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": ".NET client for Chroma and Chroma Cloud, tested with Chroma 0.4.10 to 1.5.9.",
+    "id": "ChromaDotNet/ChromaDB.Client",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Client",
+    "stars": 36,
+    "updated_at": "2026-10-26T14:23:03Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Client"
+  },
+  {
+    "description": ".NET package with the default embedding function of Chroma: the same vectors as the Python client.",
+    "id": "ChromaDotNet/ChromaDB.Embeddings",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Embeddings",
+    "stars": 2,
+    "updated_at": "2026-10-26T14:23:00Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40868,
+    "updated_at": "2026-10-26T14:21:41Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7146,
+    "updated_at": "2026-10-26T14:23:56Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "",
+    "id": "ChromiaProject/vector-db-extension",
+    "language": "Kotlin",
+    "name": "ChromiaProject/vector-db-extension",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:19:43Z",
+    "url": "https://github.com/ChromiaProject/vector-db-extension"
+  },
+  {
+    "description": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
+    "id": "houyidb-community/houyidb",
+    "language": "Rust",
+    "name": "houyidb-community/houyidb",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:16:20Z",
+    "url": "https://github.com/houyidb-community/houyidb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-26T14:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 97,
-    "updated_at": "2026-10-26T14:14:27Z",
+    "updated_at": "2026-10-26T14:22:43Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -54,12 +171,21 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32773,
+    "updated_at": "2026-10-26T14:29:02Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
     "id": "eggspot/EggDB",
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-26T14:10:05Z",
+    "updated_at": "2026-10-26T14:25:16Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -99,24 +225,6 @@
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T14:00:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-26T14:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -131,17 +239,8 @@
     "language": "Rust",
     "name": "SeekStorm/SeekStorm",
     "stars": 1928,
-    "updated_at": "2026-10-26T14:00:09Z",
+    "updated_at": "2026-10-26T14:24:42Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40867,
-    "updated_at": "2026-10-26T14:14:28Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
@@ -158,26 +257,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-26T13:51:51Z",
+    "updated_at": "2026-10-26T14:24:07Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7146,
-    "updated_at": "2026-10-26T13:49:54Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
-    "id": "weaviate/docs",
-    "language": "Python",
-    "name": "weaviate/docs",
-    "stars": 20,
-    "updated_at": "2026-10-26T14:11:56Z",
-    "url": "https://github.com/weaviate/docs"
   },
   {
     "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
@@ -187,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T13:41:46Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32772,
-    "updated_at": "2026-10-26T14:10:58Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
@@ -266,17 +338,8 @@
     "language": "Rust",
     "name": "ArcavenAE/flyloft",
     "stars": 0,
-    "updated_at": "2026-10-26T13:36:51Z",
+    "updated_at": "2026-10-26T14:23:50Z",
     "url": "https://github.com/ArcavenAE/flyloft"
-  },
-  {
-    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
-    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "language": "JavaScript",
-    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "stars": 0,
-    "updated_at": "2026-10-26T13:32:46Z",
-    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -295,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T13:31:00Z",
     "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-26T13:28:49Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -347,7 +401,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-26T13:46:28Z",
+    "updated_at": "2026-10-26T14:29:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -356,7 +410,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 26,
-    "updated_at": "2026-10-26T13:20:54Z",
+    "updated_at": "2026-10-26T14:27:58Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T13:05:19Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "tickernelz/opencode-mem",
-    "language": "TypeScript",
-    "name": "tickernelz/opencode-mem",
-    "stars": 1786,
-    "updated_at": "2026-10-26T13:03:23Z",
-    "url": "https://github.com/tickernelz/opencode-mem"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-26T13:20:18Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "The Kubernetes operator for K8ssandra",
-    "id": "k8ssandra/k8ssandra-operator",
-    "language": "Go",
-    "name": "k8ssandra/k8ssandra-operator",
-    "stars": 243,
-    "updated_at": "2026-10-26T12:48:36Z",
-    "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "Build your own vector database in Python: distance metrics, nearest-neighbour search and metadata filtering, explained f",
-    "id": "robcox2910/pyvecdb",
-    "language": "Python",
-    "name": "robcox2910/pyvecdb",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:44:17Z",
-    "url": "https://github.com/robcox2910/pyvecdb"
-  },
-  {
-    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
-    "id": "DevAnimecx/free-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "DevAnimecx/free-ai-agent-stack",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:43:58Z",
-    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
-  },
-  {
-    "description": "Enterprise-Grade Decoupled Agentic RAG & Knowledge Platform (Python FastAPI + Node.js TypeScript Gateway)",
-    "id": "Jayouss/docugraph-ai",
-    "language": "Python",
-    "name": "Jayouss/docugraph-ai",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:39:45Z",
-    "url": "https://github.com/Jayouss/docugraph-ai"
   }
 ]
