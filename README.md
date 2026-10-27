@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-27 19:30 UTC
+> ⏰ Last updated: 2026-10-27 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mallajaswanthkumar10/personal-knowledge-rag](https://github.com/mallajaswanthkumar10/personal-knowledge-rag) | 0 | Python | 2026-10-27 | RAG-based personal knowledge assistant: ask questions over your own notes via Claude, with incremental ingestion, a loca |
-| 2 | [IronCoreLabs/ironcore-alloy](https://github.com/IronCoreLabs/ironcore-alloy) | 31 | Rust | 2026-10-27 | A unified SDK for IronCore encryption operations including vector encryption for AI data |
-| 3 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-27 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 1 | [IronCoreLabs/ironcore-alloy](https://github.com/IronCoreLabs/ironcore-alloy) | 31 | Rust | 2026-10-27 | A unified SDK for IronCore encryption operations including vector encryption for AI data |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11792 | Rust | 2026-10-27 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 6 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 67640 | JavaScript | 2026-10-27 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 7 | [kividbio/kividb](https://github.com/kividbio/kividb) | 738 | Rust | 2026-10-27 | A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear |
-| 8 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2051 | Python | 2026-10-27 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
-| 9 | [eggspot/EggDB](https://github.com/eggspot/EggDB) | 0 | Rust | 2026-10-27 | All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s |
-| 10 | [cyborginc/cyborgdb-go](https://github.com/cyborginc/cyborgdb-go) | 9 | Go | 2026-10-27 | Go Client for CyborgDB: The Encrypted Vector Database |
-| 11 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1488 | Clojure | 2026-10-27 | A simple, fast and versatile Datalog database |
-| 12 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11792 | Rust | 2026-10-27 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 5 | [mallajaswanthkumar10/personal-knowledge-rag](https://github.com/mallajaswanthkumar10/personal-knowledge-rag) | 0 | Python | 2026-10-27 | RAG-based personal knowledge assistant: ask questions over your own notes via Claude, with incremental ingestion, a loca |
+| 6 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-27 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 7 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 67640 | JavaScript | 2026-10-27 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 8 | [kividbio/kividb](https://github.com/kividbio/kividb) | 739 | Rust | 2026-10-27 | A fast, multi-threaded Redis® and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear |
+| 9 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2051 | Python | 2026-10-27 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 10 | [eggspot/EggDB](https://github.com/eggspot/EggDB) | 0 | Rust | 2026-10-27 | All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s |
+| 11 | [cyborginc/cyborgdb-go](https://github.com/cyborginc/cyborgdb-go) | 9 | Go | 2026-10-27 | Go Client for CyborgDB: The Encrypted Vector Database |
+| 12 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1488 | Clojure | 2026-10-27 | A simple, fast and versatile Datalog database |
 | 13 | [lychee888/Rag-Kit](https://github.com/lychee888/Rag-Kit) | 0 | Python | 2026-10-27 | Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s |
 | 14 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-27 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
 | 15 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1223 | Java | 2026-10-27 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
@@ -83,15 +83,15 @@ expired items removed — so you can rely on what you see being current.
 | 39 | [opencrawling/opencrawling](https://github.com/opencrawling/opencrawling) | 25 | Java | 2026-10-27 | Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor |
 | 40 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 2160 | PHP | 2026-10-27 | The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T |
 | 41 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35279 | Rust | 2026-10-27 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 42 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-27 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 43 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40960 | Python | 2026-10-27 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
-| 44 | [infino-ai/infino](https://github.com/infino-ai/infino) | 138 | Rust | 2026-10-27 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
-| 45 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | 1928 | Rust | 2026-10-27 | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. |
-| 46 | [MandarGavali/SecondBrain](https://github.com/MandarGavali/SecondBrain) | 0 | Python | 2026-10-27 | Production-ready AI personal knowledge assistant built with LangGraph, FastAPI, MCP, Qdrant, MongoDB, Redis and Docker. |
-| 47 | [giuliano0s/ifrs-canoas-rag](https://github.com/giuliano0s/ifrs-canoas-rag) | 0 | Python | 2026-10-27 |  |
-| 48 | [rinfa0108/openbrain](https://github.com/rinfa0108/openbrain) | 5 | Rust | 2026-10-27 | OpenBrain is an open-source machine-readable memory layer for agentic systems. It stores typed, versioned memory objects |
-| 49 | [integrallis/vectors](https://github.com/integrallis/vectors) | 18 | Java | 2026-10-27 | The Ultimate Vectors Library for Java |
-| 50 | [SwineCoder101/hvec](https://github.com/SwineCoder101/hvec) | 0 | Rust | 2026-10-27 | Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the  |
+| 42 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 3803 | Python | 2026-10-27 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 43 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-27 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 44 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 40960 | Python | 2026-10-27 | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| 45 | [infino-ai/infino](https://github.com/infino-ai/infino) | 138 | Rust | 2026-10-27 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
+| 46 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | 1928 | Rust | 2026-10-27 | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. |
+| 47 | [MandarGavali/SecondBrain](https://github.com/MandarGavali/SecondBrain) | 0 | Python | 2026-10-27 | Production-ready AI personal knowledge assistant built with LangGraph, FastAPI, MCP, Qdrant, MongoDB, Redis and Docker. |
+| 48 | [giuliano0s/ifrs-canoas-rag](https://github.com/giuliano0s/ifrs-canoas-rag) | 0 | Python | 2026-10-27 |  |
+| 49 | [rinfa0108/openbrain](https://github.com/rinfa0108/openbrain) | 5 | Rust | 2026-10-27 | OpenBrain is an open-source machine-readable memory layer for agentic systems. It stores typed, versioned memory objects |
+| 50 | [integrallis/vectors](https://github.com/integrallis/vectors) | 18 | Java | 2026-10-27 | The Ultimate Vectors Library for Java |
 <!-- TRACKER_TABLE_END -->
 
 ---
