@@ -1,12 +1,75 @@
 [
   {
+    "description": "Chat with your PDFs: a RAG app built with FastAPI, ChromaDB and Gemini that answers with page-level citations and says s",
+    "id": "sherakram/docchat-rag-assistant",
+    "language": "Python",
+    "name": "sherakram/docchat-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-27T18:29:10Z",
+    "url": "https://github.com/sherakram/docchat-rag-assistant"
+  },
+  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67638,
-    "updated_at": "2026-10-27T18:16:39Z",
+    "stars": 67639,
+    "updated_at": "2026-10-27T18:28:44Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-27T18:27:01Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "another turbopuffer",
+    "id": "dxmt/dxmt",
+    "language": "Rust",
+    "name": "dxmt/dxmt",
+    "stars": 0,
+    "updated_at": "2026-10-27T18:26:04Z",
+    "url": "https://github.com/dxmt/dxmt"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46501,
+    "updated_at": "2026-10-27T18:23:54Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-27T18:21:45Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-27T18:21:35Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
+    "id": "IronCoreLabs/ironcore-alloy",
+    "language": "Rust",
+    "name": "IronCoreLabs/ironcore-alloy",
+    "stars": 31,
+    "updated_at": "2026-10-27T18:21:33Z",
+    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-27T18:15:27Z",
+    "updated_at": "2026-10-27T18:17:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,17 +86,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T18:15:22Z",
+    "updated_at": "2026-10-27T18:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-27T18:12:11Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16923,
+    "updated_at": "2026-10-27T18:12:54Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11792,
+    "updated_at": "2026-10-27T18:26:48Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -41,17 +113,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8462,
-    "updated_at": "2026-10-27T18:06:01Z",
+    "updated_at": "2026-10-27T18:18:36Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "another turbopuffer",
-    "id": "dxmt/dxmt",
-    "language": "Rust",
-    "name": "dxmt/dxmt",
-    "stars": 0,
-    "updated_at": "2026-10-27T18:09:01Z",
-    "url": "https://github.com/dxmt/dxmt"
   },
   {
     "description": "Building multi-tenant Retrieval Augmented Generation platform ",
@@ -86,26 +149,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7148,
-    "updated_at": "2026-10-27T18:03:03Z",
+    "updated_at": "2026-10-27T18:22:22Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-27T18:16:31Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11791,
-    "updated_at": "2026-10-27T18:06:01Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -113,7 +158,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9454,
-    "updated_at": "2026-10-27T18:14:40Z",
+    "updated_at": "2026-10-27T18:26:05Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T18:17:12Z",
+    "updated_at": "2026-10-27T18:30:17Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1223,
-    "updated_at": "2026-10-27T18:11:56Z",
+    "updated_at": "2026-10-27T18:29:16Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -261,20 +306,11 @@
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16922,
-    "updated_at": "2026-10-27T18:12:54Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 736,
+    "stars": 737,
     "updated_at": "2026-10-27T16:59:09Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "10xGraph/10xGraph",
     "stars": 28,
-    "updated_at": "2026-10-27T16:26:55Z",
+    "updated_at": "2026-10-27T18:27:17Z",
     "url": "https://github.com/10xGraph/10xGraph"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T16:11:36Z",
     "url": "https://github.com/shani01846/AI-Engineer"
-  },
-  {
-    "description": "Chroma's API on your Postgres: a Chroma-compatible server on pgvector, plus a verified one-command migration off Chroma ",
-    "id": "TheJustas228/pgchroma",
-    "language": "Python",
-    "name": "TheJustas228/pgchroma",
-    "stars": 1,
-    "updated_at": "2026-10-27T16:09:59Z",
-    "url": "https://github.com/TheJustas228/pgchroma"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13312,
-    "updated_at": "2026-10-27T16:12:43Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
-    "id": "oguzhankir/omnichunk",
-    "language": "Python",
-    "name": "oguzhankir/omnichunk",
-    "stars": 9,
-    "updated_at": "2026-10-27T16:03:48Z",
-    "url": "https://github.com/oguzhankir/omnichunk"
-  },
-  {
-    "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
-    "id": "bythewayz66-glitch/mem20",
-    "language": "Python",
-    "name": "bythewayz66-glitch/mem20",
-    "stars": 1,
-    "updated_at": "2026-10-27T16:08:28Z",
-    "url": "https://github.com/bythewayz66-glitch/mem20"
   }
 ]
