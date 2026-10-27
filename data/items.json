@@ -1,11 +1,56 @@
 [
   {
+    "description": "Memory module for LLMs and Agents with MCP",
+    "id": "kurcontko/mnemotree",
+    "language": "Python",
+    "name": "kurcontko/mnemotree",
+    "stars": 6,
+    "updated_at": "2026-10-27T00:55:34Z",
+    "url": "https://github.com/kurcontko/mnemotree"
+  },
+  {
+    "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
+    "id": "PrathameshDhande22/Portfolio-Website",
+    "language": "TypeScript",
+    "name": "PrathameshDhande22/Portfolio-Website",
+    "stars": 2,
+    "updated_at": "2026-10-27T00:55:24Z",
+    "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "HTML",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-27T00:52:08Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 18,
+    "updated_at": "2026-10-27T00:46:33Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T00:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T00:45:21Z",
+    "updated_at": "2026-10-27T01:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,40 +81,13 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
-    "id": "PrathameshDhande22/Portfolio-Website",
-    "language": "TypeScript",
-    "name": "PrathameshDhande22/Portfolio-Website",
-    "stars": 2,
-    "updated_at": "2026-10-27T00:37:17Z",
-    "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-27T00:43:45Z",
+    "updated_at": "2026-10-27T00:59:16Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T00:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "HTML",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-27T00:29:59Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -99,15 +117,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Memory module for LLMs and Agents with MCP",
-    "id": "kurcontko/mnemotree",
-    "language": "Python",
-    "name": "kurcontko/mnemotree",
-    "stars": 6,
-    "updated_at": "2026-10-27T00:09:53Z",
-    "url": "https://github.com/kurcontko/mnemotree"
-  },
-  {
     "description": "A vector database of the whole market: every asset as a live vector over the 495 O(1) streaming indicators the registry ",
     "id": "wickra-lib/wickra-genome",
     "language": "Rust",
@@ -122,7 +131,7 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 690,
-    "updated_at": "2026-10-27T00:02:18Z",
+    "updated_at": "2026-10-27T00:56:27Z",
     "url": "https://github.com/kividbio/kividb"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T00:43:37Z",
+    "updated_at": "2026-10-27T00:50:12Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -166,7 +175,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67599,
+    "stars": 67600,
     "updated_at": "2026-10-26T23:33:22Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -185,7 +194,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8454,
-    "updated_at": "2026-10-27T00:35:05Z",
+    "updated_at": "2026-10-27T00:57:31Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -256,7 +265,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13317,
+    "stars": 13321,
     "updated_at": "2026-10-26T22:36:18Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-26T20:35:58Z",
     "url": "https://github.com/cyborginc/cyborgdb-js"
-  },
-  {
-    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-go",
-    "language": "Go",
-    "name": "cyborginc/cyborgdb-go",
-    "stars": 9,
-    "updated_at": "2026-10-26T20:35:19Z",
-    "url": "https://github.com/cyborginc/cyborgdb-go"
   }
 ]
