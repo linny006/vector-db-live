@@ -1,5 +1,131 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13310,
+    "updated_at": "2026-10-27T11:00:15Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-27T10:59:22Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-27T10:59:20Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
+    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "language": "JavaScript",
+    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "stars": 1,
+    "updated_at": "2026-10-27T10:56:00Z",
+    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-27T10:56:51Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7149,
+    "updated_at": "2026-10-27T10:57:17Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Deploy Chroma 1.5.9 or VecturaDB in your own cloud: an Azure VM template with HTTPS, allowed IP addresses and backups.",
+    "id": "VecturaDB/VecturaDB.Deploy",
+    "language": "Bicep",
+    "name": "VecturaDB/VecturaDB.Deploy",
+    "stars": 0,
+    "updated_at": "2026-10-27T10:53:52Z",
+    "url": "https://github.com/VecturaDB/VecturaDB.Deploy"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-27T10:53:29Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11789,
+    "updated_at": "2026-10-27T10:51:09Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9482,
+    "updated_at": "2026-10-27T10:50:40Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "40 Client-Side Developer & FinOps Utilities, 292 Cloud/LLM Cost Calculators & AI Workflow Marketplace \u2014 Live at https://",
+    "id": "zainmasri/utilforge",
+    "language": "JavaScript",
+    "name": "zainmasri/utilforge",
+    "stars": 0,
+    "updated_at": "2026-10-27T10:49:51Z",
+    "url": "https://github.com/zainmasri/utilforge"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40938,
+    "updated_at": "2026-10-27T10:47:48Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-27T10:46:54Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T10:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,13 +144,13 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-27T10:40:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32803,
+    "updated_at": "2026-10-27T10:40:18Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -54,31 +180,13 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T10:30:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
     "id": "eggspot/EggDB",
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T10:29:17Z",
+    "updated_at": "2026-10-27T10:50:49Z",
     "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
-    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "language": "JavaScript",
-    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "stars": 1,
-    "updated_at": "2026-10-27T10:28:15Z",
-    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -86,7 +194,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-27T10:43:42Z",
+    "updated_at": "2026-10-27T10:50:40Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -140,26 +248,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2060,
-    "updated_at": "2026-10-27T10:41:19Z",
+    "updated_at": "2026-10-27T10:57:31Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7149,
-    "updated_at": "2026-10-27T10:38:23Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40937,
-    "updated_at": "2026-10-27T10:17:27Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
@@ -189,15 +279,6 @@
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9482,
-    "updated_at": "2026-10-27T10:34:30Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
     "id": "IdoY12/awesome-free-ai-apis",
     "language": "JavaScript",
@@ -205,24 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T09:53:17Z",
     "url": "https://github.com/IdoY12/awesome-free-ai-apis"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-27T09:50:38Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13309,
-    "updated_at": "2026-10-27T09:46:21Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
@@ -239,17 +302,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-27T10:28:51Z",
+    "updated_at": "2026-10-27T10:59:10Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Deploy Chroma 1.5.9 or VecturaDB in your own cloud: an Azure VM template with HTTPS, allowed IP addresses and backups.",
-    "id": "VecturaDB/VecturaDB.Deploy",
-    "language": "Bicep",
-    "name": "VecturaDB/VecturaDB.Deploy",
-    "stars": 0,
-    "updated_at": "2026-10-27T09:39:41Z",
-    "url": "https://github.com/VecturaDB/VecturaDB.Deploy"
   },
   {
     "description": "Bible verse search in meaning theough embedding and vector database.",
@@ -259,15 +313,6 @@
     "stars": 33,
     "updated_at": "2026-10-27T09:37:16Z",
     "url": "https://github.com/tim-hub/bible-vector-search"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11789,
-    "updated_at": "2026-10-27T10:10:55Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -313,15 +358,6 @@
     "stars": 88,
     "updated_at": "2026-10-27T09:12:05Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-27T09:11:49Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
     "description": "A visual sandbox for experimenting with RAG configurations. Interactive tools for document parsing, chunking, embeddings",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T08:51:53Z",
     "url": "https://github.com/ChromiaProject/vector-db-extension"
-  },
-  {
-    "description": "A standalone vector database built in Rust for semantic search and RAG, with an embeddable engine, HTTP API, metadata fi",
-    "id": "vectordb-io/vectordb",
-    "language": "Rust",
-    "name": "vectordb-io/vectordb",
-    "stars": 48,
-    "updated_at": "2026-10-27T08:32:38Z",
-    "url": "https://github.com/vectordb-io/vectordb"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 265,
-    "updated_at": "2026-10-27T08:32:19Z",
-    "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-27T08:30:33Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
-    "id": "yashbhosale789/yashbhosale789",
-    "language": "\u2014",
-    "name": "yashbhosale789/yashbhosale789",
-    "stars": 0,
-    "updated_at": "2026-10-27T08:29:19Z",
-    "url": "https://github.com/yashbhosale789/yashbhosale789"
   }
 ]
