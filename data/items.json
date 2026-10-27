@@ -1,11 +1,110 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T18:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-27T18:12:11Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8462,
+    "updated_at": "2026-10-27T18:06:01Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "another turbopuffer",
+    "id": "dxmt/dxmt",
+    "language": "Rust",
+    "name": "dxmt/dxmt",
+    "stars": 0,
+    "updated_at": "2026-10-27T18:09:01Z",
+    "url": "https://github.com/dxmt/dxmt"
+  },
+  {
+    "description": "Building multi-tenant Retrieval Augmented Generation platform ",
+    "id": "kennielima/OpsIQ",
+    "language": "C#",
+    "name": "kennielima/OpsIQ",
+    "stars": 0,
+    "updated_at": "2026-10-27T18:05:02Z",
+    "url": "https://github.com/kennielima/OpsIQ"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-27T18:08:10Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe",
+    "id": "t0rresmarcus/FanVault-AI",
+    "language": "TypeScript",
+    "name": "t0rresmarcus/FanVault-AI",
+    "stars": 0,
+    "updated_at": "2026-10-27T18:03:56Z",
+    "url": "https://github.com/t0rresmarcus/FanVault-AI"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67638,
+    "updated_at": "2026-10-27T18:03:50Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7148,
+    "updated_at": "2026-10-27T18:03:03Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-27T18:02:44Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T18:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11791,
-    "updated_at": "2026-10-27T17:59:55Z",
+    "updated_at": "2026-10-27T18:06:01Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -14,17 +113,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9454,
-    "updated_at": "2026-10-27T17:59:54Z",
+    "updated_at": "2026-10-27T18:14:40Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-27T17:58:22Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -81,24 +171,6 @@
     "url": "https://github.com/raman20/freshdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T17:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T18:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -126,15 +198,6 @@
     "url": "https://github.com/eggspot/EggDB"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-27T17:51:25Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -149,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1223,
-    "updated_at": "2026-10-27T17:58:37Z",
+    "updated_at": "2026-10-27T18:11:56Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16922,
-    "updated_at": "2026-10-27T17:01:55Z",
+    "updated_at": "2026-10-27T18:12:54Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -211,7 +274,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 735,
+    "stars": 736,
     "updated_at": "2026-10-27T16:59:09Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -328,7 +391,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32819,
+    "stars": 32821,
     "updated_at": "2026-10-27T16:13:07Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-27T16:08:28Z",
     "url": "https://github.com/bythewayz66-glitch/mem20"
-  },
-  {
-    "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
-    "id": "ashraful2871/Salon-Management-Frontend",
-    "language": "TypeScript",
-    "name": "ashraful2871/Salon-Management-Frontend",
-    "stars": 0,
-    "updated_at": "2026-10-27T15:58:18Z",
-    "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
-  },
-  {
-    "description": "Distributed vector database in Go: hand-written Raft, HNSW search, gRPC API, TLA+ specs",
-    "id": "AshrafAhmed9/Consensa",
-    "language": "Go",
-    "name": "AshrafAhmed9/Consensa",
-    "stars": 0,
-    "updated_at": "2026-10-27T15:50:11Z",
-    "url": "https://github.com/AshrafAhmed9/Consensa"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-27T15:42:50Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7148,
-    "updated_at": "2026-10-27T15:38:26Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-27T15:36:11Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI-powered document Q&A app that answers from uploaded TXT files and falls back to DuckDuckGo web search when needed.",
-    "id": "Vigneshkumar-29/duckduckgo-rag-agent",
-    "language": "Python",
-    "name": "Vigneshkumar-29/duckduckgo-rag-agent",
-    "stars": 0,
-    "updated_at": "2026-10-27T15:35:09Z",
-    "url": "https://github.com/Vigneshkumar-29/duckduckgo-rag-agent"
-  },
-  {
-    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
-    "id": "StarTrail-org/LEANN",
-    "language": "Python",
-    "name": "StarTrail-org/LEANN",
-    "stars": 13490,
-    "updated_at": "2026-10-27T15:34:45Z",
-    "url": "https://github.com/StarTrail-org/LEANN"
   }
 ]
