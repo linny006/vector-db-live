@@ -5,17 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T22:30:19Z",
+    "updated_at": "2026-10-27T22:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9454,
-    "updated_at": "2026-10-27T22:30:09Z",
-    "url": "https://github.com/paradedb/paradedb"
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-27T22:44:35Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-27T22:42:44Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -23,8 +32,26 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1223,
-    "updated_at": "2026-10-27T22:29:42Z",
+    "updated_at": "2026-10-27T22:45:01Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-27T22:35:20Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "RAG-based personal knowledge assistant: ask questions over your own notes via Claude, with incremental ingestion, a loca",
+    "id": "mallajaswanthkumar10/personal-knowledge-rag",
+    "language": "Python",
+    "name": "mallajaswanthkumar10/personal-knowledge-rag",
+    "stars": 0,
+    "updated_at": "2026-10-27T22:34:44Z",
+    "url": "https://github.com/mallajaswanthkumar10/personal-knowledge-rag"
   },
   {
     "description": "Single-file vector and graph database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a we",
@@ -32,7 +59,7 @@
     "language": "Rust",
     "name": "mahpate/Vlite",
     "stars": 2,
-    "updated_at": "2026-10-27T22:29:23Z",
+    "updated_at": "2026-10-27T22:31:43Z",
     "url": "https://github.com/mahpate/Vlite"
   },
   {
@@ -41,8 +68,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-27T22:28:45Z",
+    "updated_at": "2026-10-27T22:30:24Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9454,
+    "updated_at": "2026-10-27T22:45:22Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -81,30 +117,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-27T22:21:49Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-27T22:15:53Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
     "description": "Embedded persistent memory and hybrid search engine (BM25 + HNSW + RRF) in Rust for local-first AI agents.",
     "id": "ness-e/Vantadb",
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-27T22:10:26Z",
+    "updated_at": "2026-10-27T22:40:24Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -140,7 +158,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-27T22:11:05Z",
+    "updated_at": "2026-10-27T22:40:51Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4447,
-    "updated_at": "2026-10-27T21:55:30Z",
+    "updated_at": "2026-10-27T22:39:10Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -202,7 +220,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32827,
+    "stars": 32828,
     "updated_at": "2026-10-27T21:54:24Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -230,7 +248,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2409,
-    "updated_at": "2026-10-27T21:45:49Z",
+    "updated_at": "2026-10-27T22:32:54Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -274,7 +292,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 747,
+    "stars": 748,
     "updated_at": "2026-10-27T21:33:15Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T20:08:10Z",
     "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6550,
-    "updated_at": "2026-10-27T22:24:02Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A RAG chat app that answers questions about movie screenplays and cites its sources",
-    "id": "SamuGG/rag-learning",
-    "language": "TypeScript",
-    "name": "SamuGG/rag-learning",
-    "stars": 0,
-    "updated_at": "2026-10-27T19:59:18Z",
-    "url": "https://github.com/SamuGG/rag-learning"
   }
 ]
