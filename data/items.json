@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2061,
-    "updated_at": "2026-10-27T22:15:22Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 25,
+    "updated_at": "2026-10-27T22:26:32Z",
+    "url": "https://github.com/opencrawling/opencrawling"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +14,71 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1223,
-    "updated_at": "2026-10-27T22:13:10Z",
+    "updated_at": "2026-10-27T22:26:46Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI chat app with cross-chat memory \u2014 RAG over LanceDB with Gemini, Next.js + Socket.IO. Bring your own key or use the li",
+    "id": "n8watkins/GeminiGPT",
+    "language": "TypeScript",
+    "name": "n8watkins/GeminiGPT",
+    "stars": 0,
+    "updated_at": "2026-10-27T22:21:05Z",
+    "url": "https://github.com/n8watkins/GeminiGPT"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 5,
+    "updated_at": "2026-10-27T22:21:04Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2061,
+    "updated_at": "2026-10-27T22:19:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-27T22:21:49Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-27T22:15:53Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T22:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T22:15:28Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Embedded persistent memory and hybrid search engine (BM25 + HNSW + RRF) in Rust for local-first AI agents.",
@@ -25,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-10-27T22:10:26Z",
     "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-27T22:10:21Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -77,7 +131,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9454,
-    "updated_at": "2026-10-27T22:13:18Z",
+    "updated_at": "2026-10-27T22:25:53Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T22:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "In-memory knowledge store for AI agents",
     "id": "FraiseHQ/fraise",
     "language": "Go",
@@ -115,15 +160,6 @@
     "stars": 8,
     "updated_at": "2026-10-27T22:00:50Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T22:15:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self improving agents through iterations",
@@ -153,15 +189,6 @@
     "url": "https://github.com/opencrawling/open-ingestion-standard"
   },
   {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 25,
-    "updated_at": "2026-10-27T21:55:31Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
@@ -175,7 +202,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32826,
+    "stars": 32827,
     "updated_at": "2026-10-27T21:54:24Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -250,15 +277,6 @@
     "stars": 747,
     "updated_at": "2026-10-27T21:33:15Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-27T22:00:09Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "A typed service that admits tenant learning documents, chunks them, embeds them, and writes a vector collection.",
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6550,
-    "updated_at": "2026-10-27T21:02:04Z",
+    "updated_at": "2026-10-27T22:24:02Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T19:59:18Z",
     "url": "https://github.com/SamuGG/rag-learning"
-  },
-  {
-    "description": "",
-    "id": "giuliano0s/ifrs-canoas-rag",
-    "language": "Python",
-    "name": "giuliano0s/ifrs-canoas-rag",
-    "stars": 0,
-    "updated_at": "2026-10-27T19:58:06Z",
-    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
-    "id": "lychee888/Rag-Kit",
-    "language": "Python",
-    "name": "lychee888/Rag-Kit",
-    "stars": 0,
-    "updated_at": "2026-10-27T19:58:04Z",
-    "url": "https://github.com/lychee888/Rag-Kit"
   }
 ]
