@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T00:30:20Z",
+    "updated_at": "2026-10-27T00:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2059,
+    "updated_at": "2026-10-27T00:41:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 12,
+    "updated_at": "2026-10-27T00:42:18Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-27T00:34:58Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
+    "id": "PrathameshDhande22/Portfolio-Website",
+    "language": "TypeScript",
+    "name": "PrathameshDhande22/Portfolio-Website",
+    "stars": 2,
+    "updated_at": "2026-10-27T00:37:17Z",
+    "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9453,
+    "updated_at": "2026-10-27T00:43:45Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T00:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -36,15 +90,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T00:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T00:11:45Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
-    "id": "PrathameshDhande22/Portfolio-Website",
-    "language": "TypeScript",
-    "name": "PrathameshDhande22/Portfolio-Website",
-    "stars": 2,
-    "updated_at": "2026-10-27T00:08:17Z",
-    "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
   },
   {
     "description": "Memory module for LLMs and Agents with MCP",
@@ -85,7 +121,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 689,
+    "stars": 690,
     "updated_at": "2026-10-27T00:02:18Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T00:29:21Z",
+    "updated_at": "2026-10-27T00:43:37Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -144,21 +180,12 @@
     "url": "https://github.com/TheJustas228/pgchroma"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-26T23:20:19Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8454,
-    "updated_at": "2026-10-27T00:20:48Z",
+    "updated_at": "2026-10-27T00:35:05Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9453,
-    "updated_at": "2026-10-27T00:10:33Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Edge-native NOC/SRE runbook search & RAG hub built with Qdrant vector DB, CPU-optimized ONNX embeddings (FastEmbed), Doc",
     "id": "t0m-a/Edge-Semantic-Search-RAG-Knowledge-Hub",
     "language": "Python",
@@ -234,20 +252,11 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 12,
-    "updated_at": "2026-10-27T00:22:47Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13315,
+    "stars": 13317,
     "updated_at": "2026-10-26T22:36:18Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -346,18 +355,9 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 52676,
+    "stars": 52677,
     "updated_at": "2026-10-26T21:25:10Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2059,
-    "updated_at": "2026-10-27T00:29:11Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
