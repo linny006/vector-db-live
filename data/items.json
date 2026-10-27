@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T02:00:22Z",
+    "updated_at": "2026-10-27T02:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 4,
-    "updated_at": "2026-10-27T02:00:09Z",
-    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
@@ -23,8 +14,35 @@
     "language": "Python",
     "name": "bythewayz66-glitch/mem20",
     "stars": 1,
-    "updated_at": "2026-10-27T02:00:25Z",
+    "updated_at": "2026-10-27T02:14:44Z",
     "url": "https://github.com/bythewayz66-glitch/mem20"
+  },
+  {
+    "description": "Sovereign embedded vector database & SIMD similarity engine for .NET \u2014 1-Bit Binary Quantization (BQ), HNSW graph indexi",
+    "id": "kzxl/ZeroVector",
+    "language": "C#",
+    "name": "kzxl/ZeroVector",
+    "stars": 0,
+    "updated_at": "2026-10-27T02:08:19Z",
+    "url": "https://github.com/kzxl/ZeroVector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T02:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 4,
+    "updated_at": "2026-10-27T02:01:52Z",
+    "url": "https://github.com/thekaveh/atlas"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -52,15 +70,6 @@
     "stars": 8,
     "updated_at": "2026-10-27T01:51:52Z",
     "url": "https://github.com/feather-store/feather"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T01:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
@@ -166,7 +175,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 692,
+    "stars": 693,
     "updated_at": "2026-10-27T00:56:27Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -257,7 +266,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T01:43:28Z",
+    "updated_at": "2026-10-27T02:08:50Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -283,7 +292,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67602,
+    "stars": 67603,
     "updated_at": "2026-10-26T23:33:22Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -355,7 +364,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13347,
+    "stars": 13351,
     "updated_at": "2026-10-26T22:36:18Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -439,14 +448,5 @@
     "stars": 18,
     "updated_at": "2026-10-26T21:29:30Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "LlamaIndex is the document processing platform for AI",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 52677,
-    "updated_at": "2026-10-26T21:25:10Z",
-    "url": "https://github.com/run-llama/llama_index"
   }
 ]
