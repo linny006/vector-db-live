@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T09:45:20Z",
+    "updated_at": "2026-10-27T10:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
+    "id": "bartvanbenthem/basis-ai",
+    "language": "TypeScript",
+    "name": "bartvanbenthem/basis-ai",
+    "stars": 1,
+    "updated_at": "2026-10-27T10:00:26Z",
+    "url": "https://github.com/bartvanbenthem/basis-ai"
+  },
+  {
+    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
+    "id": "IdoY12/awesome-free-ai-apis",
+    "language": "JavaScript",
+    "name": "IdoY12/awesome-free-ai-apis",
+    "stars": 1,
+    "updated_at": "2026-10-27T09:53:17Z",
+    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-27T09:56:09Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4447,
+    "updated_at": "2026-10-27T09:52:51Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-27T09:50:38Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T09:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
@@ -36,31 +90,13 @@
     "url": "https://github.com/Hk-owo/stratum-vectordb"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4447,
-    "updated_at": "2026-10-27T09:41:47Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13308,
-    "updated_at": "2026-10-27T09:39:59Z",
+    "updated_at": "2026-10-27T09:46:21Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-27T09:39:56Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Deploy Chroma 1.5.9 or VecturaDB in your own cloud: an Azure VM template with HTTPS, allowed IP addresses and backups.",
@@ -99,21 +135,12 @@
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T09:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9482,
-    "updated_at": "2026-10-27T09:41:39Z",
+    "updated_at": "2026-10-27T09:56:29Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T09:29:15Z",
+    "updated_at": "2026-10-27T10:00:19Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -252,24 +279,6 @@
     "url": "https://github.com/bythewayz66-glitch/mem20"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-27T09:08:33Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
-    "id": "bartvanbenthem/basis-ai",
-    "language": "Rust",
-    "name": "bartvanbenthem/basis-ai",
-    "stars": 1,
-    "updated_at": "2026-10-27T09:04:46Z",
-    "url": "https://github.com/bartvanbenthem/basis-ai"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -355,7 +364,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32799,
+    "stars": 32801,
     "updated_at": "2026-10-27T08:17:57Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -391,7 +400,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 710,
+    "stars": 711,
     "updated_at": "2026-10-27T08:09:19Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -439,14 +448,5 @@
     "stars": 134,
     "updated_at": "2026-10-27T07:38:03Z",
     "url": "https://github.com/zilliztech/vts"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-27T07:25:09Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
