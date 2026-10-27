@@ -1,5 +1,68 @@
 [
   {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 738,
+    "updated_at": "2026-10-27T19:13:48Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2051,
+    "updated_at": "2026-10-27T19:08:18Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
+    "id": "IronCoreLabs/ironcore-alloy",
+    "language": "Rust",
+    "name": "IronCoreLabs/ironcore-alloy",
+    "stars": 31,
+    "updated_at": "2026-10-27T19:08:00Z",
+    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
+    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-go",
+    "language": "Go",
+    "name": "cyborginc/cyborgdb-go",
+    "stars": 9,
+    "updated_at": "2026-10-27T19:02:27Z",
+    "url": "https://github.com/cyborginc/cyborgdb-go"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1488,
+    "updated_at": "2026-10-27T19:01:48Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T19:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T19:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -32,7 +95,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1223,
-    "updated_at": "2026-10-27T18:57:34Z",
+    "updated_at": "2026-10-27T19:09:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T18:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T18:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Chatbot RAG sobre datos oficiales de la Escuela Polit\u00e9cnica Superior de Ja\u00e9n (UJA). Recuperaci\u00f3n y generaci\u00f3n 100% en lo",
     "id": "samubp10/tfg-recomendador-uja",
     "language": "Python",
@@ -113,7 +158,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-27T18:59:19Z",
+    "updated_at": "2026-10-27T19:10:53Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -140,7 +185,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 67639,
-    "updated_at": "2026-10-27T18:58:55Z",
+    "updated_at": "2026-10-27T19:15:19Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -166,18 +211,9 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46501,
+    "stars": 46502,
     "updated_at": "2026-10-27T18:23:54Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
-    "id": "IronCoreLabs/ironcore-alloy",
-    "language": "Rust",
-    "name": "IronCoreLabs/ironcore-alloy",
-    "stars": 31,
-    "updated_at": "2026-10-27T18:21:33Z",
-    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9454,
-    "updated_at": "2026-10-27T19:00:19Z",
+    "updated_at": "2026-10-27T19:13:05Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -259,15 +295,6 @@
     "stars": 2409,
     "updated_at": "2026-10-27T17:48:49Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1488,
-    "updated_at": "2026-10-27T17:47:39Z",
-    "url": "https://github.com/datalevin/datalevin"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T18:57:32Z",
+    "updated_at": "2026-10-27T19:07:54Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -378,15 +405,6 @@
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 737,
-    "updated_at": "2026-10-27T16:59:09Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "OpenBrain is an open-source machine-readable memory layer for agentic systems. It stores typed, versioned memory objects",
     "id": "rinfa0108/openbrain",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 291,
     "updated_at": "2026-10-27T16:57:20Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xGraph/10xGraph",
-    "language": "Python",
-    "name": "10xGraph/10xGraph",
-    "stars": 28,
-    "updated_at": "2026-10-27T18:27:17Z",
-    "url": "https://github.com/10xGraph/10xGraph"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 27,
-    "updated_at": "2026-10-27T16:24:27Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   }
 ]
