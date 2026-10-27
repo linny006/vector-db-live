@@ -1,11 +1,92 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-27T23:29:42Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9484,
+    "updated_at": "2026-10-27T23:28:55Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 18,
+    "updated_at": "2026-10-27T23:28:26Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-27T23:29:34Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and ag",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-27T23:25:31Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Spatial memory for Physical AI. Robots, drones & world models remember what they saw, where and when, and notice what's ",
+    "id": "zd87pl/loci-db",
+    "language": "Python",
+    "name": "zd87pl/loci-db",
+    "stars": 1,
+    "updated_at": "2026-10-27T23:26:04Z",
+    "url": "https://github.com/zd87pl/loci-db"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-27T23:21:37Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-27T23:20:43Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T23:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T23:15:21Z",
+    "updated_at": "2026-10-27T23:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +95,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4447,
-    "updated_at": "2026-10-27T23:14:41Z",
+    "updated_at": "2026-10-27T23:29:53Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -32,24 +113,15 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32829,
-    "updated_at": "2026-10-27T23:12:38Z",
+    "updated_at": "2026-10-27T23:28:14Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-27T23:10:51Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67648,
+    "stars": 67650,
     "updated_at": "2026-10-27T23:04:10Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -61,15 +133,6 @@
     "stars": 2409,
     "updated_at": "2026-10-27T23:03:01Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T23:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A vector database of the whole market: every asset as a live vector over the 495 O(1) streaming indicators the registry ",
@@ -97,15 +160,6 @@
     "stars": 39844,
     "updated_at": "2026-10-27T22:58:07Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-27T22:57:28Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -158,7 +212,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9454,
-    "updated_at": "2026-10-27T23:07:36Z",
+    "updated_at": "2026-10-27T23:29:32Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T22:07:39Z",
     "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and ag",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-27T23:11:40Z",
-    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -329,7 +374,7 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 749,
-    "updated_at": "2026-10-27T21:33:15Z",
+    "updated_at": "2026-10-27T23:21:11Z",
     "url": "https://github.com/kividbio/kividb"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 69,
     "updated_at": "2026-10-27T20:38:12Z",
     "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11792,
-    "updated_at": "2026-10-27T20:37:04Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Enterprise RAG Platform API \u2014 Production-grade document intelligence backend in Python/FastAPI with JWT auth, async Post",
-    "id": "jwteeba/rag-platform",
-    "language": "Python",
-    "name": "jwteeba/rag-platform",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:36:16Z",
-    "url": "https://github.com/jwteeba/rag-platform"
-  },
-  {
-    "description": "A simple RAG application built with Python, Streamlit, ChromaDB, and a local LLM to explore document retrieval and conte",
-    "id": "fatimaov/finquery-rag",
-    "language": "Python",
-    "name": "fatimaov/finquery-rag",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:32:31Z",
-    "url": "https://github.com/fatimaov/finquery-rag"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-10-27T20:28:18Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Built out of a real frustration with bloated prompts and stale RAG indexes. ContextProxy AI sits silently between your I",
-    "id": "LinguaByte1111/context-proxy-AI-demo",
-    "language": "\u2014",
-    "name": "LinguaByte1111/context-proxy-AI-demo",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:26:24Z",
-    "url": "https://github.com/LinguaByte1111/context-proxy-AI-demo"
   }
 ]
