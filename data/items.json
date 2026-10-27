@@ -1,12 +1,84 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-27T14:45:06Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2060,
+    "updated_at": "2026-10-27T14:42:27Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
+    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "language": "JavaScript",
+    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "stars": 1,
+    "updated_at": "2026-10-27T14:38:43Z",
+    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
+  },
+  {
+    "description": "Distributed vector database in Go: hand-written Raft, HNSW search, gRPC API, TLA+ specs",
+    "id": "AshrafAhmed9/Consensa",
+    "language": "Go",
+    "name": "AshrafAhmed9/Consensa",
+    "stars": 0,
+    "updated_at": "2026-10-27T14:38:30Z",
+    "url": "https://github.com/AshrafAhmed9/Consensa"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 13040,
+    "updated_at": "2026-10-27T14:40:23Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1223,
+    "updated_at": "2026-10-27T14:33:31Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40950,
+    "updated_at": "2026-10-27T14:31:54Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T14:30:26Z",
+    "updated_at": "2026-10-27T14:45:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T14:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -40,7 +112,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 726,
+    "stars": 727,
     "updated_at": "2026-10-27T14:18:49Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -61,15 +133,6 @@
     "stars": 1788,
     "updated_at": "2026-10-27T14:15:57Z",
     "url": "https://github.com/tickernelz/opencode-mem"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T14:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -104,7 +167,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8461,
-    "updated_at": "2026-10-27T14:27:55Z",
+    "updated_at": "2026-10-27T14:38:29Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -117,20 +180,11 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40949,
-    "updated_at": "2026-10-27T14:07:48Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39842,
+    "stars": 39843,
     "updated_at": "2026-10-27T14:09:59Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32806,
-    "updated_at": "2026-10-27T14:29:46Z",
+    "updated_at": "2026-10-27T14:38:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -187,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T13:51:16Z",
     "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
-  },
-  {
-    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
-    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "language": "JavaScript",
-    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "stars": 1,
-    "updated_at": "2026-10-27T13:48:09Z",
-    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -214,15 +259,6 @@
     "stars": 46,
     "updated_at": "2026-10-27T13:46:38Z",
     "url": "https://github.com/Shah91n/weaviate-cluster-webapp"
-  },
-  {
-    "description": "Distributed vector database in Go: hand-written Raft, HNSW search, gRPC API, TLA+ specs",
-    "id": "AshrafAhmed9/Consensa",
-    "language": "Go",
-    "name": "AshrafAhmed9/Consensa",
-    "stars": 0,
-    "updated_at": "2026-10-27T13:44:57Z",
-    "url": "https://github.com/AshrafAhmed9/Consensa"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9484,
-    "updated_at": "2026-10-27T14:26:16Z",
+    "updated_at": "2026-10-27T14:36:41Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T13:18:30Z",
     "url": "https://github.com/TheWilsonGlobal/nexus-engine"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-27T14:08:59Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -356,7 +383,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16921,
-    "updated_at": "2026-10-27T14:14:46Z",
+    "updated_at": "2026-10-27T14:41:51Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -410,17 +437,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-27T13:38:23Z",
+    "updated_at": "2026-10-27T14:31:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2060,
-    "updated_at": "2026-10-27T13:21:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -430,23 +448,5 @@
     "stars": 60,
     "updated_at": "2026-10-27T12:37:49Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Official Weaviate TypeScript Client",
-    "id": "weaviate/typescript-client",
-    "language": "TypeScript",
-    "name": "weaviate/typescript-client",
-    "stars": 101,
-    "updated_at": "2026-10-27T14:16:07Z",
-    "url": "https://github.com/weaviate/typescript-client"
-  },
-  {
-    "description": "",
-    "id": "vishnarac/scyllavec",
-    "language": "Python",
-    "name": "vishnarac/scyllavec",
-    "stars": 0,
-    "updated_at": "2026-10-27T12:33:17Z",
-    "url": "https://github.com/vishnarac/scyllavec"
   }
 ]
