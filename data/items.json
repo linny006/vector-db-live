@@ -1,12 +1,57 @@
 [
   {
+    "description": "Local-first Windows AI governance and reasoning software for U.S. evaluation. Version 4.4.5 is an engineering candidate;",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 6,
+    "updated_at": "2026-10-27T02:43:33Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2406,
+    "updated_at": "2026-10-27T02:42:56Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
+    "id": "houyidb-community/houyidb",
+    "language": "Rust",
+    "name": "houyidb-community/houyidb",
+    "stars": 1,
+    "updated_at": "2026-10-27T02:42:13Z",
+    "url": "https://github.com/houyidb-community/houyidb"
+  },
+  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40900,
-    "updated_at": "2026-10-27T02:29:08Z",
+    "stars": 40901,
+    "updated_at": "2026-10-27T02:33:37Z",
     "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T02:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T02:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -32,26 +77,8 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T02:24:38Z",
+    "updated_at": "2026-10-27T02:44:17Z",
     "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T02:16:35Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T02:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Sovereign embedded vector database & SIMD similarity engine for .NET \u2014 1-Bit Binary Quantization (BQ), HNSW graph indexi",
@@ -99,15 +126,6 @@
     "url": "https://github.com/feather-store/feather"
   },
   {
-    "description": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
-    "id": "houyidb-community/houyidb",
-    "language": "Rust",
-    "name": "houyidb-community/houyidb",
-    "stars": 0,
-    "updated_at": "2026-10-27T01:44:21Z",
-    "url": "https://github.com/houyidb-community/houyidb"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -126,21 +144,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Local-first Windows AI governance and reasoning software for U.S. evaluation. Version 4.4.5 is an engineering candidate;",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 6,
-    "updated_at": "2026-10-27T02:29:44Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8454,
-    "updated_at": "2026-10-27T02:24:07Z",
+    "updated_at": "2026-10-27T02:42:15Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -193,7 +202,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32787,
+    "stars": 32789,
     "updated_at": "2026-10-27T01:07:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -202,7 +211,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 693,
+    "stars": 694,
     "updated_at": "2026-10-27T00:56:27Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -248,7 +257,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-27T02:22:54Z",
+    "updated_at": "2026-10-27T02:44:37Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -301,7 +310,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67604,
+    "stars": 67602,
     "updated_at": "2026-10-26T23:33:22Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -373,7 +382,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13357,
+    "stars": 13364,
     "updated_at": "2026-10-26T22:36:18Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T21:39:40Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
-  },
-  {
-    "description": "AI-assisted workflow for pre-owned automotive retail",
-    "id": "Rachit47/IdatenOps",
-    "language": "Python",
-    "name": "Rachit47/IdatenOps",
-    "stars": 0,
-    "updated_at": "2026-10-26T21:36:02Z",
-    "url": "https://github.com/Rachit47/IdatenOps"
   }
 ]
