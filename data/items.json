@@ -1,11 +1,119 @@
 [
   {
+    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
+    "id": "raman20/freshdb",
+    "language": "Go",
+    "name": "raman20/freshdb",
+    "stars": 0,
+    "updated_at": "2026-10-27T16:57:48Z",
+    "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "OpenBrain is an open-source machine-readable memory layer for agentic systems. It stores typed, versioned memory objects",
+    "id": "rinfa0108/openbrain",
+    "language": "Rust",
+    "name": "rinfa0108/openbrain",
+    "stars": 5,
+    "updated_at": "2026-10-27T16:57:28Z",
+    "url": "https://github.com/rinfa0108/openbrain"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 356,
+    "updated_at": "2026-10-27T16:57:14Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-27T16:58:39Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Chatbot RAG sobre datos oficiales de la Escuela Polit\u00e9cnica Superior de Ja\u00e9n (UJA). Recuperaci\u00f3n y generaci\u00f3n 100% en lo",
+    "id": "samubp10/tfg-recomendador-uja",
+    "language": "Python",
+    "name": "samubp10/tfg-recomendador-uja",
+    "stars": 0,
+    "updated_at": "2026-10-27T16:54:17Z",
+    "url": "https://github.com/samubp10/tfg-recomendador-uja"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 18,
+    "updated_at": "2026-10-27T16:52:01Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2061,
+    "updated_at": "2026-10-27T16:51:25Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Benchmark harness for compressing the retrieval key in RAG and agent memory: codecs on embedding vectors, scored on the ",
+    "id": "SwineCoder101/hvec",
+    "language": "Rust",
+    "name": "SwineCoder101/hvec",
+    "stars": 0,
+    "updated_at": "2026-10-27T16:49:45Z",
+    "url": "https://github.com/SwineCoder101/hvec"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40958,
+    "updated_at": "2026-10-27T16:48:13Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3802,
+    "updated_at": "2026-10-27T16:45:56Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T16:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11792,
+    "updated_at": "2026-10-27T16:45:24Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T16:45:24Z",
+    "updated_at": "2026-10-27T17:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +131,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 291,
-    "updated_at": "2026-10-27T16:37:05Z",
+    "updated_at": "2026-10-27T16:57:20Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -34,24 +142,6 @@
     "stars": 25,
     "updated_at": "2026-10-27T16:33:39Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11791,
-    "updated_at": "2026-10-27T16:45:24Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T16:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -90,15 +180,6 @@
     "url": "https://github.com/sdslabs/VortexDB"
   },
   {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3802,
-    "updated_at": "2026-10-27T16:19:41Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
     "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
     "id": "Senthilsivam41/kinegraph-v",
     "language": "JavaScript",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T16:28:34Z",
     "url": "https://github.com/Senthilsivam41/kinegraph-v"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40957,
-    "updated_at": "2026-10-27T16:16:21Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -130,7 +202,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32813,
+    "stars": 32817,
     "updated_at": "2026-10-27T16:13:07Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -176,17 +248,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-27T16:05:57Z",
+    "updated_at": "2026-10-27T16:52:17Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
-    "id": "raman20/freshdb",
-    "language": "Go",
-    "name": "raman20/freshdb",
-    "stars": 0,
-    "updated_at": "2026-10-27T16:11:35Z",
-    "url": "https://github.com/raman20/freshdb"
   },
   {
     "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
@@ -203,7 +266,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T16:26:39Z",
+    "updated_at": "2026-10-27T16:47:49Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -225,15 +288,6 @@
     "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 356,
-    "updated_at": "2026-10-27T15:50:29Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Distributed vector database in Go: hand-written Raft, HNSW search, gRPC API, TLA+ specs",
     "id": "AshrafAhmed9/Consensa",
     "language": "Go",
@@ -250,24 +304,6 @@
     "stars": 6551,
     "updated_at": "2026-10-27T16:43:28Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2061,
-    "updated_at": "2026-10-27T15:46:42Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-27T16:38:42Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -301,7 +337,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13485,
+    "stars": 13486,
     "updated_at": "2026-10-27T15:34:45Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -338,7 +374,7 @@
     "language": "Go",
     "name": "k8ssandra/k8ssandra-operator",
     "stars": 243,
-    "updated_at": "2026-10-27T15:20:19Z",
+    "updated_at": "2026-10-27T16:54:54Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4447,
     "updated_at": "2026-10-27T16:39:56Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6244,
-    "updated_at": "2026-10-27T16:09:14Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-27T15:03:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "tickernelz/opencode-mem",
-    "language": "TypeScript",
-    "name": "tickernelz/opencode-mem",
-    "stars": 1787,
-    "updated_at": "2026-10-27T14:49:51Z",
-    "url": "https://github.com/tickernelz/opencode-mem"
-  },
-  {
-    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
-    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "language": "JavaScript",
-    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "stars": 1,
-    "updated_at": "2026-10-27T14:38:43Z",
-    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   }
 ]
