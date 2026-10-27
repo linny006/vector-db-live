@@ -1,12 +1,57 @@
 [
   {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1488,
+    "updated_at": "2026-10-27T04:23:25Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Single-file vector and graph database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a we",
+    "id": "mahpate/Vlite",
+    "language": "Rust",
+    "name": "mahpate/Vlite",
+    "stars": 2,
+    "updated_at": "2026-10-27T04:19:44Z",
+    "url": "https://github.com/mahpate/Vlite"
+  },
+  {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
     "id": "gyr0byte/Generative-AI",
     "language": "Python",
     "name": "gyr0byte/Generative-AI",
     "stars": 0,
-    "updated_at": "2026-10-27T04:14:57Z",
+    "updated_at": "2026-10-27T04:16:41Z",
     "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9482,
+    "updated_at": "2026-10-27T04:16:05Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T04:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T04:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -36,40 +81,22 @@
     "url": "https://github.com/Hk-owo/stratum-vectordb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T04:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T04:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40912,
+    "stars": 40913,
     "updated_at": "2026-10-27T03:53:20Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
-    "description": "Single-file vector and graph database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a we",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-27T03:51:19Z",
-    "url": "https://github.com/mahpate/Vlite"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8455,
+    "updated_at": "2026-10-27T03:51:54Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "\u26a1 High-Performance Document RAG Pipeline powered by FastAPI, Vector Embeddings, Hybrid Retrieval, and Async Streaming.",
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46491,
-    "updated_at": "2026-10-27T03:45:57Z",
+    "updated_at": "2026-10-27T04:20:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-27T04:04:54Z",
+    "updated_at": "2026-10-27T04:29:27Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Rust",
     "name": "houyidb-community/houyidb",
     "stars": 2,
-    "updated_at": "2026-10-27T03:15:07Z",
+    "updated_at": "2026-10-27T04:30:17Z",
     "url": "https://github.com/houyidb-community/houyidb"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Rust",
     "name": "gay00ung/vecnook",
     "stars": 2,
-    "updated_at": "2026-10-27T03:13:15Z",
+    "updated_at": "2026-10-27T04:20:58Z",
     "url": "https://github.com/gay00ung/vecnook"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T04:14:45Z",
+    "updated_at": "2026-10-27T04:20:15Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11784,
-    "updated_at": "2026-10-27T04:14:15Z",
+    "updated_at": "2026-10-27T04:26:23Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -295,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-10-27T01:39:39Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8454,
-    "updated_at": "2026-10-27T03:51:54Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -346,7 +364,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32791,
+    "stars": 32790,
     "updated_at": "2026-10-27T01:07:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -427,26 +445,8 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67603,
+    "stars": 67604,
     "updated_at": "2026-10-26T23:33:22Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Chroma's API on your Postgres: a Chroma-compatible server on pgvector, plus a verified one-command migration off Chroma ",
-    "id": "TheJustas228/pgchroma",
-    "language": "Python",
-    "name": "TheJustas228/pgchroma",
-    "stars": 1,
-    "updated_at": "2026-10-26T23:32:17Z",
-    "url": "https://github.com/TheJustas228/pgchroma"
-  },
-  {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "TypeScript",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-10-26T23:07:12Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
   }
 ]
