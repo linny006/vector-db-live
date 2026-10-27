@@ -1,11 +1,146 @@
 [
   {
+    "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
+    "id": "SunMe1977/HermesClawZero-ConfigSidecar",
+    "language": "Python",
+    "name": "SunMe1977/HermesClawZero-ConfigSidecar",
+    "stars": 3,
+    "updated_at": "2026-10-27T09:00:08Z",
+    "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-27T09:00:00Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40931,
+    "updated_at": "2026-10-27T08:59:35Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13308,
+    "updated_at": "2026-10-27T08:59:11Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Multi-tenant Retrieval-Augmented Generation (RAG) SaaS platform with hybrid search, cross-encoder reranking, and inspect",
+    "id": "daanialmirza5/Rag-forge-ai",
+    "language": "Python",
+    "name": "daanialmirza5/Rag-forge-ai",
+    "stars": 1,
+    "updated_at": "2026-10-27T08:57:46Z",
+    "url": "https://github.com/daanialmirza5/Rag-forge-ai"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9482,
+    "updated_at": "2026-10-27T08:58:00Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
+    "id": "oguzhankir/omnichunk",
+    "language": "Python",
+    "name": "oguzhankir/omnichunk",
+    "stars": 9,
+    "updated_at": "2026-10-27T08:56:45Z",
+    "url": "https://github.com/oguzhankir/omnichunk"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 27,
+    "updated_at": "2026-10-27T08:51:59Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-10-27T08:51:23Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Official n8n node for interfacing with Qdrant",
+    "id": "qdrant/n8n-nodes-qdrant",
+    "language": "TypeScript",
+    "name": "qdrant/n8n-nodes-qdrant",
+    "stars": 78,
+    "updated_at": "2026-10-27T08:49:46Z",
+    "url": "https://github.com/qdrant/n8n-nodes-qdrant"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-27T08:49:24Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
+    "id": "bythewayz66-glitch/mem20",
+    "language": "Python",
+    "name": "bythewayz66-glitch/mem20",
+    "stars": 1,
+    "updated_at": "2026-10-27T09:00:05Z",
+    "url": "https://github.com/bythewayz66-glitch/mem20"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-27T09:00:14Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T08:45:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T08:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
     "id": "bartvanbenthem/basis-ai",
     "language": "Rust",
     "name": "bartvanbenthem/basis-ai",
     "stars": 1,
-    "updated_at": "2026-10-27T08:44:43Z",
+    "updated_at": "2026-10-27T08:56:24Z",
     "url": "https://github.com/bartvanbenthem/basis-ai"
   },
   {
@@ -23,17 +158,8 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T08:39:50Z",
+    "updated_at": "2026-10-27T08:53:40Z",
     "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
-    "id": "bythewayz66-glitch/mem20",
-    "language": "Python",
-    "name": "bythewayz66-glitch/mem20",
-    "stars": 1,
-    "updated_at": "2026-10-27T08:42:09Z",
-    "url": "https://github.com/bythewayz66-glitch/mem20"
   },
   {
     "description": "",
@@ -41,17 +167,8 @@
     "language": "Kotlin",
     "name": "ChromiaProject/vector-db-extension",
     "stars": 0,
-    "updated_at": "2026-10-27T08:41:42Z",
+    "updated_at": "2026-10-27T08:51:53Z",
     "url": "https://github.com/ChromiaProject/vector-db-extension"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40930,
-    "updated_at": "2026-10-27T08:34:40Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "A standalone vector database built in Rust for semantic search and RAG, with an embeddable engine, HTTP API, metadata fi",
@@ -90,24 +207,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T08:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T08:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
     "id": "yashbhosale789/yashbhosale789",
     "language": "\u2014",
@@ -117,15 +216,6 @@
     "url": "https://github.com/yashbhosale789/yashbhosale789"
   },
   {
-    "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
-    "id": "SunMe1977/HermesClawZero-ConfigSidecar",
-    "language": "Python",
-    "name": "SunMe1977/HermesClawZero-ConfigSidecar",
-    "stars": 3,
-    "updated_at": "2026-10-27T08:27:39Z",
-    "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
-  },
-  {
     "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
     "id": "VecturaDB/VecturaDB",
     "language": "Rust",
@@ -133,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T08:24:48Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-27T08:23:47Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Production-grade AI customer support agent on n8n: agentic RAG (Gemini + Qdrant) with a self-healing knowledge base, cha",
@@ -162,20 +243,11 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13308,
-    "updated_at": "2026-10-27T08:19:33Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32798,
+    "stars": 32799,
     "updated_at": "2026-10-27T08:17:57Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -198,21 +270,12 @@
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
   },
   {
-    "description": "Multi-tenant Retrieval-Augmented Generation (RAG) SaaS platform with hybrid search, cross-encoder reranking, and inspect",
-    "id": "daanialmirza5/Rag-forge-ai",
-    "language": "Python",
-    "name": "daanialmirza5/Rag-forge-ai",
-    "stars": 1,
-    "updated_at": "2026-10-27T08:12:03Z",
-    "url": "https://github.com/daanialmirza5/Rag-forge-ai"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2060,
-    "updated_at": "2026-10-27T08:11:05Z",
+    "updated_at": "2026-10-27T08:52:28Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -223,15 +286,6 @@
     "stars": 707,
     "updated_at": "2026-10-27T08:09:19Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-10-27T08:07:42Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
     "description": "Enterprise agentic platform SDK: ReAct loop, dual-process security guardrail, SQLite hybrid graph-vector retrieval with ",
@@ -250,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-10-27T08:05:03Z",
     "url": "https://github.com/dem2007/ChromaDB-Manager"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-27T08:41:09Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -301,7 +346,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39824,
+    "stars": 39825,
     "updated_at": "2026-10-27T07:19:12Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -331,15 +376,6 @@
     "stars": 8456,
     "updated_at": "2026-10-27T08:41:14Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9482,
-    "updated_at": "2026-10-27T08:40:43Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T06:40:52Z",
     "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 138,
-    "updated_at": "2026-10-27T06:33:59Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
-    "id": "xl3v3r/hermes-oracle-memory",
-    "language": "Python",
-    "name": "xl3v3r/hermes-oracle-memory",
-    "stars": 1,
-    "updated_at": "2026-10-27T07:46:32Z",
-    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
-    "id": "oguzhankir/omnichunk",
-    "language": "Python",
-    "name": "oguzhankir/omnichunk",
-    "stars": 9,
-    "updated_at": "2026-10-27T08:31:32Z",
-    "url": "https://github.com/oguzhankir/omnichunk"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "HTML",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-27T06:14:03Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   }
 ]
