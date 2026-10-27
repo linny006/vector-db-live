@@ -1,5 +1,68 @@
 [
   {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 97,
+    "updated_at": "2026-10-27T13:00:03Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Benchmark for vector databases.",
+    "id": "zilliztech/VectorDBBench",
+    "language": "Python",
+    "name": "zilliztech/VectorDBBench",
+    "stars": 1197,
+    "updated_at": "2026-10-27T12:58:18Z",
+    "url": "https://github.com/zilliztech/VectorDBBench"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-27T12:53:16Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 25,
+    "updated_at": "2026-10-27T12:53:04Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
+    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-27T12:47:00Z",
+    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T12:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T13:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
@@ -32,7 +95,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2060,
-    "updated_at": "2026-10-27T12:43:43Z",
+    "updated_at": "2026-10-27T12:56:52Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/weaviate/typescript-client"
   },
   {
-    "description": "Benchmark for vector databases.",
-    "id": "zilliztech/VectorDBBench",
-    "language": "Python",
-    "name": "zilliztech/VectorDBBench",
-    "stars": 1197,
-    "updated_at": "2026-10-27T12:35:20Z",
-    "url": "https://github.com/zilliztech/VectorDBBench"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -81,15 +135,6 @@
     "url": "https://github.com/vishnarac/scyllavec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T12:32:46Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -99,21 +144,12 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T12:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-27T12:26:58Z",
+    "updated_at": "2026-10-27T12:58:54Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-27T12:44:30Z",
+    "updated_at": "2026-10-27T12:49:25Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32805,
-    "updated_at": "2026-10-27T12:15:15Z",
+    "updated_at": "2026-10-27T12:53:28Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T12:33:15Z",
+    "updated_at": "2026-10-27T12:46:59Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16921,
-    "updated_at": "2026-10-27T12:43:52Z",
+    "updated_at": "2026-10-27T13:00:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -365,7 +401,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-27T12:32:41Z",
+    "updated_at": "2026-10-27T12:53:21Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T11:14:01Z",
     "url": "https://github.com/BelAnas/rag-knowledge-assistant"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13312,
-    "updated_at": "2026-10-27T11:04:15Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-27T10:53:29Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "40 Client-Side Developer & FinOps Utilities, 292 Cloud/LLM Cost Calculators & AI Workflow Marketplace \u2014 Live at https://",
-    "id": "zainmasri/utilforge",
-    "language": "JavaScript",
-    "name": "zainmasri/utilforge",
-    "stars": 0,
-    "updated_at": "2026-10-27T10:49:51Z",
-    "url": "https://github.com/zainmasri/utilforge"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-27T10:46:54Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
