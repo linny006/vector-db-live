@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-27 18:15 UTC
+> ⏰ Last updated: 2026-10-27 18:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Percolation-Labs/percolate](https://github.com/Percolation-Labs/percolate) | 60 | PLpgSQL | 2026-10-27 | An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge |
-| 3 | [MariaDB/server](https://github.com/MariaDB/server) | 8462 | C++ | 2026-10-27 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 4 | [dxmt/dxmt](https://github.com/dxmt/dxmt) | 0 | Rust | 2026-10-27 | another turbopuffer |
-| 5 | [kennielima/OpsIQ](https://github.com/kennielima/OpsIQ) | 0 | C# | 2026-10-27 | Building multi-tenant Retrieval Augmented Generation platform  |
-| 6 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-10-27 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
-| 7 | [t0rresmarcus/FanVault-AI](https://github.com/t0rresmarcus/FanVault-AI) | 0 | TypeScript | 2026-10-27 | FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe |
-| 8 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 67638 | JavaScript | 2026-10-27 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 9 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7148 | Java | 2026-10-27 | The AI search platform |
-| 10 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-27 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 11 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 67638 | JavaScript | 2026-10-27 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [Percolation-Labs/percolate](https://github.com/Percolation-Labs/percolate) | 60 | PLpgSQL | 2026-10-27 | An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge |
+| 5 | [MariaDB/server](https://github.com/MariaDB/server) | 8462 | C++ | 2026-10-27 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 6 | [dxmt/dxmt](https://github.com/dxmt/dxmt) | 0 | Rust | 2026-10-27 | another turbopuffer |
+| 7 | [kennielima/OpsIQ](https://github.com/kennielima/OpsIQ) | 0 | C# | 2026-10-27 | Building multi-tenant Retrieval Augmented Generation platform  |
+| 8 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-10-27 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
+| 9 | [t0rresmarcus/FanVault-AI](https://github.com/t0rresmarcus/FanVault-AI) | 0 | TypeScript | 2026-10-27 | FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe |
+| 10 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7148 | Java | 2026-10-27 | The AI search platform |
+| 11 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-27 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
 | 12 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11791 | Rust | 2026-10-27 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 13 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9454 | Rust | 2026-10-27 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
 | 14 | [schmitech/orbit](https://github.com/schmitech/orbit) | 356 | Python | 2026-10-27 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
