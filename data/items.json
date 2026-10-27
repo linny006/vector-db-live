@@ -1,5 +1,104 @@
 [
   {
+    "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
+    "id": "bartvanbenthem/basis-ai",
+    "language": "Rust",
+    "name": "bartvanbenthem/basis-ai",
+    "stars": 1,
+    "updated_at": "2026-10-27T08:44:43Z",
+    "url": "https://github.com/bartvanbenthem/basis-ai"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1222,
+    "updated_at": "2026-10-27T08:40:51Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-27T08:39:50Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
+    "id": "bythewayz66-glitch/mem20",
+    "language": "Python",
+    "name": "bythewayz66-glitch/mem20",
+    "stars": 1,
+    "updated_at": "2026-10-27T08:42:09Z",
+    "url": "https://github.com/bythewayz66-glitch/mem20"
+  },
+  {
+    "description": "",
+    "id": "ChromiaProject/vector-db-extension",
+    "language": "Kotlin",
+    "name": "ChromiaProject/vector-db-extension",
+    "stars": 0,
+    "updated_at": "2026-10-27T08:41:42Z",
+    "url": "https://github.com/ChromiaProject/vector-db-extension"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40930,
+    "updated_at": "2026-10-27T08:34:40Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "A standalone vector database built in Rust for semantic search and RAG, with an embeddable engine, HTTP API, metadata fi",
+    "id": "vectordb-io/vectordb",
+    "language": "Rust",
+    "name": "vectordb-io/vectordb",
+    "stars": 48,
+    "updated_at": "2026-10-27T08:32:38Z",
+    "url": "https://github.com/vectordb-io/vectordb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11788,
+    "updated_at": "2026-10-27T08:32:35Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 265,
+    "updated_at": "2026-10-27T08:32:19Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-27T08:30:33Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T08:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T08:29:19Z",
     "url": "https://github.com/yashbhosale789/yashbhosale789"
-  },
-  {
-    "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
-    "id": "bythewayz66-glitch/mem20",
-    "language": "Python",
-    "name": "bythewayz66-glitch/mem20",
-    "stars": 1,
-    "updated_at": "2026-10-27T08:28:34Z",
-    "url": "https://github.com/bythewayz66-glitch/mem20"
   },
   {
     "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
@@ -72,15 +162,6 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "A standalone vector database built in Rust for semantic search and RAG, with an embeddable engine, HTTP API, metadata fi",
-    "id": "vectordb-io/vectordb",
-    "language": "Rust",
-    "name": "vectordb-io/vectordb",
-    "stars": 48,
-    "updated_at": "2026-10-27T08:20:45Z",
-    "url": "https://github.com/vectordb-io/vectordb"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -90,6 +171,15 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32798,
+    "updated_at": "2026-10-27T08:17:57Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
     "id": "qtuanph/chatbot-rag",
     "language": "TypeScript",
@@ -97,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T08:20:15Z",
     "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T08:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
@@ -139,7 +220,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 706,
+    "stars": 707,
     "updated_at": "2026-10-27T08:09:19Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -162,15 +243,6 @@
     "url": "https://github.com/TheWilsonGlobal/nexus-engine"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40929,
-    "updated_at": "2026-10-27T08:20:07Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
     "id": "dem2007/ChromaDB-Manager",
     "language": "Swift",
@@ -185,17 +257,8 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-27T08:28:27Z",
+    "updated_at": "2026-10-27T08:41:09Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11787,
-    "updated_at": "2026-10-27T08:09:04Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -225,24 +288,6 @@
     "url": "https://github.com/zilliztech/vts"
   },
   {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-27T08:10:53Z",
-    "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32797,
-    "updated_at": "2026-10-27T08:17:57Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -256,7 +301,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39822,
+    "stars": 39824,
     "updated_at": "2026-10-27T07:19:12Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -284,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8456,
-    "updated_at": "2026-10-27T08:28:39Z",
+    "updated_at": "2026-10-27T08:41:14Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9482,
-    "updated_at": "2026-10-27T08:16:09Z",
+    "updated_at": "2026-10-27T08:40:43Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "oguzhankir/omnichunk",
     "stars": 9,
-    "updated_at": "2026-10-27T06:22:31Z",
+    "updated_at": "2026-10-27T08:31:32Z",
     "url": "https://github.com/oguzhankir/omnichunk"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 121,
     "updated_at": "2026-10-27T06:14:03Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python +",
-    "id": "Polign/recall",
-    "language": "Go",
-    "name": "Polign/recall",
-    "stars": 6,
-    "updated_at": "2026-10-27T06:11:01Z",
-    "url": "https://github.com/Polign/recall"
-  },
-  {
-    "description": "HUMI is an AI Conversational Agent (Digital Concierge) for HMNS Perfume on Discord. Built with n8n, Google Gemini API, Q",
-    "id": "alfitranurr/hmns-humi-concierge",
-    "language": "JavaScript",
-    "name": "alfitranurr/hmns-humi-concierge",
-    "stars": 0,
-    "updated_at": "2026-10-27T06:00:18Z",
-    "url": "https://github.com/alfitranurr/hmns-humi-concierge"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-27T05:56:24Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI-Native OSINT & 3D Link Analysis Platform",
-    "id": "sayan9168/nexus-osint",
-    "language": "Python",
-    "name": "sayan9168/nexus-osint",
-    "stars": 3,
-    "updated_at": "2026-10-27T05:53:38Z",
-    "url": "https://github.com/sayan9168/nexus-osint"
-  },
-  {
-    "description": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
-    "id": "houyidb-community/houyidb",
-    "language": "Rust",
-    "name": "houyidb-community/houyidb",
-    "stars": 2,
-    "updated_at": "2026-10-27T05:52:37Z",
-    "url": "https://github.com/houyidb-community/houyidb"
   }
 ]
