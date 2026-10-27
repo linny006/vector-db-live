@@ -1,10 +1,64 @@
 [
   {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:14:57Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-27T04:11:53Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A standalone vector database built in Rust for semantic search and RAG, with an embeddable engine, HTTP API, metadata fi",
+    "id": "vectordb-io/vectordb",
+    "language": "Rust",
+    "name": "vectordb-io/vectordb",
+    "stars": 48,
+    "updated_at": "2026-10-27T04:11:35Z",
+    "url": "https://github.com/vectordb-io/vectordb"
+  },
+  {
+    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
+    "id": "Hk-owo/stratum-vectordb",
+    "language": "Go",
+    "name": "Hk-owo/stratum-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:06:56Z",
+    "url": "https://github.com/Hk-owo/stratum-vectordb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T04:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T04:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40910,
+    "stars": 40912,
     "updated_at": "2026-10-27T03:53:20Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -25,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T03:47:58Z",
     "url": "https://github.com/givemehat/DocuRAG-FastAPI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T03:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T04:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -86,24 +122,15 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-27T03:53:06Z",
+    "updated_at": "2026-10-27T04:04:54Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:24:12Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
     "description": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
     "id": "houyidb-community/houyidb",
     "language": "Rust",
     "name": "houyidb-community/houyidb",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-27T03:15:07Z",
     "url": "https://github.com/houyidb-community/houyidb"
   },
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T04:00:23Z",
+    "updated_at": "2026-10-27T04:14:45Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -256,8 +283,8 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11783,
-    "updated_at": "2026-10-27T01:46:25Z",
+    "stars": 11784,
+    "updated_at": "2026-10-27T04:14:15Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -328,7 +355,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 696,
+    "stars": 697,
     "updated_at": "2026-10-27T00:56:27Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T23:07:12Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
-    "description": "Pinecone BYOC",
-    "id": "pinecone-io/pulumi-pinecone-byoc",
-    "language": "Python",
-    "name": "pinecone-io/pulumi-pinecone-byoc",
-    "stars": 15,
-    "updated_at": "2026-10-26T23:03:24Z",
-    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-26T23:26:02Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Edge-native NOC/SRE runbook search & RAG hub built with Qdrant vector DB, CPU-optimized ONNX embeddings (FastEmbed), Doc",
-    "id": "t0m-a/Edge-Semantic-Search-RAG-Knowledge-Hub",
-    "language": "Python",
-    "name": "t0m-a/Edge-Semantic-Search-RAG-Knowledge-Hub",
-    "stars": 0,
-    "updated_at": "2026-10-26T22:52:48Z",
-    "url": "https://github.com/t0m-a/Edge-Semantic-Search-RAG-Knowledge-Hub"
   }
 ]
