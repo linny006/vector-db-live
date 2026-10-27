@@ -1,5 +1,104 @@
 [
   {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 2,
+    "updated_at": "2026-10-27T11:58:54Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2406,
+    "updated_at": "2026-10-27T11:58:39Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-27T11:58:20Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "",
+    "id": "giuliano0s/ifrs-canoas-rag",
+    "language": "Python",
+    "name": "giuliano0s/ifrs-canoas-rag",
+    "stars": 0,
+    "updated_at": "2026-10-27T11:57:52Z",
+    "url": "https://github.com/giuliano0s/ifrs-canoas-rag"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-27T12:00:21Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11789,
+    "updated_at": "2026-10-27T11:56:53Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-27T11:55:54Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16921,
+    "updated_at": "2026-10-27T11:59:15Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40940,
+    "updated_at": "2026-10-27T11:47:52Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T11:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T12:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
@@ -23,7 +122,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-27T11:43:21Z",
+    "updated_at": "2026-10-27T12:00:24Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T11:41:09Z",
     "url": "https://github.com/ShivamJuyal24/Quill"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-27T11:39:38Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
@@ -77,7 +167,7 @@
     "language": "Python",
     "name": "mohdnayif799/Hybrid-Retrieval-RAG-for-Documents-Code-and-Repositories",
     "stars": 1,
-    "updated_at": "2026-10-27T11:33:00Z",
+    "updated_at": "2026-10-27T11:58:33Z",
     "url": "https://github.com/mohdnayif799/Hybrid-Retrieval-RAG-for-Documents-Code-and-Repositories"
   },
   {
@@ -90,30 +180,12 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T11:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T11:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9483,
-    "updated_at": "2026-10-27T11:29:41Z",
+    "updated_at": "2026-10-27T11:54:23Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -153,31 +225,13 @@
     "url": "https://github.com/Thisen-Ekanayake/Athena"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2406,
-    "updated_at": "2026-10-27T11:24:36Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-27T11:23:18Z",
+    "updated_at": "2026-10-27T11:57:59Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40939,
-    "updated_at": "2026-10-27T11:45:10Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Deploy Chroma 1.5.9 or VecturaDB in your own cloud: an Azure VM template with HTTPS, allowed IP addresses and backups.",
@@ -193,18 +247,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39839,
+    "stars": 39840,
     "updated_at": "2026-10-27T11:18:42Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
-    "id": "hoangdinhlong/nhe_o",
-    "language": "Ada",
-    "name": "hoangdinhlong/nhe_o",
-    "stars": 1,
-    "updated_at": "2026-10-27T11:17:14Z",
-    "url": "https://github.com/hoangdinhlong/nhe_o"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -238,7 +283,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13310,
+    "stars": 13312,
     "updated_at": "2026-10-27T11:04:15Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -248,7 +293,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 291,
-    "updated_at": "2026-10-27T11:01:41Z",
+    "updated_at": "2026-10-27T11:58:08Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T10:53:29Z",
     "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11789,
-    "updated_at": "2026-10-27T11:21:23Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "40 Client-Side Developer & FinOps Utilities, 292 Cloud/LLM Cost Calculators & AI Workflow Marketplace \u2014 Live at https://",
@@ -320,7 +356,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4447,
-    "updated_at": "2026-10-27T11:04:57Z",
+    "updated_at": "2026-10-27T11:52:31Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -383,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8457,
-    "updated_at": "2026-10-27T11:23:22Z",
+    "updated_at": "2026-10-27T11:58:44Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-27T09:45:08Z",
     "url": "https://github.com/SunMe1977/HermesClawZero-ConfigSidecar"
-  },
-  {
-    "description": "Bible verse search in meaning theough embedding and vector database.",
-    "id": "tim-hub/bible-vector-search",
-    "language": "TypeScript",
-    "name": "tim-hub/bible-vector-search",
-    "stars": 33,
-    "updated_at": "2026-10-27T09:37:16Z",
-    "url": "https://github.com/tim-hub/bible-vector-search"
-  },
-  {
-    "description": "Rest client for Qdrant vector database",
-    "id": "quarkiverse/quarkus-qdrant",
-    "language": "Java",
-    "name": "quarkiverse/quarkus-qdrant",
-    "stars": 2,
-    "updated_at": "2026-10-27T09:25:45Z",
-    "url": "https://github.com/quarkiverse/quarkus-qdrant"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-10-27T09:20:58Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
-    "id": "weaviate/docs",
-    "language": "Python",
-    "name": "weaviate/docs",
-    "stars": 20,
-    "updated_at": "2026-10-27T09:41:11Z",
-    "url": "https://github.com/weaviate/docs"
   }
 ]
