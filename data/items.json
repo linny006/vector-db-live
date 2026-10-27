@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T15:45:20Z",
+    "updated_at": "2026-10-27T16:00:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
+    "id": "raman20/freshdb",
+    "language": "Go",
+    "name": "raman20/freshdb",
+    "stars": 0,
+    "updated_at": "2026-10-27T15:59:49Z",
+    "url": "https://github.com/raman20/freshdb"
   },
   {
     "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
@@ -14,8 +23,89 @@
     "language": "Python",
     "name": "bythewayz66-glitch/mem20",
     "stars": 1,
-    "updated_at": "2026-10-27T15:44:53Z",
+    "updated_at": "2026-10-27T15:59:13Z",
     "url": "https://github.com/bythewayz66-glitch/mem20"
+  },
+  {
+    "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
+    "id": "ashraful2871/Salon-Management-Frontend",
+    "language": "TypeScript",
+    "name": "ashraful2871/Salon-Management-Frontend",
+    "stars": 0,
+    "updated_at": "2026-10-27T15:58:18Z",
+    "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-27T15:50:30Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 356,
+    "updated_at": "2026-10-27T15:50:29Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Distributed vector database in Go: hand-written Raft, HNSW search, gRPC API, TLA+ specs",
+    "id": "AshrafAhmed9/Consensa",
+    "language": "Go",
+    "name": "AshrafAhmed9/Consensa",
+    "stars": 0,
+    "updated_at": "2026-10-27T15:50:11Z",
+    "url": "https://github.com/AshrafAhmed9/Consensa"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6551,
+    "updated_at": "2026-10-27T15:48:45Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2061,
+    "updated_at": "2026-10-27T15:46:42Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-27T15:52:52Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T15:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13312,
+    "updated_at": "2026-10-27T15:45:21Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -27,33 +117,6 @@
     "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13311,
-    "updated_at": "2026-10-27T15:45:21Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
-    "id": "raman20/freshdb",
-    "language": "Go",
-    "name": "raman20/freshdb",
-    "stars": 0,
-    "updated_at": "2026-10-27T15:41:39Z",
-    "url": "https://github.com/raman20/freshdb"
-  },
-  {
-    "description": "Distributed vector database in Go: hand-written Raft, HNSW search, gRPC API, TLA+ specs",
-    "id": "AshrafAhmed9/Consensa",
-    "language": "Go",
-    "name": "AshrafAhmed9/Consensa",
-    "stars": 0,
-    "updated_at": "2026-10-27T15:40:34Z",
-    "url": "https://github.com/AshrafAhmed9/Consensa"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -61,6 +124,15 @@
     "stars": 100,
     "updated_at": "2026-10-27T15:36:11Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32810,
+    "updated_at": "2026-10-27T15:58:40Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -86,7 +158,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11791,
-    "updated_at": "2026-10-27T15:35:04Z",
+    "updated_at": "2026-10-27T15:51:07Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -94,36 +166,9 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13480,
+    "stars": 13481,
     "updated_at": "2026-10-27T15:34:45Z",
     "url": "https://github.com/StarTrail-org/LEANN"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2061,
-    "updated_at": "2026-10-27T15:34:26Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-27T15:34:24Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T15:30:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -261,21 +306,12 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32808,
-    "updated_at": "2026-10-27T15:35:18Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-27T15:44:38Z",
+    "updated_at": "2026-10-27T16:00:13Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 1787,
     "updated_at": "2026-10-27T14:49:51Z",
     "url": "https://github.com/tickernelz/opencode-mem"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-27T14:46:03Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T14:07:11Z",
     "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-27T14:04:26Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-27T15:20:42Z",
-    "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-27T13:58:37Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
