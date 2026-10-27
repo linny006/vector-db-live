@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T08:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-10-27T08:15:01Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Multi-tenant Retrieval-Augmented Generation (RAG) SaaS platform with hybrid search, cross-encoder reranking, and inspect",
+    "id": "daanialmirza5/Rag-forge-ai",
+    "language": "Python",
+    "name": "daanialmirza5/Rag-forge-ai",
+    "stars": 1,
+    "updated_at": "2026-10-27T08:12:03Z",
+    "url": "https://github.com/daanialmirza5/Rag-forge-ai"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-27T08:11:51Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2060,
+    "updated_at": "2026-10-27T08:11:05Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-27T08:09:35Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 706,
+    "updated_at": "2026-10-27T08:09:19Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-10-27T08:07:42Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
     "description": "Enterprise agentic platform SDK: ReAct loop, dual-process security guardrail, SQLite hybrid graph-vector retrieval with ",
     "id": "TheWilsonGlobal/nexus-engine",
     "language": "Python",
     "name": "TheWilsonGlobal/nexus-engine",
     "stars": 0,
-    "updated_at": "2026-10-27T07:58:40Z",
+    "updated_at": "2026-10-27T08:06:41Z",
     "url": "https://github.com/TheWilsonGlobal/nexus-engine"
   },
   {
@@ -13,9 +85,45 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40928,
-    "updated_at": "2026-10-27T07:56:57Z",
+    "stars": 40929,
+    "updated_at": "2026-10-27T08:13:37Z",
     "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
+    "id": "dem2007/ChromaDB-Manager",
+    "language": "Swift",
+    "name": "dem2007/ChromaDB-Manager",
+    "stars": 2,
+    "updated_at": "2026-10-27T08:05:03Z",
+    "url": "https://github.com/dem2007/ChromaDB-Manager"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-27T08:14:32Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Production-grade AI customer support agent on n8n: agentic RAG (Gemini + Qdrant) with a self-healing knowledge base, cha",
+    "id": "ShafqaatMalik/n8n-cx-agent",
+    "language": "HTML",
+    "name": "ShafqaatMalik/n8n-cx-agent",
+    "stars": 0,
+    "updated_at": "2026-10-27T08:01:52Z",
+    "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T08:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A standalone vector database built in Rust for semantic search and RAG, with an embeddable engine, HTTP API, metadata fi",
@@ -32,35 +140,17 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11787,
-    "updated_at": "2026-10-27T07:53:16Z",
+    "updated_at": "2026-10-27T08:09:04Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-27T07:52:40Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T07:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T08:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46494,
+    "updated_at": "2026-10-27T07:51:27Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Multi-agent financial intelligence platform: LangGraph + Groq LLM + ChromaDB RAG + yFinance ; deployed on AWS EC2. Ask q",
@@ -81,31 +171,13 @@
     "url": "https://github.com/zilliztech/vts"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 706,
-    "updated_at": "2026-10-27T07:28:26Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
     "id": "eggspot/EggDB",
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T07:57:24Z",
+    "updated_at": "2026-10-27T08:10:53Z",
     "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2060,
-    "updated_at": "2026-10-27T07:42:19Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -130,7 +202,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39819,
+    "stars": 39821,
     "updated_at": "2026-10-27T07:19:12Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -176,7 +248,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9482,
-    "updated_at": "2026-10-27T07:53:19Z",
+    "updated_at": "2026-10-27T08:12:46Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -214,15 +286,6 @@
     "stars": 468,
     "updated_at": "2026-10-27T06:48:08Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
-    "id": "VecturaDB/VecturaDB",
-    "language": "Rust",
-    "name": "VecturaDB/VecturaDB",
-    "stars": 0,
-    "updated_at": "2026-10-27T07:38:43Z",
-    "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -286,15 +349,6 @@
     "stars": 9,
     "updated_at": "2026-10-27T06:22:31Z",
     "url": "https://github.com/oguzhankir/omnichunk"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46493,
-    "updated_at": "2026-10-27T07:51:27Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-27T07:26:27Z",
     "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
-    "id": "ChromaDotNet/ChromaDB.Local",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Local",
-    "stars": 3,
-    "updated_at": "2026-10-27T05:11:08Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
-  },
-  {
-    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
-    "id": "rustic-ai/uni-db",
-    "language": "Rust",
-    "name": "rustic-ai/uni-db",
-    "stars": 57,
-    "updated_at": "2026-10-27T05:02:29Z",
-    "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
-    "id": "hoangdinhlong/nhe_o",
-    "language": "Ada",
-    "name": "hoangdinhlong/nhe_o",
-    "stars": 1,
-    "updated_at": "2026-10-27T04:52:30Z",
-    "url": "https://github.com/hoangdinhlong/nhe_o"
-  },
-  {
-    "description": "A vector database of the whole market: every asset as a live vector over the 495 O(1) streaming indicators the registry ",
-    "id": "wickra-lib/wickra-genome",
-    "language": "Rust",
-    "name": "wickra-lib/wickra-genome",
-    "stars": 1,
-    "updated_at": "2026-10-27T04:50:14Z",
-    "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "Deploy Chroma 1.5.9 or VecturaDB in your own cloud: an Azure VM template with HTTPS, allowed IP addresses and backups.",
-    "id": "VecturaDB/VecturaDB.Deploy",
-    "language": "Bicep",
-    "name": "VecturaDB/VecturaDB.Deploy",
-    "stars": 0,
-    "updated_at": "2026-10-27T04:46:31Z",
-    "url": "https://github.com/VecturaDB/VecturaDB.Deploy"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-10-27T04:46:09Z",
-    "url": "https://github.com/caoergou/dify-installer"
   }
 ]
