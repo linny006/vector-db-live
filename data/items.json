@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T16:00:27Z",
+    "updated_at": "2026-10-27T16:15:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-27T16:14:56Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-27T16:12:44Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Engineering Portfolio \u2014 RAG, Agents & MCP",
+    "id": "shani01846/AI-Engineer",
+    "language": "Python",
+    "name": "shani01846/AI-Engineer",
+    "stars": 0,
+    "updated_at": "2026-10-27T16:11:36Z",
+    "url": "https://github.com/shani01846/AI-Engineer"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13312,
+    "updated_at": "2026-10-27T16:12:43Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Chroma's API on your Postgres: a Chroma-compatible server on pgvector, plus a verified one-command migration off Chroma ",
+    "id": "TheJustas228/pgchroma",
+    "language": "Python",
+    "name": "TheJustas228/pgchroma",
+    "stars": 1,
+    "updated_at": "2026-10-27T16:09:59Z",
+    "url": "https://github.com/TheJustas228/pgchroma"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-27T16:05:57Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
@@ -14,8 +68,44 @@
     "language": "Go",
     "name": "raman20/freshdb",
     "stars": 0,
-    "updated_at": "2026-10-27T15:59:49Z",
+    "updated_at": "2026-10-27T16:11:35Z",
     "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 1,
+    "updated_at": "2026-10-27T16:06:44Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
+    "id": "oguzhankir/omnichunk",
+    "language": "Python",
+    "name": "oguzhankir/omnichunk",
+    "stars": 9,
+    "updated_at": "2026-10-27T16:03:48Z",
+    "url": "https://github.com/oguzhankir/omnichunk"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-27T16:03:13Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T16:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "bythewayz66-glitch/mem20",
     "stars": 1,
-    "updated_at": "2026-10-27T15:59:13Z",
+    "updated_at": "2026-10-27T16:08:28Z",
     "url": "https://github.com/bythewayz66-glitch/mem20"
   },
   {
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T15:58:18Z",
     "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-27T15:50:30Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -90,24 +171,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T15:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13312,
-    "updated_at": "2026-10-27T15:45:21Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32810,
-    "updated_at": "2026-10-27T15:58:40Z",
+    "updated_at": "2026-10-27T16:13:07Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40955,
-    "updated_at": "2026-10-27T15:35:16Z",
+    "updated_at": "2026-10-27T16:08:45Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11791,
-    "updated_at": "2026-10-27T15:51:07Z",
+    "updated_at": "2026-10-27T16:03:43Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -166,7 +229,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13481,
+    "stars": 13482,
     "updated_at": "2026-10-27T15:34:45Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -189,21 +252,12 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "Chroma's API on your Postgres: a Chroma-compatible server on pgvector, plus a verified one-command migration off Chroma ",
-    "id": "TheJustas228/pgchroma",
-    "language": "Python",
-    "name": "TheJustas228/pgchroma",
-    "stars": 1,
-    "updated_at": "2026-10-27T15:24:07Z",
-    "url": "https://github.com/TheJustas228/pgchroma"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 35278,
-    "updated_at": "2026-10-27T15:21:13Z",
+    "updated_at": "2026-10-27T16:13:16Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -221,7 +275,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 291,
-    "updated_at": "2026-10-27T15:19:41Z",
+    "updated_at": "2026-10-27T16:03:04Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -279,15 +333,6 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-27T15:31:26Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -302,7 +347,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4447,
-    "updated_at": "2026-10-27T15:20:06Z",
+    "updated_at": "2026-10-27T16:10:42Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -311,7 +356,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-27T16:00:13Z",
+    "updated_at": "2026-10-27T16:09:14Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 3801,
-    "updated_at": "2026-10-27T14:24:34Z",
+    "updated_at": "2026-10-27T16:15:03Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -382,7 +427,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 732,
+    "stars": 733,
     "updated_at": "2026-10-27T14:18:49Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -403,50 +448,5 @@
     "stars": 1124,
     "updated_at": "2026-10-27T14:12:52Z",
     "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 30034,
-    "updated_at": "2026-10-27T14:12:42Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8461,
-    "updated_at": "2026-10-27T15:42:55Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-10-27T14:10:17Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39844,
-    "updated_at": "2026-10-27T14:09:59Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Run the Semurg benchmark comparisons on your own machine: one command, the same questions and data for every engine, ans",
-    "id": "One-Semurg/Semurg-Benchmark-Suite",
-    "language": "\u2014",
-    "name": "One-Semurg/Semurg-Benchmark-Suite",
-    "stars": 0,
-    "updated_at": "2026-10-27T14:07:11Z",
-    "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
   }
 ]
