@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T05:45:21Z",
+    "updated_at": "2026-10-27T06:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "HUMI is an AI Conversational Agent (Digital Concierge) for HMNS Perfume on Discord. Built with n8n, Google Gemini API, Q",
+    "id": "alfitranurr/hmns-humi-concierge",
+    "language": "JavaScript",
+    "name": "alfitranurr/hmns-humi-concierge",
+    "stars": 0,
+    "updated_at": "2026-10-27T06:00:18Z",
+    "url": "https://github.com/alfitranurr/hmns-humi-concierge"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-27T05:56:24Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "A standalone vector database built in Rust for semantic search and RAG, with an embeddable engine, HTTP API, metadata fi",
+    "id": "vectordb-io/vectordb",
+    "language": "Rust",
+    "name": "vectordb-io/vectordb",
+    "stars": 48,
+    "updated_at": "2026-10-27T05:56:04Z",
+    "url": "https://github.com/vectordb-io/vectordb"
+  },
+  {
+    "description": "AI-Native OSINT & 3D Link Analysis Platform",
+    "id": "sayan9168/nexus-osint",
+    "language": "Python",
+    "name": "sayan9168/nexus-osint",
+    "stars": 3,
+    "updated_at": "2026-10-27T05:53:38Z",
+    "url": "https://github.com/sayan9168/nexus-osint"
+  },
+  {
+    "description": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
+    "id": "houyidb-community/houyidb",
+    "language": "Rust",
+    "name": "houyidb-community/houyidb",
+    "stars": 2,
+    "updated_at": "2026-10-27T05:52:37Z",
+    "url": "https://github.com/houyidb-community/houyidb"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16152,
+    "updated_at": "2026-10-27T05:47:17Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
+    "id": "infiniflow/infinity",
+    "language": "C++",
+    "name": "infiniflow/infinity",
+    "stars": 4744,
+    "updated_at": "2026-10-27T05:46:33Z",
+    "url": "https://github.com/infiniflow/infinity"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-27T05:30:25Z",
+    "updated_at": "2026-10-27T05:45:27Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "mahpate/Vlite",
     "stars": 2,
-    "updated_at": "2026-10-27T05:18:48Z",
+    "updated_at": "2026-10-27T05:57:13Z",
     "url": "https://github.com/mahpate/Vlite"
   },
   {
@@ -162,21 +225,12 @@
     "url": "https://github.com/RohannShetty/DocHarvest"
   },
   {
-    "description": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
-    "id": "houyidb-community/houyidb",
-    "language": "Rust",
-    "name": "houyidb-community/houyidb",
-    "stars": 2,
-    "updated_at": "2026-10-27T04:30:17Z",
-    "url": "https://github.com/houyidb-community/houyidb"
-  },
-  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1488,
-    "updated_at": "2026-10-27T05:06:47Z",
+    "updated_at": "2026-10-27T05:51:02Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 9,
     "updated_at": "2026-10-27T04:11:53Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "A standalone vector database built in Rust for semantic search and RAG, with an embeddable engine, HTTP API, metadata fi",
-    "id": "vectordb-io/vectordb",
-    "language": "Rust",
-    "name": "vectordb-io/vectordb",
-    "stars": 48,
-    "updated_at": "2026-10-27T04:11:35Z",
-    "url": "https://github.com/vectordb-io/vectordb"
   },
   {
     "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
@@ -403,50 +448,5 @@
     "stars": 11784,
     "updated_at": "2026-10-27T04:54:12Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-27T01:39:39Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1524,
-    "updated_at": "2026-10-27T01:32:09Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-27T01:13:53Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
-    "id": "PrathameshDhande22/Portfolio-Website",
-    "language": "TypeScript",
-    "name": "PrathameshDhande22/Portfolio-Website",
-    "stars": 2,
-    "updated_at": "2026-10-27T01:08:56Z",
-    "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-27T01:08:52Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
