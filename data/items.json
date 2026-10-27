@@ -1,12 +1,93 @@
 [
   {
+    "description": "A complete collection of RAG interview questions, answers (1509 questions & 52 RAG types), system design scenarios, arch",
+    "id": "ather-techie/rag-interview-system",
+    "language": "JavaScript",
+    "name": "ather-techie/rag-interview-system",
+    "stars": 177,
+    "updated_at": "2026-10-27T20:58:49Z",
+    "url": "https://github.com/ather-techie/rag-interview-system"
+  },
+  {
     "description": "Local-first memory + RAG kernel imported by three apps. Answers with cited sources, or says it has nothing in memory. 18",
     "id": "zaidwhy/personal-llm",
     "language": "Python",
     "name": "zaidwhy/personal-llm",
     "stars": 2,
-    "updated_at": "2026-10-27T20:43:57Z",
+    "updated_at": "2026-10-27T20:57:31Z",
     "url": "https://github.com/zaidwhy/personal-llm"
+  },
+  {
+    "description": "Ask out loud where you left something; hear the answer and see the frame the camera saw it in. Local ChromaDB memory, Ge",
+    "id": "zaidwhy/recall",
+    "language": "Python",
+    "name": "zaidwhy/recall",
+    "stars": 0,
+    "updated_at": "2026-10-27T20:56:53Z",
+    "url": "https://github.com/zaidwhy/recall"
+  },
+  {
+    "description": "Local-first Windows AI governance and reasoning software for U.S. evaluation. Version 4.4.5 is an engineering candidate;",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 6,
+    "updated_at": "2026-10-27T20:54:17Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-27T20:51:28Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2061,
+    "updated_at": "2026-10-27T20:50:24Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32823,
+    "updated_at": "2026-10-27T20:55:07Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-27T20:45:24Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T20:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T20:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -16,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-27T20:43:43Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-27T20:42:21Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -61,33 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T20:32:31Z",
     "url": "https://github.com/fatimaov/finquery-rag"
-  },
-  {
-    "description": "Ask out loud where you left something; hear the answer and see the frame the camera saw it in. Local ChromaDB memory, Ge",
-    "id": "zaidwhy/recall",
-    "language": "Python",
-    "name": "zaidwhy/recall",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:32:10Z",
-    "url": "https://github.com/zaidwhy/recall"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T20:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T20:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -158,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1223,
-    "updated_at": "2026-10-27T20:43:51Z",
+    "updated_at": "2026-10-27T20:55:12Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -167,17 +212,8 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 743,
-    "updated_at": "2026-10-27T20:09:10Z",
+    "updated_at": "2026-10-27T20:49:43Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Local-first Windows AI governance and reasoning software for U.S. evaluation. Version 4.4.5 is an engineering candidate;",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 6,
-    "updated_at": "2026-10-27T20:33:24Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
     "description": "Self-RAG microservice (FastAPI + LangGraph) with hybrid vector+graph retrieval, self-correction, human-in-the-loop revie",
@@ -194,7 +230,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 12,
-    "updated_at": "2026-10-27T20:37:47Z",
+    "updated_at": "2026-10-27T20:53:01Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -270,24 +306,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32822,
-    "updated_at": "2026-10-27T20:41:25Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2061,
-    "updated_at": "2026-10-27T19:47:23Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
     "id": "IronCoreLabs/ironcore-alloy",
     "language": "Rust",
@@ -295,6 +313,15 @@
     "stars": 31,
     "updated_at": "2026-10-27T19:45:30Z",
     "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40963,
+    "updated_at": "2026-10-27T19:39:05Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "RAG-based personal knowledge assistant: ask questions over your own notes via Claude, with incremental ingestion, a loca",
@@ -421,32 +448,5 @@
     "stars": 60,
     "updated_at": "2026-10-27T20:32:27Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Chat with your PDFs: a RAG app built with FastAPI, ChromaDB and Gemini that answers with page-level citations and says s",
-    "id": "sherakram/docchat-rag-assistant",
-    "language": "Python",
-    "name": "sherakram/docchat-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-27T18:29:10Z",
-    "url": "https://github.com/sherakram/docchat-rag-assistant"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-27T18:27:01Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "another turbopuffer",
-    "id": "dxmt/dxmt",
-    "language": "Rust",
-    "name": "dxmt/dxmt",
-    "stars": 0,
-    "updated_at": "2026-10-27T18:36:08Z",
-    "url": "https://github.com/dxmt/dxmt"
   }
 ]
