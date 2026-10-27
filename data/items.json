@@ -1,12 +1,75 @@
 [
   {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-27T05:13:50Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
     "description": "Single-file vector and graph database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a we",
     "id": "mahpate/Vlite",
     "language": "Rust",
     "name": "mahpate/Vlite",
     "stars": 2,
-    "updated_at": "2026-10-27T04:59:29Z",
+    "updated_at": "2026-10-27T05:11:11Z",
     "url": "https://github.com/mahpate/Vlite"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2060,
+    "updated_at": "2026-10-27T05:11:11Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
+    "id": "ChromaDotNet/ChromaDB.Local",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Local",
+    "stars": 3,
+    "updated_at": "2026-10-27T05:11:08Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
+  },
+  {
+    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
+    "id": "rustic-ai/uni-db",
+    "language": "Rust",
+    "name": "rustic-ai/uni-db",
+    "stars": 57,
+    "updated_at": "2026-10-27T05:02:29Z",
+    "url": "https://github.com/rustic-ai/uni-db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T05:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T05:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40913,
+    "updated_at": "2026-10-27T05:07:29Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T04:53:17Z",
+    "updated_at": "2026-10-27T05:07:41Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9482,
-    "updated_at": "2026-10-27T04:52:39Z",
+    "updated_at": "2026-10-27T05:11:32Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/caoergou/dify-installer"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T04:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T05:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -108,15 +153,6 @@
     "url": "https://github.com/RohannShetty/DocHarvest"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2060,
-    "updated_at": "2026-10-27T04:38:26Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
     "id": "houyidb-community/houyidb",
     "language": "Rust",
@@ -131,7 +167,7 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1488,
-    "updated_at": "2026-10-27T04:23:25Z",
+    "updated_at": "2026-10-27T05:06:47Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T04:06:56Z",
     "url": "https://github.com/Hk-owo/stratum-vectordb"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40913,
-    "updated_at": "2026-10-27T04:59:49Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-27T04:59:46Z",
+    "updated_at": "2026-10-27T05:13:06Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -247,7 +274,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1221,
+    "stars": 1222,
     "updated_at": "2026-10-27T03:14:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -421,32 +448,5 @@
     "stars": 32792,
     "updated_at": "2026-10-27T01:07:15Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 698,
-    "updated_at": "2026-10-27T00:56:27Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Memory module for LLMs and Agents with MCP",
-    "id": "kurcontko/mnemotree",
-    "language": "Python",
-    "name": "kurcontko/mnemotree",
-    "stars": 6,
-    "updated_at": "2026-10-27T00:55:34Z",
-    "url": "https://github.com/kurcontko/mnemotree"
-  },
-  {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 18,
-    "updated_at": "2026-10-27T00:46:33Z",
-    "url": "https://github.com/dkylewillis/vera"
   }
 ]
