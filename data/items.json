@@ -1,11 +1,92 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T13:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-27T13:13:15Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40946,
+    "updated_at": "2026-10-27T13:09:42Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Hybrid semantic search for hotels and restaurants: ingests a structured dataset and PDF/DOCX documents into one schema, ",
+    "id": "YibeltalMarie/hybrid-semantic-place-search",
+    "language": "\u2014",
+    "name": "YibeltalMarie/hybrid-semantic-place-search",
+    "stars": 0,
+    "updated_at": "2026-10-27T13:04:30Z",
+    "url": "https://github.com/YibeltalMarie/hybrid-semantic-place-search"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-27T13:03:49Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2406,
+    "updated_at": "2026-10-27T13:02:32Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 69,
+    "updated_at": "2026-10-27T13:00:29Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T13:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16921,
+    "updated_at": "2026-10-27T13:13:38Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 97,
-    "updated_at": "2026-10-27T13:00:03Z",
+    "updated_at": "2026-10-27T13:10:54Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -43,33 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T12:47:00Z",
     "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T12:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T13:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40945,
-    "updated_at": "2026-10-27T12:42:22Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
@@ -149,17 +203,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-27T12:58:54Z",
+    "updated_at": "2026-10-27T13:06:31Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-27T12:24:18Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
     "description": "Hybrid BM25 + dense RAG over documents and GitHub repositories. Exact file:line citations, grounded refusal, and a contr",
@@ -189,15 +234,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2406,
-    "updated_at": "2026-10-27T12:18:44Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -221,7 +257,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8458,
-    "updated_at": "2026-10-27T12:12:53Z",
+    "updated_at": "2026-10-27T13:14:46Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T12:46:59Z",
+    "updated_at": "2026-10-27T13:08:11Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -295,15 +331,6 @@
     "stars": 13,
     "updated_at": "2026-10-27T11:55:54Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16921,
-    "updated_at": "2026-10-27T13:00:22Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9483,
-    "updated_at": "2026-10-27T12:32:42Z",
+    "updated_at": "2026-10-27T13:15:02Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-27T12:53:21Z",
+    "updated_at": "2026-10-27T13:11:03Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39840,
-    "updated_at": "2026-10-27T12:30:56Z",
+    "updated_at": "2026-10-27T13:08:09Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 138,
-    "updated_at": "2026-10-27T11:14:31Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Turn your prompt or pdfs into a structured study roadmap with timers on every topic.",
-    "id": "Anushree-Radhika/Bow-and-Arrow",
-    "language": "JavaScript",
-    "name": "Anushree-Radhika/Bow-and-Arrow",
-    "stars": 0,
-    "updated_at": "2026-10-27T11:14:13Z",
-    "url": "https://github.com/Anushree-Radhika/Bow-and-Arrow"
-  },
-  {
-    "description": "Question answering over company documents with hybrid search, reranking, cited answers and a measured retrieval report.",
-    "id": "BelAnas/rag-knowledge-assistant",
-    "language": "Python",
-    "name": "BelAnas/rag-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-27T11:14:01Z",
-    "url": "https://github.com/BelAnas/rag-knowledge-assistant"
   }
 ]
