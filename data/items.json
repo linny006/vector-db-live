@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T02:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "volcengine/OpenViking",
+    "stars": 40900,
+    "updated_at": "2026-10-27T02:29:08Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2059,
+    "updated_at": "2026-10-27T02:28:21Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "bythewayz66-glitch/mem20",
     "stars": 1,
-    "updated_at": "2026-10-27T02:14:44Z",
+    "updated_at": "2026-10-27T02:24:59Z",
     "url": "https://github.com/bythewayz66-glitch/mem20"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-27T02:24:38Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T02:16:35Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T02:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Sovereign embedded vector database & SIMD similarity engine for .NET \u2014 1-Bit Binary Quantization (BQ), HNSW graph indexi",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T02:08:19Z",
     "url": "https://github.com/kzxl/ZeroVector"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T02:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable engineering platform for gen-AI, RAG, ML and data work: 58 service families (Ol",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "kherrera6219/DataLogicEngine",
     "stars": 6,
-    "updated_at": "2026-10-27T01:39:20Z",
+    "updated_at": "2026-10-27T02:29:44Z",
     "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
@@ -113,7 +140,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8454,
-    "updated_at": "2026-10-27T01:32:06Z",
+    "updated_at": "2026-10-27T02:24:07Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46490,
-    "updated_at": "2026-10-27T01:13:56Z",
+    "updated_at": "2026-10-27T02:21:56Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -166,7 +193,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32786,
+    "stars": 32787,
     "updated_at": "2026-10-27T01:07:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -198,15 +225,6 @@
     "url": "https://github.com/dkylewillis/vera"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2059,
-    "updated_at": "2026-10-27T01:06:21Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-27T01:45:27Z",
+    "updated_at": "2026-10-27T02:19:40Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-27T01:40:30Z",
+    "updated_at": "2026-10-27T02:22:54Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -261,15 +279,6 @@
     "url": "https://github.com/wickra-lib/wickra-genome"
   },
   {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-27T02:08:50Z",
-    "url": "https://github.com/eggspot/EggDB"
-  },
-  {
     "description": "In-memory knowledge store for AI agents",
     "id": "FraiseHQ/fraise",
     "language": "Go",
@@ -292,7 +301,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67603,
+    "stars": 67604,
     "updated_at": "2026-10-26T23:33:22Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -364,7 +373,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13351,
+    "stars": 13357,
     "updated_at": "2026-10-26T22:36:18Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T21:36:02Z",
     "url": "https://github.com/Rachit47/IdatenOps"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 18,
-    "updated_at": "2026-10-26T21:29:30Z",
-    "url": "https://github.com/mmnto-ai/totem"
   }
 ]
