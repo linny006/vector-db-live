@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T10:15:23Z",
+    "updated_at": "2026-10-27T10:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-27T10:29:17Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
+    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "language": "JavaScript",
+    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "stars": 1,
+    "updated_at": "2026-10-27T10:28:15Z",
+    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6244,
+    "updated_at": "2026-10-27T10:25:51Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
+    "id": "Hk-owo/stratum-vectordb",
+    "language": "Go",
+    "name": "Hk-owo/stratum-vectordb",
+    "stars": 0,
+    "updated_at": "2026-10-27T10:21:57Z",
+    "url": "https://github.com/Hk-owo/stratum-vectordb"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-10-27T10:20:35Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-27T10:28:16Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The Kubernetes operator for K8ssandra",
+    "id": "k8ssandra/k8ssandra-operator",
+    "language": "Go",
+    "name": "k8ssandra/k8ssandra-operator",
+    "stars": 243,
+    "updated_at": "2026-10-27T10:20:20Z",
+    "url": "https://github.com/k8ssandra/k8ssandra-operator"
+  },
+  {
+    "description": "This is a RAG AI agent deployed as a FastAPI to optimize resume based on provided job description.",
+    "id": "sourav-625/Resume-Optimizer-RAG-agent",
+    "language": "Python",
+    "name": "sourav-625/Resume-Optimizer-RAG-agent",
+    "stars": 0,
+    "updated_at": "2026-10-27T10:18:40Z",
+    "url": "https://github.com/sourav-625/Resume-Optimizer-RAG-agent"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,8 +86,26 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2060,
-    "updated_at": "2026-10-27T10:10:43Z",
+    "updated_at": "2026-10-27T10:21:34Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40937,
+    "updated_at": "2026-10-27T10:17:27Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T10:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
@@ -25,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-10-27T10:09:55Z",
     "url": "https://github.com/bartvanbenthem/basis-ai"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8457,
+    "updated_at": "2026-10-27T10:26:34Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
@@ -54,15 +153,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T10:00:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
     "id": "IdoY12/awesome-free-ai-apis",
     "language": "JavaScript",
@@ -72,21 +162,12 @@
     "url": "https://github.com/IdoY12/awesome-free-ai-apis"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-27T10:03:29Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4447,
-    "updated_at": "2026-10-27T10:10:36Z",
+    "updated_at": "2026-10-27T10:17:00Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -97,6 +178,15 @@
     "stars": 100,
     "updated_at": "2026-10-27T09:50:38Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13309,
+    "updated_at": "2026-10-27T09:46:21Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
@@ -113,26 +203,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-27T09:44:29Z",
+    "updated_at": "2026-10-27T10:28:51Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Distributed vector-search knowledge base engine with MVCC versioning, Raft consensus, and HNSW indexing \u2014 built for RAG.",
-    "id": "Hk-owo/stratum-vectordb",
-    "language": "Go",
-    "name": "Hk-owo/stratum-vectordb",
-    "stars": 0,
-    "updated_at": "2026-10-27T09:44:05Z",
-    "url": "https://github.com/Hk-owo/stratum-vectordb"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13308,
-    "updated_at": "2026-10-27T09:46:21Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Deploy Chroma 1.5.9 or VecturaDB in your own cloud: an Azure VM template with HTTPS, allowed IP addresses and backups.",
@@ -162,15 +234,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40936,
-    "updated_at": "2026-10-27T10:06:25Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -178,15 +241,6 @@
     "stars": 138,
     "updated_at": "2026-10-27T09:29:43Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-27T10:00:19Z",
-    "url": "https://github.com/eggspot/EggDB"
   },
   {
     "description": "Rest client for Qdrant vector database",
@@ -394,59 +448,5 @@
     "stars": 32802,
     "updated_at": "2026-10-27T08:17:57Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "TypeScript",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-10-27T09:26:30Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-10-27T08:15:28Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 711,
-    "updated_at": "2026-10-27T08:09:19Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Enterprise agentic platform SDK: ReAct loop, dual-process security guardrail, SQLite hybrid graph-vector retrieval with ",
-    "id": "TheWilsonGlobal/nexus-engine",
-    "language": "Python",
-    "name": "TheWilsonGlobal/nexus-engine",
-    "stars": 0,
-    "updated_at": "2026-10-27T08:06:41Z",
-    "url": "https://github.com/TheWilsonGlobal/nexus-engine"
-  },
-  {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 2,
-    "updated_at": "2026-10-27T08:05:03Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46494,
-    "updated_at": "2026-10-27T09:19:58Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
