@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T03:00:23Z",
+    "updated_at": "2026-10-27T03:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,80 @@
     "language": "Rust",
     "name": "houyidb-community/houyidb",
     "stars": 1,
-    "updated_at": "2026-10-27T03:00:09Z",
+    "updated_at": "2026-10-27T03:15:07Z",
     "url": "https://github.com/houyidb-community/houyidb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1221,
+    "updated_at": "2026-10-27T03:14:53Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates.",
+    "id": "gay00ung/vecnook",
+    "language": "Rust",
+    "name": "gay00ung/vecnook",
+    "stars": 2,
+    "updated_at": "2026-10-27T03:13:15Z",
+    "url": "https://github.com/gay00ung/vecnook"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-10-27T03:09:14Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Local-first Windows AI governance and reasoning software for U.S. evaluation. Version 4.4.5 is an engineering candidate;",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 6,
+    "updated_at": "2026-10-27T03:07:06Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40902,
+    "updated_at": "2026-10-27T03:15:24Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9453,
+    "updated_at": "2026-10-27T03:04:54Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "HTML",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-27T03:01:32Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T03:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -31,7 +103,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46490,
+    "stars": 46491,
     "updated_at": "2026-10-27T02:57:54Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -45,15 +117,6 @@
     "url": "https://github.com/Scaibu/llm-observability-platform"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9453,
-    "updated_at": "2026-10-27T02:52:10Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "A vector database of the whole market: every asset as a live vector over the 495 O(1) streaming indicators the registry ",
     "id": "wickra-lib/wickra-genome",
     "language": "Rust",
@@ -63,24 +126,6 @@
     "url": "https://github.com/wickra-lib/wickra-genome"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T02:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Local-first Windows AI governance and reasoning software for U.S. evaluation. Version 4.4.5 is an engineering candidate;",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 6,
-    "updated_at": "2026-10-27T02:43:33Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -88,15 +133,6 @@
     "stars": 2406,
     "updated_at": "2026-10-27T02:42:56Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40901,
-    "updated_at": "2026-10-27T02:58:55Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T02:55:34Z",
+    "updated_at": "2026-10-27T03:06:19Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-10-27T02:01:52Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "HTML",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-27T03:00:23Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -194,7 +221,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8454,
-    "updated_at": "2026-10-27T02:50:09Z",
+    "updated_at": "2026-10-27T03:15:14Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -238,7 +265,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32789,
+    "stars": 32790,
     "updated_at": "2026-10-27T01:07:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -247,7 +274,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 694,
+    "stars": 695,
     "updated_at": "2026-10-27T00:56:27Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -400,7 +427,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13368,
+    "stars": 13370,
     "updated_at": "2026-10-26T22:36:18Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T22:12:03Z",
     "url": "https://github.com/Nourelden-Elhakiem/Intelligent-SCADA-Assistant"
-  },
-  {
-    "description": "RAG",
-    "id": "MakabeD/Obsidian_RAG",
-    "language": "C#",
-    "name": "MakabeD/Obsidian_RAG",
-    "stars": 1,
-    "updated_at": "2026-10-26T22:06:44Z",
-    "url": "https://github.com/MakabeD/Obsidian_RAG"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-26T22:05:28Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 24,
-    "updated_at": "2026-10-26T21:49:45Z",
-    "url": "https://github.com/opencrawling/opencrawling"
   }
 ]
