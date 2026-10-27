@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T10:00:24Z",
+    "updated_at": "2026-10-27T10:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2060,
+    "updated_at": "2026-10-27T10:10:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "BASIS is a Platform as a Service on Kubernetes for building generative AI services on sovereign infrastructure you own.",
@@ -14,8 +23,44 @@
     "language": "TypeScript",
     "name": "bartvanbenthem/basis-ai",
     "stars": 1,
-    "updated_at": "2026-10-27T10:00:26Z",
+    "updated_at": "2026-10-27T10:09:55Z",
     "url": "https://github.com/bartvanbenthem/basis-ai"
+  },
+  {
+    "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
+    "id": "RoxyAPI/ai-spiritual-companion",
+    "language": "TypeScript",
+    "name": "RoxyAPI/ai-spiritual-companion",
+    "stars": 0,
+    "updated_at": "2026-10-27T10:09:43Z",
+    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9482,
+    "updated_at": "2026-10-27T10:02:54Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-27T10:11:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T10:00:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -32,7 +77,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-27T09:56:09Z",
+    "updated_at": "2026-10-27T10:03:29Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4447,
-    "updated_at": "2026-10-27T09:52:51Z",
+    "updated_at": "2026-10-27T10:10:36Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 100,
     "updated_at": "2026-10-27T09:50:38Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T09:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "HermesClaw Zero\u2011Config Sidecar is a lightweight local vector\u2011memory engine for Hermes and OpenClaw. It runs as a zero\u2011co",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11789,
-    "updated_at": "2026-10-27T09:35:46Z",
+    "updated_at": "2026-10-27T10:10:55Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40936,
-    "updated_at": "2026-10-27T09:35:28Z",
+    "updated_at": "2026-10-27T10:06:25Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9482,
-    "updated_at": "2026-10-27T09:56:29Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -266,7 +293,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-27T08:49:24Z",
+    "updated_at": "2026-10-27T10:11:24Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -364,7 +391,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32801,
+    "stars": 32802,
     "updated_at": "2026-10-27T08:17:57Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -385,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T08:15:28Z",
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2060,
-    "updated_at": "2026-10-27T08:52:28Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
@@ -430,23 +448,5 @@
     "stars": 46494,
     "updated_at": "2026-10-27T09:19:58Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Multi-agent financial intelligence platform: LangGraph + Groq LLM + ChromaDB RAG + yFinance ; deployed on AWS EC2. Ask q",
-    "id": "ParthSharma-2/Finsight-AI",
-    "language": "Python",
-    "name": "ParthSharma-2/Finsight-AI",
-    "stars": 0,
-    "updated_at": "2026-10-27T07:41:07Z",
-    "url": "https://github.com/ParthSharma-2/Finsight-AI"
-  },
-  {
-    "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
-    "id": "zilliztech/vts",
-    "language": "Java",
-    "name": "zilliztech/vts",
-    "stars": 134,
-    "updated_at": "2026-10-27T07:38:03Z",
-    "url": "https://github.com/zilliztech/vts"
   }
 ]
