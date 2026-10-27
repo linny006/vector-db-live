@@ -1,21 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T00:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-27T00:11:45Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "A vector database of the whole market: every asset as a live vector over the 495 O(1) streaming indicators the registry ",
-    "id": "wickra-lib/wickra-genome",
-    "language": "Rust",
-    "name": "wickra-lib/wickra-genome",
-    "stars": 1,
-    "updated_at": "2026-10-26T23:59:27Z",
-    "url": "https://github.com/wickra-lib/wickra-genome"
+    "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
+    "id": "PrathameshDhande22/Portfolio-Website",
+    "language": "TypeScript",
+    "name": "PrathameshDhande22/Portfolio-Website",
+    "stars": 2,
+    "updated_at": "2026-10-27T00:08:17Z",
+    "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
   },
   {
     "description": "Memory module for LLMs and Agents with MCP",
@@ -23,8 +23,44 @@
     "language": "Python",
     "name": "kurcontko/mnemotree",
     "stars": 6,
-    "updated_at": "2026-10-26T23:57:21Z",
+    "updated_at": "2026-10-27T00:09:53Z",
     "url": "https://github.com/kurcontko/mnemotree"
+  },
+  {
+    "description": "A vector database of the whole market: every asset as a live vector over the 495 O(1) streaming indicators the registry ",
+    "id": "wickra-lib/wickra-genome",
+    "language": "Rust",
+    "name": "wickra-lib/wickra-genome",
+    "stars": 1,
+    "updated_at": "2026-10-27T00:04:50Z",
+    "url": "https://github.com/wickra-lib/wickra-genome"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 689,
+    "updated_at": "2026-10-27T00:02:18Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T00:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T00:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-26T23:49:22Z",
+    "updated_at": "2026-10-27T00:11:42Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 37,
     "updated_at": "2026-10-26T23:48:28Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-26T23:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9453,
-    "updated_at": "2026-10-26T23:54:44Z",
+    "updated_at": "2026-10-27T00:10:33Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -167,7 +194,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 12,
-    "updated_at": "2026-10-26T23:36:40Z",
+    "updated_at": "2026-10-27T00:08:00Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -175,7 +202,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13304,
+    "stars": 13313,
     "updated_at": "2026-10-26T22:36:18Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -243,15 +270,6 @@
     "url": "https://github.com/SitanshuA091/memlib-ai"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 688,
-    "updated_at": "2026-10-26T21:39:55Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
     "id": "VecturaDB/VecturaDB",
     "language": "Rust",
@@ -283,7 +301,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 52674,
+    "stars": 52676,
     "updated_at": "2026-10-26T21:25:10Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -293,7 +311,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2059,
-    "updated_at": "2026-10-26T23:53:42Z",
+    "updated_at": "2026-10-27T00:06:44Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -396,15 +414,6 @@
     "url": "https://github.com/cyborginc/cyborgdb-go"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-26T20:24:18Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
     "id": "hoangdinhlong/nhe_o",
     "language": "Ada",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-26T19:57:18Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8453,
-    "updated_at": "2026-10-26T23:19:38Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
