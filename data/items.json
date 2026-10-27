@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-27T16:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 138,
+    "updated_at": "2026-10-27T16:38:18Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-27T16:37:05Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 25,
+    "updated_at": "2026-10-27T16:33:39Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11791,
-    "updated_at": "2026-10-27T16:29:22Z",
+    "updated_at": "2026-10-27T16:45:24Z",
     "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T16:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9454,
-    "updated_at": "2026-10-27T16:29:00Z",
+    "updated_at": "2026-10-27T16:31:43Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -45,13 +90,13 @@
     "url": "https://github.com/sdslabs/VortexDB"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-27T16:23:35Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3802,
+    "updated_at": "2026-10-27T16:19:41Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
@@ -70,24 +115,6 @@
     "stars": 40957,
     "updated_at": "2026-10-27T16:16:21Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T16:15:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T16:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6551,
-    "updated_at": "2026-10-27T15:48:45Z",
+    "updated_at": "2026-10-27T16:43:28Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-27T16:19:08Z",
+    "updated_at": "2026-10-27T16:38:42Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -274,7 +301,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13483,
+    "stars": 13485,
     "updated_at": "2026-10-27T15:34:45Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -383,7 +410,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4447,
-    "updated_at": "2026-10-27T16:10:42Z",
+    "updated_at": "2026-10-27T16:39:56Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 25,
-    "updated_at": "2026-10-27T14:58:33Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
     "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
     "id": "tickernelz/opencode-mem",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-27T14:38:43Z",
     "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 13040,
-    "updated_at": "2026-10-27T14:40:23Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1223,
-    "updated_at": "2026-10-27T14:33:31Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
