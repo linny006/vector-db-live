@@ -1,11 +1,74 @@
 [
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9482,
+    "updated_at": "2026-10-27T06:59:53Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-27T06:56:47Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-10-27T06:52:34Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-27T06:51:01Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2060,
+    "updated_at": "2026-10-27T06:49:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 468,
+    "updated_at": "2026-10-27T06:48:08Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T06:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-27T06:45:21Z",
+    "updated_at": "2026-10-27T07:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,6 +88,15 @@
     "stars": 6,
     "updated_at": "2026-10-27T06:44:02Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7\u667a\u80fd\u77e5\u8bc6\u7ba1\u7406\u7cfb\u7edf\uff1a\u77e5\u8bc6\u5e93 / \u6587\u6863\u667a\u80fd / RAG \u95ee\u7b54 / \u957f\u671f\u8bb0\u5fc6 / \u64cd\u4f5c\u5ba1\u8ba1\u3002Spring Boot 3 + Vue 3 + MySQL + Redis + Milvus\u3002",
+    "id": "Yannnn22/Knowledge-Manager",
+    "language": "Java",
+    "name": "Yannnn22/Knowledge-Manager",
+    "stars": 0,
+    "updated_at": "2026-10-27T06:43:30Z",
+    "url": "https://github.com/Yannnn22/Knowledge-Manager"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -49,7 +121,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40921,
+    "stars": 40922,
     "updated_at": "2026-10-27T06:38:02Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 39812,
-    "updated_at": "2026-10-27T06:37:09Z",
+    "updated_at": "2026-10-27T06:56:52Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -76,18 +148,9 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11784,
-    "updated_at": "2026-10-27T06:32:12Z",
+    "stars": 11785,
+    "updated_at": "2026-10-27T06:55:44Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T06:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
@@ -97,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T06:27:45Z",
     "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 468,
-    "updated_at": "2026-10-27T06:26:24Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-27T06:32:18Z",
+    "updated_at": "2026-10-27T06:53:04Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -239,17 +293,8 @@
     "language": "Rust",
     "name": "mahpate/Vlite",
     "stars": 2,
-    "updated_at": "2026-10-27T06:38:17Z",
+    "updated_at": "2026-10-27T06:55:24Z",
     "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2060,
-    "updated_at": "2026-10-27T06:07:09Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
@@ -268,15 +313,6 @@
     "stars": 57,
     "updated_at": "2026-10-27T05:02:29Z",
     "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9482,
-    "updated_at": "2026-10-27T06:40:26Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
@@ -374,7 +410,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8455,
-    "updated_at": "2026-10-27T05:44:25Z",
+    "updated_at": "2026-10-27T06:49:05Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1222,
     "updated_at": "2026-10-27T03:14:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates.",
-    "id": "gay00ung/vecnook",
-    "language": "Rust",
-    "name": "gay00ung/vecnook",
-    "stars": 2,
-    "updated_at": "2026-10-27T04:20:58Z",
-    "url": "https://github.com/gay00ung/vecnook"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-10-27T03:09:14Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Local-first Windows AI governance and reasoning software for U.S. evaluation. Version 4.4.5 is an engineering candidate;",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 6,
-    "updated_at": "2026-10-27T03:07:06Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-27T03:50:44Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   }
 ]
