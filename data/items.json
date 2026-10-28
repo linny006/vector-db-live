@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-28T03:00:22Z",
+    "updated_at": "2026-10-28T03:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1223,
+    "updated_at": "2026-10-28T03:15:08Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40976,
+    "updated_at": "2026-10-28T03:12:49Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -14,8 +32,35 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 277,
-    "updated_at": "2026-10-28T02:56:29Z",
+    "updated_at": "2026-10-28T03:12:37Z",
     "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "- ",
+    "id": "Scaibu/llm-observability-platform",
+    "language": "Python",
+    "name": "Scaibu/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-10-28T03:04:25Z",
+    "url": "https://github.com/Scaibu/llm-observability-platform"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 12,
+    "updated_at": "2026-10-28T03:03:12Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T03:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-28T02:54:49Z",
+    "updated_at": "2026-10-28T03:05:55Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -68,7 +113,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8462,
-    "updated_at": "2026-10-28T02:50:30Z",
+    "updated_at": "2026-10-28T03:12:09Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-10-28T02:54:44Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T02:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Large document Q&A agent using RAG",
@@ -144,6 +180,15 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9485,
+    "updated_at": "2026-10-28T02:32:46Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
@@ -169,15 +214,6 @@
     "stars": 16158,
     "updated_at": "2026-10-28T02:21:26Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40977,
-    "updated_at": "2026-10-28T02:14:37Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "HouyiDB website (houyidb.top)",
@@ -216,15 +252,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 12,
-    "updated_at": "2026-10-28T02:59:36Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": " Cognitive Memory Architecture for Agents",
     "id": "Cognilogical/NeuroStrata",
     "language": "Rust",
@@ -241,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T01:27:17Z",
     "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9484,
-    "updated_at": "2026-10-28T02:32:46Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Enterprise RAG Platform API \u2014 Production-grade document intelligence backend in Python/FastAPI with JWT auth, async Post",
@@ -295,15 +313,6 @@
     "stars": 1489,
     "updated_at": "2026-10-28T02:38:18Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1223,
-    "updated_at": "2026-10-28T02:58:34Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -439,14 +448,5 @@
     "stars": 4448,
     "updated_at": "2026-10-28T01:25:20Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-27T23:29:42Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
