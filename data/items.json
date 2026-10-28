@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-28T12:00:22Z",
+    "updated_at": "2026-10-28T12:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-28T12:15:04Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "NextSQL is a new database engine, written primarily in Go.",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-10-28T12:11:19Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1225,
+    "updated_at": "2026-10-28T12:09:45Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T12:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-based Q&A assistant for scientific research papers, built with LangChain, FAISS and the Google Gemini API, with a St",
@@ -27,13 +63,13 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-28T11:58:34Z",
-    "url": "https://github.com/GiulioDER/RE-call"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8465,
+    "updated_at": "2026-10-28T11:55:21Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
@@ -45,21 +81,12 @@
     "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1225,
-    "updated_at": "2026-10-28T11:58:00Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-28T11:54:28Z",
+    "updated_at": "2026-10-28T12:02:29Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -85,7 +112,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41026,
+    "stars": 41028,
     "updated_at": "2026-10-28T11:48:47Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T11:46:30Z",
     "url": "https://github.com/talha4111/EduBrain-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T11:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2062,
-    "updated_at": "2026-10-28T11:26:57Z",
+    "updated_at": "2026-10-28T12:02:10Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32847,
-    "updated_at": "2026-10-28T11:45:26Z",
+    "updated_at": "2026-10-28T12:14:29Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -297,6 +315,15 @@
     "url": "https://github.com/076923/vecscope"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59692,
+    "updated_at": "2026-10-28T10:42:46Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
     "id": "IdoY12/awesome-free-ai-apis",
     "language": "JavaScript",
@@ -310,7 +337,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39868,
+    "stars": 39870,
     "updated_at": "2026-10-28T10:38:36Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -358,24 +385,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T10:03:30Z",
     "url": "https://github.com/Coriou/up-vector"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8466,
-    "updated_at": "2026-10-28T11:55:21Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59693,
-    "updated_at": "2026-10-28T10:42:46Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -439,14 +448,5 @@
     "stars": 472,
     "updated_at": "2026-10-28T09:22:03Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6552,
-    "updated_at": "2026-10-28T11:52:55Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
