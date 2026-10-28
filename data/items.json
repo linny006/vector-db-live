@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-28T04:00:22Z",
+    "updated_at": "2026-10-28T04:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-28T04:15:11Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI-Native OSINT & 3D Link Analysis Platform",
+    "id": "sayan9168/nexus-osint",
+    "language": "Python",
+    "name": "sayan9168/nexus-osint",
+    "stars": 3,
+    "updated_at": "2026-10-28T04:14:06Z",
+    "url": "https://github.com/sayan9168/nexus-osint"
+  },
+  {
+    "description": "A lightweight, self-hosted **Retrieval-Augmented Generation (RAG)** system.",
+    "id": "mghasemi/TinyRAG",
+    "language": "TypeScript",
+    "name": "mghasemi/TinyRAG",
+    "stars": 0,
+    "updated_at": "2026-10-28T04:11:13Z",
+    "url": "https://github.com/mghasemi/TinyRAG"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-28T04:10:15Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 35,
+    "updated_at": "2026-10-28T04:08:41Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "Official Terraform provider for Pinecone ",
+    "id": "pinecone-io/terraform-provider-pinecone",
+    "language": "Go",
+    "name": "pinecone-io/terraform-provider-pinecone",
+    "stars": 32,
+    "updated_at": "2026-10-28T04:07:48Z",
+    "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-28T04:06:06Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "\u26a1 High-Performance Document RAG Pipeline powered by FastAPI, Vector Embeddings, Hybrid Retrieval, and Async Streaming.",
+    "id": "givemehat/DocuRAG-FastAPI",
+    "language": "Python",
+    "name": "givemehat/DocuRAG-FastAPI",
+    "stars": 0,
+    "updated_at": "2026-10-28T04:06:00Z",
+    "url": "https://github.com/givemehat/DocuRAG-FastAPI"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +86,35 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1223,
-    "updated_at": "2026-10-28T03:59:23Z",
+    "updated_at": "2026-10-28T04:02:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40976,
+    "updated_at": "2026-10-28T04:11:13Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
+    "id": "rustic-ai/uni-db",
+    "language": "Rust",
+    "name": "rustic-ai/uni-db",
+    "stars": 57,
+    "updated_at": "2026-10-28T04:01:34Z",
+    "url": "https://github.com/rustic-ai/uni-db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T04:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -61,15 +160,6 @@
     "stars": 9454,
     "updated_at": "2026-10-28T03:46:46Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T03:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -144,15 +234,6 @@
     "url": "https://github.com/adamksn/aturanorg"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40977,
-    "updated_at": "2026-10-28T04:00:18Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -189,15 +270,6 @@
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-28T03:05:55Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
     "id": "eggspot/EggDB",
     "language": "Rust",
@@ -221,7 +293,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8462,
-    "updated_at": "2026-10-28T03:59:21Z",
+    "updated_at": "2026-10-28T04:14:36Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -275,7 +347,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9485,
-    "updated_at": "2026-10-28T03:44:21Z",
+    "updated_at": "2026-10-28T04:06:00Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -283,7 +355,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 760,
+    "stars": 762,
     "updated_at": "2026-10-28T02:24:59Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -338,7 +410,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-28T01:49:37Z",
+    "updated_at": "2026-10-28T04:06:56Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T01:16:47Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2409,
-    "updated_at": "2026-10-28T01:15:09Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Core backend and node plugins for AI Crew Suite",
-    "id": "ai-crew-suite/platform",
-    "language": "TypeScript",
-    "name": "ai-crew-suite/platform",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:55:25Z",
-    "url": "https://github.com/ai-crew-suite/platform"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1489,
-    "updated_at": "2026-10-28T03:50:26Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-28T00:44:50Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7149,
-    "updated_at": "2026-10-28T00:18:35Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3809,
-    "updated_at": "2026-10-28T00:07:27Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-28T00:03:33Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "An evidence-grounded adaptive gym training system that generates personalized workout programs using RAG (Retrieval-Augm",
-    "id": "Kingflow-23/RepWise",
-    "language": "Jupyter Notebook",
-    "name": "Kingflow-23/RepWise",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:02:59Z",
-    "url": "https://github.com/Kingflow-23/RepWise"
   }
 ]
