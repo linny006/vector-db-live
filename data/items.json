@@ -1,29 +1,92 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T12:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG-based Q&A assistant for scientific research papers, built with LangChain, FAISS and the Google Gemini API, with a St",
+    "id": "aryanbhardwaj7542-web/scisum-rag-app",
+    "language": "Python",
+    "name": "aryanbhardwaj7542-web/scisum-rag-app",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:59:24Z",
+    "url": "https://github.com/aryanbhardwaj7542-web/scisum-rag-app"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2411,
+    "updated_at": "2026-10-28T11:58:46Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-28T11:58:34Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
+    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "language": "JavaScript",
+    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "stars": 1,
+    "updated_at": "2026-10-28T11:55:08Z",
+    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1225,
-    "updated_at": "2026-10-28T11:45:03Z",
+    "updated_at": "2026-10-28T11:58:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
     "language": "Rust",
-    "name": "eggspot/EggDB",
+    "name": "databendlabs/databend",
+    "stars": 9487,
+    "updated_at": "2026-10-28T11:54:28Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7151,
+    "updated_at": "2026-10-28T11:54:23Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
+    "id": "gyr0byte/Generative-AI",
+    "language": "Python",
+    "name": "gyr0byte/Generative-AI",
     "stars": 0,
-    "updated_at": "2026-10-28T11:42:48Z",
-    "url": "https://github.com/eggspot/EggDB"
+    "updated_at": "2026-10-28T11:49:17Z",
+    "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41023,
-    "updated_at": "2026-10-28T11:41:57Z",
+    "stars": 41026,
+    "updated_at": "2026-10-28T11:48:47Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -32,8 +95,35 @@
     "language": "Go",
     "name": "raman20/freshdb",
     "stars": 0,
-    "updated_at": "2026-10-28T11:41:22Z",
+    "updated_at": "2026-10-28T11:48:07Z",
     "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "Multimodal Vision (Gemini 2.0 Flash) & ChromaDB Vector Database RAG Educational Assistant with Hybrid Markdown/Recursive",
+    "id": "talha4111/EduBrain-AI",
+    "language": "Python",
+    "name": "talha4111/EduBrain-AI",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:46:30Z",
+    "url": "https://github.com/talha4111/EduBrain-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T11:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:55:45Z",
+    "url": "https://github.com/eggspot/EggDB"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -54,40 +144,13 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
-    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "language": "JavaScript",
-    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "stars": 1,
-    "updated_at": "2026-10-28T11:34:12Z",
-    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
-  },
-  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-28T11:34:05Z",
+    "updated_at": "2026-10-28T11:50:03Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T11:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T11:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -95,7 +158,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46510,
-    "updated_at": "2026-10-28T11:40:09Z",
+    "updated_at": "2026-10-28T11:57:53Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7151,
-    "updated_at": "2026-10-28T11:25:53Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -133,15 +187,6 @@
     "stars": 25,
     "updated_at": "2026-10-28T11:22:45Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-28T11:21:52Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -193,7 +238,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 782,
+    "stars": 783,
     "updated_at": "2026-10-28T11:02:35Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32847,
-    "updated_at": "2026-10-28T11:38:23Z",
+    "updated_at": "2026-10-28T11:45:26Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -279,24 +324,6 @@
     "url": "https://github.com/weaviate/docs"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-28T11:42:15Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9487,
-    "updated_at": "2026-10-28T11:44:12Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Your Open-Source NotebookLM",
     "id": "SUJALSPATEL/OpenbookLM",
     "language": "TypeScript",
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6245,
-    "updated_at": "2026-10-28T11:19:18Z",
+    "updated_at": "2026-10-28T11:53:43Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -338,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8466,
-    "updated_at": "2026-10-28T11:19:56Z",
+    "updated_at": "2026-10-28T11:55:21Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6552,
-    "updated_at": "2026-10-28T09:18:51Z",
+    "updated_at": "2026-10-28T11:52:55Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A visual sandbox for experimenting with RAG configurations. Interactive tools for document parsing, chunking, embeddings",
-    "id": "jvorndran/RAG-Visualizer",
-    "language": "Python",
-    "name": "jvorndran/RAG-Visualizer",
-    "stars": 1,
-    "updated_at": "2026-10-28T09:08:32Z",
-    "url": "https://github.com/jvorndran/RAG-Visualizer"
-  },
-  {
-    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
-    "id": "yashbhosale789/yashbhosale789",
-    "language": "\u2014",
-    "name": "yashbhosale789/yashbhosale789",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:07:32Z",
-    "url": "https://github.com/yashbhosale789/yashbhosale789"
-  },
-  {
-    "description": "OpenEverest provider for Milvus",
-    "id": "openeverest/provider-milvus",
-    "language": "Go",
-    "name": "openeverest/provider-milvus",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:52:04Z",
-    "url": "https://github.com/openeverest/provider-milvus"
   }
 ]
