@@ -1,11 +1,74 @@
 [
   {
+    "description": "An evidence-grounded adaptive gym training system that generates personalized workout programs using RAG (Retrieval-Augm",
+    "id": "Kingflow-23/RepWise",
+    "language": "Jupyter Notebook",
+    "name": "Kingflow-23/RepWise",
+    "stars": 0,
+    "updated_at": "2026-10-28T22:43:12Z",
+    "url": "https://github.com/Kingflow-23/RepWise"
+  },
+  {
+    "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-28T22:41:41Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 815,
+    "updated_at": "2026-10-28T22:37:24Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-28T22:36:19Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-28T22:42:29Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39879,
+    "updated_at": "2026-10-28T22:35:39Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T22:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-28T22:30:22Z",
+    "updated_at": "2026-10-28T22:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11800,
-    "updated_at": "2026-10-28T22:27:25Z",
+    "updated_at": "2026-10-28T22:30:47Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "darylalim/rag-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-28T22:25:50Z",
+    "updated_at": "2026-10-28T22:38:50Z",
     "url": "https://github.com/darylalim/rag-pipeline"
   },
   {
@@ -67,7 +130,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46513,
+    "stars": 46514,
     "updated_at": "2026-10-28T22:17:56Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -79,24 +142,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T22:16:57Z",
     "url": "https://github.com/hufengjuexue/zhongji"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T22:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 813,
-    "updated_at": "2026-10-28T22:15:09Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -124,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T22:15:00Z",
     "url": "https://github.com/GrafeoDB/anywidget-vector"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-28T22:22:22Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Deploy Chroma 1.5.9 or VecturaDB in your own cloud: an Azure VM template with HTTPS, allowed IP addresses and backups.",
@@ -185,7 +221,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 67683,
-    "updated_at": "2026-10-28T22:16:30Z",
+    "updated_at": "2026-10-28T22:34:25Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T21:40:40Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-28T21:37:40Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9455,
-    "updated_at": "2026-10-28T22:28:46Z",
+    "updated_at": "2026-10-28T22:43:43Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 8,
     "updated_at": "2026-10-28T21:12:48Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
-  },
-  {
-    "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-28T22:27:19Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Vector database engine built from scratch in C++17 with HNSW, KD-Tree, and Brute Force ANN search, a thread-safe REST AP",
@@ -430,23 +448,5 @@
     "stars": 13628,
     "updated_at": "2026-10-28T19:24:57Z",
     "url": "https://github.com/StarTrail-org/LEANN"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-28T19:23:12Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-10-28T19:14:57Z",
-    "url": "https://github.com/api-evangelist/aerospike"
   }
 ]
