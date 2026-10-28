@@ -1,5 +1,77 @@
 [
   {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-28T21:00:02Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-28T20:58:03Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "tickernelz/opencode-mem",
+    "language": "TypeScript",
+    "name": "tickernelz/opencode-mem",
+    "stars": 1792,
+    "updated_at": "2026-10-28T20:56:31Z",
+    "url": "https://github.com/tickernelz/opencode-mem"
+  },
+  {
+    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
+    "id": "desikai-lab/Marrow",
+    "language": "Python",
+    "name": "desikai-lab/Marrow",
+    "stars": 7,
+    "updated_at": "2026-10-28T20:55:44Z",
+    "url": "https://github.com/desikai-lab/Marrow"
+  },
+  {
+    "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
+    "id": "MZohaibBaig/rag-search-api",
+    "language": "Python",
+    "name": "MZohaibBaig/rag-search-api",
+    "stars": 0,
+    "updated_at": "2026-10-28T20:55:28Z",
+    "url": "https://github.com/MZohaibBaig/rag-search-api"
+  },
+  {
+    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
+    "id": "fatma-fendri/PodAI",
+    "language": "Python",
+    "name": "fatma-fendri/PodAI",
+    "stars": 0,
+    "updated_at": "2026-10-28T20:52:01Z",
+    "url": "https://github.com/fatma-fendri/PodAI"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32865,
+    "updated_at": "2026-10-28T20:48:38Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T20:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,21 +90,12 @@
     "url": "https://github.com/tradik/mddb"
   },
   {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "tickernelz/opencode-mem",
-    "language": "TypeScript",
-    "name": "tickernelz/opencode-mem",
-    "stars": 1792,
-    "updated_at": "2026-10-28T20:43:12Z",
-    "url": "https://github.com/tickernelz/opencode-mem"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9455,
-    "updated_at": "2026-10-28T20:44:36Z",
+    "updated_at": "2026-10-28T21:00:09Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11800,
-    "updated_at": "2026-10-28T20:44:41Z",
+    "updated_at": "2026-10-28T20:59:56Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-28T20:39:45Z",
+    "updated_at": "2026-10-28T20:48:47Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -86,17 +149,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-28T20:44:30Z",
+    "updated_at": "2026-10-28T20:59:24Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T20:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -104,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1225,
-    "updated_at": "2026-10-28T20:26:51Z",
+    "updated_at": "2026-10-28T20:49:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -117,30 +171,12 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-28T20:18:45Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32864,
-    "updated_at": "2026-10-28T20:28:23Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
     "id": "VecturaDB/VecturaDB",
     "language": "Rust",
     "name": "VecturaDB/VecturaDB",
     "stars": 0,
-    "updated_at": "2026-10-28T20:10:31Z",
+    "updated_at": "2026-10-28T20:47:21Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
   },
   {
@@ -207,6 +243,15 @@
     "url": "https://github.com/sak3y/closer"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67682,
+    "updated_at": "2026-10-28T19:51:15Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
     "id": "GCTRL-TECH/platform",
     "language": "TypeScript",
@@ -225,20 +270,11 @@
     "url": "https://github.com/dolev31/lasagna"
   },
   {
-    "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
-    "id": "MZohaibBaig/rag-search-api",
-    "language": "Python",
-    "name": "MZohaibBaig/rag-search-api",
-    "stars": 0,
-    "updated_at": "2026-10-28T19:27:50Z",
-    "url": "https://github.com/MZohaibBaig/rag-search-api"
-  },
-  {
     "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13620,
+    "stars": 13621,
     "updated_at": "2026-10-28T19:24:57Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -315,15 +351,6 @@
     "url": "https://github.com/pratyushpad/Lumina"
   },
   {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-28T18:38:04Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
@@ -349,15 +376,6 @@
     "stars": 100,
     "updated_at": "2026-10-28T19:49:15Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-28T20:14:46Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T17:58:50Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "The Kubernetes Operator of Milvus. ",
-    "id": "zilliztech/milvus-operator",
-    "language": "Go",
-    "name": "zilliztech/milvus-operator",
-    "stars": 135,
-    "updated_at": "2026-10-28T17:57:48Z",
-    "url": "https://github.com/zilliztech/milvus-operator"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 4,
-    "updated_at": "2026-10-28T17:49:23Z",
-    "url": "https://github.com/TAIPANBOX/engram"
   }
 ]
