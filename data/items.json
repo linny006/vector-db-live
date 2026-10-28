@@ -1,12 +1,66 @@
 [
   {
+    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-10-28T19:14:57Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-28T19:14:44Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
     "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
     "id": "raman20/freshdb",
     "language": "Go",
     "name": "raman20/freshdb",
     "stars": 0,
-    "updated_at": "2026-10-28T18:59:31Z",
+    "updated_at": "2026-10-28T19:12:22Z",
     "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11800,
+    "updated_at": "2026-10-28T19:07:18Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
+    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "language": "JavaScript",
+    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "stars": 1,
+    "updated_at": "2026-10-28T19:04:00Z",
+    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T19:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T19:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -16,6 +70,15 @@
     "stars": 6,
     "updated_at": "2026-10-28T18:59:11Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 41055,
+    "updated_at": "2026-10-28T18:56:58Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Local-first Windows AI governance and reasoning software for U.S. evaluation. Version 4.4.5 is an engineering candidate;",
@@ -32,26 +95,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9455,
-    "updated_at": "2026-10-28T19:00:22Z",
+    "updated_at": "2026-10-28T19:15:04Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T18:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T18:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Grounded multimodal RAG workbench \u2014 PDF/image/text in, cited answers out. Hybrid BM25+dense retrieval, reranking, frozen",
@@ -81,13 +126,13 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
-    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "language": "JavaScript",
-    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "stars": 1,
-    "updated_at": "2026-10-28T18:33:53Z",
-    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8471,
+    "updated_at": "2026-10-28T19:12:26Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Self improving agents through iterations",
@@ -104,7 +149,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 291,
-    "updated_at": "2026-10-28T18:44:56Z",
+    "updated_at": "2026-10-28T19:06:43Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 60,
     "updated_at": "2026-10-28T18:19:03Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11800,
-    "updated_at": "2026-10-28T18:29:04Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -265,7 +301,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32864,
+    "stars": 32863,
     "updated_at": "2026-10-28T17:41:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -277,15 +313,6 @@
     "stars": 57,
     "updated_at": "2026-10-28T18:22:47Z",
     "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-28T18:10:32Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "piotrwozn/multidb",
     "stars": 0,
-    "updated_at": "2026-10-28T18:58:29Z",
+    "updated_at": "2026-10-28T19:03:32Z",
     "url": "https://github.com/piotrwozn/multidb"
   },
   {
@@ -373,7 +400,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 803,
+    "stars": 804,
     "updated_at": "2026-10-28T17:16:06Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T17:13:14Z",
     "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "Open-source toolkit for validating data consistency across source systems, RAG indexes, and AI-generated answers.",
-    "id": "lynvera-ai/ragparity",
-    "language": "\u2014",
-    "name": "lynvera-ai/ragparity",
-    "stars": 0,
-    "updated_at": "2026-10-28T18:35:17Z",
-    "url": "https://github.com/lynvera-ai/ragparity"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-28T17:49:39Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13318,
-    "updated_at": "2026-10-28T16:46:50Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
