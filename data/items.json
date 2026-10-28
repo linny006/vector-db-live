@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T02:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "HouyiDB website (houyidb.top)",
+    "id": "houyidb-community/houyidb-site",
+    "language": "HTML",
+    "name": "houyidb-community/houyidb-site",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:12:45Z",
+    "url": "https://github.com/houyidb-community/houyidb-site"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T02:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -31,8 +58,8 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40974,
-    "updated_at": "2026-10-28T01:50:07Z",
+    "stars": 40975,
+    "updated_at": "2026-10-28T02:14:37Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -45,30 +72,12 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T01:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T02:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 277,
-    "updated_at": "2026-10-28T01:44:30Z",
+    "updated_at": "2026-10-28T02:07:54Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -139,7 +148,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 755,
+    "stars": 756,
     "updated_at": "2026-10-28T01:23:54Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "eggspot/EggDB",
     "stars": 0,
-    "updated_at": "2026-10-28T01:12:24Z",
+    "updated_at": "2026-10-28T02:05:28Z",
     "url": "https://github.com/eggspot/EggDB"
   },
   {
@@ -203,8 +212,17 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-28T01:50:10Z",
+    "updated_at": "2026-10-28T02:00:36Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46506,
+    "updated_at": "2026-10-28T02:13:58Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "zd87pl/loci-db",
     "stars": 1,
-    "updated_at": "2026-10-28T01:51:40Z",
+    "updated_at": "2026-10-28T02:13:28Z",
     "url": "https://github.com/zd87pl/loci-db"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T22:34:44Z",
     "url": "https://github.com/mallajaswanthkumar10/personal-knowledge-rag"
-  },
-  {
-    "description": "AI chat app with cross-chat memory \u2014 RAG over LanceDB with Gemini, Next.js + Socket.IO. Bring your own key or use the li",
-    "id": "n8watkins/GeminiGPT",
-    "language": "TypeScript",
-    "name": "n8watkins/GeminiGPT",
-    "stars": 0,
-    "updated_at": "2026-10-27T22:21:05Z",
-    "url": "https://github.com/n8watkins/GeminiGPT"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 5,
-    "updated_at": "2026-10-27T23:02:09Z",
-    "url": "https://github.com/tradik/mddb"
   }
 ]
