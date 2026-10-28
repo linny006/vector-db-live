@@ -1,12 +1,12 @@
 [
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-28T00:12:54Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T00:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
@@ -14,8 +14,53 @@
     "language": "Rust",
     "name": "kividbio/kividb",
     "stars": 751,
-    "updated_at": "2026-10-28T00:09:24Z",
+    "updated_at": "2026-10-28T00:28:07Z",
     "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-28T00:24:32Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1223,
+    "updated_at": "2026-10-28T00:21:53Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-28T00:20:13Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9454,
+    "updated_at": "2026-10-28T00:26:20Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T00:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -81,24 +126,6 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T00:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T00:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
     "id": "bythewayz66-glitch/mem20",
     "language": "Python",
@@ -133,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-10-27T23:49:40Z",
     "url": "https://github.com/gifton/VectorCore"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1223,
-    "updated_at": "2026-10-27T23:53:09Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 18,
-    "updated_at": "2026-10-27T23:56:44Z",
+    "updated_at": "2026-10-28T00:27:57Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -247,7 +265,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67651,
+    "stars": 67652,
     "updated_at": "2026-10-27T23:04:10Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -302,7 +320,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8462,
-    "updated_at": "2026-10-27T22:41:09Z",
+    "updated_at": "2026-10-28T00:23:35Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T22:34:44Z",
     "url": "https://github.com/mallajaswanthkumar10/personal-knowledge-rag"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9454,
-    "updated_at": "2026-10-28T00:09:56Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "AI chat app with cross-chat memory \u2014 RAG over LanceDB with Gemini, Next.js + Socket.IO. Bring your own key or use the li",
@@ -439,14 +448,5 @@
     "stars": 132,
     "updated_at": "2026-10-27T21:44:22Z",
     "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-10-27T22:02:54Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
   }
 ]
