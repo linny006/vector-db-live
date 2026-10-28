@@ -1,21 +1,120 @@
 [
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13316,
-    "updated_at": "2026-10-28T16:15:06Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2062,
-    "updated_at": "2026-10-28T16:11:20Z",
+    "updated_at": "2026-10-28T16:30:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-28T16:28:32Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "NextSQL is a new database engine, written primarily in Go.",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-10-28T16:27:53Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6554,
+    "updated_at": "2026-10-28T16:29:54Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-28T16:25:28Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
+    "id": "2B-4G10/NoLockQS",
+    "language": "Kotlin",
+    "name": "2B-4G10/NoLockQS",
+    "stars": 3,
+    "updated_at": "2026-10-28T16:27:24Z",
+    "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-28T16:21:47Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Automated Telegram channel forwarder and AI content rewriter with zero latency for Windows.",
+    "id": "Claytro24161ll/telegram-channel-rpocket-forwarder-ai",
+    "language": "\u2014",
+    "name": "Claytro24161ll/telegram-channel-rpocket-forwarder-ai",
+    "stars": 0,
+    "updated_at": "2026-10-28T16:21:31Z",
+    "url": "https://github.com/Claytro24161ll/telegram-channel-rpocket-forwarder-ai"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46511,
+    "updated_at": "2026-10-28T16:17:57Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13316,
+    "updated_at": "2026-10-28T16:17:05Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11799,
+    "updated_at": "2026-10-28T16:24:03Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T16:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T16:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -23,7 +122,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4448,
-    "updated_at": "2026-10-28T16:09:15Z",
+    "updated_at": "2026-10-28T16:17:21Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -34,33 +133,6 @@
     "stars": 389,
     "updated_at": "2026-10-28T16:05:48Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-28T16:10:15Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T16:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T16:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -112,18 +184,9 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41048,
+    "stars": 41049,
     "updated_at": "2026-10-28T15:48:42Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-28T16:15:16Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
@@ -140,7 +203,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9454,
-    "updated_at": "2026-10-28T16:15:21Z",
+    "updated_at": "2026-10-28T16:29:03Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -171,15 +234,6 @@
     "url": "https://github.com/eugen-goebel/smart-doc-qa"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11799,
-    "updated_at": "2026-10-28T15:26:44Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -203,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16924,
-    "updated_at": "2026-10-28T15:24:01Z",
+    "updated_at": "2026-10-28T16:28:41Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 4,
-    "updated_at": "2026-10-28T15:06:39Z",
+    "updated_at": "2026-10-28T16:18:50Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -265,7 +319,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8467,
+    "stars": 8468,
     "updated_at": "2026-10-28T15:05:15Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -275,7 +329,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59695,
-    "updated_at": "2026-10-28T15:03:02Z",
+    "updated_at": "2026-10-28T16:19:38Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-28T14:33:47Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
     "id": "gyr0byte/Generative-AI",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 177,
     "updated_at": "2026-10-28T14:30:28Z",
     "url": "https://github.com/yantrikos/yantrikdb-server"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6554,
-    "updated_at": "2026-10-28T15:29:42Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
-    "id": "oguzhankir/omnichunk",
-    "language": "Python",
-    "name": "oguzhankir/omnichunk",
-    "stars": 10,
-    "updated_at": "2026-10-28T14:20:10Z",
-    "url": "https://github.com/oguzhankir/omnichunk"
-  },
-  {
-    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-10-28T14:13:36Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-28T14:09:44Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35300,
-    "updated_at": "2026-10-28T15:13:15Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
