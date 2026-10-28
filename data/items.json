@@ -1,12 +1,102 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T08:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9485,
+    "updated_at": "2026-10-28T08:12:32Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Journals on learning from daily work",
+    "id": "ksankeerth/fde-diary",
+    "language": "Python",
+    "name": "ksankeerth/fde-diary",
+    "stars": 0,
+    "updated_at": "2026-10-28T08:12:10Z",
+    "url": "https://github.com/ksankeerth/fde-diary"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6244,
+    "updated_at": "2026-10-28T08:10:16Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7150,
+    "updated_at": "2026-10-28T08:13:26Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2062,
-    "updated_at": "2026-10-28T07:57:56Z",
+    "updated_at": "2026-10-28T08:07:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A personalized AI voice agent",
+    "id": "navjotmaan/voice-agent",
+    "language": "TypeScript",
+    "name": "navjotmaan/voice-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T08:10:19Z",
+    "url": "https://github.com/navjotmaan/voice-agent"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 2052,
+    "updated_at": "2026-10-28T08:06:15Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with",
+    "id": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
+    "language": "TypeScript",
+    "name": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
+    "stars": 5,
+    "updated_at": "2026-10-28T08:00:39Z",
+    "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T08:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-28T08:12:24Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and ag",
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-10-28T07:56:26Z",
+    "updated_at": "2026-10-28T08:03:08Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -45,31 +135,13 @@
     "url": "https://github.com/hoangdinhlong/nhe_o"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T07:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T08:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9485,
-    "updated_at": "2026-10-28T07:42:06Z",
-    "url": "https://github.com/databendlabs/databend"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46511,
+    "updated_at": "2026-10-28T07:41:34Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -95,17 +167,8 @@
     "language": "Python",
     "name": "10xGraph/10xGraph",
     "stars": 28,
-    "updated_at": "2026-10-28T07:35:39Z",
+    "updated_at": "2026-10-28T08:08:36Z",
     "url": "https://github.com/10xGraph/10xGraph"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-28T08:00:14Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -113,17 +176,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-28T07:38:24Z",
+    "updated_at": "2026-10-28T08:12:41Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46510,
-    "updated_at": "2026-10-28T07:41:34Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -169,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-10-28T07:19:37Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7150,
-    "updated_at": "2026-10-28T07:23:26Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "a retrieval-augmented  generation system that answers Persian-language technical/programming questions  by retrieving fr",
@@ -239,7 +284,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-28T07:31:05Z",
+    "updated_at": "2026-10-28T08:09:10Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -297,6 +342,15 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 920,
+    "updated_at": "2026-10-28T06:35:11Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
     "description": "AI chat app with cross-chat memory \u2014 RAG over LanceDB with Gemini, Next.js + Socket.IO. Bring your own key or use the li",
     "id": "n8watkins/GeminiGPT",
     "language": "TypeScript",
@@ -319,8 +373,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32833,
-    "updated_at": "2026-10-28T06:25:43Z",
+    "stars": 32834,
+    "updated_at": "2026-10-28T08:13:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -329,17 +383,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1224,
-    "updated_at": "2026-10-28T07:48:16Z",
+    "updated_at": "2026-10-28T08:14:44Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AWS Bedrock RAG tutorial: document Q&A on Bedrock Knowledge Bases + S3 Vectors, streamed through CloudFront. Deploy with",
-    "id": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
-    "language": "TypeScript",
-    "name": "PatrickWiloak/bedrock-rag-s3-vectors-tutorial",
-    "stars": 5,
-    "updated_at": "2026-10-28T06:17:48Z",
-    "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
   },
   {
     "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
@@ -347,7 +392,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 47,
-    "updated_at": "2026-10-28T07:56:57Z",
+    "updated_at": "2026-10-28T08:05:37Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4448,
-    "updated_at": "2026-10-28T07:51:57Z",
+    "updated_at": "2026-10-28T08:12:31Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -400,53 +445,8 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3812,
+    "stars": 3811,
     "updated_at": "2026-10-28T05:50:10Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-28T05:48:35Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-28T05:41:39Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Single-file vector and graph database in Rust: embedded (Rust/Python/Node/C ABI) or self-hosted with REST, gRPC and a we",
-    "id": "mahpate/Vlite",
-    "language": "Rust",
-    "name": "mahpate/Vlite",
-    "stars": 2,
-    "updated_at": "2026-10-28T05:39:27Z",
-    "url": "https://github.com/mahpate/Vlite"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-10-28T05:20:21Z",
-    "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9453,
-    "updated_at": "2026-10-28T05:13:39Z",
-    "url": "https://github.com/paradedb/paradedb"
   }
 ]
