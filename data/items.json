@@ -1,5 +1,77 @@
 [
   {
+    "description": "A vector database of the whole market: every asset as a live vector over the 495 O(1) streaming indicators the registry ",
+    "id": "wickra-lib/wickra-genome",
+    "language": "Rust",
+    "name": "wickra-lib/wickra-genome",
+    "stars": 1,
+    "updated_at": "2026-10-28T18:14:59Z",
+    "url": "https://github.com/wickra-lib/wickra-genome"
+  },
+  {
+    "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-28T18:14:35Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Chatbot RAG sobre datos oficiales de la Escuela Polit\u00e9cnica Superior de Ja\u00e9n (UJA). Recuperaci\u00f3n y generaci\u00f3n 100% en lo",
+    "id": "samubp10/tfg-recomendador-uja",
+    "language": "Python",
+    "name": "samubp10/tfg-recomendador-uja",
+    "stars": 0,
+    "updated_at": "2026-10-28T18:14:15Z",
+    "url": "https://github.com/samubp10/tfg-recomendador-uja"
+  },
+  {
+    "description": "Quill is a full-stack AI document Q&A app that lets users upload PDFs and chat with their content using a modern Next.js",
+    "id": "ShivamJuyal24/Quill",
+    "language": "Python",
+    "name": "ShivamJuyal24/Quill",
+    "stars": 0,
+    "updated_at": "2026-10-28T18:14:13Z",
+    "url": "https://github.com/ShivamJuyal24/Quill"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 139,
+    "updated_at": "2026-10-28T18:12:35Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "HTML",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-10-28T18:09:40Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T18:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T18:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -23,7 +95,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11800,
-    "updated_at": "2026-10-28T17:54:52Z",
+    "updated_at": "2026-10-28T18:11:57Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9454,
-    "updated_at": "2026-10-28T17:52:13Z",
+    "updated_at": "2026-10-28T18:14:12Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Rust",
     "name": "writerslogic/holographic-memory",
     "stars": 21,
-    "updated_at": "2026-10-28T17:51:51Z",
+    "updated_at": "2026-10-28T18:11:28Z",
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
@@ -81,31 +153,22 @@
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T17:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T17:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-28T17:53:38Z",
+    "updated_at": "2026-10-28T18:08:38Z",
     "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32864,
+    "updated_at": "2026-10-28T17:41:39Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
@@ -122,7 +185,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-28T17:29:09Z",
+    "updated_at": "2026-10-28T18:10:32Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -171,24 +234,6 @@
     "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32862,
-    "updated_at": "2026-10-28T17:41:39Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 139,
-    "updated_at": "2026-10-28T17:34:54Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -229,7 +274,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 801,
+    "stars": 802,
     "updated_at": "2026-10-28T17:16:06Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -248,17 +293,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2062,
-    "updated_at": "2026-10-28T17:51:51Z",
+    "updated_at": "2026-10-28T18:01:03Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-28T17:11:02Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -319,7 +355,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13316,
+    "stars": 13317,
     "updated_at": "2026-10-28T16:46:50Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -392,7 +428,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 291,
-    "updated_at": "2026-10-28T16:00:43Z",
+    "updated_at": "2026-10-28T18:11:35Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 24,
     "updated_at": "2026-10-28T15:53:04Z",
     "url": "https://github.com/evgeniycheban/spring-data-reindexer"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 41052,
-    "updated_at": "2026-10-28T15:48:42Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "ChironDB is a Rust-native vector database for AI and RAG applications, combining dense, sparse, and hybrid search with r",
-    "id": "Gaussian-id/ChironDB",
-    "language": "Rust",
-    "name": "Gaussian-id/ChironDB",
-    "stars": 4,
-    "updated_at": "2026-10-28T15:36:05Z",
-    "url": "https://github.com/Gaussian-id/ChironDB"
-  },
-  {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-10-28T15:27:50Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
-  },
-  {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-28T15:24:59Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
   }
 ]
