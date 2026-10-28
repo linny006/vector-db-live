@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-28T08:15:25Z",
+    "updated_at": "2026-10-28T08:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and ag",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-28T08:30:01Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 40994,
+    "updated_at": "2026-10-28T08:25:42Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
+    "id": "Thisen-Ekanayake/Athena",
+    "language": "Python",
+    "name": "Thisen-Ekanayake/Athena",
+    "stars": 1,
+    "updated_at": "2026-10-28T08:19:12Z",
+    "url": "https://github.com/Thisen-Ekanayake/Athena"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T08:15:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -50,7 +86,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2062,
-    "updated_at": "2026-10-28T08:07:09Z",
+    "updated_at": "2026-10-28T08:29:46Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -81,31 +117,13 @@
     "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T08:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-28T08:12:24Z",
+    "updated_at": "2026-10-28T08:22:06Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and ag",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-28T08:03:08Z",
-    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -180,15 +198,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 40993,
-    "updated_at": "2026-10-28T07:49:15Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
     "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
     "id": "GoodbyePlanet/semcode",
     "language": "Python",
@@ -211,7 +220,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2410,
+    "stars": 2411,
     "updated_at": "2026-10-28T07:24:59Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "Amz34/awesome-agent-infrastructure",
     "stars": 1,
-    "updated_at": "2026-10-28T06:45:27Z",
+    "updated_at": "2026-10-28T08:30:18Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32834,
-    "updated_at": "2026-10-28T08:13:45Z",
+    "updated_at": "2026-10-28T08:18:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1224,
-    "updated_at": "2026-10-28T08:14:44Z",
+    "updated_at": "2026-10-28T08:29:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4448,
-    "updated_at": "2026-10-28T08:12:31Z",
+    "updated_at": "2026-10-28T08:26:40Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 139,
     "updated_at": "2026-10-28T06:52:33Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3811,
-    "updated_at": "2026-10-28T05:50:10Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   }
 ]
