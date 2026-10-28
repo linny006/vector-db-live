@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-28T06:42:41Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Biterate \u2013 Restaurant Review Sentiment Analyzer An NLP-powered sentiment analysis platform using emoji-aware preprocessi",
+    "id": "vishwaswarup/BiteRate",
+    "language": "CSS",
+    "name": "vishwaswarup/BiteRate",
+    "stars": 8,
+    "updated_at": "2026-10-28T06:39:19Z",
+    "url": "https://github.com/vishwaswarup/BiteRate"
+  },
+  {
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "JavaScript",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 1,
+    "updated_at": "2026-10-28T06:39:18Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T06:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 1,
+    "updated_at": "2026-10-28T06:37:59Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-28T06:37:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,8 +50,53 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2061,
-    "updated_at": "2026-10-28T06:28:37Z",
+    "updated_at": "2026-10-28T06:36:01Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-28T06:35:36Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xGraph/10xGraph",
+    "language": "Python",
+    "name": "10xGraph/10xGraph",
+    "stars": 28,
+    "updated_at": "2026-10-28T06:38:06Z",
+    "url": "https://github.com/10xGraph/10xGraph"
+  },
+  {
+    "description": "AI chat app with cross-chat memory \u2014 RAG over LanceDB with Gemini, Next.js + Socket.IO. Bring your own key or use the li",
+    "id": "n8watkins/GeminiGPT",
+    "language": "TypeScript",
+    "name": "n8watkins/GeminiGPT",
+    "stars": 0,
+    "updated_at": "2026-10-28T06:34:23Z",
+    "url": "https://github.com/n8watkins/GeminiGPT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T06:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T06:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "40 Client-Side Developer & FinOps Utilities, 292 Cloud/LLM Cost Calculators & AI Workflow Marketplace \u2014 Live at https://",
@@ -27,15 +108,6 @@
     "url": "https://github.com/zainmasri/utilforge"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-28T06:26:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -45,21 +117,12 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "AI chat app with cross-chat memory \u2014 RAG over LanceDB with Gemini, Next.js + Socket.IO. Bring your own key or use the li",
-    "id": "n8watkins/GeminiGPT",
-    "language": "TypeScript",
-    "name": "n8watkins/GeminiGPT",
-    "stars": 0,
-    "updated_at": "2026-10-28T06:24:21Z",
-    "url": "https://github.com/n8watkins/GeminiGPT"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1223,
-    "updated_at": "2026-10-28T06:22:01Z",
+    "stars": 1224,
+    "updated_at": "2026-10-28T06:44:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -68,7 +131,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46510,
-    "updated_at": "2026-10-28T06:22:00Z",
+    "updated_at": "2026-10-28T06:38:01Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -81,20 +144,11 @@
     "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T06:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 40981,
+    "stars": 40982,
     "updated_at": "2026-10-28T06:11:12Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -131,7 +185,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4448,
-    "updated_at": "2026-10-28T06:18:08Z",
+    "updated_at": "2026-10-28T06:44:38Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -166,7 +220,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3811,
+    "stars": 3812,
     "updated_at": "2026-10-28T05:50:10Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -293,7 +347,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 12,
-    "updated_at": "2026-10-28T06:26:44Z",
+    "updated_at": "2026-10-28T06:35:07Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -311,7 +365,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 277,
-    "updated_at": "2026-10-28T04:24:49Z",
+    "updated_at": "2026-10-28T06:41:18Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 134,
     "updated_at": "2026-10-28T03:50:15Z",
     "url": "https://github.com/zilliztech/vts"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 389,
-    "updated_at": "2026-10-28T06:19:39Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "a retrieval-augmented  generation system that answers Persian-language technical/programming questions  by retrieving fr",
-    "id": "mjmajlesi/Persian-Technical-RAG",
-    "language": "Python",
-    "name": "mjmajlesi/Persian-Technical-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-28T03:36:00Z",
-    "url": "https://github.com/mjmajlesi/Persian-Technical-RAG"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-28T03:32:47Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
-    "id": "gyr0byte/Generative-AI",
-    "language": "Python",
-    "name": "gyr0byte/Generative-AI",
-    "stars": 0,
-    "updated_at": "2026-10-28T03:31:29Z",
-    "url": "https://github.com/gyr0byte/Generative-AI"
-  },
-  {
-    "description": "A full-stack AI-powered Industry-Centric assistant built with React, Node.js, TypeScript, PostgreSQL, and pgvector. Inte",
-    "id": "saisrikarbommisetty/Industry-Centric-AI-Chatbot-Platform",
-    "language": "TypeScript",
-    "name": "saisrikarbommisetty/Industry-Centric-AI-Chatbot-Platform",
-    "stars": 0,
-    "updated_at": "2026-10-28T03:31:18Z",
-    "url": "https://github.com/saisrikarbommisetty/Industry-Centric-AI-Chatbot-Platform"
-  },
-  {
-    "description": "Spatial memory for Physical AI. Robots, drones & world models remember what they saw, where and when, and notice what's ",
-    "id": "zd87pl/loci-db",
-    "language": "Python",
-    "name": "zd87pl/loci-db",
-    "stars": 1,
-    "updated_at": "2026-10-28T03:36:45Z",
-    "url": "https://github.com/zd87pl/loci-db"
   }
 ]
