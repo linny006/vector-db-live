@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2062,
+    "updated_at": "2026-10-28T07:57:56Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and ag",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-10-28T07:56:26Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13314,
+    "updated_at": "2026-10-28T07:55:00Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 277,
+    "updated_at": "2026-10-28T07:52:19Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Formally verified multi-model embedded ACID database in Ada 2022 / SPARK (SQL, JSONB, HNSW Vector, KV, Pub/Sub, Hybrid R",
+    "id": "hoangdinhlong/nhe_o",
+    "language": "Ada",
+    "name": "hoangdinhlong/nhe_o",
+    "stars": 1,
+    "updated_at": "2026-10-28T07:51:03Z",
+    "url": "https://github.com/hoangdinhlong/nhe_o"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T07:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T08:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -41,7 +104,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-28T07:42:14Z",
+    "updated_at": "2026-10-28T08:00:14Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -52,24 +115,6 @@
     "stars": 6,
     "updated_at": "2026-10-28T07:38:24Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T07:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T07:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40993,
-    "updated_at": "2026-10-28T07:41:18Z",
+    "updated_at": "2026-10-28T07:49:15Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -166,7 +211,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39857,
+    "stars": 39858,
     "updated_at": "2026-10-28T07:11:40Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -189,15 +234,6 @@
     "url": "https://github.com/wickra-lib/wickra-genome"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 277,
-    "updated_at": "2026-10-28T07:31:51Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -205,15 +241,6 @@
     "stars": 100,
     "updated_at": "2026-10-28T07:31:05Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2062,
-    "updated_at": "2026-10-28T07:34:02Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
@@ -302,7 +329,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1224,
-    "updated_at": "2026-10-28T07:26:36Z",
+    "updated_at": "2026-10-28T07:48:16Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 47,
-    "updated_at": "2026-10-28T06:10:38Z",
+    "updated_at": "2026-10-28T07:56:57Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -356,17 +383,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4448,
-    "updated_at": "2026-10-28T06:44:38Z",
+    "updated_at": "2026-10-28T07:51:57Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and ag",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-28T07:35:12Z",
-    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -414,15 +432,6 @@
     "url": "https://github.com/mahpate/Vlite"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13314,
-    "updated_at": "2026-10-28T05:23:15Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
     "id": "caoergou/dify-installer",
     "language": "Shell",
@@ -439,14 +448,5 @@
     "stars": 9453,
     "updated_at": "2026-10-28T05:13:39Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "\u6821\u5185\u5236\u5ea6\u6eaf\u6e90\u4e0e\u7b56\u7565\u8fed\u4ee3\u52a9\u624b",
-    "id": "205023339-jpg/PolicyTrace",
-    "language": "Python",
-    "name": "205023339-jpg/PolicyTrace",
-    "stars": 0,
-    "updated_at": "2026-10-28T05:09:24Z",
-    "url": "https://github.com/205023339-jpg/PolicyTrace"
   }
 ]
