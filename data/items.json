@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-28T12:15:21Z",
+    "updated_at": "2026-10-28T12:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
+    "id": "raman20/freshdb",
+    "language": "Go",
+    "name": "raman20/freshdb",
+    "stars": 0,
+    "updated_at": "2026-10-28T12:29:23Z",
+    "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "Docker-DB is a Python library for managing database containers via Docker: supporting fast, scriptable setup of MongoDB,",
+    "id": "amadou-6e/py-docker",
+    "language": "Python",
+    "name": "amadou-6e/py-docker",
+    "stars": 2,
+    "updated_at": "2026-10-28T12:29:08Z",
+    "url": "https://github.com/amadou-6e/py-docker"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 784,
+    "updated_at": "2026-10-28T12:25:49Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "A browser app presenting data from the Georgia Project. ",
+    "id": "KatherineMossDeveloper/Midnight-Train",
+    "language": "TypeScript",
+    "name": "KatherineMossDeveloper/Midnight-Train",
+    "stars": 1,
+    "updated_at": "2026-10-28T12:21:27Z",
+    "url": "https://github.com/KatherineMossDeveloper/Midnight-Train"
+  },
+  {
+    "description": "The Go client for Chroma vector database",
+    "id": "amikos-tech/chroma-go",
+    "language": "Go",
+    "name": "amikos-tech/chroma-go",
+    "stars": 210,
+    "updated_at": "2026-10-28T12:18:48Z",
+    "url": "https://github.com/amikos-tech/chroma-go"
+  },
+  {
+    "description": "Local-first LanceDB memory suite for Hermes Agent - memory provider plugin (8 MCP tools), web visualizer (11 pages), scr",
+    "id": "3L0935/hermes-lancedb-memory-suite",
+    "language": "Python",
+    "name": "3L0935/hermes-lancedb-memory-suite",
+    "stars": 1,
+    "updated_at": "2026-10-28T12:17:04Z",
+    "url": "https://github.com/3L0935/hermes-lancedb-memory-suite"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T12:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -32,17 +95,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1225,
-    "updated_at": "2026-10-28T12:09:45Z",
+    "updated_at": "2026-10-28T12:27:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T12:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-based Q&A assistant for scientific research papers, built with LangChain, FAISS and the Google Gemini API, with a St",
@@ -86,7 +140,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-28T12:02:29Z",
+    "updated_at": "2026-10-28T12:21:34Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -112,18 +166,9 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41028,
+    "stars": 41030,
     "updated_at": "2026-10-28T11:48:47Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
-    "id": "raman20/freshdb",
-    "language": "Go",
-    "name": "raman20/freshdb",
-    "stars": 0,
-    "updated_at": "2026-10-28T11:48:07Z",
-    "url": "https://github.com/raman20/freshdb"
   },
   {
     "description": "Multimodal Vision (Gemini 2.0 Flash) & ChromaDB Vector Database RAG Educational Assistant with Hybrid Markdown/Recursive",
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46510,
-    "updated_at": "2026-10-28T11:57:53Z",
+    "updated_at": "2026-10-28T12:15:58Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16923,
-    "updated_at": "2026-10-28T11:36:39Z",
+    "updated_at": "2026-10-28T12:23:38Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 4448,
     "updated_at": "2026-10-28T11:05:32Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 783,
-    "updated_at": "2026-10-28T11:02:35Z",
-    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -365,7 +401,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6245,
-    "updated_at": "2026-10-28T11:53:43Z",
+    "updated_at": "2026-10-28T12:15:58Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 139,
     "updated_at": "2026-10-28T11:37:05Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
-    "id": "fatma-fendri/PodAI",
-    "language": "Python",
-    "name": "fatma-fendri/PodAI",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:38:02Z",
-    "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "HouyiDB website (houyidb.top)",
-    "id": "houyidb-community/houyidb-site",
-    "language": "HTML",
-    "name": "houyidb-community/houyidb-site",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:36:45Z",
-    "url": "https://github.com/houyidb-community/houyidb-site"
-  },
-  {
-    "description": "Grounded document question-answering pipeline with local embeddings, ChromaDB retrieval, Groq LLM generation, source cit",
-    "id": "alifarzadjamali/local-document-rag-qa",
-    "language": "Python",
-    "name": "alifarzadjamali/local-document-rag-qa",
-    "stars": 1,
-    "updated_at": "2026-10-28T09:31:25Z",
-    "url": "https://github.com/alifarzadjamali/local-document-rag-qa"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 472,
-    "updated_at": "2026-10-28T09:22:03Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   }
 ]
