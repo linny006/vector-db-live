@@ -1,5 +1,86 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1225,
+    "updated_at": "2026-10-28T11:45:03Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:42:48Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 41023,
+    "updated_at": "2026-10-28T11:41:57Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
+    "id": "raman20/freshdb",
+    "language": "Go",
+    "name": "raman20/freshdb",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:41:22Z",
+    "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-28T11:39:58Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-28T11:39:40Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
+    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "language": "JavaScript",
+    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
+    "stars": 1,
+    "updated_at": "2026-10-28T11:34:12Z",
+    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-28T11:34:05Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T11:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,17 +95,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46510,
-    "updated_at": "2026-10-28T11:29:58Z",
+    "updated_at": "2026-10-28T11:40:09Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
-    "id": "raman20/freshdb",
-    "language": "Go",
-    "name": "raman20/freshdb",
-    "stars": 0,
-    "updated_at": "2026-10-28T11:29:47Z",
-    "url": "https://github.com/raman20/freshdb"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -72,24 +144,6 @@
     "url": "https://github.com/gyr0byte/Generative-AI"
   },
   {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 41021,
-    "updated_at": "2026-10-28T11:15:49Z",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T11:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -113,7 +167,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13315,
-    "updated_at": "2026-10-28T11:07:48Z",
+    "updated_at": "2026-10-28T11:41:37Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16923,
-    "updated_at": "2026-10-28T11:25:25Z",
+    "updated_at": "2026-10-28T11:36:39Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32847,
-    "updated_at": "2026-10-28T11:21:32Z",
+    "updated_at": "2026-10-28T11:38:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -211,7 +265,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 39867,
+    "stars": 39868,
     "updated_at": "2026-10-28T10:38:36Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -230,7 +284,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-28T11:05:08Z",
+    "updated_at": "2026-10-28T11:42:15Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-28T10:38:00Z",
+    "updated_at": "2026-10-28T11:44:12Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -288,15 +342,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1225,
-    "updated_at": "2026-10-28T10:59:17Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -329,7 +374,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 139,
-    "updated_at": "2026-10-28T11:28:54Z",
+    "updated_at": "2026-10-28T11:37:05Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -369,6 +414,15 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6552,
+    "updated_at": "2026-10-28T09:18:51Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "A visual sandbox for experimenting with RAG configurations. Interactive tools for document parsing, chunking, embeddings",
     "id": "jvorndran/RAG-Visualizer",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T10:52:04Z",
     "url": "https://github.com/openeverest/provider-milvus"
-  },
-  {
-    "description": "ZAAFPulse: AI command center for macOS, Linux and Windows. Observability for Claude Code and Codex (usage, cost, quality",
-    "id": "rifqifitriady/ZAAFPulse",
-    "language": "JavaScript",
-    "name": "rifqifitriady/ZAAFPulse",
-    "stars": 2,
-    "updated_at": "2026-10-28T09:00:56Z",
-    "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-28T11:24:53Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-28T08:30:18Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and ag",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-10-28T08:30:01Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Journals on learning from daily work",
-    "id": "ksankeerth/fde-diary",
-    "language": "Python",
-    "name": "ksankeerth/fde-diary",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:12:10Z",
-    "url": "https://github.com/ksankeerth/fde-diary"
-  },
-  {
-    "description": "A personalized AI voice agent",
-    "id": "navjotmaan/voice-agent",
-    "language": "TypeScript",
-    "name": "navjotmaan/voice-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:10:19Z",
-    "url": "https://github.com/navjotmaan/voice-agent"
   }
 ]
