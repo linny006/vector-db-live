@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T00:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
+    "id": "bythewayz66-glitch/mem20",
+    "language": "Python",
+    "name": "bythewayz66-glitch/mem20",
+    "stars": 1,
+    "updated_at": "2026-10-28T00:00:15Z",
+    "url": "https://github.com/bythewayz66-glitch/mem20"
+  },
+  {
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 66,
+    "updated_at": "2026-10-28T00:00:11Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 12,
+    "updated_at": "2026-10-27T23:55:27Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "An index for ambient learning applications.",
+    "id": "rao-studios/AII",
+    "language": "Swift",
+    "name": "rao-studios/AII",
+    "stars": 0,
+    "updated_at": "2026-10-27T23:54:30Z",
+    "url": "https://github.com/rao-studios/AII"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-27T23:49:43Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
     "description": "Spatial memory for Physical AI. Robots, drones & world models remember what they saw, where and when, and notice what's ",
     "id": "zd87pl/loci-db",
     "language": "Python",
     "name": "zd87pl/loci-db",
     "stars": 1,
-    "updated_at": "2026-10-27T23:45:09Z",
+    "updated_at": "2026-10-27T23:52:17Z",
     "url": "https://github.com/zd87pl/loci-db"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 750,
+    "updated_at": "2026-10-27T23:47:00Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "CPU-bound vector math library with SIMD optimization, distance metrics, and foundational protocols for Swift6",
+    "id": "gifton/VectorCore",
+    "language": "Swift",
+    "name": "gifton/VectorCore",
+    "stars": 4,
+    "updated_at": "2026-10-27T23:49:40Z",
+    "url": "https://github.com/gifton/VectorCore"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-27T23:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,7 +95,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1223,
-    "updated_at": "2026-10-27T23:44:45Z",
+    "updated_at": "2026-10-27T23:53:09Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -54,24 +135,6 @@
     "url": "https://github.com/YoKONCy/TriviumDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-27T23:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-27T23:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -86,7 +149,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9484,
-    "updated_at": "2026-10-27T23:28:55Z",
+    "updated_at": "2026-10-27T23:55:06Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -95,7 +158,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 18,
-    "updated_at": "2026-10-27T23:28:26Z",
+    "updated_at": "2026-10-27T23:56:44Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32829,
-    "updated_at": "2026-10-27T23:28:14Z",
+    "updated_at": "2026-10-27T23:59:06Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -166,7 +229,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 67650,
+    "stars": 67651,
     "updated_at": "2026-10-27T23:04:10Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -239,7 +302,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9454,
-    "updated_at": "2026-10-27T23:43:51Z",
+    "updated_at": "2026-10-27T23:57:03Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -266,7 +329,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2061,
-    "updated_at": "2026-10-27T22:19:43Z",
+    "updated_at": "2026-10-27T23:46:32Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -286,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T22:09:42Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 12,
-    "updated_at": "2026-10-27T23:41:37Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-27T21:33:18Z",
     "url": "https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 749,
-    "updated_at": "2026-10-27T23:21:11Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "A typed service that admits tenant learning documents, chunks them, embeds them, and writes a vector collection.",
-    "id": "NoxusT77/saas-tenant-vector-ingest",
-    "language": "TypeScript",
-    "name": "NoxusT77/saas-tenant-vector-ingest",
-    "stars": 0,
-    "updated_at": "2026-10-27T21:27:46Z",
-    "url": "https://github.com/NoxusT77/saas-tenant-vector-ingest"
-  },
-  {
-    "description": "Build your own vector database in Python: distance metrics, nearest-neighbour search and metadata filtering, explained f",
-    "id": "robcox2910/pyvecdb",
-    "language": "Python",
-    "name": "robcox2910/pyvecdb",
-    "stars": 0,
-    "updated_at": "2026-10-27T21:04:42Z",
-    "url": "https://github.com/robcox2910/pyvecdb"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1509 questions & 52 RAG types), system design scenarios, arch",
-    "id": "ather-techie/rag-interview-system",
-    "language": "JavaScript",
-    "name": "ather-techie/rag-interview-system",
-    "stars": 177,
-    "updated_at": "2026-10-27T20:58:49Z",
-    "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "Local-first memory + RAG kernel imported by three apps. Answers with cited sources, or says it has nothing in memory. 18",
-    "id": "zaidwhy/personal-llm",
-    "language": "Python",
-    "name": "zaidwhy/personal-llm",
-    "stars": 2,
-    "updated_at": "2026-10-27T20:57:31Z",
-    "url": "https://github.com/zaidwhy/personal-llm"
-  },
-  {
-    "description": "Ask out loud where you left something; hear the answer and see the frame the camera saw it in. Local ChromaDB memory, Ge",
-    "id": "zaidwhy/recall",
-    "language": "Python",
-    "name": "zaidwhy/recall",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:56:53Z",
-    "url": "https://github.com/zaidwhy/recall"
   }
 ]
