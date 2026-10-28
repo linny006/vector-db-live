@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T04:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1223,
+    "updated_at": "2026-10-28T03:59:23Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 69,
+    "updated_at": "2026-10-28T03:51:01Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
+    "id": "zilliztech/vts",
+    "language": "Java",
+    "name": "zilliztech/vts",
+    "stars": 134,
+    "updated_at": "2026-10-28T03:50:15Z",
+    "url": "https://github.com/zilliztech/vts"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 277,
+    "updated_at": "2026-10-28T03:48:10Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46507,
+    "updated_at": "2026-10-28T03:47:54Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9454,
+    "updated_at": "2026-10-28T03:46:46Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T03:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -54,24 +126,6 @@
     "url": "https://github.com/saisrikarbommisetty/Industry-Centric-AI-Chatbot-Platform"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T03:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T03:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Spatial memory for Physical AI. Robots, drones & world models remember what they saw, where and when, and notice what's ",
     "id": "zd87pl/loci-db",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T03:36:45Z",
     "url": "https://github.com/zd87pl/loci-db"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 277,
-    "updated_at": "2026-10-28T03:44:47Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Aturan.org is Indonesia\u2019s first public semantic search for laws and regulations, AI-ready with an MCP server, REST API, ",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 40977,
-    "updated_at": "2026-10-28T03:41:50Z",
+    "updated_at": "2026-10-28T04:00:18Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 44,
     "updated_at": "2026-10-28T03:22:02Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1223,
-    "updated_at": "2026-10-28T03:30:19Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "- ",
@@ -140,7 +176,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 12,
-    "updated_at": "2026-10-28T03:42:07Z",
+    "updated_at": "2026-10-28T03:51:44Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -185,7 +221,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8462,
-    "updated_at": "2026-10-28T03:26:50Z",
+    "updated_at": "2026-10-28T03:59:21Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 4,
     "updated_at": "2026-10-28T02:54:44Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46507,
-    "updated_at": "2026-10-28T02:45:56Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Large document Q&A agent using RAG",
@@ -223,15 +250,6 @@
     "stars": 11794,
     "updated_at": "2026-10-28T02:44:27Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 69,
-    "updated_at": "2026-10-28T03:30:49Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramb",
@@ -383,7 +401,7 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1489,
-    "updated_at": "2026-10-28T02:38:18Z",
+    "updated_at": "2026-10-28T03:50:26Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -403,15 +421,6 @@
     "stars": 7149,
     "updated_at": "2026-10-28T00:18:35Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9454,
-    "updated_at": "2026-10-28T03:43:09Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T00:02:59Z",
     "url": "https://github.com/Kingflow-23/RepWise"
-  },
-  {
-    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
-    "id": "verygoodplugins/mcp-automem",
-    "language": "TypeScript",
-    "name": "verygoodplugins/mcp-automem",
-    "stars": 66,
-    "updated_at": "2026-10-28T00:02:53Z",
-    "url": "https://github.com/verygoodplugins/mcp-automem"
   }
 ]
