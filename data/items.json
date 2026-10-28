@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-28T19:45:22Z",
+    "updated_at": "2026-10-28T20:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector database engine built from scratch in C++17 with HNSW, KD-Tree, and Brute Force ANN search, a thread-safe REST AP",
+    "id": "Naman-the-Ace/vectordb-cpp",
+    "language": "C++",
+    "name": "Naman-the-Ace/vectordb-cpp",
+    "stars": 0,
+    "updated_at": "2026-10-28T19:59:10Z",
+    "url": "https://github.com/Naman-the-Ace/vectordb-cpp"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-28T20:00:03Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9455,
+    "updated_at": "2026-10-28T19:59:26Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-28T19:56:59Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "RAG-based document Q&A assistant. Unggah PDF, TXT, atau Markdown, lalu tanyakan isinya dalam Bahasa Indonesia. Setiap ja",
+    "id": "aldyardnsyh/IntelligenceDocumentSystem",
+    "language": "JavaScript",
+    "name": "aldyardnsyh/IntelligenceDocumentSystem",
+    "stars": 1,
+    "updated_at": "2026-10-28T19:56:21Z",
+    "url": "https://github.com/aldyardnsyh/IntelligenceDocumentSystem"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-28T19:55:52Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Self-Hosted RAG system for UK Legislation",
+    "id": "sak3y/closer",
+    "language": "Python",
+    "name": "sak3y/closer",
+    "stars": 0,
+    "updated_at": "2026-10-28T19:54:18Z",
+    "url": "https://github.com/sak3y/closer"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-28T19:52:52Z",
+    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-28T19:44:29Z",
+    "updated_at": "2026-10-28T19:45:29Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -27,24 +99,6 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-28T19:40:00Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-28T19:43:40Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Swap one RAG pipeline stage, hold the rest fixed, and measure whether the gain survives composition. The framework behin",
     "id": "dolev31/lasagna",
     "language": "Python",
@@ -54,15 +108,6 @@
     "url": "https://github.com/dolev31/lasagna"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-28T19:42:22Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
     "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
     "id": "MZohaibBaig/rag-search-api",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T19:27:50Z",
     "url": "https://github.com/MZohaibBaig/rag-search-api"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9455,
-    "updated_at": "2026-10-28T19:45:00Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
@@ -94,7 +130,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13614,
+    "stars": 13617,
     "updated_at": "2026-10-28T19:24:57Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11800,
-    "updated_at": "2026-10-28T19:44:21Z",
+    "updated_at": "2026-10-28T19:53:49Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-28T18:59:11Z",
+    "updated_at": "2026-10-28T19:55:04Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-28T18:19:05Z",
+    "updated_at": "2026-10-28T19:49:15Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 4,
-    "updated_at": "2026-10-28T19:45:14Z",
+    "updated_at": "2026-10-28T19:48:01Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -364,7 +400,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32863,
+    "stars": 32864,
     "updated_at": "2026-10-28T17:41:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -392,7 +428,7 @@
     "language": "Rust",
     "name": "piotrwozn/multidb",
     "stars": 0,
-    "updated_at": "2026-10-28T19:03:32Z",
+    "updated_at": "2026-10-28T19:45:54Z",
     "url": "https://github.com/piotrwozn/multidb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-28T17:23:58Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-28T17:23:19Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46513,
-    "updated_at": "2026-10-28T17:19:42Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "NextSQL is a new database engine, written primarily in Go.",
-    "id": "bzync/nextsql",
-    "language": "Go",
-    "name": "bzync/nextsql",
-    "stars": 0,
-    "updated_at": "2026-10-28T17:21:30Z",
-    "url": "https://github.com/bzync/nextsql"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59697,
-    "updated_at": "2026-10-28T17:18:02Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
