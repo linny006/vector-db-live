@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-28T17:58:50Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "The Kubernetes Operator of Milvus. ",
+    "id": "zilliztech/milvus-operator",
+    "language": "Go",
+    "name": "zilliztech/milvus-operator",
+    "stars": 135,
+    "updated_at": "2026-10-28T17:57:48Z",
+    "url": "https://github.com/zilliztech/milvus-operator"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11800,
+    "updated_at": "2026-10-28T17:54:52Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9454,
+    "updated_at": "2026-10-28T17:52:13Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 21,
+    "updated_at": "2026-10-28T17:51:51Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-28T17:54:32Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 4,
+    "updated_at": "2026-10-28T17:49:23Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2411,
+    "updated_at": "2026-10-28T17:46:16Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2160,
+    "updated_at": "2026-10-28T17:46:06Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T17:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,21 +99,12 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2160,
-    "updated_at": "2026-10-28T17:42:22Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-28T17:42:12Z",
+    "updated_at": "2026-10-28T17:53:38Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -36,33 +117,6 @@
     "url": "https://github.com/rustic-ai/uni-db"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9454,
-    "updated_at": "2026-10-28T17:37:24Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11799,
-    "updated_at": "2026-10-28T17:31:52Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T17:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -70,15 +124,6 @@
     "stars": 9,
     "updated_at": "2026-10-28T17:29:09Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 21,
-    "updated_at": "2026-10-28T17:29:07Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -148,7 +193,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46512,
+    "stars": 46513,
     "updated_at": "2026-10-28T17:19:42Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -166,7 +211,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59695,
+    "stars": 59696,
     "updated_at": "2026-10-28T17:18:02Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2062,
-    "updated_at": "2026-10-28T17:12:38Z",
+    "updated_at": "2026-10-28T17:51:51Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-28T17:25:04Z",
+    "updated_at": "2026-10-28T17:49:39Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -373,7 +418,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41051,
+    "stars": 41052,
     "updated_at": "2026-10-28T15:48:42Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T15:24:59Z",
     "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16924,
-    "updated_at": "2026-10-28T16:35:30Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
-    "id": "ihrimon/ai-engineering-journey",
-    "language": "HTML",
-    "name": "ihrimon/ai-engineering-journey",
-    "stars": 0,
-    "updated_at": "2026-10-28T15:23:11Z",
-    "url": "https://github.com/ihrimon/ai-engineering-journey"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1225,
-    "updated_at": "2026-10-28T15:45:32Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) pipeline in Python: ingest PDF/DOCX/TXT documents into ChromaDB and ask questions w",
-    "id": "saberfazliahmadi/rag-document-qa",
-    "language": "Python",
-    "name": "saberfazliahmadi/rag-document-qa",
-    "stars": 6,
-    "updated_at": "2026-10-28T15:23:02Z",
-    "url": "https://github.com/saberfazliahmadi/rag-document-qa"
-  },
-  {
-    "description": "Docker-DB is a Python library for managing database containers via Docker: supporting fast, scriptable setup of MongoDB,",
-    "id": "amadou-6e/py-docker",
-    "language": "Python",
-    "name": "amadou-6e/py-docker",
-    "stars": 2,
-    "updated_at": "2026-10-28T16:40:15Z",
-    "url": "https://github.com/amadou-6e/py-docker"
   }
 ]
