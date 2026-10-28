@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-28T20:00:24Z",
+    "updated_at": "2026-10-28T20:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-28T20:13:10Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32864,
+    "updated_at": "2026-10-28T20:11:37Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-28T20:10:31Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-28T20:11:03Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-10-28T20:09:41Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9455,
+    "updated_at": "2026-10-28T20:15:18Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 5,
+    "updated_at": "2026-10-28T20:04:24Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-28T20:03:42Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11800,
+    "updated_at": "2026-10-28T20:13:51Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T20:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vector database engine built from scratch in C++17 with HNSW, KD-Tree, and Brute Force ANN search, a thread-safe REST AP",
@@ -25,15 +115,6 @@
     "stars": 291,
     "updated_at": "2026-10-28T20:00:03Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9455,
-    "updated_at": "2026-10-28T19:59:26Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-28T19:55:52Z",
+    "updated_at": "2026-10-28T20:13:17Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -72,22 +153,13 @@
     "url": "https://github.com/sak3y/closer"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
     "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-28T19:52:52Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T19:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "kividbio/kividb",
+    "stars": 806,
+    "updated_at": "2026-10-28T19:45:45Z",
+    "url": "https://github.com/kividbio/kividb"
   },
   {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
@@ -130,7 +202,7 @@
     "id": "StarTrail-org/LEANN",
     "language": "Python",
     "name": "StarTrail-org/LEANN",
-    "stars": 13617,
+    "stars": 13618,
     "updated_at": "2026-10-28T19:24:57Z",
     "url": "https://github.com/StarTrail-org/LEANN"
   },
@@ -162,13 +234,13 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11800,
-    "updated_at": "2026-10-28T19:53:49Z",
-    "url": "https://github.com/lancedb/lancedb"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8472,
+    "updated_at": "2026-10-28T19:12:26Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
@@ -185,7 +257,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-28T19:55:04Z",
+    "updated_at": "2026-10-28T20:10:37Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -234,15 +306,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8471,
-    "updated_at": "2026-10-28T19:12:26Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
@@ -275,7 +338,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-28T18:19:03Z",
+    "updated_at": "2026-10-28T20:14:46Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -295,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T19:23:17Z",
     "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-28T19:48:01Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Chatbot RAG sobre datos oficiales de la Escuela Polit\u00e9cnica Superior de Ja\u00e9n (UJA). Recuperaci\u00f3n y generaci\u00f3n 100% en lo",
@@ -329,7 +383,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 139,
-    "updated_at": "2026-10-28T18:59:11Z",
+    "updated_at": "2026-10-28T20:04:47Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2160,
     "updated_at": "2026-10-28T17:46:06Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32864,
-    "updated_at": "2026-10-28T17:41:39Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
-    "id": "rustic-ai/uni-db",
-    "language": "Rust",
-    "name": "rustic-ai/uni-db",
-    "stars": 57,
-    "updated_at": "2026-10-28T18:22:47Z",
-    "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6556,
-    "updated_at": "2026-10-28T18:19:16Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "",
-    "id": "piotrwozn/multidb",
-    "language": "Rust",
-    "name": "piotrwozn/multidb",
-    "stars": 0,
-    "updated_at": "2026-10-28T19:45:54Z",
-    "url": "https://github.com/piotrwozn/multidb"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-10-28T17:27:15Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-28T17:23:58Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
