@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-28T17:30:23Z",
+    "updated_at": "2026-10-28T17:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2160,
+    "updated_at": "2026-10-28T17:42:22Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-28T17:42:12Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
+    "id": "rustic-ai/uni-db",
+    "language": "Rust",
+    "name": "rustic-ai/uni-db",
+    "stars": 57,
+    "updated_at": "2026-10-28T17:41:15Z",
+    "url": "https://github.com/rustic-ai/uni-db"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9454,
+    "updated_at": "2026-10-28T17:37:24Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11799,
+    "updated_at": "2026-10-28T17:31:52Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T17:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32862,
-    "updated_at": "2026-10-28T17:29:01Z",
+    "updated_at": "2026-10-28T17:41:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -86,8 +140,17 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 139,
-    "updated_at": "2026-10-28T17:24:46Z",
+    "updated_at": "2026-10-28T17:34:54Z",
     "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46512,
+    "updated_at": "2026-10-28T17:19:42Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "NextSQL is a new database engine, written primarily in Go.",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T17:21:30Z",
     "url": "https://github.com/bzync/nextsql"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46511,
-    "updated_at": "2026-10-28T17:19:42Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "darylalim/rag-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-28T17:18:09Z",
+    "updated_at": "2026-10-28T17:39:24Z",
     "url": "https://github.com/darylalim/rag-pipeline"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 801,
     "updated_at": "2026-10-28T17:16:06Z",
     "url": "https://github.com/kividbio/kividb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T17:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
@@ -198,21 +243,12 @@
     "url": "https://github.com/eggspot/EggDB"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-28T17:20:25Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "Open-source toolkit for validating data consistency across source systems, RAG indexes, and AI-generated answers.",
     "id": "lynvera-ai/ragparity",
     "language": "\u2014",
     "name": "lynvera-ai/ragparity",
     "stars": 0,
-    "updated_at": "2026-10-28T17:28:12Z",
+    "updated_at": "2026-10-28T17:32:29Z",
     "url": "https://github.com/lynvera-ai/ragparity"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T16:49:33Z",
     "url": "https://github.com/VecturaDB/VecturaDB.Deploy"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11799,
-    "updated_at": "2026-10-28T17:27:08Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
@@ -346,18 +373,9 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41050,
+    "stars": 41051,
     "updated_at": "2026-10-28T15:48:42Z",
     "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9454,
-    "updated_at": "2026-10-28T17:15:47Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "ChironDB is a Rust-native vector database for AI and RAG applications, combining dense, sparse, and hybrid search with r",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-28T16:40:15Z",
     "url": "https://github.com/amadou-6e/py-docker"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8470,
-    "updated_at": "2026-10-28T15:05:15Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3819,
-    "updated_at": "2026-10-28T15:04:44Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   }
 ]
