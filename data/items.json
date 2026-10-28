@@ -1,11 +1,119 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-28T13:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-28T13:29:21Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "LLM Observability & Evaluation Platform \u2014 Live Frontend: https://llm-obs-web-app-9664.web.app",
+    "id": "Scaibu/llm-observability-platform",
+    "language": "Python",
+    "name": "Scaibu/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-10-28T13:29:00Z",
+    "url": "https://github.com/Scaibu/llm-observability-platform"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1225,
+    "updated_at": "2026-10-28T13:27:49Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 786,
+    "updated_at": "2026-10-28T13:25:39Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4448,
+    "updated_at": "2026-10-28T13:26:06Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6553,
+    "updated_at": "2026-10-28T13:29:05Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9487,
+    "updated_at": "2026-10-28T13:21:15Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7151,
+    "updated_at": "2026-10-28T13:23:12Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 25,
+    "updated_at": "2026-10-28T13:15:57Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2062,
+    "updated_at": "2026-10-28T13:16:23Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-28T13:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-28T13:12:38Z",
+    "updated_at": "2026-10-28T13:27:23Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -14,7 +122,7 @@
     "language": "Rust",
     "name": "Gaussian-id/ChironDB",
     "stars": 4,
-    "updated_at": "2026-10-28T13:11:23Z",
+    "updated_at": "2026-10-28T13:23:58Z",
     "url": "https://github.com/Gaussian-id/ChironDB"
   },
   {
@@ -36,15 +144,6 @@
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-28T13:08:10Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
     "id": "raman20/freshdb",
     "language": "Go",
@@ -59,26 +158,8 @@
     "language": "C#",
     "name": "ChromaDotNet/ChromaDB.Embeddings",
     "stars": 2,
-    "updated_at": "2026-10-28T13:04:51Z",
+    "updated_at": "2026-10-28T13:18:30Z",
     "url": "https://github.com/ChromaDotNet/ChromaDB.Embeddings"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-28T13:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-28T13:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted research tracker. Builds a map of any research field (milestones, a reading path, open problems) and keeps a",
@@ -88,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T12:59:41Z",
     "url": "https://github.com/Thisen-Ekanayake/Athena"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2062,
-    "updated_at": "2026-10-28T13:13:17Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Spring Data Reindexer",
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32849,
-    "updated_at": "2026-10-28T12:55:25Z",
+    "updated_at": "2026-10-28T13:28:24Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 1358,
     "updated_at": "2026-10-28T12:53:29Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1225,
-    "updated_at": "2026-10-28T12:57:14Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
@@ -189,13 +252,13 @@
     "url": "https://github.com/amadou-6e/py-docker"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 786,
-    "updated_at": "2026-10-28T12:25:49Z",
-    "url": "https://github.com/kividbio/kividb"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16922,
+    "updated_at": "2026-10-28T12:23:38Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "A browser app presenting data from the Georgia Project. ",
@@ -205,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T12:51:26Z",
     "url": "https://github.com/KatherineMossDeveloper/Midnight-Train"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6553,
-    "updated_at": "2026-10-28T12:19:11Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "The Go client for Chroma vector database",
@@ -288,24 +342,6 @@
     "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9487,
-    "updated_at": "2026-10-28T12:51:17Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7151,
-    "updated_at": "2026-10-28T12:37:24Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
     "id": "gyr0byte/Generative-AI",
     "language": "Python",
@@ -319,7 +355,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41032,
+    "stars": 41033,
     "updated_at": "2026-10-28T11:48:47Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -383,7 +419,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46510,
-    "updated_at": "2026-10-28T12:47:36Z",
+    "updated_at": "2026-10-28T13:28:53Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -394,15 +430,6 @@
     "stars": 12,
     "updated_at": "2026-10-28T11:26:32Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 25,
-    "updated_at": "2026-10-28T11:22:45Z",
-    "url": "https://github.com/opencrawling/opencrawling"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-28T11:07:55Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16923,
-    "updated_at": "2026-10-28T12:23:38Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4448,
-    "updated_at": "2026-10-28T13:08:59Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-28T11:02:29Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
