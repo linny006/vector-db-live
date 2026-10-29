@@ -1,12 +1,30 @@
 [
   {
-    "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
-    "id": "bythewayz66-glitch/mem20",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "bythewayz66-glitch/mem20",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T06:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 22,
+    "updated_at": "2026-10-29T06:14:42Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-29T05:59:43Z",
-    "url": "https://github.com/bythewayz66-glitch/mem20"
+    "updated_at": "2026-10-29T06:14:27Z",
+    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -14,8 +32,62 @@
     "language": "Rust",
     "name": "Cognilogical/NeuroStrata",
     "stars": 6,
-    "updated_at": "2026-10-29T05:59:26Z",
+    "updated_at": "2026-10-29T06:13:55Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
+    "id": "bythewayz66-glitch/mem20",
+    "language": "Python",
+    "name": "bythewayz66-glitch/mem20",
+    "stars": 1,
+    "updated_at": "2026-10-29T06:13:51Z",
+    "url": "https://github.com/bythewayz66-glitch/mem20"
+  },
+  {
+    "description": "Finds repeat defects by meaning and tells you whether to fix the process or coach the people. Streamlit, SQLite, ChromaD",
+    "id": "shridhar102-ai/Repeat-Defect-Registry",
+    "language": "Python",
+    "name": "shridhar102-ai/Repeat-Defect-Registry",
+    "stars": 0,
+    "updated_at": "2026-10-29T06:11:21Z",
+    "url": "https://github.com/shridhar102-ai/Repeat-Defect-Registry"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 291,
+    "updated_at": "2026-10-29T06:15:23Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-29T06:15:14Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 278,
+    "updated_at": "2026-10-29T06:00:56Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T06:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -40,8 +112,8 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41084,
-    "updated_at": "2026-10-29T05:46:59Z",
+    "stars": 41086,
+    "updated_at": "2026-10-29T06:10:39Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -50,26 +122,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1225,
-    "updated_at": "2026-10-29T05:46:18Z",
+    "updated_at": "2026-10-29T06:13:21Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T05:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T06:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
@@ -79,15 +133,6 @@
     "stars": 1376,
     "updated_at": "2026-10-29T05:43:39Z",
     "url": "https://github.com/NGT-labs/NGT"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 278,
-    "updated_at": "2026-10-29T05:54:22Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -108,13 +153,13 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Finds repeat defects by meaning and tells you whether to fix the process or coach the people. Streamlit, SQLite, ChromaD",
-    "id": "shridhar102-ai/Repeat-Defect-Registry",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "shridhar102-ai/Repeat-Defect-Registry",
-    "stars": 0,
-    "updated_at": "2026-10-29T05:12:47Z",
-    "url": "https://github.com/shridhar102-ai/Repeat-Defect-Registry"
+    "name": "topoteretes/cognee",
+    "stars": 32874,
+    "updated_at": "2026-10-29T05:13:54Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
@@ -124,6 +169,15 @@
     "stars": 4,
     "updated_at": "2026-10-29T05:11:04Z",
     "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
+    "id": "taladb/taladb",
+    "language": "Rust",
+    "name": "taladb/taladb",
+    "stars": 68,
+    "updated_at": "2026-10-29T05:02:03Z",
+    "url": "https://github.com/taladb/taladb"
   },
   {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-29T05:47:05Z",
+    "updated_at": "2026-10-29T06:00:57Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -252,15 +306,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-29T05:52:33Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Local-first Windows AI governance and reasoning software for U.S. evaluation. Version 4.4.5 is an engineering candidate;",
     "id": "kherrera6219/DataLogicEngine",
     "language": "Python",
@@ -313,15 +358,6 @@
     "stars": 32,
     "updated_at": "2026-10-29T03:49:00Z",
     "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 291,
-    "updated_at": "2026-10-29T05:56:08Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
     "description": "Embedded vector database for Rust: from-scratch HNSW, atomic batches, durable storage, and no external crates.",
@@ -412,41 +448,5 @@
     "stars": 8475,
     "updated_at": "2026-10-29T05:39:35Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Oracle AI Database 26ai memory provider plugin for Hermes Agent",
-    "id": "xl3v3r/hermes-oracle-memory",
-    "language": "Python",
-    "name": "xl3v3r/hermes-oracle-memory",
-    "stars": 1,
-    "updated_at": "2026-10-29T02:57:59Z",
-    "url": "https://github.com/xl3v3r/hermes-oracle-memory"
-  },
-  {
-    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 472,
-    "updated_at": "2026-10-29T02:54:41Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "\u9762\u5411\u5bf9\u8bdd\u667a\u80fd\u4f53\u7684\u957f\u671f\u8bb0\u5fc6\u7cfb\u7edf\uff0c\u652f\u6301\u7ed3\u6784\u5316\u4e8b\u5b9e\u63d0\u53d6\u3001\u6388\u6743\u4fdd\u5b58\u3001\u8bb0\u5fc6\u7248\u672c\u7ba1\u7406\u4e0e\u8de8\u4f1a\u8bdd\u68c0\u7d22\u3002",
-    "id": "LiuSunshine1223/Agent-Memory",
-    "language": "Python",
-    "name": "LiuSunshine1223/Agent-Memory",
-    "stars": 0,
-    "updated_at": "2026-10-29T02:48:42Z",
-    "url": "https://github.com/LiuSunshine1223/Agent-Memory"
-  },
-  {
-    "description": "Run the Semurg benchmark comparisons on your own machine: one command, the same questions and data for every engine, ans",
-    "id": "One-Semurg/Semurg-Benchmark-Suite",
-    "language": "Shell",
-    "name": "One-Semurg/Semurg-Benchmark-Suite",
-    "stars": 0,
-    "updated_at": "2026-10-29T02:34:51Z",
-    "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
   }
 ]
