@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T13:00:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agentic RAG for GitHub repos: answers what/where/how/why questions about a codebase, citing code, commits, issues and PR",
+    "id": "affan-h/repo-assist",
+    "language": "Python",
+    "name": "affan-h/repo-assist",
+    "stars": 0,
+    "updated_at": "2026-10-29T12:58:04Z",
+    "url": "https://github.com/affan-h/repo-assist"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-10-29T12:59:58Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46526,
+    "updated_at": "2026-10-29T12:54:01Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-29T12:53:08Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-29T12:53:04Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "Java",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-10-29T12:52:50Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 41117,
+    "updated_at": "2026-10-29T12:52:48Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
+    "id": "raman20/freshdb",
+    "language": "Go",
+    "name": "raman20/freshdb",
+    "stars": 0,
+    "updated_at": "2026-10-29T12:51:55Z",
+    "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "DANA: Decoupled Attribute Navigation and Predicate Admission for Dynamic Multi-Attribute Range-Filtered ANN Search",
+    "id": "Guo-dp/DANA",
+    "language": "C++",
+    "name": "Guo-dp/DANA",
+    "stars": 0,
+    "updated_at": "2026-10-29T12:48:49Z",
+    "url": "https://github.com/Guo-dp/DANA"
+  },
+  {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 2,
+    "updated_at": "2026-10-29T12:46:30Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
+    "description": "Benchmark for vector databases.",
+    "id": "zilliztech/VectorDBBench",
+    "language": "Python",
+    "name": "zilliztech/VectorDBBench",
+    "stars": 1197,
+    "updated_at": "2026-10-29T12:45:56Z",
+    "url": "https://github.com/zilliztech/VectorDBBench"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T12:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "giuliano0s/ifrs-canoas-rag",
     "language": "Python",
@@ -54,31 +171,22 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
+    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
+    "id": "kividbio/kividb",
+    "language": "Rust",
+    "name": "kividbio/kividb",
+    "stars": 842,
+    "updated_at": "2026-10-29T12:32:55Z",
+    "url": "https://github.com/kividbio/kividb"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-29T12:44:38Z",
+    "updated_at": "2026-10-29T12:58:21Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T12:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T12:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -86,7 +194,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4448,
-    "updated_at": "2026-10-29T12:40:34Z",
+    "updated_at": "2026-10-29T12:59:26Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -97,15 +205,6 @@
     "stars": 8475,
     "updated_at": "2026-10-29T12:30:12Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 41117,
-    "updated_at": "2026-10-29T12:18:53Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "RAG study assistant: chat with course PDFs in Hebrew or English, get page-cited answers, and generate practice quizzes. ",
@@ -135,15 +234,6 @@
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-29T12:41:44Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Embedded vector database in Rust: HNSW, SIMD kernels (AVX-512/AVX2/NEON), SQ8, mmap snapshots, WAL, gRPC",
     "id": "monaaoua9/vecdb",
     "language": "Rust",
@@ -158,7 +248,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32886,
-    "updated_at": "2026-10-29T12:39:02Z",
+    "updated_at": "2026-10-29T12:50:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -169,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T12:04:08Z",
     "url": "https://github.com/joydeep-07/Lens-LM"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46525,
-    "updated_at": "2026-10-29T12:04:00Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -194,7 +275,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-29T12:00:07Z",
+    "updated_at": "2026-10-29T12:48:24Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -212,7 +293,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 71,
-    "updated_at": "2026-10-29T11:49:24Z",
+    "updated_at": "2026-10-29T12:46:21Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -239,7 +320,7 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 88,
-    "updated_at": "2026-10-29T12:41:17Z",
+    "updated_at": "2026-10-29T12:59:02Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -270,20 +351,11 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 842,
-    "updated_at": "2026-10-29T12:32:55Z",
-    "url": "https://github.com/kividbio/kividb"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59705,
+    "stars": 59706,
     "updated_at": "2026-10-29T11:24:03Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -295,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T12:44:49Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-29T11:16:15Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -385,68 +448,5 @@
     "stars": 2411,
     "updated_at": "2026-10-29T10:43:16Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
-    "id": "lingxinmind/vecmindb-sdk",
-    "language": "Makefile",
-    "name": "lingxinmind/vecmindb-sdk",
-    "stars": 1,
-    "updated_at": "2026-10-29T10:42:04Z",
-    "url": "https://github.com/lingxinmind/vecmindb-sdk"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-29T11:14:32Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11810,
-    "updated_at": "2026-10-29T10:33:14Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9487,
-    "updated_at": "2026-10-29T12:35:17Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-29T10:30:17Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-29T11:38:02Z",
-    "url": "https://github.com/eggspot/EggDB"
-  },
-  {
-    "description": "Persistent memory for AI agents - MCP server + TypeScript SDK for Claude Code, Cursor, Codex & 14 more. 85.8% on LongMem",
-    "id": "Nipurn123/chitta",
-    "language": "TypeScript",
-    "name": "Nipurn123/chitta",
-    "stars": 1,
-    "updated_at": "2026-10-29T10:21:33Z",
-    "url": "https://github.com/Nipurn123/chitta"
   }
 ]
