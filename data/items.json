@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2062,
+    "updated_at": "2026-10-29T16:19:36Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1226,
+    "updated_at": "2026-10-29T16:19:04Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every proje",
+    "id": "duzgunberke/ekip",
+    "language": "TypeScript",
+    "name": "duzgunberke/ekip",
+    "stars": 0,
+    "updated_at": "2026-10-29T16:18:47Z",
+    "url": "https://github.com/duzgunberke/ekip"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-29T16:18:06Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 13045,
+    "updated_at": "2026-10-29T16:15:51Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T16:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Scala",
     "name": "datris/datris-platform-oss",
     "stars": 13,
-    "updated_at": "2026-10-29T16:14:35Z",
+    "updated_at": "2026-10-29T16:16:44Z",
     "url": "https://github.com/datris/datris-platform-oss"
   },
   {
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T16:15:14Z",
     "url": "https://github.com/lynvera-ai/ragparity"
-  },
-  {
-    "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every proje",
-    "id": "duzgunberke/ekip",
-    "language": "TypeScript",
-    "name": "duzgunberke/ekip",
-    "stars": 0,
-    "updated_at": "2026-10-29T16:14:15Z",
-    "url": "https://github.com/duzgunberke/ekip"
   },
   {
     "description": "The AI search platform",
@@ -68,7 +113,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 12,
-    "updated_at": "2026-10-29T16:14:05Z",
+    "updated_at": "2026-10-29T16:16:11Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -86,7 +131,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4449,
-    "updated_at": "2026-10-29T16:06:12Z",
+    "updated_at": "2026-10-29T16:18:42Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6558,
-    "updated_at": "2026-10-29T16:15:10Z",
+    "updated_at": "2026-10-29T16:16:57Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 2412,
     "updated_at": "2026-10-29T16:02:45Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T16:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
@@ -130,7 +166,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8475,
+    "stars": 8476,
     "updated_at": "2026-10-29T15:55:30Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T15:50:54Z",
     "url": "https://github.com/zerotropism/local-rag"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1226,
-    "updated_at": "2026-10-29T15:44:40Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32891,
-    "updated_at": "2026-10-29T16:05:08Z",
+    "updated_at": "2026-10-29T16:19:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -396,24 +423,6 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2062,
-    "updated_at": "2026-10-29T14:11:24Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-29T16:05:40Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
     "id": "tradik/mddb",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-29T13:46:57Z",
     "url": "https://github.com/076923/vecscope"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9487,
-    "updated_at": "2026-10-29T16:01:26Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
