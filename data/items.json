@@ -1,5 +1,41 @@
 [
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11804,
+    "updated_at": "2026-10-29T05:13:00Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Finds repeat defects by meaning and tells you whether to fix the process or coach the people. Streamlit, SQLite, ChromaD",
+    "id": "shridhar102-ai/Repeat-Defect-Registry",
+    "language": "Python",
+    "name": "shridhar102-ai/Repeat-Defect-Registry",
+    "stars": 0,
+    "updated_at": "2026-10-29T05:12:47Z",
+    "url": "https://github.com/shridhar102-ai/Repeat-Defect-Registry"
+  },
+  {
+    "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 4,
+    "updated_at": "2026-10-29T05:11:04Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T05:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 2062,
     "updated_at": "2026-10-29T04:55:37Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-29T04:54:30Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Part of the LangChain.NET project. Has separate abstractions, does not contain dependencies on the main project and can ",
@@ -63,21 +90,12 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T04:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 41079,
-    "updated_at": "2026-10-29T04:51:30Z",
+    "updated_at": "2026-10-29T05:12:29Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9458,
-    "updated_at": "2026-10-29T04:58:18Z",
+    "updated_at": "2026-10-29T05:10:42Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T04:19:55Z",
     "url": "https://github.com/rifqifitriady/ZAAFPulse"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11804,
-    "updated_at": "2026-10-29T04:19:47Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6557,
-    "updated_at": "2026-10-29T04:57:46Z",
+    "updated_at": "2026-10-29T05:03:42Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -356,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8475,
-    "updated_at": "2026-10-29T04:44:41Z",
+    "updated_at": "2026-10-29T05:12:44Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-29T02:20:33Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-29T02:10:23Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
