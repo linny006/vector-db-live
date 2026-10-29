@@ -1,11 +1,74 @@
 [
   {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6250,
+    "updated_at": "2026-10-29T17:59:48Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11811,
+    "updated_at": "2026-10-29T17:59:12Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2062,
+    "updated_at": "2026-10-29T17:58:00Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
+    "id": "ihrimon/ai-engineering-journey",
+    "language": "HTML",
+    "name": "ihrimon/ai-engineering-journey",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:53:03Z",
+    "url": "https://github.com/ihrimon/ai-engineering-journey"
+  },
+  {
+    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
+    "id": "raman20/freshdb",
+    "language": "Go",
+    "name": "raman20/freshdb",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:52:35Z",
+    "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-29T17:58:45Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T17:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-29T17:45:21Z",
+    "updated_at": "2026-10-29T18:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +86,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-29T17:44:10Z",
+    "updated_at": "2026-10-29T17:52:37Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -63,13 +126,13 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11811,
-    "updated_at": "2026-10-29T17:44:41Z",
-    "url": "https://github.com/lancedb/lancedb"
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 41133,
+    "updated_at": "2026-10-29T17:38:28Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -108,15 +171,6 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T17:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every proje",
     "id": "duzgunberke/ekip",
     "language": "TypeScript",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T17:28:46Z",
     "url": "https://github.com/duzgunberke/ekip"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-29T17:42:12Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -162,31 +207,13 @@
     "url": "https://github.com/syalia-srl/beaver"
   },
   {
-    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
-    "id": "raman20/freshdb",
-    "language": "Go",
-    "name": "raman20/freshdb",
-    "stars": 0,
-    "updated_at": "2026-10-29T17:22:36Z",
-    "url": "https://github.com/raman20/freshdb"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6557,
-    "updated_at": "2026-10-29T17:44:21Z",
+    "updated_at": "2026-10-29T17:52:54Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2062,
-    "updated_at": "2026-10-29T17:41:00Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -194,7 +221,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13322,
-    "updated_at": "2026-10-29T17:16:45Z",
+    "updated_at": "2026-10-29T17:56:13Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6245,
-    "updated_at": "2026-10-29T17:33:22Z",
+    "updated_at": "2026-10-29T17:48:25Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32893,
-    "updated_at": "2026-10-29T17:45:17Z",
+    "updated_at": "2026-10-29T17:56:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Java",
     "name": "opencrawling/opencrawling",
     "stars": 26,
-    "updated_at": "2026-10-29T17:37:39Z",
+    "updated_at": "2026-10-29T17:45:59Z",
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
@@ -304,15 +331,6 @@
     "stars": 59708,
     "updated_at": "2026-10-29T17:10:14Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 41132,
-    "updated_at": "2026-10-29T17:38:28Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -342,21 +360,12 @@
     "url": "https://github.com/api-evangelist/contentstack"
   },
   {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6250,
-    "updated_at": "2026-10-29T16:30:44Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1226,
-    "updated_at": "2026-10-29T17:44:02Z",
+    "updated_at": "2026-10-29T17:59:56Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Scala",
     "name": "datris/datris-platform-oss",
     "stars": 13,
-    "updated_at": "2026-10-29T16:22:57Z",
+    "updated_at": "2026-10-29T17:57:43Z",
     "url": "https://github.com/datris/datris-platform-oss"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 8476,
     "updated_at": "2026-10-29T17:10:41Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "An intelligent document and audio search system that extracts text from documents, transcribes audio, and enables full-t",
-    "id": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "language": "JavaScript",
-    "name": "Youssef-Errachid/intelligent-document-audio-search--system-",
-    "stars": 1,
-    "updated_at": "2026-10-29T15:55:27Z",
-    "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   }
 ]
