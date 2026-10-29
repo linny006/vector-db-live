@@ -1,5 +1,86 @@
 [
   {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4448,
+    "updated_at": "2026-10-29T12:30:21Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "A single-file, embedded, inspectable vector database. Rust, Python and a CLI.",
+    "id": "recerndata/recern-vector",
+    "language": "Rust",
+    "name": "recerndata/recern-vector",
+    "stars": 2,
+    "updated_at": "2026-10-29T12:28:51Z",
+    "url": "https://github.com/recerndata/recern-vector"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-29T12:27:48Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8475,
+    "updated_at": "2026-10-29T12:30:12Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 41116,
+    "updated_at": "2026-10-29T12:18:53Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 6,
+    "updated_at": "2026-10-29T12:24:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "RAG study assistant: chat with course PDFs in Hebrew or English, get page-cited answers, and generate practice quizzes. ",
+    "id": "Doran1690/study-buddy",
+    "language": "Python",
+    "name": "Doran1690/study-buddy",
+    "stars": 0,
+    "updated_at": "2026-10-29T12:17:12Z",
+    "url": "https://github.com/Doran1690/study-buddy"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T12:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T12:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Vector database from scratch in Java: HNSW index, write-ahead log and replication, benchmarked against exact search",
     "id": "Agampal007/vectordb",
     "language": "Java",
@@ -25,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-10-29T12:10:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 6,
-    "updated_at": "2026-10-29T12:09:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Embedded vector database in Rust: HNSW, SIMD kernels (AVX-512/AVX2/NEON), SQ8, mmap snapshots, WAL, gRPC",
@@ -72,15 +144,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "A single-file, embedded, inspectable vector database. Rust, Python and a CLI.",
-    "id": "recerndata/recern-vector",
-    "language": "Rust",
-    "name": "recerndata/recern-vector",
-    "stars": 2,
-    "updated_at": "2026-10-29T12:03:25Z",
-    "url": "https://github.com/recerndata/recern-vector"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -88,24 +151,6 @@
     "stars": 100,
     "updated_at": "2026-10-29T12:10:34Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T12:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T12:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -142,15 +187,6 @@
     "stars": 20,
     "updated_at": "2026-10-29T11:49:11Z",
     "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 41116,
-    "updated_at": "2026-10-29T11:43:37Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Self-evolving multi-agent team on Agno: a supervisor diagnoses failures, invents new roles and rebuilds the team. 100% l",
@@ -198,15 +234,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4448,
-    "updated_at": "2026-10-29T12:12:49Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "",
     "id": "SuperInstance/SuperInstance",
     "language": "HTML",
@@ -220,7 +247,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 841,
+    "stars": 842,
     "updated_at": "2026-10-29T11:24:09Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -268,6 +295,15 @@
     "stars": 3,
     "updated_at": "2026-10-29T11:05:11Z",
     "url": "https://github.com/xavidop/tobira"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39887,
+    "updated_at": "2026-10-29T11:00:41Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
@@ -346,7 +382,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11809,
+    "stars": 11810,
     "updated_at": "2026-10-29T10:33:14Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -356,7 +392,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-29T12:06:44Z",
+    "updated_at": "2026-10-29T12:26:40Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 26,
     "updated_at": "2026-10-29T10:12:02Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8475,
-    "updated_at": "2026-10-29T12:10:47Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6557,
-    "updated_at": "2026-10-29T09:48:15Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xGraph/10xGraph",
-    "language": "Python",
-    "name": "10xGraph/10xGraph",
-    "stars": 28,
-    "updated_at": "2026-10-29T10:00:27Z",
-    "url": "https://github.com/10xGraph/10xGraph"
-  },
-  {
-    "description": "Official OriginChainDB Rust SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-rust",
-    "language": "Rust",
-    "name": "originchaindb/originchaindb-rust",
-    "stars": 0,
-    "updated_at": "2026-10-29T09:38:08Z",
-    "url": "https://github.com/originchaindb/originchaindb-rust"
   }
 ]
