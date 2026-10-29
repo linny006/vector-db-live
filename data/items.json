@@ -1,12 +1,93 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2161,
+    "updated_at": "2026-10-29T17:15:15Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6557,
+    "updated_at": "2026-10-29T17:13:26Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 7,
+    "updated_at": "2026-10-29T17:12:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-29T17:14:17Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-29T17:08:59Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T17:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-29T17:08:25Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 6,
+    "updated_at": "2026-10-29T17:08:06Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
+    "id": "raman20/freshdb",
+    "language": "Go",
+    "name": "raman20/freshdb",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:07:45Z",
+    "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every proje",
+    "id": "duzgunberke/ekip",
+    "language": "TypeScript",
+    "name": "duzgunberke/ekip",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:07:17Z",
+    "url": "https://github.com/duzgunberke/ekip"
+  },
+  {
+    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-go",
+    "language": "Go",
+    "name": "cyborginc/cyborgdb-go",
+    "stars": 9,
+    "updated_at": "2026-10-29T17:01:21Z",
+    "url": "https://github.com/cyborginc/cyborgdb-go"
   },
   {
     "description": "Self-Hosted RAG system for UK Legislation",
@@ -14,8 +95,35 @@
     "language": "Python",
     "name": "sak3y/closer",
     "stars": 0,
-    "updated_at": "2026-10-29T16:59:42Z",
+    "updated_at": "2026-10-29T17:01:13Z",
     "url": "https://github.com/sak3y/closer"
+  },
+  {
+    "description": "Deploy Chroma 1.5.9 or VecturaDB in your own cloud: an Azure VM template with HTTPS, allowed IP addresses and backups.",
+    "id": "VecturaDB/VecturaDB.Deploy",
+    "language": "Bicep",
+    "name": "VecturaDB/VecturaDB.Deploy",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:01:13Z",
+    "url": "https://github.com/VecturaDB/VecturaDB.Deploy"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T17:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T17:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -36,49 +144,13 @@
     "url": "https://github.com/cyborginc/cyborgdb-js"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 7,
-    "updated_at": "2026-10-29T16:57:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
     "id": "Percolation-Labs/percolate",
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-29T16:56:57Z",
+    "updated_at": "2026-10-29T17:11:26Z",
     "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every proje",
-    "id": "duzgunberke/ekip",
-    "language": "TypeScript",
-    "name": "duzgunberke/ekip",
-    "stars": 0,
-    "updated_at": "2026-10-29T16:55:18Z",
-    "url": "https://github.com/duzgunberke/ekip"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-29T16:55:02Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-29T16:51:07Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -86,42 +158,15 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59708,
-    "updated_at": "2026-10-29T16:47:41Z",
+    "updated_at": "2026-10-29T17:10:14Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2161,
-    "updated_at": "2026-10-29T16:46:29Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T16:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
-    "id": "raman20/freshdb",
-    "language": "Go",
-    "name": "raman20/freshdb",
-    "stars": 0,
-    "updated_at": "2026-10-29T16:41:26Z",
-    "url": "https://github.com/raman20/freshdb"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41131,
+    "stars": 41132,
     "updated_at": "2026-10-29T16:41:22Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32892,
-    "updated_at": "2026-10-29T16:52:41Z",
+    "updated_at": "2026-10-29T17:08:17Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-29T16:50:15Z",
+    "updated_at": "2026-10-29T17:03:31Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 6249,
     "updated_at": "2026-10-29T16:30:44Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6557,
-    "updated_at": "2026-10-29T16:23:49Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -275,7 +311,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11811,
-    "updated_at": "2026-10-29T16:03:19Z",
+    "updated_at": "2026-10-29T17:08:39Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -302,7 +338,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8476,
-    "updated_at": "2026-10-29T16:42:57Z",
+    "updated_at": "2026-10-29T17:10:41Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9458,
-    "updated_at": "2026-10-29T15:58:49Z",
+    "updated_at": "2026-10-29T17:06:17Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-29T15:17:08Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46526,
-    "updated_at": "2026-10-29T15:07:01Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 3,
-    "updated_at": "2026-10-29T14:57:46Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "autonomous developer orchestration with python. now has hierarchical RAG using vector databases",
-    "id": "samettemizer/nesti",
-    "language": "Python",
-    "name": "samettemizer/nesti",
-    "stars": 4,
-    "updated_at": "2026-10-29T14:43:50Z",
-    "url": "https://github.com/samettemizer/nesti"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-29T14:39:27Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
