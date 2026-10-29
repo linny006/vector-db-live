@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-29T18:30:22Z",
+    "updated_at": "2026-10-29T18:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 23,
+    "updated_at": "2026-10-29T18:44:50Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-29T18:43:07Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-29T18:43:17Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Couchbase integration with LangChain",
+    "id": "Couchbase-Ecosystem/langchain-couchbase",
+    "language": "Python",
+    "name": "Couchbase-Ecosystem/langchain-couchbase",
+    "stars": 4,
+    "updated_at": "2026-10-29T18:42:32Z",
+    "url": "https://github.com/Couchbase-Ecosystem/langchain-couchbase"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 12,
+    "updated_at": "2026-10-29T18:36:34Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 7,
+    "updated_at": "2026-10-29T18:33:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35311,
+    "updated_at": "2026-10-29T18:42:49Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-10-29T18:31:57Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T18:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 13045,
-    "updated_at": "2026-10-29T18:29:51Z",
+    "updated_at": "2026-10-29T18:36:19Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11811,
-    "updated_at": "2026-10-29T18:30:14Z",
+    "updated_at": "2026-10-29T18:41:35Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -40,7 +121,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 30101,
+    "stars": 30103,
     "updated_at": "2026-10-29T18:28:39Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T18:28:38Z",
     "url": "https://github.com/dxmt/dxmt"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 7,
-    "updated_at": "2026-10-29T18:27:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
@@ -76,7 +148,7 @@
     "id": "duzgunberke/ekip",
     "language": "TypeScript",
     "name": "duzgunberke/ekip",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-29T18:22:07Z",
     "url": "https://github.com/duzgunberke/ekip"
   },
@@ -86,17 +158,17 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-29T18:30:09Z",
+    "updated_at": "2026-10-29T18:44:49Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "volcengine/OpenViking",
+    "stars": 41136,
+    "updated_at": "2026-10-29T18:16:24Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
@@ -108,21 +180,12 @@
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-29T18:26:28Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32896,
-    "updated_at": "2026-10-29T18:11:36Z",
+    "updated_at": "2026-10-29T18:45:09Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -149,17 +212,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9458,
-    "updated_at": "2026-10-29T18:27:13Z",
+    "updated_at": "2026-10-29T18:43:22Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:22:05Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
@@ -189,21 +243,12 @@
     "url": "https://github.com/ihrimon/ai-engineering-journey"
   },
   {
-    "description": "Couchbase integration with LangChain",
-    "id": "Couchbase-Ecosystem/langchain-couchbase",
-    "language": "Python",
-    "name": "Couchbase-Ecosystem/langchain-couchbase",
-    "stars": 4,
-    "updated_at": "2026-10-29T18:23:34Z",
-    "url": "https://github.com/Couchbase-Ecosystem/langchain-couchbase"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-29T17:41:43Z",
+    "updated_at": "2026-10-29T18:42:00Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 121,
     "updated_at": "2026-10-29T17:39:51Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 41135,
-    "updated_at": "2026-10-29T18:16:24Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -259,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T17:34:54Z",
     "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 12,
-    "updated_at": "2026-10-29T17:40:39Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -302,7 +329,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6557,
-    "updated_at": "2026-10-29T18:30:11Z",
+    "updated_at": "2026-10-29T18:45:19Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 59708,
     "updated_at": "2026-10-29T17:10:14Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-29T16:40:56Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-29T16:35:59Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-10-29T16:33:35Z",
-    "url": "https://github.com/api-evangelist/contentstack"
   }
 ]
