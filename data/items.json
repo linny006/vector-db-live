@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-29T10:45:20Z",
+    "updated_at": "2026-10-29T11:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-29T10:59:35Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
+    "id": "IdoY12/awesome-free-ai-apis",
+    "language": "JavaScript",
+    "name": "IdoY12/awesome-free-ai-apis",
+    "stars": 1,
+    "updated_at": "2026-10-29T10:57:54Z",
+    "url": "https://github.com/IdoY12/awesome-free-ai-apis"
+  },
+  {
+    "description": "Production RAG pipeline for arXiv ML papers: nightly Airflow ingestion, pgvector HNSW search, LLM-as-judge evaluation wi",
+    "id": "dingzehu/arxiv-rag",
+    "language": "Python",
+    "name": "dingzehu/arxiv-rag",
+    "stars": 0,
+    "updated_at": "2026-10-29T10:56:10Z",
+    "url": "https://github.com/dingzehu/arxiv-rag"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6245,
+    "updated_at": "2026-10-29T10:52:55Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": " FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi",
+    "id": "nidhitk/RAG-",
+    "language": "Python",
+    "name": "nidhitk/RAG-",
+    "stars": 1,
+    "updated_at": "2026-10-29T10:52:15Z",
+    "url": "https://github.com/nidhitk/RAG-"
+  },
+  {
+    "description": "Embedded vector database in Rust: HNSW, SIMD kernels (AVX-512/AVX2/NEON), SQ8, mmap snapshots, WAL, gRPC",
+    "id": "monaaoua9/vecdb",
+    "language": "Rust",
+    "name": "monaaoua9/vecdb",
+    "stars": 2,
+    "updated_at": "2026-10-29T10:46:41Z",
+    "url": "https://github.com/monaaoua9/vecdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T10:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-29T10:45:26Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -27,30 +99,12 @@
     "url": "https://github.com/lingxinmind/vecmindb-sdk"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-29T10:41:21Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "Embedded vector database in Rust: HNSW, SIMD kernels (AVX-512/AVX2/NEON), SQ8, mmap snapshots, WAL, gRPC",
-    "id": "monaaoua9/vecdb",
-    "language": "Rust",
-    "name": "monaaoua9/vecdb",
-    "stars": 2,
-    "updated_at": "2026-10-29T10:41:01Z",
-    "url": "https://github.com/monaaoua9/vecdb"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-29T10:39:40Z",
+    "updated_at": "2026-10-29T10:54:57Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-29T10:38:32Z",
+    "updated_at": "2026-10-29T10:47:46Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -95,17 +149,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-29T10:38:28Z",
+    "updated_at": "2026-10-29T11:00:11Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T10:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -115,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T10:30:17Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": " FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi",
-    "id": "nidhitk/RAG-",
-    "language": "Python",
-    "name": "nidhitk/RAG-",
-    "stars": 1,
-    "updated_at": "2026-10-29T10:29:18Z",
-    "url": "https://github.com/nidhitk/RAG-"
   },
   {
     "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
@@ -167,7 +203,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7153,
-    "updated_at": "2026-10-29T10:37:29Z",
+    "updated_at": "2026-10-29T10:57:49Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 6557,
     "updated_at": "2026-10-29T09:48:15Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6245,
-    "updated_at": "2026-10-29T10:42:19Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-10-29T10:33:26Z",
+    "updated_at": "2026-10-29T10:51:32Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59704,
-    "updated_at": "2026-10-29T09:30:32Z",
+    "updated_at": "2026-10-29T10:55:50Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2062,
     "updated_at": "2026-10-29T10:35:53Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Athar is a production-grade AI system designed to help locate missing persons by leveraging state-of-the-art face recogn",
-    "id": "blackeagle686/athar-ai",
-    "language": "CSS",
-    "name": "blackeagle686/athar-ai",
-    "stars": 1,
-    "updated_at": "2026-10-29T09:18:15Z",
-    "url": "https://github.com/blackeagle686/athar-ai"
-  },
-  {
-    "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
-    "id": "yashbhosale789/yashbhosale789",
-    "language": "\u2014",
-    "name": "yashbhosale789/yashbhosale789",
-    "stars": 0,
-    "updated_at": "2026-10-29T09:05:32Z",
-    "url": "https://github.com/yashbhosale789/yashbhosale789"
-  },
-  {
-    "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
-    "id": "kividbio/kividb",
-    "language": "Rust",
-    "name": "kividbio/kividb",
-    "stars": 839,
-    "updated_at": "2026-10-29T09:03:57Z",
-    "url": "https://github.com/kividbio/kividb"
   }
 ]
