@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-29T19:30:22Z",
+    "updated_at": "2026-10-29T19:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Cognitive Engine: Vector Routing, LangGraph Orchestration, RAG Combat Engine with Prompt Injection Defense",
+    "id": "udayraj1238/grid07-cognitive-engine",
+    "language": "Python",
+    "name": "udayraj1238/grid07-cognitive-engine",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:42:45Z",
+    "url": "https://github.com/udayraj1238/grid07-cognitive-engine"
+  },
+  {
+    "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every proje",
+    "id": "duzgunberke/ekip",
+    "language": "JavaScript",
+    "name": "duzgunberke/ekip",
+    "stars": 5,
+    "updated_at": "2026-10-29T19:42:41Z",
+    "url": "https://github.com/duzgunberke/ekip"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11811,
+    "updated_at": "2026-10-29T19:39:49Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-29T19:39:11Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": ".NET package that starts Chroma without Docker on Windows, Linux and macOS.",
+    "id": "ChromaDotNet/ChromaDB.Local",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Local",
+    "stars": 3,
+    "updated_at": "2026-10-29T19:37:44Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Local"
+  },
+  {
+    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
+    "id": "xavidop/tobira",
+    "language": "Go",
+    "name": "xavidop/tobira",
+    "stars": 3,
+    "updated_at": "2026-10-29T19:37:37Z",
+    "url": "https://github.com/xavidop/tobira"
+  },
+  {
+    "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
+    "id": "VecturaDB/VecturaDB",
+    "language": "Rust",
+    "name": "VecturaDB/VecturaDB",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:37:35Z",
+    "url": "https://github.com/VecturaDB/VecturaDB"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-29T19:33:12Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T19:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -16,15 +97,6 @@
     "stars": 26,
     "updated_at": "2026-10-29T19:28:43Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every proje",
-    "id": "duzgunberke/ekip",
-    "language": "TypeScript",
-    "name": "duzgunberke/ekip",
-    "stars": 5,
-    "updated_at": "2026-10-29T19:25:59Z",
-    "url": "https://github.com/duzgunberke/ekip"
   },
   {
     "description": "\u2728 A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.",
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32898,
-    "updated_at": "2026-10-29T19:24:30Z",
+    "updated_at": "2026-10-29T19:36:41Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -86,7 +158,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6557,
-    "updated_at": "2026-10-29T19:19:25Z",
+    "updated_at": "2026-10-29T19:40:50Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -95,17 +167,8 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-29T19:16:16Z",
+    "updated_at": "2026-10-29T19:44:45Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T19:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "API platform info for database",
@@ -126,15 +189,6 @@
     "url": "https://github.com/BMC-INC/Iron-mem"
   },
   {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-29T19:28:46Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "A brain for any YouTube channel. Dual-memory RAG \u2014 vector + knowledge graph \u2014 with verified citations and an eval suite.",
     "id": "django18/channel-brain",
     "language": "TypeScript",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 41138,
-    "updated_at": "2026-10-29T19:26:37Z",
+    "updated_at": "2026-10-29T19:31:42Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/DemetriusReed2163/commerce-order-vector-ingest"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-29T19:28:34Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
     "id": "sahnsookyung/JobScout",
     "language": "Python",
@@ -187,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T19:00:44Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11811,
-    "updated_at": "2026-10-29T19:20:49Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Journals on learning from daily work",
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-29T17:34:55Z",
     "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
-    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-10-29T17:34:54Z",
-    "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 6,
-    "updated_at": "2026-10-29T17:28:11Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-29T17:26:05Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "All-in-one, pure-python, embedded database for relational data, documents, vectors, graphs, and events based on SQlite.",
-    "id": "syalia-srl/beaver",
-    "language": "Python",
-    "name": "syalia-srl/beaver",
-    "stars": 37,
-    "updated_at": "2026-10-29T17:23:29Z",
-    "url": "https://github.com/syalia-srl/beaver"
   }
 ]
