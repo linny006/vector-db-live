@@ -1,12 +1,57 @@
 [
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T14:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-29T14:45:24Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "autonomous developer orchestration with python. now has hierarchical RAG using vector databases",
+    "id": "samettemizer/nesti",
+    "language": "Python",
+    "name": "samettemizer/nesti",
+    "stars": 4,
+    "updated_at": "2026-10-29T14:43:50Z",
+    "url": "https://github.com/samettemizer/nesti"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
     "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7153,
-    "updated_at": "2026-10-29T14:30:02Z",
-    "url": "https://github.com/vespa-engine/vespa"
+    "name": "ArcadeData/arcadedb",
+    "stars": 1226,
+    "updated_at": "2026-10-29T14:41:17Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 3,
+    "updated_at": "2026-10-29T14:40:12Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-29T14:39:27Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
@@ -14,8 +59,44 @@
     "language": "Go",
     "name": "raman20/freshdb",
     "stars": 0,
-    "updated_at": "2026-10-29T14:30:01Z",
+    "updated_at": "2026-10-29T14:39:18Z",
     "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7153,
+    "updated_at": "2026-10-29T14:37:19Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 7,
+    "updated_at": "2026-10-29T14:43:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32888,
+    "updated_at": "2026-10-29T14:34:56Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T14:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -45,15 +126,6 @@
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 7,
-    "updated_at": "2026-10-29T14:29:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
     "id": "weaviate/docs",
     "language": "Python",
@@ -61,15 +133,6 @@
     "stars": 20,
     "updated_at": "2026-10-29T14:24:31Z",
     "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 3,
-    "updated_at": "2026-10-29T14:26:49Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -97,33 +160,6 @@
     "stars": 6,
     "updated_at": "2026-10-29T14:19:25Z",
     "url": "https://github.com/Polign/recall"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32889,
-    "updated_at": "2026-10-29T14:17:02Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T14:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T14:30:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -158,7 +194,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4449,
-    "updated_at": "2026-10-29T14:27:08Z",
+    "updated_at": "2026-10-29T14:44:56Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-29T14:26:02Z",
+    "updated_at": "2026-10-29T14:44:12Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 46526,
     "updated_at": "2026-10-29T14:24:07Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-29T14:17:11Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-29T14:04:46Z",
+    "updated_at": "2026-10-29T14:35:07Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 140,
-    "updated_at": "2026-10-29T13:18:32Z",
+    "updated_at": "2026-10-29T14:30:28Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -304,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T13:43:05Z",
     "url": "https://github.com/recerndata/recern-vector"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1226,
-    "updated_at": "2026-10-29T14:25:08Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 2056,
-    "updated_at": "2026-10-29T12:34:52Z",
+    "updated_at": "2026-10-29T14:39:38Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8475,
-    "updated_at": "2026-10-29T13:41:07Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "RAG study assistant: chat with course PDFs in Hebrew or English, get page-cited answers, and generate practice quizzes. ",
-    "id": "Doran1690/study-buddy",
-    "language": "Python",
-    "name": "Doran1690/study-buddy",
-    "stars": 0,
-    "updated_at": "2026-10-29T12:17:12Z",
-    "url": "https://github.com/Doran1690/study-buddy"
   }
 ]
