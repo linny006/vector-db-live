@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Memory substrate and agent runtime for AI systems that have to be trusted \u2014 grounded facts and simulated hypotheses neve",
+    "id": "bythewayz66-glitch/mem20",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T05:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "bythewayz66-glitch/mem20",
+    "stars": 1,
+    "updated_at": "2026-10-29T05:59:43Z",
+    "url": "https://github.com/bythewayz66-glitch/mem20"
   },
   {
     "description": " Cognitive Memory Architecture for Agents",
@@ -14,8 +14,62 @@
     "language": "Rust",
     "name": "Cognilogical/NeuroStrata",
     "stars": 6,
-    "updated_at": "2026-10-29T05:44:00Z",
+    "updated_at": "2026-10-29T05:59:26Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11804,
+    "updated_at": "2026-10-29T05:56:27Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-29T05:52:05Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 41084,
+    "updated_at": "2026-10-29T05:46:59Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1225,
+    "updated_at": "2026-10-29T05:46:18Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T05:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T06:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
@@ -32,17 +86,8 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 278,
-    "updated_at": "2026-10-29T05:41:33Z",
+    "updated_at": "2026-10-29T05:54:22Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T05:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 2053,
-    "updated_at": "2026-10-29T05:41:37Z",
+    "updated_at": "2026-10-29T05:47:20Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -63,15 +108,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11804,
-    "updated_at": "2026-10-29T05:13:00Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Finds repeat defects by meaning and tells you whether to fix the process or coach the people. Streamlit, SQLite, ChromaD",
     "id": "shridhar102-ai/Repeat-Defect-Registry",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T05:12:47Z",
     "url": "https://github.com/shridhar102-ai/Repeat-Defect-Registry"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 41080,
-    "updated_at": "2026-10-29T05:12:29Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
@@ -122,7 +149,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-29T05:27:33Z",
+    "updated_at": "2026-10-29T05:47:05Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46518,
-    "updated_at": "2026-10-29T05:38:11Z",
+    "updated_at": "2026-10-29T05:57:08Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -230,7 +257,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-29T05:30:35Z",
+    "updated_at": "2026-10-29T05:52:33Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -293,7 +320,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 291,
-    "updated_at": "2026-10-29T03:58:04Z",
+    "updated_at": "2026-10-29T05:56:08Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -360,15 +387,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1225,
-    "updated_at": "2026-10-29T05:41:08Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -423,15 +441,6 @@
     "url": "https://github.com/LiuSunshine1223/Agent-Memory"
   },
   {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-29T05:38:45Z",
-    "url": "https://github.com/eggspot/EggDB"
-  },
-  {
     "description": "Run the Semurg benchmark comparisons on your own machine: one command, the same questions and data for every engine, ans",
     "id": "One-Semurg/Semurg-Benchmark-Suite",
     "language": "Shell",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T02:34:51Z",
     "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 389,
-    "updated_at": "2026-10-29T02:33:48Z",
-    "url": "https://github.com/zilliztech/knowhere"
   }
 ]
