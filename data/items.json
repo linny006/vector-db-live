@@ -1,12 +1,57 @@
 [
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32890,
-    "updated_at": "2026-10-29T15:29:04Z",
-    "url": "https://github.com/topoteretes/cognee"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T15:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1226,
+    "updated_at": "2026-10-29T15:44:40Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4449,
+    "updated_at": "2026-10-29T15:44:59Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 100,
+    "updated_at": "2026-10-29T15:42:49Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59707,
+    "updated_at": "2026-10-29T15:40:58Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13322,
+    "updated_at": "2026-10-29T15:40:38Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -14,8 +59,62 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 7,
-    "updated_at": "2026-10-29T15:29:56Z",
+    "updated_at": "2026-10-29T15:44:25Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6558,
+    "updated_at": "2026-10-29T15:39:06Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
+    "id": "ashraful2871/Salon-Management-Frontend",
+    "language": "TypeScript",
+    "name": "ashraful2871/Salon-Management-Frontend",
+    "stars": 0,
+    "updated_at": "2026-10-29T15:37:59Z",
+    "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
+  },
+  {
+    "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every proje",
+    "id": "duzgunberke/ekip",
+    "language": "TypeScript",
+    "name": "duzgunberke/ekip",
+    "stars": 0,
+    "updated_at": "2026-10-29T15:34:42Z",
+    "url": "https://github.com/duzgunberke/ekip"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9458,
+    "updated_at": "2026-10-29T15:33:38Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T15:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32891,
+    "updated_at": "2026-10-29T15:29:04Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
@@ -81,39 +180,12 @@
     "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T15:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T15:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Turn one Claude Code session into a team lead: Claude plans and reviews, agents on other quotas do the work, every proje",
-    "id": "duzgunberke/ekip",
-    "language": "TypeScript",
-    "name": "duzgunberke/ekip",
-    "stars": 0,
-    "updated_at": "2026-10-29T15:08:23Z",
-    "url": "https://github.com/duzgunberke/ekip"
-  },
-  {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41124,
-    "updated_at": "2026-10-29T15:05:43Z",
+    "stars": 41125,
+    "updated_at": "2026-10-29T15:34:18Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-29T15:05:16Z",
+    "updated_at": "2026-10-29T15:40:34Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -162,15 +234,6 @@
     "url": "https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59706,
-    "updated_at": "2026-10-29T15:03:21Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
@@ -187,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-10-29T14:43:50Z",
     "url": "https://github.com/samettemizer/nesti"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1226,
-    "updated_at": "2026-10-29T15:23:21Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -243,15 +297,6 @@
     "url": "https://github.com/weaviate/docs"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 100,
-    "updated_at": "2026-10-29T14:27:55Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Testcontainers for .NET module for Chroma.",
     "id": "ChromaDotNet/ChromaDB.Testcontainers",
     "language": "C#",
@@ -286,15 +331,6 @@
     "stars": 2062,
     "updated_at": "2026-10-29T14:11:24Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4449,
-    "updated_at": "2026-10-29T15:19:12Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -347,17 +383,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-29T15:08:11Z",
+    "updated_at": "2026-10-29T15:42:47Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6557,
-    "updated_at": "2026-10-29T15:28:01Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Vector database compatible with the Chroma API, bringing Chroma Cloud's features to open source.",
@@ -367,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T13:31:07Z",
     "url": "https://github.com/VecturaDB/VecturaDB"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13322,
-    "updated_at": "2026-10-29T13:30:54Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
@@ -392,7 +410,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 140,
-    "updated_at": "2026-10-29T14:30:28Z",
+    "updated_at": "2026-10-29T15:39:34Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-29T13:03:11Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Agentic RAG for GitHub repos: answers what/where/how/why questions about a codebase, citing code, commits, issues and PR",
-    "id": "affan-h/repo-assist",
-    "language": "Python",
-    "name": "affan-h/repo-assist",
-    "stars": 0,
-    "updated_at": "2026-10-29T12:58:04Z",
-    "url": "https://github.com/affan-h/repo-assist"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-29T12:53:08Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
