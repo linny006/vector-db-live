@@ -1,5 +1,41 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-29T11:14:55Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6245,
+    "updated_at": "2026-10-29T11:14:39Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Every database, one terminal. A CLI and terminal UI to browse, query and explain SQL, document, key-value, time-series a",
+    "id": "xavidop/tobira",
+    "language": "Go",
+    "name": "xavidop/tobira",
+    "stars": 3,
+    "updated_at": "2026-10-29T11:05:11Z",
+    "url": "https://github.com/xavidop/tobira"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T11:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "PLpgSQL",
     "name": "Percolation-Labs/percolate",
     "stars": 60,
-    "updated_at": "2026-10-29T10:59:35Z",
+    "updated_at": "2026-10-29T11:01:30Z",
     "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
@@ -36,15 +72,6 @@
     "url": "https://github.com/dingzehu/arxiv-rag"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6245,
-    "updated_at": "2026-10-29T10:52:55Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": " FastAPI-based RAG documentation assistant that ingests local documents, stores embeddings in Qdrant, and answers questi",
     "id": "nidhitk/RAG-",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T10:46:41Z",
     "url": "https://github.com/monaaoua9/vecdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T10:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -113,7 +131,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 1,
-    "updated_at": "2026-10-29T10:47:46Z",
+    "updated_at": "2026-10-29T11:14:32Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-29T11:00:11Z",
+    "updated_at": "2026-10-29T11:02:28Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7153,
-    "updated_at": "2026-10-29T10:57:49Z",
+    "updated_at": "2026-10-29T11:01:16Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -211,7 +229,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41109,
+    "stars": 41110,
     "updated_at": "2026-10-29T10:17:05Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -234,12 +252,21 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 26,
+    "updated_at": "2026-10-29T10:12:02Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8475,
-    "updated_at": "2026-10-29T10:30:08Z",
+    "updated_at": "2026-10-29T11:09:31Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32884,
-    "updated_at": "2026-10-29T09:38:58Z",
+    "updated_at": "2026-10-29T11:04:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-29T09:21:23Z",
     "url": "https://github.com/jvorndran/RAG-Visualizer"
-  },
-  {
-    "description": "Official OriginChainDB Go SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
-    "id": "originchaindb/originchaindb-go",
-    "language": "Python",
-    "name": "originchaindb/originchaindb-go",
-    "stars": 0,
-    "updated_at": "2026-10-29T09:21:10Z",
-    "url": "https://github.com/originchaindb/originchaindb-go"
-  },
-  {
-    "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
-    "id": "originchaindb/originchaindb",
-    "language": "TypeScript",
-    "name": "originchaindb/originchaindb",
-    "stars": 0,
-    "updated_at": "2026-10-29T09:20:50Z",
-    "url": "https://github.com/originchaindb/originchaindb"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2062,
-    "updated_at": "2026-10-29T10:35:53Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
