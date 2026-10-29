@@ -1,12 +1,30 @@
 [
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 67708,
-    "updated_at": "2026-10-29T18:59:50Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
+    "description": "API platform info for database",
+    "id": "api-evangelist/database",
+    "language": "HTML",
+    "name": "api-evangelist/database",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:14:22Z",
+    "url": "https://github.com/api-evangelist/database"
+  },
+  {
+    "description": "Persistent, source-backed memory for AI coding assistants. Local-first Rust CLI, MCP server, REST API, and governed retr",
+    "id": "BMC-INC/Iron-mem",
+    "language": "Rust",
+    "name": "BMC-INC/Iron-mem",
+    "stars": 5,
+    "updated_at": "2026-10-29T19:11:51Z",
+    "url": "https://github.com/BMC-INC/Iron-mem"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-29T19:11:39Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
   },
   {
     "description": "A brain for any YouTube channel. Dual-memory RAG \u2014 vector + knowledge graph \u2014 with verified citations and an eval suite.",
@@ -14,17 +32,71 @@
     "language": "TypeScript",
     "name": "django18/channel-brain",
     "stars": 0,
-    "updated_at": "2026-10-29T18:58:20Z",
+    "updated_at": "2026-10-29T19:10:39Z",
     "url": "https://github.com/django18/channel-brain"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13323,
+    "updated_at": "2026-10-29T19:12:21Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "A typed service that embeds event-shaped commerce order chunks and writes them to a vector collection.",
+    "id": "DemetriusReed2163/commerce-order-vector-ingest",
+    "language": "TypeScript",
+    "name": "DemetriusReed2163/commerce-order-vector-ingest",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:08:12Z",
+    "url": "https://github.com/DemetriusReed2163/commerce-order-vector-ingest"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
     "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11811,
-    "updated_at": "2026-10-29T18:55:33Z",
-    "url": "https://github.com/lancedb/lancedb"
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-29T19:06:54Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 67709,
+    "updated_at": "2026-10-29T19:04:44Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-29T19:03:34Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-10-29T19:00:44Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T19:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -36,6 +108,15 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11811,
+    "updated_at": "2026-10-29T18:55:33Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "Journals on learning from daily work",
     "id": "ksankeerth/fde-diary",
     "language": "Python",
@@ -45,21 +126,12 @@
     "url": "https://github.com/ksankeerth/fde-diary"
   },
   {
-    "description": "Persistent, source-backed memory for AI coding assistants. Local-first Rust CLI, MCP server, REST API, and governed retr",
-    "id": "BMC-INC/Iron-mem",
-    "language": "Rust",
-    "name": "BMC-INC/Iron-mem",
-    "stars": 5,
-    "updated_at": "2026-10-29T18:53:11Z",
-    "url": "https://github.com/BMC-INC/Iron-mem"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 32898,
-    "updated_at": "2026-10-29T18:57:51Z",
+    "updated_at": "2026-10-29T19:10:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -72,24 +144,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:58:21Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-29T18:52:49Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
     "description": "Deploy Chroma 1.5.9 or VecturaDB in your own cloud, with HTTPS: templates for Azure (a VM or Container Apps) and for AWS",
     "id": "VecturaDB/VecturaDB.Deploy",
     "language": "Bicep",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T18:45:47Z",
     "url": "https://github.com/VecturaDB/VecturaDB.Deploy"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -124,6 +169,15 @@
     "stars": 100,
     "updated_at": "2026-10-29T18:56:52Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 35312,
+    "updated_at": "2026-10-29T18:42:49Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Couchbase integration with LangChain",
@@ -153,24 +207,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 35311,
-    "updated_at": "2026-10-29T18:42:49Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-10-29T18:54:21Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -193,7 +229,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 30106,
+    "stars": 30107,
     "updated_at": "2026-10-29T18:28:39Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -220,7 +256,7 @@
     "id": "duzgunberke/ekip",
     "language": "TypeScript",
     "name": "duzgunberke/ekip",
-    "stars": 3,
+    "stars": 5,
     "updated_at": "2026-10-29T18:22:07Z",
     "url": "https://github.com/duzgunberke/ekip"
   },
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 41136,
-    "updated_at": "2026-10-29T18:16:24Z",
+    "updated_at": "2026-10-29T19:09:47Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9458,
-    "updated_at": "2026-10-29T18:56:16Z",
+    "updated_at": "2026-10-29T19:12:25Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -274,7 +310,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 6250,
+    "stars": 6251,
     "updated_at": "2026-10-29T17:59:48Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T17:53:03Z",
     "url": "https://github.com/ihrimon/ai-engineering-journey"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-29T18:54:05Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
@@ -383,17 +410,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6557,
-    "updated_at": "2026-10-29T18:53:23Z",
+    "updated_at": "2026-10-29T19:08:43Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13322,
-    "updated_at": "2026-10-29T18:13:11Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Run the Semurg benchmark comparisons on your own machine: one command, the same questions and data for every engine, ans",
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6245,
-    "updated_at": "2026-10-29T18:59:40Z",
+    "updated_at": "2026-10-29T19:11:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -428,25 +446,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8477,
-    "updated_at": "2026-10-29T18:46:17Z",
+    "updated_at": "2026-10-29T19:05:25Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-29T17:08:59Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-10-29T17:08:25Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
   }
 ]
