@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u9762\u5411\u5bf9\u8bdd\u667a\u80fd\u4f53\u7684\u957f\u671f\u8bb0\u5fc6\u7cfb\u7edf\uff0c\u652f\u6301\u7ed3\u6784\u5316\u4e8b\u5b9e\u63d0\u53d6\u3001\u6388\u6743\u4fdd\u5b58\u3001\u8bb0\u5fc6\u7248\u672c\u7ba1\u7406\u4e0e\u8de8\u4f1a\u8bdd\u68c0\u7d22\u3002",
+    "id": "LiuSunshine1223/Agent-Memory",
+    "language": "Python",
+    "name": "LiuSunshine1223/Agent-Memory",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:48:42Z",
+    "url": "https://github.com/LiuSunshine1223/Agent-Memory"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-29T02:46:35Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11803,
+    "updated_at": "2026-10-29T02:45:37Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T02:45:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T02:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
     "id": "eggspot/EggDB",
     "language": "Rust",
@@ -43,24 +88,6 @@
     "stars": 278,
     "updated_at": "2026-10-29T02:34:06Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T02:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T02:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Sovereign, local-first personal AI desktop OS. Zero-egress multi-agent intelligence powered by Ollama, continuous episte",
@@ -112,8 +139,8 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41073,
-    "updated_at": "2026-10-29T02:10:34Z",
+    "stars": 41074,
+    "updated_at": "2026-10-29T02:48:56Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -160,24 +187,6 @@
     "stars": 1225,
     "updated_at": "2026-10-29T01:54:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11803,
-    "updated_at": "2026-10-29T02:15:10Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-29T02:35:32Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "RAG chatbot that answers company-policy questions from a PDF handbook with cited sources \u2014 Next.js, Supabase pgvector, G",
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "darylalim/rag-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-29T02:42:56Z",
+    "updated_at": "2026-10-29T02:53:07Z",
     "url": "https://github.com/darylalim/rag-pipeline"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T22:43:12Z",
     "url": "https://github.com/Kingflow-23/RepWise"
-  },
-  {
-    "description": "Namespace-scoped, token-authenticated shared memory for AI coding agents. Self-hosted on Postgres (embedded by default).",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 4,
-    "updated_at": "2026-10-29T01:36:53Z",
-    "url": "https://github.com/thameema/memnos"
   }
 ]
