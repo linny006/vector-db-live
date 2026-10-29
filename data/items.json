@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T09:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-29T09:30:19Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11807,
+    "updated_at": "2026-10-29T09:29:23Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
+    "id": "originchaindb/originchaindb-ruby",
+    "language": "Ruby",
+    "name": "originchaindb/originchaindb-ruby",
+    "stars": 0,
+    "updated_at": "2026-10-29T09:27:59Z",
+    "url": "https://github.com/originchaindb/originchaindb-ruby"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-29T09:29:19Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 41105,
+    "updated_at": "2026-10-29T09:23:39Z",
+    "url": "https://github.com/volcengine/OpenViking"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T09:23:07Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -72,15 +135,6 @@
     "url": "https://github.com/originchaindb/originchaindb-go"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-29T09:20:52Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Official OriginChainDB TypeScript and JavaScript SDK. SQL, vector search, full-text search, and graph queries. Tested Gi",
     "id": "originchaindb/originchaindb",
     "language": "TypeScript",
@@ -113,35 +167,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-29T09:16:29Z",
+    "updated_at": "2026-10-29T09:23:38Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T09:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T09:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 41104,
-    "updated_at": "2026-10-29T09:20:11Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -158,17 +185,8 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 278,
-    "updated_at": "2026-10-29T09:12:45Z",
+    "updated_at": "2026-10-29T09:24:40Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11807,
-    "updated_at": "2026-10-29T09:06:59Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "AI/ML Engineer portfolio showcasing projects in Generative AI, RAG, Agentic AI, LLM applications, and open-source AI eng",
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6245,
-    "updated_at": "2026-10-29T09:20:40Z",
+    "updated_at": "2026-10-29T09:29:56Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -239,7 +257,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-29T08:50:00Z",
+    "updated_at": "2026-10-29T09:26:22Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7152,
-    "updated_at": "2026-10-29T08:45:52Z",
+    "updated_at": "2026-10-29T09:29:54Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-10-29T09:20:01Z",
+    "updated_at": "2026-10-29T09:29:27Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4448,
-    "updated_at": "2026-10-29T09:17:43Z",
+    "updated_at": "2026-10-29T09:26:34Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9487,
-    "updated_at": "2026-10-29T09:21:38Z",
+    "updated_at": "2026-10-29T09:28:28Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -392,7 +410,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-29T08:01:06Z",
+    "updated_at": "2026-10-29T09:27:13Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-29T07:40:12Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
-    "id": "gxc02529-jpg/KnowLoop",
-    "language": "Python",
-    "name": "gxc02529-jpg/KnowLoop",
-    "stars": 0,
-    "updated_at": "2026-10-29T07:34:02Z",
-    "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32879,
-    "updated_at": "2026-10-29T09:14:03Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
