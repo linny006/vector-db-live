@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46526,
+    "updated_at": "2026-10-29T13:56:04Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T13:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-29T13:55:58Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 5,
+    "updated_at": "2026-10-29T13:54:56Z",
+    "url": "https://github.com/tradik/mddb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -14,17 +32,80 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 7,
-    "updated_at": "2026-10-29T13:45:26Z",
+    "updated_at": "2026-10-29T13:57:24Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2411,
+    "updated_at": "2026-10-29T13:51:24Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Typed, durable memory for agents. Rule-based corrections, full history with as-of reads, crash-and-resume. Go + Python +",
+    "id": "Polign/recall",
     "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46526,
-    "updated_at": "2026-10-29T13:40:02Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "name": "Polign/recall",
+    "stars": 6,
+    "updated_at": "2026-10-29T13:50:05Z",
+    "url": "https://github.com/Polign/recall"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4449,
+    "updated_at": "2026-10-29T13:58:52Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "AnythingLLM with Ollama and Let's Encrypt Using Docker Compose: a private RAG on your own host, password required, Ollam",
+    "id": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "language": "Shell",
+    "name": "heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose",
+    "stars": 0,
+    "updated_at": "2026-10-29T13:48:50Z",
+    "url": "https://github.com/heyvaldemar/anythingllm-traefik-letsencrypt-docker-compose"
+  },
+  {
+    "description": "Deterministic evidence about embedding spaces and vector indexes for agents: hubness, anisotropy, collapse, distance con",
+    "id": "076923/vecscope",
+    "language": "Python",
+    "name": "076923/vecscope",
+    "stars": 1,
+    "updated_at": "2026-10-29T13:46:57Z",
+    "url": "https://github.com/076923/vecscope"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9487,
+    "updated_at": "2026-10-29T13:46:37Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T13:45:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T14:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
@@ -36,6 +117,15 @@
     "url": "https://github.com/raman20/freshdb"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32888,
+    "updated_at": "2026-10-29T13:57:39Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Clinical podiatry assistant combining RAG and web search to answer foot-health questions with cited, verifiable sources.",
     "id": "fatma-fendri/PodAI",
     "language": "Python",
@@ -43,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T13:37:02Z",
     "url": "https://github.com/fatma-fendri/PodAI"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4448,
-    "updated_at": "2026-10-29T13:43:59Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -81,24 +162,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32886,
-    "updated_at": "2026-10-29T13:38:14Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T13:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A fast, multi-threaded Redis\u00ae and Valkey alternative written in Rust: drop-in compatible, with full-text and vector sear",
     "id": "kividbio/kividb",
     "language": "Rust",
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "volcengine/OpenViking",
     "stars": 41119,
-    "updated_at": "2026-10-29T13:26:43Z",
+    "updated_at": "2026-10-29T13:45:44Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
   {
@@ -140,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1226,
-    "updated_at": "2026-10-29T13:37:57Z",
+    "updated_at": "2026-10-29T13:59:39Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -171,15 +234,6 @@
     "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2411,
-    "updated_at": "2026-10-29T13:12:31Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "a retrieval-augmented  generation system that answers Persian-language technical/programming questions  by retrieving fr",
     "id": "mjmajlesi/Persian-Technical-RAG",
     "language": "Python",
@@ -203,7 +257,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 100,
-    "updated_at": "2026-10-29T13:06:54Z",
+    "updated_at": "2026-10-29T13:53:38Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 71,
-    "updated_at": "2026-10-29T12:46:21Z",
+    "updated_at": "2026-10-29T13:50:57Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/joydeep-07/Lens-LM"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-29T13:32:18Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-10-29T11:49:11Z",
+    "updated_at": "2026-10-29T13:53:51Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T11:43:20Z",
     "url": "https://github.com/ashishpatel26/Self-Evolving-Ai-Agent-Team-Harness"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 88,
-    "updated_at": "2026-10-29T12:59:02Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Spring Data Reindexer",
-    "id": "evgeniycheban/spring-data-reindexer",
-    "language": "Java",
-    "name": "evgeniycheban/spring-data-reindexer",
-    "stars": 24,
-    "updated_at": "2026-10-29T11:40:10Z",
-    "url": "https://github.com/evgeniycheban/spring-data-reindexer"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-10-29T11:26:25Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59706,
-    "updated_at": "2026-10-29T11:24:03Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6245,
-    "updated_at": "2026-10-29T13:24:22Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   }
 ]
