@@ -1,21 +1,30 @@
 [
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-29T09:59:33Z",
-    "url": "https://github.com/GiulioDER/RE-call"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T10:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 140,
-    "updated_at": "2026-10-29T09:58:53Z",
-    "url": "https://github.com/infino-ai/infino"
+    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
+    "id": "lingxinmind/vecmindb-sdk",
+    "language": "Makefile",
+    "name": "lingxinmind/vecmindb-sdk",
+    "stars": 1,
+    "updated_at": "2026-10-29T10:15:14Z",
+    "url": "https://github.com/lingxinmind/vecmindb-sdk"
+  },
+  {
+    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "id": "volcengine/OpenViking",
+    "language": "Python",
+    "name": "volcengine/OpenViking",
+    "stars": 41108,
+    "updated_at": "2026-10-29T10:13:31Z",
+    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -23,8 +32,71 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 6,
-    "updated_at": "2026-10-29T09:54:48Z",
+    "updated_at": "2026-10-29T10:12:44Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 140,
+    "updated_at": "2026-10-29T10:12:34Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11807,
+    "updated_at": "2026-10-29T10:10:53Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-29T10:09:09Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-29T10:13:55Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-29T10:03:15Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T10:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8475,
+    "updated_at": "2026-10-29T09:53:56Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "TalaDB - An open-source embedded vector and document database for building local-first AI applications.",
@@ -34,15 +106,6 @@
     "stars": 68,
     "updated_at": "2026-10-29T09:53:53Z",
     "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "id": "volcengine/OpenViking",
-    "language": "Python",
-    "name": "volcengine/OpenViking",
-    "stars": 41107,
-    "updated_at": "2026-10-29T09:51:22Z",
-    "url": "https://github.com/volcengine/OpenViking"
   },
   {
     "description": "Hands-on GenAI projects learning with LangChain: chatbots, RAG pipelines, and AI agents. Built while learning LLM engine",
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6245,
-    "updated_at": "2026-10-29T09:57:26Z",
+    "updated_at": "2026-10-29T10:13:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -77,26 +140,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46523,
-    "updated_at": "2026-10-29T09:45:56Z",
+    "updated_at": "2026-10-29T10:07:17Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T09:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T09:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "10xGraph/10xGraph",
     "stars": 28,
-    "updated_at": "2026-10-29T09:54:43Z",
+    "updated_at": "2026-10-29T10:00:27Z",
     "url": "https://github.com/10xGraph/10xGraph"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 88,
     "updated_at": "2026-10-29T09:39:52Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-29T09:54:02Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -184,7 +220,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59703,
+    "stars": 59704,
     "updated_at": "2026-10-29T09:30:32Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -196,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T09:30:19Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11807,
-    "updated_at": "2026-10-29T09:44:08Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Official OriginChainDB Ruby SDK. SQL, vector search, full-text search, and graph queries. Tested GitHub preview.",
@@ -328,7 +355,7 @@
     "id": "kividbio/kividb",
     "language": "Rust",
     "name": "kividbio/kividb",
-    "stars": 837,
+    "stars": 838,
     "updated_at": "2026-10-29T09:03:57Z",
     "url": "https://github.com/kividbio/kividb"
   },
@@ -383,7 +410,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7152,
-    "updated_at": "2026-10-29T09:31:02Z",
+    "updated_at": "2026-10-29T10:05:03Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4448,
-    "updated_at": "2026-10-29T09:37:50Z",
+    "updated_at": "2026-10-29T10:12:19Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-29T08:30:39Z",
     "url": "https://github.com/GenAIwithMS/OpenGPT"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 1,
-    "updated_at": "2026-10-29T08:30:14Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16927,
-    "updated_at": "2026-10-29T10:00:09Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Benchmark for vector databases.",
-    "id": "zilliztech/VectorDBBench",
-    "language": "Python",
-    "name": "zilliztech/VectorDBBench",
-    "stars": 1197,
-    "updated_at": "2026-10-29T08:23:54Z",
-    "url": "https://github.com/zilliztech/VectorDBBench"
   }
 ]
