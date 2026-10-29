@@ -1,12 +1,30 @@
 [
   {
-    "description": "Sovereign, local-first personal AI desktop OS. Zero-egress multi-agent intelligence powered by Ollama, continuous episte",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 2,
-    "updated_at": "2026-10-29T02:30:11Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
+    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
+    "id": "eggspot/EggDB",
+    "language": "Rust",
+    "name": "eggspot/EggDB",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:38:47Z",
+    "url": "https://github.com/eggspot/EggDB"
+  },
+  {
+    "description": "Run the Semurg benchmark comparisons on your own machine: one command, the same questions and data for every engine, ans",
+    "id": "One-Semurg/Semurg-Benchmark-Suite",
+    "language": "Shell",
+    "name": "One-Semurg/Semurg-Benchmark-Suite",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:34:51Z",
+    "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 389,
+    "updated_at": "2026-10-29T02:33:48Z",
+    "url": "https://github.com/zilliztech/knowhere"
   },
   {
     "description": "Lens LM is an AI powered document assistant that combines Retrieval Augmented Generation (RAG) with Open AI powered LLMs",
@@ -14,8 +32,44 @@
     "language": "JavaScript",
     "name": "joydeep-07/Lens-LM",
     "stars": 1,
-    "updated_at": "2026-10-29T02:28:53Z",
+    "updated_at": "2026-10-29T02:30:48Z",
     "url": "https://github.com/joydeep-07/Lens-LM"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 278,
+    "updated_at": "2026-10-29T02:34:06Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T02:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T02:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Sovereign, local-first personal AI desktop OS. Zero-egress multi-agent intelligence powered by Ollama, continuous episte",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 2,
+    "updated_at": "2026-10-29T02:30:11Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -32,17 +86,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46515,
-    "updated_at": "2026-10-29T02:24:03Z",
+    "updated_at": "2026-10-29T02:42:53Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 278,
-    "updated_at": "2026-10-29T02:23:42Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-10-29T02:21:59Z",
+    "updated_at": "2026-10-29T02:37:57Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -61,24 +106,6 @@
     "stars": 6,
     "updated_at": "2026-10-29T02:20:33Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T02:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T02:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-29T02:26:23Z",
+    "updated_at": "2026-10-29T02:35:32Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9456,
-    "updated_at": "2026-10-29T02:28:15Z",
+    "updated_at": "2026-10-29T02:44:21Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 472,
     "updated_at": "2026-10-29T01:11:46Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "All-in-one database written from scratch in Rust: SQL (PostgreSQL, SQL Server, MySQL, Oracle, SQLite dialects), cache, s",
-    "id": "eggspot/EggDB",
-    "language": "Rust",
-    "name": "eggspot/EggDB",
-    "stars": 0,
-    "updated_at": "2026-10-29T02:29:20Z",
-    "url": "https://github.com/eggspot/EggDB"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6557,
-    "updated_at": "2026-10-29T00:14:00Z",
+    "updated_at": "2026-10-29T02:39:00Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -319,7 +337,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 32869,
+    "stars": 32870,
     "updated_at": "2026-10-28T23:42:09Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -360,15 +378,6 @@
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 389,
-    "updated_at": "2026-10-28T23:17:48Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "darylalim/rag-pipeline",
     "stars": 0,
-    "updated_at": "2026-10-28T23:35:26Z",
+    "updated_at": "2026-10-29T02:42:56Z",
     "url": "https://github.com/darylalim/rag-pipeline"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-29T01:36:53Z",
     "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 39881,
-    "updated_at": "2026-10-28T22:35:39Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   }
 ]
