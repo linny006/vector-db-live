@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-29T18:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:14:25Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+  },
+  {
+    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
+    "id": "Percolation-Labs/percolate",
+    "language": "PLpgSQL",
+    "name": "Percolation-Labs/percolate",
+    "stars": 60,
+    "updated_at": "2026-10-29T18:14:24Z",
+    "url": "https://github.com/Percolation-Labs/percolate"
+  },
+  {
+    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
+    "id": "raman20/freshdb",
+    "language": "Go",
+    "name": "raman20/freshdb",
+    "stars": 0,
+    "updated_at": "2026-10-29T18:13:12Z",
+    "url": "https://github.com/raman20/freshdb"
+  },
+  {
+    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
+    "id": "datris/datris-platform-oss",
+    "language": "Scala",
+    "name": "datris/datris-platform-oss",
+    "stars": 13,
+    "updated_at": "2026-10-29T18:11:26Z",
+    "url": "https://github.com/datris/datris-platform-oss"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 1,
+    "updated_at": "2026-10-29T18:14:26Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 39889,
+    "updated_at": "2026-10-29T18:09:29Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9458,
+    "updated_at": "2026-10-29T18:08:49Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 7,
+    "updated_at": "2026-10-29T18:14:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 32895,
+    "updated_at": "2026-10-29T18:11:36Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-10-29T18:01:03Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-29T18:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -14,7 +122,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11811,
-    "updated_at": "2026-10-29T17:59:12Z",
+    "updated_at": "2026-10-29T18:14:16Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -36,67 +144,13 @@
     "url": "https://github.com/ihrimon/ai-engineering-journey"
   },
   {
-    "description": "One log. Every data model. KV, streams, documents, vectors and transactions as lenses over a single object-storage-nativ",
-    "id": "raman20/freshdb",
-    "language": "Go",
-    "name": "raman20/freshdb",
-    "stars": 0,
-    "updated_at": "2026-10-29T17:52:35Z",
-    "url": "https://github.com/raman20/freshdb"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 1,
-    "updated_at": "2026-10-29T17:58:45Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-29T17:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Couchbase integration with LangChain",
     "id": "Couchbase-Ecosystem/langchain-couchbase",
     "language": "Python",
     "name": "Couchbase-Ecosystem/langchain-couchbase",
     "stars": 4,
-    "updated_at": "2026-10-29T17:43:55Z",
+    "updated_at": "2026-10-29T18:10:02Z",
     "url": "https://github.com/Couchbase-Ecosystem/langchain-couchbase"
-  },
-  {
-    "description": "An AI workflow engine and agent memory inside Postgres: the extension (SQL and Rust) and percolate-core. Install with ge",
-    "id": "Percolation-Labs/percolate",
-    "language": "PLpgSQL",
-    "name": "Percolation-Labs/percolate",
-    "stars": 60,
-    "updated_at": "2026-10-29T17:52:37Z",
-    "url": "https://github.com/Percolation-Labs/percolate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 7,
-    "updated_at": "2026-10-29T17:44:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -130,7 +184,7 @@
     "id": "volcengine/OpenViking",
     "language": "Python",
     "name": "volcengine/OpenViking",
-    "stars": 41133,
+    "stars": 41135,
     "updated_at": "2026-10-29T17:38:28Z",
     "url": "https://github.com/volcengine/OpenViking"
   },
@@ -221,7 +275,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13322,
-    "updated_at": "2026-10-29T17:56:13Z",
+    "updated_at": "2026-10-29T18:13:11Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6245,
-    "updated_at": "2026-10-29T17:48:25Z",
+    "updated_at": "2026-10-29T18:12:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -250,6 +304,15 @@
     "stars": 2161,
     "updated_at": "2026-10-29T17:30:46Z",
     "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8477,
+    "updated_at": "2026-10-29T17:10:41Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -268,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T17:08:25Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 32893,
-    "updated_at": "2026-10-29T17:56:01Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Go Client for CyborgDB: The Encrypted Vector Database",
@@ -365,17 +419,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1226,
-    "updated_at": "2026-10-29T17:59:56Z",
+    "updated_at": "2026-10-29T18:04:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
-    "id": "datris/datris-platform-oss",
-    "language": "Scala",
-    "name": "datris/datris-platform-oss",
-    "stars": 13,
-    "updated_at": "2026-10-29T17:57:43Z",
-    "url": "https://github.com/datris/datris-platform-oss"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "lynvera-ai/ragparity",
     "stars": 0,
-    "updated_at": "2026-10-29T16:15:14Z",
+    "updated_at": "2026-10-29T18:08:39Z",
     "url": "https://github.com/lynvera-ai/ragparity"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 7153,
     "updated_at": "2026-10-29T16:11:50Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 389,
-    "updated_at": "2026-10-29T16:07:53Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4449,
-    "updated_at": "2026-10-29T16:45:51Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2412,
-    "updated_at": "2026-10-29T16:02:45Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "\u7ec8\u6781 RP (ZhongJi RP) - \u4e13\u4e3a\u73b0\u4ee3\u5927\u8bed\u8a00\u6a21\u578b\u6253\u9020\u7684\u8f7b\u91cf\u6c89\u6d78\u5f0f\u7aef\u4fa7\u5b89\u5353\u5ba2\u6237\u7aef / Next-gen Mobile Roleplay & Chat Client",
-    "id": "hufengjuexue/zhongji",
-    "language": "Kotlin",
-    "name": "hufengjuexue/zhongji",
-    "stars": 2,
-    "updated_at": "2026-10-29T15:58:56Z",
-    "url": "https://github.com/hufengjuexue/zhongji"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8476,
-    "updated_at": "2026-10-29T17:10:41Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
